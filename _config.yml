@@ -1,0 +1,14 @@
+# https://nicolas-van.github.io/easy-markdown-to-github-pages/
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - content/Labs.md
+  - content/Datasets.md
+  - content/Physical.md
+  - content/3D-Representations.md
+  - content/Synthesis&Forensic
