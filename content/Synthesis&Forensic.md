@@ -83,7 +83,11 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
 
-**Leveraging Frequency Analysis for Deep Fake Image Recognition.**br>
+**Global Texture Enhancement for Fake Face Detection in the Wild.**<br>
+*Zhengzhe Liu, Xiaojuan Qi, Philip H.S. Torr.*<br>
+CVPR 2020. [[PDF](https://xjqi.github.io/real_fake.pdf)]
+
+**Leveraging Frequency Analysis for Deep Fake Image Recognition.**<br>
 *Joel Frank, Thorsten Eisenhofer, Lea Schönherr, Asja Fischer, Dorothea Kolossa, Thorsten Holz.*<br>
 arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08685)] [[Github](https://github.com/RUB-SysSec/GANDCTAnalysis)]
 
@@ -153,20 +157,6 @@ ICCV, 2019.
 **Fighting Fake News: Image Splice Detection via Learned Self-Consistency.**<br>
 *Minyoung Huh, Andrew Liu, Andrew Owens, Alexei A. Efros.*<br>
 ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
-
-## Guided Image Generation
-
-**ManiGAN: Text-Guided Image Manipulation.**<br>
-*[Bowen Li](https://mrlibw.github.io/), [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
-arxiv, 12 Dec 2019. [[PDF](https://arxiv.org/abs/1912.06203)]
-
-**Controllable Text-to-Image Generation.**<br>
-*Bowen Li, [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.07083)]
-
-**Disentangled Person Image Generation.**<br>
-*Liqian Ma, Qianru Sun, Stamatios Georgoulis, Luc Van Gool, Bernt Schiele, Mario Fritz.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02621)]
 
 ## Texture Mapping & Surface Mapping
 

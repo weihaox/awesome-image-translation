@@ -165,6 +165,14 @@ ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.d
 
 ### Msic (Face, Object)
 
+**High Accuracy Face Geometry Capture using a Smartphone Video.**<br>
+*Shubham Agrawal, Anuj Pahuja, Simon Lucey.*<br>
+WACV 2020. [[PDF](https://arxiv.org/abs/2003.08583)]
+
+**Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild.**<br>
+*[Shangzhe Wu](https://elliottwu.com/), Christian Rupprecht, Andrea Vedaldi.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1911.11130)] [[Project](https://elliottwu.com/projects/unsup3d/)]
+
 **Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images.**<br>
 *Hang Zhou, Jihao Liu, Ziwei Liu, Yu Liu, Xiaogang Wang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08124)] [[Github](https://github.com/Hangz-nju-cuhk/Rotate-and-Render)]
@@ -553,7 +561,15 @@ CVPR 2014. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2014/pap
 *Haoping Deng, Wangjiang Zhu.*
 ICCV 2017. [[PDF](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Monocular_Free-Head_3D_ICCV_2017_paper.pdf)]
 
-### Gaze Redirection
+### Gaze Redirection and Correction
+
+**GazeCorrection: Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks.**<br> 
+*Jichao Zhang, Meng Sun, Jingjing Chen, Hao Tang, Yan Yan, Xueying Qin, Nicu Sebe.*<br> 
+arxiv, 2019. [[PDF](https://arxiv.org/abs/1906.00805)] [[Github](https://github.com/zhangqianhui/GazeCorrection)]
+
+**Look at Me! Correcting Eye Gaze in Live Video Communication.**<br> 
+*Chih-Fan Hsu, Yushuen  Wang, C.-L Lei, Kuan-Ta Chen.*<br> 
+TOMM (ACM Transactions on Multimedia Computing, Communications, and Applications). [[PDF](https://dl.acm.org/doi/10.1145/3311784)] [[Github](https://github.com/chihfanhsu/gaze_correction)]
 
 **Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks.** <br>
 *Zhe He, Adrian Spurr, Xucong Zhang, Otmar Hilliges ([AIT Lab, ETH Zurich](https://ait.ethz.ch/)).*<br> 

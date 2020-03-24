@@ -3,7 +3,7 @@
 ## 3D Clothing Draping & 3D People Dressing
 
 **Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion.**<br>
-*Julian Chibane, Thiemo Alldieck, Gerard Pons-Moll.*<br>
+*Julian Chibane, [Thiemo Alldieck](https://graphics.tu-bs.de/people/alldieck), Gerard Pons-Moll.*<br>
 CVPR 2020. [[PDF](https://virtualhumans.mpi-inf.mpg.de/papers/chibane20ifnet/chibane20ifnet.pdf)]
 
 **Learning to Dress 3D People in Generative Clothing.**<br>

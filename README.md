@@ -1,6 +1,6 @@
-# Awesome Image-to-image Translation Paper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome image-to-image translation Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of resources on Image Translation. 
+A collection of resources on image-to-image translation. 
 
 This repo is organized chronologically by conferences, another repo which is organized in terms of catrgory is also available. 
 
@@ -10,13 +10,16 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 
 Feedback and contributions are welcome!
 
+## Conference
 
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
-**StarGAN v2: Diverse Image Synthesis for Multiple Domains.**<br> 
+**Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.** [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.com/Ha0Tang/LGGAN)]<br> 
+*[Hao Tang](http://disi.unitn.it/~hao.tang/), Dan Xu, Yan Yan, Philip H. S. Torr, Nicu Sebe.*<br> 
+
+**StarGAN v2: Diverse Image Synthesis for Multiple Domains.**[[PDF](https://arxiv.org/abs/1912.01865)] [[GitHub](https://github.com/clovaai/stargan-v2)]<br> 
 *Yunjey Choi, Youngjung Uh, Jaejun Yoo, Jung-Woo Ha. Clova AI Research, NAVER Corp.*<br> 
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.01865)] [[GitHub](https://github.com/clovaai/stargan-v2)]
 
 **GAN Compression: Efficient Architectures for Interactive Conditional GANs.**[[PDF](https://arxiv.org/abs/2003.08936)] [[Demo](https://tinyurl.com/r474uca)] [[Github](https://github.com/mit-han-lab/gan-compression/)]<br>
 *[Muyang Li](https://lmxyy.me/), Ji Lin, Yaoyao Ding, Zhijian Liu, Jun-Yan Zhu, and [Song Han](https://songhan.mit.edu/).*<br>
@@ -27,6 +30,128 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.01865)] [[GitHub](https://github.co
 **NICE: Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation.** [[PDF](https://arxiv.org/abs/2003.00273)] [[Github](https://github.com/alpc91/NICE-GAN-pytorch)]<br>
 *Runfa Chen, Wenbing Huang, Binghui Huang, Fuchun Sun, Bin Fang.*<br>
 
+### ICLR 2020 
+[[accepted paper list](https://openreview.net/group?id=ICLR.cc/2020/Conference)]
+
+**U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](https://github.com/taki0112/UGATIT)] [[Pytorch](https://github.com/znxlwm/UGATIT-pytorch)]<br>
+*Junho Kim, Minjae Kim, Hyeonwoo Kang, Kwanghee Lee.*<br>
+
+### AAAI 2020 
+[[accepted paper list](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)]
+
+**Distilling Portable Generative Adversarial Networks for Image Translation.** [[PDF](https://arxiv.org/abs/2003.03519)] <br>
+*Hanting Chen, Yunhe Wang, Han Shu, Changyuan Wen, Chunjing Xu, Boxin Shi, Chao Xu, Chang Xu.*<br>
+
+**Fast and Robust Face-to-Parameter Translation for Game Character Auto-Creation.**[[PDF](https://arxiv.org/pdf/1909.01064.pdf)]<br>
+*Tianyang Shi, Zhengxia Zou, Yi Yuan, Changjie Fan.*<br>
+
+**Learning to Transfer: Unsupervised Domain Translation via Meta-Learning.**[[PDF](https://arxiv.org/abs/1906.00181)] [[Github](https://github.com/linjx-ustc1106/MT-GAN-PyTorch)]<br>
+*Jianxin Lin, Yijun Wang, [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/publi.html), Tianyu He.*<br>
+
+**Go From the General to the Particular: Multi-Domain Translation with Domain Transformation Networks.**[[PDF](https://arxiv.org/abs/1911.09912)]<br>
+*Yong Wang, Longyue Wang, Shuming Shi, Victor Li, Zhaopeng Tu.*<br>
+
+**Generating Diverse Translation by Manipulating Multi-Head Attention.**[[PDF](https://arxiv.org/abs/1911.09333v1)]<br>
+*Zewei Sun, Shujian Huang, Hao-Ran Wei, Xin-yu Dai, Jiajun Chen.*<br>
+
+**Benign Examples: Imperceptible Changes Can Enhance Image Translation Performance.**[[PDF](http://iphome.hhi.de/samek/pdf/SriAAAI20.pdf)]<br>
+*Vignesh Srinivasan, Klaus-Robert Müller, [Wojciech Samek](http://iphome.hhi.de/samek/), Shinichi Nakajima.*<br>
+
+**Multimodal Structure-Consistent Image-to-Image Translation.**<br>
+*Che-Tsung Lin, Yen-Yi Wu, Po-Hao Hsu, Shang-Hong Lai.*<br>
+
+**GAN-Based Unpaired Chinese Character Image Translation via Skeleton Transformation and Stroke Rendering.**<br>
+*Yiming Gao, Jiangqin Wu.*<br>
+
+### Others 2020
+
+**GANILLA: Generative Adversarial Networks for Image to Illustration Translation.**<br>
+*Samet Hicsonmez, Nermin Samet, Emre Akbas, Pinar Duygulu.*<br>
+arxiv, 13 Feb 2020. Image and Vision Computing. [[PDF](https://arxiv.org/abs/2002.05638)] [[Github](https://github.com/giddyyupp/ganilla)]
+
+**Image-to-Image Translation with Text Guidance.**<br>
+*Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
+arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
+
+**Multi-Channel Attention Selection GANs for Guided Image-to-Image Translation.**<br>
+*Hao Tang, Dan Xu, Yan Yan, Jason J. Corso, Philip H.S. Torr, Nicu Sebastie.*<br>
+arxiv, 3 Feb 2020. (An extended version of [SelectionGAN](https://arxiv.org/abs/1904.06807) published in CVPR2019) 
+[[PDF](https://arxiv.org/abs/2002.01048)]
+[[Githtub](https://github.com/Ha0Tang/SelectionGAN)]
+
+**Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals.**<br>
+*Siyuan Li, [Semih Günel](https://semihgunel.com/), Mirela Ostrek, Pavan Ramdya, [Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en), [Helge Rhodin](http://helge.rhodin.de/).*<br>
+arxiv, 23 Jan 2020. [[PDF](https://arxiv.org/abs/2001.08601)]
+
+**CDGAN: Cyclic Discriminative Generative Adversarial Networks for Image-to-Image Transformation.**<br>
+*Kancharagunta Kishan Babu, Shiv Ram Dubey.*<br>
+arxiv, 15 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05489)]
+
+### NeurIPS 2019 
+[[accepted paper list](https://nips.cc/Conferences/2019/AcceptedPapersInitial)]
+
+**Multi-mapping Image-to-Image Translation via Learning Disentanglement.** [[PDF](https://arxiv.org/abs/1909.07877)]<br>
+*Xiaoming Yu, Yuanqi Chen, Shan Liu, Thomas Li, Ge Li.*
+
+**Flow-based Image-to-Image Translation with Feature Disentanglement.** [[PDF](http://papers.nips.cc/paper/8670-flow-based-image-to-image-translation-with-feature-disentanglement.pdf)]<br>
+*Ruho Kondo, Keisuke Kawano, Satoshi Koide, Takuro Kutsuna.*
+
+**Explicitly disentangling image content from translation and rotation with spatial-VAE.** [[PDF](https://arxiv.org/abs/1909.11663)]<br>
+Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
+
+**Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis.** [[PDF](https://arxiv.org/abs/1910.06809)]<br>
+*Xihui Liu, Guojun Yin, Jing Shao, Xiaogang Wang, Hongsheng Li.*
+
+### ICCV 2019 
+[[accepted paper list](http://openaccess.thecvf.com/ICCV2019.py)]
+
+**Tex2Shape: Detailed Full Human Body Geometry From a Single Image.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Alldieck_Tex2Shape_Detailed_Full_Human_Body_Geometry_From_a_Single_Image_ICCV_2019_paper.html)]<br>
+*Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor.*
+
+**Face-to-Parameter Translation for Game Character Auto-Creation.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shi_Face-to-Parameter_Translation_for_Game_Character_Auto-Creation_ICCV_2019_paper.pdf)] <br>
+*Tianyang Shi, Yi Yuan, Changjie Fan, Zhengxia Zou, Zhenwei Shi, Yong Liu.*
+
+**Learning Fixed Points in Generative Adversarial Networks: From Image-to-Image Translation to Disease Detection and Localization.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Siddiquee_Learning_Fixed_Points_in_Generative_Adversarial_Networks_From_Image-to-Image_Translation_ICCV_2019_paper.pdf)] <br>
+*Md Mahfuzur Rahman Siddiquee, Zongwei Zhou, Nima Tajbakhsh, Ruibin Feng, Michael B. Gotway, Yoshua Bengio, Jianming Liang.*
+
+**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ghosh_Interactive_Sketch__Fill_Multiclass_Sketch-to-Image_Translation_ICCV_2019_paper.pdf)] <br>
+*Arnab Ghosh, Richard Zhang, Puneet K. Dokania, Oliver Wang, Alexei A. Efros, Philip H. S. Torr, Eli Shechtman.*
+
+**Deep CG2Real: Synthetic-to-Real Translation via Image Disentanglement.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bi_Deep_CG2Real_Synthetic-to-Real_Translation_via_Image_Disentanglement_ICCV_2019_paper.pdf)]<br>
+*Sai Bi, Kalyan Sunkavalli, Federico Perazzi, Eli Shechtman, Vladimir G. Kim, Ravi Ramamoorthi.*
+
+**Co-Evolutionary Compression for Unpaired Image Translation.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Shu_Co-Evolutionary_Compression_for_Unpaired_Image_Translation_ICCV_2019_paper.html)]<br>
+*Han Shu, Yunhe Wang, Xu Jia, Kai Han, Hanting Chen, Chunjing Xu, Qi Tian, Chang Xu.*
+
+**Sym-Parameterized Dynamic Inference for Mixed-Domain Image Translation.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Chang_Sym-Parameterized_Dynamic_Inference_for_Mixed-Domain_Image_Translation_ICCV_2019_paper.html)]<br>
+*Simyung Chang, SeongUk Park, John Yang, Nojun Kwak.*
+
+**RelGAN: Multi-Domain Image-to-Image Translation via Relative Attributes.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Wu_RelGAN_Multi-Domain_Image-to-Image_Translation_via_Relative_Attributes_ICCV_2019_paper.html)]<br>
+*Po-Wei Wu, Yu-Jing Lin, Che-Han Chang, Edward Y. Chang, Shih-Wei Liao.*
+
+**ADSPM: Attribute-Driven Spontaneous Motion in Unpaired Image Translation.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Wu_Attribute-Driven_Spontaneous_Motion_in_Unpaired_Image_Translation_ICCV_2019_paper.html)] [[Github](https://github.com/mikirui/ADSPM)]<br>
+*Ruizheng Wu, Xin Tao, Xiaodong Gu, Xiaoyong Shen, Jiaya Jia.*
+
+**Everybody Dance Now.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Chan_Everybody_Dance_Now_ICCV_2019_paper.html)]<br>
+*Caroline Chan, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros.*
+
+**Multimodal Style Transfer via Graph Cuts.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Multimodal_Style_Transfer_via_Graph_Cuts_ICCV_2019_paper.html)]<br>
+*Yulun Zhang, Chen Fang, Yilin Wang, Zhaowen Wang, Zhe Lin, Yun Fu, Jimei Yang.*
+
+**A Closed-Form Solution to Universal Style Transfer.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Lu_A_Closed-Form_Solution_to_Universal_Style_Transfer_ICCV_2019_paper.html)]<br>
+*Ming Lu, Hao Zhao, Anbang Yao, Yurong Chen, Feng Xu, Li Zhang.*
+
+**Guided Image-to-Image Translation With Bi-Directional Feature Transformation.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/AlBahar_Guided_Image-to-Image_Translation_With_Bi-Directional_Feature_Transformation_ICCV_2019_paper.html)]<br>
+*Badour AlBahar, Jia-Bin Huang.*
+
+**Few-Shot Unsupervised Image-to-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Few-Shot_Unsupervised_Image-to-Image_Translation_ICCV_2019_paper.html)]<br>
+*Ming-Yu Liu, Xun Huang, Arun Mallya, Tero Karras, Timo Aila, Jaakko Lehtinen, Jan Kautz.*
+
+**InGAN: Capturing and Retargeting the "DNA" of a Natural Image.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Shocher_InGAN_Capturing_and_Retargeting_the_DNA_of_a_Natural_Image_ICCV_2019_paper.html)]<br>
+*Assaf Shocher, Shai Bagon, Phillip Isola, Michal Irani.*
+
+**Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.html)]<br>
+*Wen Liu, Zhixin Piao, Jie Min, Wenhan Luo, Lin Ma, Shenghua Gao.*
 
 ### CVPR 2019 
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2019.py)]
