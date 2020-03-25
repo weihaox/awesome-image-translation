@@ -1,3 +1,9 @@
+# awesome image-to-image translation papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A collection of resources on image-to-image translation. 
+
+This repo is organized in terms of catrgory, another repo which is organized chronologically by conferences is also [available](https://github.com/xiaweihao/awesome-image-translation/blob/master/README.md). 
+
 ## Contributing
 
 If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls)
@@ -10,8 +16,8 @@ Feedback and contributions are welcome!
 - [Unsupervised](#unsupervised)
   * [General](#general)
   * [Disentanglement](#disentanglement)
-  * [Many-to-many](#many-to-many)
-- [Guided Image-to_image Translation](#guided-image-to-image-translation)
+  * [Multi-Domain and Multi-Modal](#multi-domain-and-multi-modal)
+- [Guided Image-to-image Translation](#guided-image-to-image-translation)
   * [Keypoint or Landmark Guided](#keypoint-or-landmark-guided)
   * [Pose and Skeleton Guided](#pose-and-skeleton-guided)
   * [Segmentation or Label Map Guided](#segmentation-or-label-map-guided)
@@ -20,6 +26,8 @@ Feedback and contributions are welcome!
   * [Mask Guided](#mask-guided)
   * [Examplar Guided](#examplar-guided)
   * [Attention Guided](#attention-guided)
+  * [Layout Guided](#layout-guided)
+  * [Dialog Guided](#dialog-guided)
   * [Audio Guided](#audio-guided)
 - [Continous Change](#continous-change)
 - [Applications](#applications)
@@ -43,7 +51,7 @@ Feedback and contributions are welcome!
 
 ## Supervised
 
-**pix2pix: Image-to-Image Translation with Conditional Adversarial Networks.** <br>
+**pix2pix: Image-to-Image Translation with Conditional Adversarial Networks.**</br>
 *[Phillip Isola](http://web.mit.edu/phillipi/), [Jun-Yan Zhu](http://people.csail.mit.edu/junyanz/), [Tinghui Zhou](https://people.eecs.berkeley.edu/~tinghuiz/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/).*<br>
 CVPR 2017. [[PDF](https://arxiv.org/abs/1611.07004)] [[Github](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
 
@@ -51,7 +59,7 @@ CVPR 2017. [[PDF](https://arxiv.org/abs/1611.07004)] [[Github](https://github.co
 *Jun-Yan Zhu, Richard Zhang, Deepak Pathak, Trevor Darrell, Alexei A. Efros, Oliver Wang, Eli Shechtman.*<br>
 NeurIPS 2017. [[PDF](https://arxiv.org/abs/1711.11586)] [[Github](https://github.com/junyanz/BicycleGAN)]
 
-**PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain.** <br>
+**PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain.**</br>
 *Sheng You, Ning You, Minxue Pan.*<br>
 arxiv, 25 Mar 2019. [[PDF](https://arxiv.org/abs/1903.10146)] [[Github](https://github.com/youyuge34/PI-REC)]
 
@@ -161,11 +169,11 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1804.04732)] [[Github](https://github.co
 *Abel Gonzalez-Garcia, Joost van de Weijer, Yoshua Bengio.*<br>
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1805.09730)]    
 
-**Conditional Image-to-Image Translation.** <br> 
+**Conditional Image-to-Image Translation.**</br> 
 *Jianxin Lin, Yingce Xia, Tao Qin, Zhibo Chen, Tie-Yan Liu.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1805.00251)]     
 
-**EGSC-IT: Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency.** <br> 
+**EGSC-IT: Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency.**</br> 
 *Liqian Ma, Xu Jia, Stamatios Georgoulis, Tinne Tuytelaars, Luc Van Gool.*<br>
 ICLR 2019. [[PDF](https://arxiv.org/abs/1805.11145)] [[Github](https://github.com/charliememory/EGSC-IT)]
 
@@ -181,7 +189,7 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00948)] [[Github](https://github.co
 *Alexander H. Liu, Yen-Cheng Liu, Yu-Ying Yeh, Yu-Chiang Frank Wang.*<br>
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1809.01361)] [[Github](https://github.com/Alexander-H-Liu/UFDN)]
 
-**GDWTC: Image-to-Image Translation via Group-wise Deep Whitening and Coloring Transformation.** <br> 
+**GDWTC: Image-to-Image Translation via Group-wise Deep Whitening and Coloring Transformation.**</br> 
 *Wonwoong Cho, Sungha Choi, David Keetae Park, Inkyu Shin, Jaegul Choo.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1812.09912)] [[Github](https://github.com/WonwoongCho/GDWCT)]
 
@@ -189,11 +197,11 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.09912)] [[Github](https://github.co
 *Hsin-Ying Lee, Hung-Yu Tseng, Qi Mao, Jia-Bin Huang, Yu-Ding Lu, Maneesh Singh, Ming-Hsuan Yang.*<br>
 IJCV 2019. [[PDF](https://arxiv.org/abs/1905.01270)] [[[Project](http://vllab.ucmerced.edu/hylee/DRIT_pp/)] [[Github](https://github.com/HsinYingLee/MDMM)]
 
-**Multi-mapping Image-to-Image Translation via Learning Disentanglement.** <br>
+**Multi-mapping Image-to-Image Translation via Learning Disentanglement.**</br>
 *Xiaoming Yu, Yuanqi Chen, Thomas Li, Shan Liu, Ge Li.*<br>
 NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.07877)] [[Github](https://github.com/Xiaoming-Yu/DMIT)]               
 
-**Flow-based Image-to-Image Translation with Feature Disentanglement.** <br> 
+**Flow-based Image-to-Image Translation with Feature Disentanglement.**</br> 
 *Ruho Kondo, Keisuke Kawano, Satoshi Koide, Takuro Kutsuna.*<br>
 NeurIPS 2019. [[PDF](http://papers.nips.cc/paper/8670-flow-based-image-to-image-translation-with-feature-disentanglement.pdf)]
 
@@ -243,7 +251,7 @@ ACM MM 2018. [[PDF](https://arxiv.org/abs/1805.07509)] [[Github](https://github.
 *Xiaoming Yu, Xing Cai, Zhenqiang Ying, Thomas Li, Ge Li.*<br>
 ACCV 2018. [[PDF](https://arxiv.org/abs/1810.04991)] [[Github](https://github.com/Xiaoming-Yu/SingleGAN)] 
 
-**SMIT: Stochastic Multi-Label Image-to-Image Translation.** <br>
+**SMIT: Stochastic Multi-Label Image-to-Image Translation.**</br>
 *Andrés Romero, Pablo Arbeláez, Luc Van Gool, Radu Timofte.*<br>
 ICCV Workshops 2019. [[PDF](https://arxiv.org/abs/1812.03704)] [[Github](https://github.com/BCV-Uniandes/SMIT)]                                                               
 **Image-to-Image Translation with Multi-Path Consistency Regularization.**<br> 
@@ -266,11 +274,15 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.01452)] [[Github](https://github.co
 *Yugang Chen, Muchun Chen, Chaoyue Song, Bingbing Ni.*<br> 
 International Conference on Multimedia Modeling (MMM 2020). [[PDF](https://arxiv.org/abs/1911.06102)]
 
-**injectionGAN: Toward Learning a Unified Many-to-Many Mapping for Diverse Image Translation.** <br>
-*Wenju Xu, Shawn Keshmiri, Guanghui Wang.* <br>
+**injectionGAN: Toward Learning a Unified Many-to-Many Mapping for Diverse Image Translation.**</br>
+*Wenju Xu, Shawn Keshmiri, Guanghui Wang.*</br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1905.08766)]
 
-## Guided Image-to_image Translation
+**Unsupervised Multi-Domain Multimodal Image-to-Image Translation with Explicit Domain-Constrained Disentanglement.**</br>
+*Weihao Xia, Yujiu Yang, Jing-Hao Xue.*</br>
+arxiv, 2019. [[PDF](https://arxiv.org/abs/1911.00622)]
+
+## Guided Image-to-image Translation
 
 ### Keypoint or Landmark Guided
 
@@ -282,7 +294,7 @@ arxiv, 29 Apr 2019. [[PDF](https://arxiv.org/abs/1904.12428)] [[Github](https://
 *Lingxiao Song, Zhihe Lu, Ran He, Zhenan Sun, Tieniu Tan.*<br>
 MM 2018. [[PDF](https://arxiv.org/abs/1712.03474)] 
 
-**C2-GAN: Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation.** <br>
+**C2-GAN: Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation.**</br>
 *Hao Tang, Dan Xu, Gaowen Liu, Wei Wang, Nicu Sebe, Yan Yan.*<br>
 MM 2019. [[PDF](https://arxiv.org/abs/1908.00999)] [[Gtihub](https://github.com/Ha0Tang/C2GAN)]
 
@@ -330,7 +342,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.co
 *Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1711.11585)] [[Github](https://github.com/NVIDIA/pix2pixHD)]
 
-**SPADE: Semantic Image Synthesis with Spatially-Adaptive Normalization.** <br>
+**SPADE: Semantic Image Synthesis with Spatially-Adaptive Normalization.**</br>
 *Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1903.07291)] [[Github](https://github.com/NVlabs/SPADE)]
 
@@ -358,7 +370,7 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1903.04480)] [[Github](https://github.co
 *Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bryan Catanzaro.*<br>
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1808.06601)] [[Github](https://github.com/NVIDIA/vid2vid)]   
 
-**Few-shot Video-to-Video Synthesis.** <br>
+**Few-shot Video-to-Video Synthesis.**</br>
 *Ting-Chun Wang, Ming-Yu Liu, Andrew Tao, Guilin Liu, Jan Kautz, Bryan Catanzaro.*<br> 
 ArXiv 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)]
 
@@ -386,6 +398,30 @@ NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.07083)]
 *Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
 arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
 
+**MirrorGAN: Learning Text-to-image Generation by Redescription.**
+*Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao.*
+CVPR 2019. [[PDF](https://arxiv.org/abs/1903.05854)] [[Unofficial TensorFlow](https://github.com/taki0112/MirrorGAN-Tensorflow)]
+
+**AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks.**<br>
+*Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1711.10485)] [[Github](https://github.com/taoxugit/AttnGAN)]
+
+**StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks.**<br>
+*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
+TPAMI 2018. [[PDF](https://arxiv.org/abs/1710.10916)] [[Github](https://github.com/hanzhanggit/StackGAN-v2)]
+
+**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks.**<br>
+*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
+ICCV 2017. [[PDF](https://arxiv.org/abs/1612.03242v2)] [[Github](https://github.com/hanzhanggit/StackGAN-Pytorch)]
+
+**Generative Adversarial Text to Image Synthesis.**<br>
+*Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee.*<br>
+ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.com/reedscot/icml2016)]
+
+**Learning Deep Representations of Fine-grained Visual Descriptions.**<br>
+*Scott Reed, Zeynep Akata, Bernt Schiele, Honglak Lee.*<br>
+CVPR 2016. [[PDF](https://arxiv.org/abs/1605.05395)] [[Github](https://github.com/reedscot/cvpr2016)]
+
 ### Mask Guided
 
 **InstaGAN: Instance-aware image-to-image translation.**<br>
@@ -406,7 +442,7 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1905.01744)] [[project](http://zhiqiangs
 *Miao Wang, Guo-Ye Yang, Ruilong Li, Run-Ze Liang, Song-Hai Zhang, Peter. M. Hall, Shi-Min Hu.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1906.01314)] [[Github](https://github.com/cxjyxxme/pix2pixSC)] [[Project](http://www.liruilong.cn/projects/GuidedPix2Pix/index.html)]
 
-**EGSC-IT: Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency.** <br> 
+**EGSC-IT: Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency.**</br> 
 *Liqian Ma, Xu Jia, Stamatios Georgoulis, Tinne Tuytelaars, Luc Van Gool.*<br>
 ICLR 2019. [[PDF](https://arxiv.org/abs/1805.11145)] [[Github](https://github.com/charliememory/EGSC-IT)]
 
@@ -438,6 +474,58 @@ TIP 2019. [[PDF](https://arxiv.org/abs/1806.06195)]
 **SPA-GAN: Spatial Attention GAN for Image-to-Image Translation.**<br>
 *Hajar Emami, Majid Moradi Aliabadi, Ming Dong, Ratna Babu Chinnam.*<br>
 ArXiv 2019. [[PDF](https://arxiv.org/abs/1908.06616)] 
+
+### Layout Guided
+
+**LayoutGAN: Generating Graphic Layouts with Wireframe Discriminator.**<br>
+*Jianan Li, Jimei Yang, Aaron Hertzmann, Jianming Zhang, Tingfa Xu.*<br>
+ICLR 2019. [[PDF](https://openreview.net/forum?id=HJxB5sRcFQ)]
+
+**Text2Scene: Generating Compositional Scenes from Textual Descriptions.**<br>
+*Fuwen Tan, Song Feng, Vicente Ordonez.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1809.01110)] [[Github](https://github.com/uvavision/Text2Image)]
+
+**Image Generation from Layout.**<br>
+*Bo Zhao, Lili Meng, Weidong Yin, Leonid Sigal.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1811.11389)]
+
+**Generating Multiple Objects at Spatially Distinct Locations.**<br>
+*Tobias Hinz, Stefan Heinrich, Stefan Wermter.*<br>
+ICLR 2019. [[PDF](https://arxiv.org/abs/1901.00686)] [[Github](https://github.com/tohinz/multiple-objects-gan)]
+
+**LostGANs: Image Synthesis From Reconfigurable Layout and Style.**<br>
+*Wei Sun, Tianfu Wu.*<br>
+ICCV 2019. [[PDF](https://www.arxiv-vanity.com/papers/1908.07500/)] [[Github](https://github.com/iVMCL/LostGANs)]
+
+**Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis.**<br> 
+*Xihui Liu, Guojun Yin, Jing Shao, Xiaogang Wang, Hongsheng Li.*</br>
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1910.06809)]  
+
+### Dialog Guided
+
+**ChatPainter: Improving Text to Image Generation using Dialogue.**<br>
+*Shikhar Sharma, Dendi Suhubdy, Vincent Michalski, Samira Ebrahimi Kahou, Yoshua Bengio.*<br>
+ICLRW 2018. [[PDF](https://arxiv.org/abs/1802.08216)]
+
+**Keep Drawing It: Iterative language-based image generation and editing.**<br>
+*Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W.Taylor.*<br>
+NIPSW 2018. [[PDF](https://arxiv.org/abs/1811.09845v1)] [[CLEVR dataset](https://github.com/facebookresearch/clevr-dataset-gen)]
+
+**Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction.**<br>
+*Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W.Taylor.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1811.09845)]
+
+**Sequential Attention GAN for Interactive Image Editing via Dialogue.**<br>
+*Yu Cheng, Zhe Gan, Yitong Li, Jingjing Liu, Jianfeng Gao.*<br>
+arxiv, 2019. [[PDF](https://arxiv.org/abs/1812.08352)]
+
+**Chat-crowd: A Dialog-based Platform for Visual Layout Composition.**<br>
+*Paola Cascante-Bonilla, Xuwang Yin, Vicente Ordonez, Song Feng.*<br>
+arxiv, 2018. [[PDF](https://arxiv.org/abs/1812.04081)] [[Github](https://github.com/uvavision/chat-crowd)]
+
+**CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication.**<br>
+*Jin-Hwa Kim, Nikita Kitaev, Xinlei Chen, Marcus Rohrbach, Byoung-Tak Zhang, Yuandong Tian, Dhruv Batra, Devi Parikh.*<br>
+ACL 2019. [[PDF](https://arxiv.org/abs/1712.05558)] [[CoDraw Dataset](https://github.com/facebookresearch/CoDraw)]
 
 ### Audio Guided
 **X2Face: A Network for Controlling Face Generation by Using Images, Audio and Pose Codes.**<br>
@@ -475,7 +563,7 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1903.01594)] [[Github](https://github.co
 *Guim Perarnau, Joost van de Weijer, Bogdan Raducanu, Jose M. Álvarez.*<br>
 NeurIPS Workshop 2016. [[PDF](https://arxiv.org/abs/1611.06355)] [[Github](https://github.com/Guim3/IcGAN)]
 
-**Smart, Sparse Contours to Represent and Edit Images.** <br>
+**Smart, Sparse Contours to Represent and Edit Images.**</br>
 *Tali Dekel, Chuang Gan, Dilip Krishnan, Ce Liu, William T. Freeman.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1712.08232)] [[[Project](https://contour2im.github.io/)] 
 
@@ -491,11 +579,11 @@ ACM MM 2018. [[PDF](https://liusi-group.com/pdf/BeautyGAN-camera-ready.pdf)] [[G
 *Alexander H. Liu, Yen-Cheng Liu, Yu-Ying Yeh, Yu-Chiang Frank Wang.*<br> 
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1809.01361)] [[Github](https://github.com/Alexander-H-Liu/UFDN)]
 
-**ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes.** <br>
+**ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes.**</br>
 *Taihong Xiao, Jiapeng Hong, Jinwen Ma.*<br> 
 ECCV 2018. [[PDF](https://arxiv.org/abs/1803.10562)] [[Github](https://github.com/Prinsphield/ELEGANT)] 
 
-**Biphasic-GAN: Biphasic Learning of GANs for High-Resolution Image-to-Image Translation.** <br>
+**Biphasic-GAN: Biphasic Learning of GANs for High-Resolution Image-to-Image Translation.**</br>
 *Jie Cao, Huaibo Huang, Yi Li, Jingtuo Liu, Ran He, Zhenan Sun.*<br> 
 ArXiv 2019. [[PDF](https://arxiv.org/abs/1904.06624)]              
 
@@ -503,7 +591,7 @@ ArXiv 2019. [[PDF](https://arxiv.org/abs/1904.06624)]
 *Chaoyou Fu, Yibo Hu, Xiang Wu, Guoli Wang, Qian Zhang, Ran He.*<br> 
 ArXiv 2019. [[PDF](https://arxiv.org/abs/1903.12003)] 
 
-**Make a Face: Towards Arbitrary High Fidelity Face Manipulation.** <br>
+**Make a Face: Towards Arbitrary High Fidelity Face Manipulation.**</br>
 *Shengju Qian, Kwan-Yee Lin, Wayne Wu, Yangxiaokang Liu, Quan Wang, Fumin Shen, Chen Qian, Ran He.*<br> 
 ICCV 2019. [[PDF](https://arxiv.org/abs/1908.07191)]
 
@@ -537,17 +625,17 @@ ACM MM 2019. [[PDF](https://arxiv.org/abs/1908.09514)]
 *Aayush Bansal, Shugao Ma, Deva Ramanan, Yaser Sheikh.*<br> 
 ECCV 2018. [[PDF](https://arxiv.org/abs/1808.05174)] [[Github](https://github.com/aayushbansal/Recycle-GAN)]
 
-**Few-shot Video-to-Video Synthesis.** <br>
+**Few-shot Video-to-Video Synthesis.**</br>
 *Ting-Chun Wang, Ming-Yu Liu, Andrew Tao, Guilin Liu, Jan Kautz, Bryan Catanzaro.*<br> 
 ArXiv 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)]
 
 ### Data Augmentation
 
-**Generative Image Translation for Data Augmentation in Colorectal Histopathology Images.** <br>
+**Generative Image Translation for Data Augmentation in Colorectal Histopathology Images.**</br>
 NeurIPS 2019 Machine Learning for Health Workshop. [[PDF](https://arxiv.org/abs/1910.05827)] [[Project](https://github.com/BMIRDS/HistoGAN)]
 
-**DG-Net: Joint Discriminative and Generative Learning for Person Re-identification.** <br>
-*Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz.* <br>
+**DG-Net: Joint Discriminative and Generative Learning for Person Re-identification.**</br>
+*Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz.*</br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1904.07223)] [[Github](https://github.com/NVlabs/DG-Net)]
 
 ### Model-Compression-and-Pruning
@@ -556,7 +644,7 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.07223)] [[Github](https://github.co
 *[Muyang Li](https://lmxyy.me/), Ji Lin, Yaoyao Ding, Zhijian Liu, Jun-Yan Zhu, and [Song Han](https://songhan.mit.edu/).*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08936)] [[Demo](https://tinyurl.com/r474uca)] [[Github](https://github.com/mit-han-lab/gan-compression/)]
 
-**Co-Evolutionary Compression for Unpaired Image Translation.** <br>
+**Co-Evolutionary Compression for Unpaired Image Translation.**</br>
 *Han Shu, Yunhe Wang, Xu Jia, Kai Han, Hanting Chen, Chunjing Xu, Qi Tian, Chang Xu.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10804)] [[Github](https://github.com/huawei-noah/GAN-pruning)] 
 
@@ -566,92 +654,84 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10804)] [[Github](https://github.co
 *Nataniel Ruiz, Stan Sclaroff.*<br>
 arxiv, 3 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01279)]
 
-**Adversarial Self-Defense for Cycle-Consistent GANs.** <br>
+**Adversarial Self-Defense for Cycle-Consistent GANs.**</br>
 *Dina Bashkirova, Ben Usman, Kate Saenko.*<br>
 NeurIPS 2019. [[PDF](https://arxiv.org/abs/1908.01517v1)]]
 
 ### Imbalanced Data
 
-**Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Imbalanced Data.** <br>
+**Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Imbalanced Data.**</br>
 *Utkarsh Ojha, Krishna Kumar Singh, Cho-Jui Hsieh, Yong Jae Lee.*<br>
 arxiv, 1 Oct 2019. [[PDF](https://arxiv.org/abs/1910.01112)]   
 
 ### Few-Shot
 
-**FUNIT: Few-Shot Unsupervised Image-to-Image Translation.** <br> 
+**FUNIT: Few-Shot Unsupervised Image-to-Image Translation.**</br> 
 *[Ming-Yu Liu](http://mingyuliu.net/), Xun Huang, Arun Mallya, Tero Karras, Timo Aila, Jaakko Lehtinen, Jan Kautz.*<br> 
 ICCV 2019. [[PDF](https://arxiv.org/abs/1905.01723)] [[Project](https://nvlabs.github.io/FUNIT/)] [[Github](https://github.com/nvlabs/FUNIT/)]
 
-**Semi Few-Shot Attribute Translation.** <br> 
+**Semi Few-Shot Attribute Translation.**</br> 
 *Ricard Durall, Franz-Josef Pfreundt, Janis Keuper.*<br> 
 ArXiv 2019. [[PDF](https://arxiv.org/abs/1910.03240)] 
 
-**ZstGAN: An Adversarial Approach for Unsupervised Zero-Shot Image-to-Image Translation.** <br> 
+**ZstGAN: An Adversarial Approach for Unsupervised Zero-Shot Image-to-Image Translation.**</br> 
 *Jianxin Lin, Yingce Xia, Sen Liu, Tao Qin, Zhibo Chen.*<br> 
 ArXiv 2019. [[PDF](https://arxiv.org/abs/1906.00184)] [[Github](https://github.com/linjx-ustc1106/ZstGAN-PyTorch)]
 
-**MetaPix: Few-Shot Video Retargeting.** <br>
+**MetaPix: Few-Shot Video Retargeting.**</br>
 *Jessica Lee, Deva Ramanan, Rohit Girdhar.*<br> 
 ICCV 2019. [[PDF](https://arxiv.org/abs/1910.04742)]] [[Project](https://motionretargeting2d.github.io)] [[Github](https://github.com/imjal/MetaPix)] 
 
-**Few-shot Video-to-Video Synthesis.** <br>
+**Few-shot Video-to-Video Synthesis.**</br>
 *Ting-Chun Wang, Ming-Yu Liu, Andrew Tao, Guilin Liu, Jan Kautz, Bryan Catanzaro.*<br> 
 ArXiv 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)]
 
 ### Image-Synthesis
 
-**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.** <br>
+**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**</br>
 *Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br> 
 arxiv, 28 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)]
 
-**LostGANs: Image Synthesis From Reconfigurable Layout and Style.** <br>
-*Wei Sun, Tianfu Wu.*<br>
-ICCV 2019. [[PDF](https://www.arxiv-vanity.com/papers/1908.07500/)] [[Github](https://github.com/iVMCL/LostGANs)]
-
-**Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis.** <br> 
-*Xihui Liu, Guojun Yin, Jing Shao, Xiaogang Wang, Hongsheng Li.* <br>
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1910.06809)]  
-
-**Face-to-Parameter Translation for Game Character Auto-Creation.** <br> 
+**Face-to-Parameter Translation for Game Character Auto-Creation.**</br> 
 *Tianyang Shi, Yi Yuan, Changjie Fan, Zhengxia Zou, Zhenwei Shi, Yong Liu.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/pdf/1909.01064.pdf)]    
 
-**APDrawingGAN: Face-to-Parameter Translation for Game Character Auto-Creation.** <br>
+**APDrawingGAN: Face-to-Parameter Translation for Game Character Auto-Creation.**</br>
 *Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul L. Rosin.*<br>
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.pdf) [Github](https://github.com/yiranran/APDrawingGAN)] [[Online Demo](https://face.lol)]
 
-**Cascaded Generation of High-quality Color Visible Face Images from Thermal Captures.** <br> 
+**Cascaded Generation of High-quality Color Visible Face Images from Thermal Captures.**</br> 
 *Naser Damer, Fadi Boutros, Khawla Mallat, Florian Kirchbuchner, Jean-Luc Dugelay, Arjan Kuijper.*<br>
 ArXiv 2019. [[PDF](https://arxiv.org/abs/1910.09524)] 
 
-**CartoonGAN: Generative Adversarial Networks for Photo Cartoonization.** <br>
+**CartoonGAN: Generative Adversarial Networks for Photo Cartoonization.**</br>
 *Yang Chen, Yu-Kun Lai, Yong-Jin Liu.*<br>
 CVPR 2018. [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)] [[Github](https://github.com/FlyingGoblin/CartoonGAN)] [[unofficial test](https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch)] [[unofficial pytorch](https://github.com/znxlwm/pytorch-CartoonGAN)]
 
 ### Retargeting-and-3D-Vision
 
-**Render4Completion: Synthesizing Multi-View Depth Maps for 3D Shape Completion.** <br>
-*Tao Hu, Zhizhong Han, Abhinav Shrivastava, Matthias Zwicker.* <br>
+**Render4Completion: Synthesizing Multi-View Depth Maps for 3D Shape Completion.**</br>
+*Tao Hu, Zhizhong Han, Abhinav Shrivastava, Matthias Zwicker.*</br>
 ICCV 2019 workshop on Geometry meets Deep Learning. [[PDF](https://arxiv.org/abs/1904.08366)]
 
-**Multi-Garment Net_Learning to Dress 3D people from Images.** <br>
+**Multi-Garment Net_Learning to Dress 3D people from Images.**</br>
 *Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, Gerard Pons-Moll.*<br>
 ICCV 2019. [[PDF](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2019mgn/bhatnagar2019mgn.pdf)] [[Github](https://github.com/bharat-b7/MultiGarmentNetwork)]
 
-**Tex2Shape: Detailed Full Human Body Geometry From a Single Image.** <br>
-*Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor.* <br>
+**Tex2Shape: Detailed Full Human Body Geometry From a Single Image.**</br>
+*Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor.*</br>
 ICCV 2019. [[arxiv](https://arxiv.org/abs/1904.08645)] [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Alldieck_Tex2Shape_Detailed_Full_Human_Body_Geometry_From_a_Single_Image_ICCV_2019_paper.html)] [[Github](https://github.com/thmoa/tex2shape)]
 
-**pix2vertex: Unrestricted facial geometry reconstruction using image-to-image translation.** <br>
-*Matan Sela, Elad Richardson, Ron Kimmel.* <br>
+**pix2vertex: Unrestricted facial geometry reconstruction using image-to-image translation.**</br>
+*Matan Sela, Elad Richardson, Ron Kimmel.*</br>
 arxiv, 2017. [[PDF](https://arxiv.org/abs/1703.10131)] [[Github](https://github.com/matansel/pix2vertex)]
 
-**Learning to Reconstruct People in Clothing from a Single RGB Camera.** <br>
-*Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll.* <br>
+**Learning to Reconstruct People in Clothing from a Single RGB Camera.**</br>
+*Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll.*</br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1903.05885)][[Github](https://github.com/thmoa/octopus)]
 
-**360-Degree Textures of People in Clothing from a Single Image.** <br>
-*Verica Lazova, Eldar Insafutdinov, Gerard Pons-Moll.* <br>
+**360-Degree Textures of People in Clothing from a Single Image.**</br>
+*Verica Lazova, Eldar Insafutdinov, Gerard Pons-Moll.*</br>
 3DV 2019. [[PDF](https://arxiv.org/pdf/1908.07117.pdf)][[Project](http://virtualhumans.mpi-inf.mpg.de/360tex/)] 
 
 **SelectionGAN: Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation.**<br>

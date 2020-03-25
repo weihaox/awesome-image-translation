@@ -1,5 +1,9 @@
 # Controlable Image Generation
 
+This repository is about *intelligent image manipulation* guided by text, audio, camera pose or other information. 
+
+Part of this repo is in [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation), which is about *Guided Image-to-image translation*.
+
 ## Diving Deep into Image Synthesis
 
 **ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation.**<br>

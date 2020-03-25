@@ -61,11 +61,11 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1811.10719)] [[Project](http://hiroharu-
 *Hiroharu Kato, Tatsuya Harada.* <br>
 arxiv, 20 Nov. 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://hiroharu-kato.com/projects_en/cifar10_3d.html)]
 
-**BlockGAN: Learning 3D Object-aware Scene Representations from Unlabelled Images.**<br>
+**BlockGAN: Learning 3D Object-Aware Scene Representations from Unlabelled Images.**<br>
 *Thu Nguyen-Phuoc, Christian Richardt, Long Mai, Yong-Liang Yang, Niloy Mitra.* <br>
 arxiv,  20 Feb 2020. [[PDF](https://arxiv.org/abs/2002.08988)] [[Project](https://www.monkeyoverflow.com/#/blockgan/)]
 
-**HoloGAN: Unsupervised learning of 3D representations from natural images.** <br>
+**HoloGAN: Unsupervised Learning of 3D Representations from Natural Images.** <br>
 *Nguyen-Phuoc, Chuan Li, Lucas Theis, Christian Richardt Yong-liang Yang.* <br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1904.01326)] [[GitHub](https://github.com/christopher-beckham/hologan-pytorch)]
 
@@ -81,6 +81,9 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkul
 *Gengshan Yang, Deva Ramanan.*<br>
 NeurIPS 2019. [[PDF](http://www.contrib.andrew.cmu.edu/~gengshay/wordpress/wp-content/uploads/2019/11/vcn.pdf)] [[GitHub](https://github.com/gengshan-y/VCN)] [[Project](http://www.contrib.andrew.cmu.edu/~gengshay/neurips19flow)]
 
+**Neural Contours: Learning to Draw Lines from 3D Shapes.**<br>
+*[Difan Liu](https://people.cs.umass.edu/~dliu/), Mohamed Nabail, [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/), [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10333)] [[Github](https://github.com/DifanLiu/NeuralContours)]
 
 ## Representation of Motion
 
