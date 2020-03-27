@@ -4,169 +4,11 @@ This repository is about *intelligent image manipulation* guided by text, audio,
 
 Part of this repo is in [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation), which is about *Guided Image-to-image translation*.
 
-## Diving Deep into Image Synthesis
-
-**ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation.**<br>
-*Shreeyak S. Sajjan, Matthew Moore, Mike Pan, Ganesh Nagaraja, Johnny Lee, Andy Zeng, Shuran Song.*<br>
-[[PDF](https://arxiv.org/abs/1910.02550)] [[Github](https://github.com/Shreeyak/cleargrasp)] [[Project](https://sites.google.com/view/cleargrasp)]
-
-**StyleGAN2 Distillation for Feed-forward Image Manipulation.**<br>
-*Yuri Viazovetskyi, Vladimir Ivashkin, Evgeny Kashin.*<br>
-arxiv, 7 Mar 2020. [[PDF](https://arxiv.org/abs/2003.03581)] [[Github](https://github.com/EvgenyKashin/stylegan2-distillation)]
-
-**LAG: Creating High Resolution Images with a Latent Adversarial Generator.**<br>
-*David Berthelot, Peyman Milanfar, Ian Goodfellow.*<br>
-arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02365)] [[Github](https://github.com/google-research/lag)]
-
-**StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
-*[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-arxiv, 3 Dec 2019.
-[[PDF](https://arxiv.org/abs/1912.04958)] 
-[[Offical TF](https://github.com/NVlabs/stylegan2)]
-[[PyTorch](https://github.com/rosinality/stylegan2-pytorch)]
-[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0)]
-
-**A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
-*Tero Karras, Samuli Laine, Timo Aila.*<br>
-CVPR 2019. 
-[[Paper](https://arxiv.org/abs/1812.04948)]
-[[Video](https://youtu.be/kSLJriaOumA)]
-[[Code](https://github.com/NVlabs/stylegan)]
-[[FFHQ](https://github.com/NVlabs/ffhq-dataset)]
-
-**Bayesian Reasoning with Deep-Learned Knowledge.**<br>
-*Jakob Knollmüller, Torsten Enßlin.*<br>
-arxiv, 29 Jan 2020. [[PDF](https://arxiv.org/abs/2001.11031v1)]
-
-**Unsupervised Discovery of Interpretable Directions in the GAN Latent Space.**<br>
-*Andrey Voynov, Artem Babenko.*<br>
-arxiv, 10 Feb 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.com/anvoynov/GANLatentDiscovery)]
-
-**Overcoming the Disentanglement vs Reconstruction Trade-off via Jacobian Supervision.**<br>
-*[José Lezama](https://iie.fing.edu.uy/~jlezama/).*<br>
-ICLR 2019. [[PDF](https://openreview.net/pdf?id=Hkg4W2AcFm)] [[Github](https://github.com/jlezama/disentangling-jacobian)]
-
-**SinGAN: Learning a Generative Model from a Single Natural Image.**<br>
-*Tamar Rott Shaham, Tali Dekel, Tomer Michaeli.*<br>
-ICCV 2019 (Best Paper). 
-[[PDF](https://arxiv.org/abs/1905.01164)] [[UnOfficial](github.com/FriedRonaldo/SinGAN)] [[Official](github.com/tamarott/SinGAN)]
-
-**InGAN: Capturing and Retargeting the DNA of a Natural Image.**<br>
-ICCV 2019. [[PDF](http://www.wisdom.weizmann.ac.il/~vision/ingan/resources/ingan.pdf)] [[Project](http://www.wisdom.weizmann.ac.il/~vision/ingan/)] [[Github](https://github.com/assafshocher/InGAN)] 
-
-**Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?**<br>
-*Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1904.03189)]
-
-**Image2StyleGAN++: How to Edit the Embedded Images?**<br>
-*Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
-arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/abs/1911.11544)]
-
-**Improving sample diversity of a pre-trained, class-conditional GAN by changing its class embeddings.**<br>
-*Qi Li, Long Mai, Anh Nguyen.*<br>
-arxiv, 10 Oct 2019. [[PDF](https://arxiv.org/abs/1910.04760)]
-
-**Style Generator Inversion for Image Enhancement and Animation.**<br>
-*[Aviv Gabbay](https://www.cse.huji.ac.il/~avivga/), [Yedid Hoshen](https://www.cse.huji.ac.il/~ydidh/).*<br>
-arxiv, 5 Jun 2019. [[PDF](https://arxiv.org/abs/1906.11880)] [[Project](http://www.vision.huji.ac.il/style-image-prior)] [[Github](https://github.com/avivga/style-image-prior)]
-
-**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**<br>
-*eihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
-arxiv, 28 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12861)]
-
-**Unsupervised K-modal Styled Content Generation.**<br>
-*Omry Sendik, Dani Lischinski, Daniel Cohen-Or.*<br>
-arxiv, 10 Jan 2020. [[PDF](https://arxiv.org/pdf/2001.03640.pdf)]
-
-**Deep Video-Based Performance Cloning.**<br>
-*Kfir Aberman, Mingyi Shi, Jing Liao, Dani Lischinski, Daniel Cohen-Or, Chen Baoquan.*<br>
-Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
-
-## DeepFake and Forensic
-
-[[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
-[[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
-
-**Global Texture Enhancement for Fake Face Detection in the Wild.**<br>
-*Zhengzhe Liu, Xiaojuan Qi, Philip H.S. Torr.*<br>
-CVPR 2020. [[PDF](https://xjqi.github.io/real_fake.pdf)]
-
-**Leveraging Frequency Analysis for Deep Fake Image Recognition.**<br>
-*Joel Frank, Thorsten Eisenhofer, Lea Schönherr, Asja Fischer, Dorothea Kolossa, Thorsten Holz.*<br>
-arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08685)] [[Github](https://github.com/RUB-SysSec/GANDCTAnalysis)]
-
-**Disrupting DeepFakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems.**<br>
-*[Nataniel Ruiz](https://natanielruiz.github.io/), [Sarah Adel Bargal](https://cs-people.bu.edu/sbargal/), [Stan Sclaroff](http://www.cs.bu.edu/~sclaroff/).*<br>
-arxiv, 3 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01279)] [[Github](https://github.com/natanielruiz/disrupting-deepfakes)]
-
-**Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples.**<br>
-*Paarth Neekhara, Shehzeen Hussain, Malhar Jere, Farinaz Koushanfar, Julian McAuley.*<br>
-arxiv,  9 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12749)]
-
-**Real or Not Real, that is the Question.**<br>
-*Yuanbo Xiangli, Yubin Deng, Bo Dai, Chen Change Loy, Dahua Lin.*<br>
-ICLR 2020. [[PDF](https://openreview.net/forum?id=B1lPaCNtPB)] [[Github](https://github.com/kam1107/RealnessGAN)] 
-
-**Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models.**<br>
-*Shawn Shan, Emily Wenger, Jiayun Zhang, Huiying Li, Haitao Zheng, Ben Y. Zhao.*<br>
-arxiv, 19 Feb 2020. [[PDF](https://arxiv.org/abs/2002.08327)]
-
-**FakeLocator: Robust Localization of GAN-Based Face Manipulations via Semantic Segmentation Networks with Bells and Whistles.**<br>
-*Yihao Huang, Felix Juefei-Xu, Run Wang, Xiaofei Xie, Lei Ma, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu.*<br>
-arxiv, 27 Jan 2020. [[PDF](https://arxiv.org/abs/2001.09598)]
-
-**DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.**<br>
-*[Liming Jiang](https://liming-jiang.com/), [Wayne Wu](https://wywu.github.io/), [Ren Li](https://liren2515.github.io/page/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
-arxiv, 9 Jan 2020.
-[[PDF](https://arxiv.org/abs/2001.03024)] 
-[[Project](https://liming-jiang.com/projects/DrF1/DrF1.html)]
-[[DeeperForensics-1.0 Dataset](https://github.com/EndlessSora/DeeperForensics-1.0)]
-[[PDF](https://github.com/EndlessSora/DeeperForensics-1.0)]
-
-**FaceForensics++: Learning to Detect Manipulated Facial Images.**<br>
-*[Andreas Rössler](http://www.niessnerlab.org/members/andreas_roessler/profile.html), Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, [Matthias Nießner](http://www.niessnerlab.org/members/matthias_niessner/profile.html).*<br>
-[[PDF](https://arxiv.org/abs/1901.08971)] [[Github](https://github.com/ondyari/FaceForensics)] [[Homepage & Dataset](http://www.niessnerlab.org/projects/roessler2018faceforensics.html)] [[Face Forensics  Image Recognition Suite](http://faceforensics.com/)]
-
-**Face X-ray for More General Face Forgery Detection.**<br>
-*Lingzhi Li, Jianmin Bao, Ting Zhang, Hao Yang, Dong Chen, Fang Wen, Baining Guo.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.13458)]
-
-**FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping.**<br>
-*Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen.*<br>
-arxiv, 1 Dec 2019. [[PDF](https://arxiv.org/abs/1912.13457)]
-
-**DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection.**<br>
-*Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia.*<br>
-arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
-
-**Scalable Fine-grained Generated Image Classification Based on Deep Metric Learning.**<br>
-*Xinsheng Xuan, Bo Peng, Wei Wang, Jing Dong.*<br>
-arxiv, 10 Dec 2019. [[PDF](https://arxiv.org/abs/1912.11082)]
-
-**Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints.**<br>
-*Ning Yu, Larry Davis, [Mario Fritz](https://cispa.saarland/people/mario.fritz/).*<br>
-ICCV 2019.
-[[PDF](https://arxiv.org/abs/1811.08180)] [[Github](https://github.com/ningyu1991/GANFingerprints)] [[Group of Mario Fritz at CISPA](https://cispa.saarland/group/fritz/)] [[Media Coverage](https://mp.weixin.qq.com/s/se1ZyR_gfzliWB5X72OZ1Q)]
-
-**CNNDetection: CNN-Generated Images Are Surprisingly Easy to Spot...For Now.**<br>
-*[Sheng-Yu Wang](https://peterwang512.github.io), [Oliver Wang](http://www.oliverwang.info/), [Richard Zhang](http://richzhang.github.io/), [Andrew Owens](http://andrewowens.com/), [Alexei A. Efros](http://www.eecs.berkeley.edu/~efros/).*<br>
-arxiv, 2019.
-[[PDF](https://arxiv.org/abs/1906.05856)]  [[Code](https://github.com/peterwang512/FALdetector)]  [[Project](https://peterwang512.github.io/FALdetector)] 
-
-**Detecting Photoshopped Faces by Scripting Photoshop.**<br>
-*Sheng-Yu Wang, Oliver Wang, Andrew Owens, Richard Zhang, Alexei A. Efros.*<br>
-ICCV, 2019.
-[[PDF](https://arxiv.org/abs/1912.11035)]  [[Code](https://github.com/peterwang512/CNNDetection)]  [[Project](https://peterwang512.github.io/CNNDetection/)] [[Adobe Max](https://youtu.be/21lj8tCSMkg)]
-
-**Fighting Fake News: Image Splice Detection via Learned Self-Consistency.**<br>
-*Minyoung Huh, Andrew Liu, Andrew Owens, Alexei A. Efros.*<br>
-ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
-
 ## Texture Mapping & Surface Mapping
 
 **Adversarial Texture Optimization from RGB-D Scans.**
 *[Jingwei Huang](http://stanford.edu/~jingweih/), [Justus Thies](http://abhijitkundu.info/), [Angela Dai](https://www.3dunderstanding.org/), [Abhijit Kundu](https://justusthies.github.io/), [Chiyu Jiang](https://www.maxjiang.ml/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Matthias Nießner](http://www.niessnerlab.org/), [Thomas Funkhouser](https://www.cs.princeton.edu/~funk/).*
-CVPR 2020. [[PDF]()] [[Project]()]
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08400)] [[Project](http://stanford.edu/~jingweih/papers/advtex/)] [[Github](https://github.com/hjwdzh/AdversarialTexture)] [[pyRender](https://github.com/hjwdzh/pyRender)]
 
 **CSM: Canonical Surface Mapping via Geometric Cycle Consistency.**<br>
 *Nilesh Kulkarni, Abhinav Gupta, Shubham Tulsiani.*<br>
@@ -203,6 +45,10 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 ## Novel-View Synthesis
 [Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
 
+**SynSin: End-to-end View Synthesis from a Single Image.**<br>
+*Olivia Wiles, Georgia Gkioxari, Richard Szeliski, Justin Johnson.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.08804)] [[Github](http://www.robots.ox.ac.uk/~ow/synsin.html)]
+
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
 *Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng.*<br>
 arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub](https://github.com/bmild/nerf)]
@@ -211,14 +57,9 @@ arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://
 *Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
-**SynSin: End-to-end View Synthesis from a Single Image.**<br>
-*Georgia Gkioxari, Jitendra Malik, Justin Johnson.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1912.08804)]
-[[GitHub](https://github.com/facebookresearch/meshrcnn)]
-
 **IGNOR: Image-guided Neural Object Rendering.**<br>
-*Justus Thies, Michael Zollhöfer, Christian Theobalt, Marc Stamminger, Matthias Nießner.*<br>
-arxiv, 26 Nov 2018 (15 Jan 2020). [[PDF](https://arxiv.org/abs/1811.10720)]
+*Justus Thies, Michael Zollhöfer, Christian Theobalt, Marc Stamminger, [Matthias Nießner](http://niessnerlab.org/publications.html).*<br>
+ICLR 2020. arxiv, 26 Nov 2018 (15 Jan 2020). [[PDF](https://arxiv.org/abs/1811.10720)] [[Project](http://niessnerlab.org/projects/thies2020ignor.html)]
 
 **Monocular Neural Image Based Rendering with Continuous View Control.**<br>
 *[Xu Chen](https://ait.ethz.ch/people/xu/), [Jie Song](https://ait.ethz.ch/people/song/), Otmar Hilliges.*<br>
@@ -455,6 +296,161 @@ arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
 *[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
 arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
 
+## Diving Deep into Image Synthesis
 
+**ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation.**<br>
+*Shreeyak S. Sajjan, Matthew Moore, Mike Pan, Ganesh Nagaraja, Johnny Lee, Andy Zeng, Shuran Song.*<br>
+[[PDF](https://arxiv.org/abs/1910.02550)] [[Github](https://github.com/Shreeyak/cleargrasp)] [[Project](https://sites.google.com/view/cleargrasp)]
 
+**StyleGAN2 Distillation for Feed-forward Image Manipulation.**<br>
+*Yuri Viazovetskyi, Vladimir Ivashkin, Evgeny Kashin.*<br>
+arxiv, 7 Mar 2020. [[PDF](https://arxiv.org/abs/2003.03581)] [[Github](https://github.com/EvgenyKashin/stylegan2-distillation)]
+
+**LAG: Creating High Resolution Images with a Latent Adversarial Generator.**<br>
+*David Berthelot, Peyman Milanfar, Ian Goodfellow.*<br>
+arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02365)] [[Github](https://github.com/google-research/lag)]
+
+**StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
+*[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
+arxiv, 3 Dec 2019.
+[[PDF](https://arxiv.org/abs/1912.04958)] 
+[[Offical TF](https://github.com/NVlabs/stylegan2)]
+[[PyTorch](https://github.com/rosinality/stylegan2-pytorch)]
+[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0)]
+
+**A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
+*Tero Karras, Samuli Laine, Timo Aila.*<br>
+CVPR 2019. 
+[[Paper](https://arxiv.org/abs/1812.04948)]
+[[Video](https://youtu.be/kSLJriaOumA)]
+[[Code](https://github.com/NVlabs/stylegan)]
+[[FFHQ](https://github.com/NVlabs/ffhq-dataset)]
+
+**Bayesian Reasoning with Deep-Learned Knowledge.**<br>
+*Jakob Knollmüller, Torsten Enßlin.*<br>
+arxiv, 29 Jan 2020. [[PDF](https://arxiv.org/abs/2001.11031v1)]
+
+**Unsupervised Discovery of Interpretable Directions in the GAN Latent Space.**<br>
+*Andrey Voynov, Artem Babenko.*<br>
+arxiv, 10 Feb 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.com/anvoynov/GANLatentDiscovery)]
+
+**Overcoming the Disentanglement vs Reconstruction Trade-off via Jacobian Supervision.**<br>
+*[José Lezama](https://iie.fing.edu.uy/~jlezama/).*<br>
+ICLR 2019. [[PDF](https://openreview.net/pdf?id=Hkg4W2AcFm)] [[Github](https://github.com/jlezama/disentangling-jacobian)]
+
+**SinGAN: Learning a Generative Model from a Single Natural Image.**<br>
+*Tamar Rott Shaham, Tali Dekel, Tomer Michaeli.*<br>
+ICCV 2019 (Best Paper). 
+[[PDF](https://arxiv.org/abs/1905.01164)] [[UnOfficial](github.com/FriedRonaldo/SinGAN)] [[Official](github.com/tamarott/SinGAN)]
+
+**InGAN: Capturing and Retargeting the DNA of a Natural Image.**<br>
+ICCV 2019. [[PDF](http://www.wisdom.weizmann.ac.il/~vision/ingan/resources/ingan.pdf)] [[Project](http://www.wisdom.weizmann.ac.il/~vision/ingan/)] [[Github](https://github.com/assafshocher/InGAN)] 
+
+**Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?**<br>
+*Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1904.03189)]
+
+**Image2StyleGAN++: How to Edit the Embedded Images?**<br>
+*Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
+arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/abs/1911.11544)]
+
+**Improving sample diversity of a pre-trained, class-conditional GAN by changing its class embeddings.**<br>
+*Qi Li, Long Mai, Anh Nguyen.*<br>
+arxiv, 10 Oct 2019. [[PDF](https://arxiv.org/abs/1910.04760)]
+
+**Style Generator Inversion for Image Enhancement and Animation.**<br>
+*[Aviv Gabbay](https://www.cse.huji.ac.il/~avivga/), [Yedid Hoshen](https://www.cse.huji.ac.il/~ydidh/).*<br>
+arxiv, 5 Jun 2019. [[PDF](https://arxiv.org/abs/1906.11880)] [[Project](http://www.vision.huji.ac.il/style-image-prior)] [[Github](https://github.com/avivga/style-image-prior)]
+
+**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**<br>
+*eihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
+arxiv, 28 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12861)]
+
+**Unsupervised K-modal Styled Content Generation.**<br>
+*Omry Sendik, Dani Lischinski, Daniel Cohen-Or.*<br>
+arxiv, 10 Jan 2020. [[PDF](https://arxiv.org/pdf/2001.03640.pdf)]
+
+**Deep Video-Based Performance Cloning.**<br>
+*Kfir Aberman, Mingyi Shi, Jing Liao, Dani Lischinski, Daniel Cohen-Or, Chen Baoquan.*<br>
+Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
+
+## DeepFake and Forensic
+
+[[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
+[[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
+
+**Global Texture Enhancement for Fake Face Detection in the Wild.**<br>
+*Zhengzhe Liu, Xiaojuan Qi, Philip H.S. Torr.*<br>
+CVPR 2020. [[PDF](https://xjqi.github.io/real_fake.pdf)]
+
+**Leveraging Frequency Analysis for Deep Fake Image Recognition.**<br>
+*Joel Frank, Thorsten Eisenhofer, Lea Schönherr, Asja Fischer, Dorothea Kolossa, Thorsten Holz.*<br>
+arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08685)] [[Github](https://github.com/RUB-SysSec/GANDCTAnalysis)]
+
+**Disrupting DeepFakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems.**<br>
+*[Nataniel Ruiz](https://natanielruiz.github.io/), [Sarah Adel Bargal](https://cs-people.bu.edu/sbargal/), [Stan Sclaroff](http://www.cs.bu.edu/~sclaroff/).*<br>
+arxiv, 3 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01279)] [[Github](https://github.com/natanielruiz/disrupting-deepfakes)]
+
+**Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples.**<br>
+*Paarth Neekhara, Shehzeen Hussain, Malhar Jere, Farinaz Koushanfar, Julian McAuley.*<br>
+arxiv,  9 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12749)]
+
+**Real or Not Real, that is the Question.**<br>
+*Yuanbo Xiangli, Yubin Deng, Bo Dai, Chen Change Loy, Dahua Lin.*<br>
+ICLR 2020. [[PDF](https://openreview.net/forum?id=B1lPaCNtPB)] [[Github](https://github.com/kam1107/RealnessGAN)] 
+
+**Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models.**<br>
+*Shawn Shan, Emily Wenger, Jiayun Zhang, Huiying Li, Haitao Zheng, Ben Y. Zhao.*<br>
+arxiv, 19 Feb 2020. [[PDF](https://arxiv.org/abs/2002.08327)]
+
+**FakeLocator: Robust Localization of GAN-Based Face Manipulations via Semantic Segmentation Networks with Bells and Whistles.**<br>
+*Yihao Huang, Felix Juefei-Xu, Run Wang, Xiaofei Xie, Lei Ma, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu.*<br>
+arxiv, 27 Jan 2020. [[PDF](https://arxiv.org/abs/2001.09598)]
+
+**DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.**<br>
+*[Liming Jiang](https://liming-jiang.com/), [Wayne Wu](https://wywu.github.io/), [Ren Li](https://liren2515.github.io/page/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
+arxiv, 9 Jan 2020.
+[[PDF](https://arxiv.org/abs/2001.03024)] 
+[[Project](https://liming-jiang.com/projects/DrF1/DrF1.html)]
+[[DeeperForensics-1.0 Dataset](https://github.com/EndlessSora/DeeperForensics-1.0)]
+[[PDF](https://github.com/EndlessSora/DeeperForensics-1.0)]
+
+**FaceForensics++: Learning to Detect Manipulated Facial Images.**<br>
+*[Andreas Rössler](http://www.niessnerlab.org/members/andreas_roessler/profile.html), Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, [Matthias Nießner](http://www.niessnerlab.org/members/matthias_niessner/profile.html).*<br>
+[[PDF](https://arxiv.org/abs/1901.08971)] [[Github](https://github.com/ondyari/FaceForensics)] [[Homepage & Dataset](http://www.niessnerlab.org/projects/roessler2018faceforensics.html)] [[Face Forensics  Image Recognition Suite](http://faceforensics.com/)]
+
+**Face X-ray for More General Face Forgery Detection.**<br>
+*Lingzhi Li, Jianmin Bao, Ting Zhang, Hao Yang, Dong Chen, Fang Wen, Baining Guo.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.13458)]
+
+**FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping.**<br>
+*Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen.*<br>
+arxiv, 1 Dec 2019. [[PDF](https://arxiv.org/abs/1912.13457)]
+
+**DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection.**<br>
+*Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia.*<br>
+arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
+
+**Scalable Fine-grained Generated Image Classification Based on Deep Metric Learning.**<br>
+*Xinsheng Xuan, Bo Peng, Wei Wang, Jing Dong.*<br>
+arxiv, 10 Dec 2019. [[PDF](https://arxiv.org/abs/1912.11082)]
+
+**Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints.**<br>
+*Ning Yu, Larry Davis, [Mario Fritz](https://cispa.saarland/people/mario.fritz/).*<br>
+ICCV 2019.
+[[PDF](https://arxiv.org/abs/1811.08180)] [[Github](https://github.com/ningyu1991/GANFingerprints)] [[Group of Mario Fritz at CISPA](https://cispa.saarland/group/fritz/)] [[Media Coverage](https://mp.weixin.qq.com/s/se1ZyR_gfzliWB5X72OZ1Q)]
+
+**CNNDetection: CNN-Generated Images Are Surprisingly Easy to Spot...For Now.**<br>
+*[Sheng-Yu Wang](https://peterwang512.github.io), [Oliver Wang](http://www.oliverwang.info/), [Richard Zhang](http://richzhang.github.io/), [Andrew Owens](http://andrewowens.com/), [Alexei A. Efros](http://www.eecs.berkeley.edu/~efros/).*<br>
+arxiv, 2019.
+[[PDF](https://arxiv.org/abs/1906.05856)]  [[Code](https://github.com/peterwang512/FALdetector)]  [[Project](https://peterwang512.github.io/FALdetector)] 
+
+**Detecting Photoshopped Faces by Scripting Photoshop.**<br>
+*Sheng-Yu Wang, Oliver Wang, Andrew Owens, Richard Zhang, Alexei A. Efros.*<br>
+ICCV, 2019.
+[[PDF](https://arxiv.org/abs/1912.11035)]  [[Code](https://github.com/peterwang512/CNNDetection)]  [[Project](https://peterwang512.github.io/CNNDetection/)] [[Adobe Max](https://youtu.be/21lj8tCSMkg)]
+
+**Fighting Fake News: Image Splice Detection via Learned Self-Consistency.**<br>
+*Minyoung Huh, Andrew Liu, Andrew Owens, Alexei A. Efros.*<br>
+ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
 

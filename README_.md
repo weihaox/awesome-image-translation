@@ -298,8 +298,8 @@ MM 2018. [[PDF](https://arxiv.org/abs/1712.03474)]
 *Hao Tang, Dan Xu, Gaowen Liu, Wei Wang, Nicu Sebe, Yan Yan.*<br>
 MM 2019. [[PDF](https://arxiv.org/abs/1908.00999)] [[Gtihub](https://github.com/Ha0Tang/C2GAN)]
 
-**Few-Shot Adversarial Learning of Realistic Neural Talking Head Models.**
-*Egor Zakharov, Aliaksandra Shysheya, Egor Burkov, Victor Lempitsky.*
+**Few-Shot Adversarial Learning of Realistic Neural Talking Head Models.**<br>
+*Egor Zakharov, Aliaksandra Shysheya, Egor Burkov, Victor Lempitsky.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1905.08233)] [[Github](https://github.com/grey-eye/talking-heads)]
 
 **Geometry Guided Adversarial Facial Expression Synthesis.**<br>
@@ -538,14 +538,28 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1807.10550)] [[Github](https://github.co
 *Wallace Lira, Johannes Merz, Daniel Ritchie, Daniel Cohen-Or, Hao Zhang.*<br>
 arxiv, 24 Feb 2020, [[PDF](https://arxiv.org/abs/2002.10102)]
 
-**Homomorphic Latent Space Interpolation for Unpaired Image-To-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Homomorphic_Latent_Space_Interpolation_for_Unpaired_Image-To-Image_Translation_CVPR_2019_paper.html)] [[Github](https://github.com/yingcong/HomoInterpGAN)]<br>
+**Homomorphic Latent Space Interpolation for Unpaired Image-To-Image Translation.**<br>
 *[Ying-Cong Chen](https://yingcong.github.io/), Xiaogang Xu, Zhuotao Tian, Jiaya Jia.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Homomorphic_Latent_Space_Interpolation_for_Unpaired_Image-To-Image_Translation_CVPR_2019_paper.html)] [[Github](https://github.com/yingcong/HomoInterpGAN)]
 
 **GANimation: Anatomically-aware Facial Animation from a Single Image.**<br> 
 *Albert Pumarola, Antonio Agudo, Aleix M. Martinez, Alberto Sanfeliu, Francesc Moreno-Noguer.*<br>
 ECCV 2018. [[PDF](https://arxiv.org/abs/1807.09251)] [[Github](https://github.com/albertpumarola/GANimation)] 
 
 ## Applications
+
+### Photo Animation
+
+**AnimeGAN: A Novel Lightweight GAN For Photo Animation.**<br>
+2020. [[Github](https://github.com/TachibanaYoshino/AnimeGAN)]
+[[Dataset](https://github.com/TachibanaYoshino/AnimeGAN/releases/tag/dataset-1)]
+
+**ComixGAN: Generative Adversarial Network For Transferring Images To Comics.**<br>
+[[Github](https://github.com/nijuyr/comixGAN)]
+
+**CartoonGAN: Generative Adversarial Networks for Photo Cartoonization.**<br>
+*Yang Chen, Yu-Kun Lai, Yong-Jin Liu.*<br>
+CVPR 2018. [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)] [[Pytorch](https://github.com/znxlwm/pytorch-CartoonGAN)] [[TensorFlow](https://github.com/taki0112/CartoonGAN-Tensorflow)]
 
 ### Image Restoration
 
@@ -627,7 +641,7 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.05174)] [[Github](https://github.co
 
 **Few-shot Video-to-Video Synthesis.**</br>
 *Ting-Chun Wang, Ming-Yu Liu, Andrew Tao, Guilin Liu, Jan Kautz, Bryan Catanzaro.*<br> 
-ArXiv 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)]
+NeurIPS 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)] [[Github](https://github.com/NVlabs/few-shot-vid2vid)]
 
 ### Data Augmentation
 
@@ -672,11 +686,11 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1905.01723)] [[Project](https://nvlabs.g
 
 **Semi Few-Shot Attribute Translation.**</br> 
 *Ricard Durall, Franz-Josef Pfreundt, Janis Keuper.*<br> 
-ArXiv 2019. [[PDF](https://arxiv.org/abs/1910.03240)] 
+arxiv 2019. [[PDF](https://arxiv.org/abs/1910.03240)] 
 
 **ZstGAN: An Adversarial Approach for Unsupervised Zero-Shot Image-to-Image Translation.**</br> 
 *Jianxin Lin, Yingce Xia, Sen Liu, Tao Qin, Zhibo Chen.*<br> 
-ArXiv 2019. [[PDF](https://arxiv.org/abs/1906.00184)] [[Github](https://github.com/linjx-ustc1106/ZstGAN-PyTorch)]
+arxiv 2019. [[PDF](https://arxiv.org/abs/1906.00184)] [[Github](https://github.com/linjx-ustc1106/ZstGAN-PyTorch)]
 
 **MetaPix: Few-Shot Video Retargeting.**</br>
 *Jessica Lee, Deva Ramanan, Rohit Girdhar.*<br> 
@@ -684,7 +698,7 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1910.04742)]] [[Project](https://motionr
 
 **Few-shot Video-to-Video Synthesis.**</br>
 *Ting-Chun Wang, Ming-Yu Liu, Andrew Tao, Guilin Liu, Jan Kautz, Bryan Catanzaro.*<br> 
-ArXiv 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)]
+arxiv 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)]
 
 ### Image-Synthesis
 
@@ -702,7 +716,7 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDra
 
 **Cascaded Generation of High-quality Color Visible Face Images from Thermal Captures.**</br> 
 *Naser Damer, Fadi Boutros, Khawla Mallat, Florian Kirchbuchner, Jean-Luc Dugelay, Arjan Kuijper.*<br>
-ArXiv 2019. [[PDF](https://arxiv.org/abs/1910.09524)] 
+arxiv 2019. [[PDF](https://arxiv.org/abs/1910.09524)] 
 
 **CartoonGAN: Generative Adversarial Networks for Photo Cartoonization.**</br>
 *Yang Chen, Yu-Kun Lai, Yong-Jin Liu.*<br>

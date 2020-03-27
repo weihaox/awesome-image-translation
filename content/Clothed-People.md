@@ -110,7 +110,11 @@ Oppo shared on ISMAR 2019.
 
 ## Image-Based Virtual Try-On
 
-**Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content.**<br>
+**Toward Accurate and Realistic Virtual Try-on Through Shape Matching and Multiple Warps.**<br>
+*Kedan Li, Min Jin Chong, Jingen Liu, David Forsyth.*<br>
+arxiv, 22 Mar 2020. [[PDF](https://arxiv.org/abs/2003.10817)]
+
+**Towards Photo-Realistic Virtual Try-On by Adaptively Generating Preserving Image Content.**<br>
 *Han Yang, Ruimao Zhang, Xiaobao Guo, Wei Liu, Wangmeng Zuo, Ping Luo.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.05863)]
 
@@ -133,3 +137,28 @@ arxiv, 17 Jan 2019. [[PDF](https://arxiv.org/abs/2001.06265)]
 **Generating High-Resolution Fashion Model Images Wearing Custom Outfits.**<br> 
 *Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann.*<br> 
 Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
+
+### Challenge and workshop
+- KDD Workshop on Fashion. [[2019]](https://kddfashion2019.mybluemix.net/) [[2018]](https://kddfashion2018.mybluemix.net/) [[2017]](https://kddfashion2017.mybluemix.net/) [[2016]](http://kddfashion2016.mybluemix.net/)
+- Workshop on Computer Vision for Fashion, Art and Design. [[CVPR 2020]](https://sites.google.com/view/cvcreative2020) [[ICCV 2019]](https://sites.google.com/view/cvcreative/home) [[ECCV 2018]](https://sites.google.com/view/eccvfashion/) [[ICCV 2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
+- NeurlPS workshop on Machine Learning for Creativity and Design. [[2019]](https://neurips2019creativity.github.io/) [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
+- SIGIR Workshop On eCommerce. [[2019]](https://sigir-ecom.github.io/index.html) [[2018]](https://sigir-ecom.github.io/ecom2018/index.html) [[2017]](http://sigir-ecom.weebly.com/) 
+- CVPR Deep Learning for Content Creation Tutorial. [[2019]](https://nvlabs.github.io/dl-for-content-creation/)
+- iMaterialist Fashion Challenge. [[CVPR 2019]](https://sites.google.com/view/fgvc6/competitions/imat-fashion-2019)
+- iDesigner Challenge. [[CVPR 2019]](https://sites.google.com/view/fgvc6/competitions/idesigner-2019)
+- FashionGen Challenge. [[ICCV 2019, ECCV 2018]](https://fashion-gen.com/)
+- JD AI Fashion Challenge. [[ChinaMM 2018]](https://fashion-challenge.github.io/)
+- Alibaba FashionAI Global Challenge. [[Tianchi]](http://fashionai.alibaba.com/)
+- Artificial Intelligence on Fashion and Textile Conference. [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
+- Fashion IQ Challenge. [[CVPR 2020]](https://sites.google.com/view/cvcreative2020/fashion-iq?authuser=0) [[ICCV 2019]](https://sites.google.com/view/lingir/fashion-iq)
+- DeepFashion2 Challenge. [[CVPR 2020]](https://sites.google.com/view/cvcreative2020/deepfashion2?authuser=0) [[ICCV 2019]](https://sites.google.com/view/cvcreative/deepfashion2)
+
+### Datasets
+- Fashionpedia. [[Website]](https://fashionpedia.github.io/home/index.html)
+- DeepFashion2 Dataset. [[Website]](<https://github.com/switchablenorms/DeepFashion2>)
+- DeepFashion Dataset. [[Website]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
+- FashionGen. [[Website]](https://fashion-gen.com/)
+- FashionAI. [[Tianchi]](http://fashionai.alibaba.com/datasets/?spm=a2c22.11190735.991137.8.501b6d83ilPJsX)
+- TaobaoClothMatch. [[Tianchi]](TaobaoClothMatch)
+- Fashion-MNIST. [[Fashion-MNIST]](https://github.com/zalandoresearch/fashion-mnist)
+- Fashion IQ. [[Website]](https://www.spacewu.com/posts/fashion-iq/)

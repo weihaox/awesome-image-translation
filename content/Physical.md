@@ -125,6 +125,10 @@ TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)]
 
 ### Human Poses and Shapes
 
+**PoseNet3D: Unsupervised 3D Human Shape and Pose Estimation.**<br>
+*Shashank Tripathi, Siddhant Ranade, Ambrish Tyagi, Amit Agrawal.*<br>
+arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.03473)]
+
 **MoVi: A Large Multipurpose Motion and Video Dataset.**<br>
 *Saeed Ghorbani, Kimia Mahdaviani, Anne Thaler, Konrad Kording, Douglas James Cook, Gunnar Blohm, Nikolaus F. Troje.*<br>
 arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01888)]

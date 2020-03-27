@@ -7,10 +7,10 @@ relative_links:
   collections: true
 include:
   - README.md
-  - README_category.md
-  - content/Labs.md
-  - content/Datasets.md
-  - content/Physical.md
-  - content/3D-Representations.md
-  - content/Synthesis&Forensic.md
-  - content/Clothed-People.md
+  - README_.md
+  - content/labs.md
+  - content/datasets.md
+  - content/physical.md
+  - content/3d-representations.md
+  - content/controllable-image-generation.md
+  - content/clothed-people.md
