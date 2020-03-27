@@ -8,9 +8,9 @@ relative_links:
 include:
   - README.md
   - README_.md
-  - content/labs.md
-  - content/datasets.md
-  - content/physical.md
-  - content/3d-representations.md
+  - content/cv-lab.md
+  - content/dataset.md
+  - content/physical-world.md
+  - content/3d-representation.md
   - content/controllable-image-generation.md
-  - content/clothed-people.md
+  - content/clothed-human.md

@@ -62,7 +62,7 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 
 **PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization.**<br>
 *Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li.*<br>
-ICCV 2019. [[Project](shunsukesaito.github.io/PIFu)] [[PDF](https://arxiv.org/pdf/1905.05172.pdf)]
+ICCV 2019. [[PDF](https://arxiv.org/pdf/1905.05172.pdf)] [[Project](shunsukesaito.github.io/PIFu)] [[Github](https://github.com/shunsukesaito/PIFu)]
 
 **SimulCap : Single-View Human Performance Capture with Cloth Simulation.** <br>
 *Tao Yu, Zerong Zheng, Yuan Zhong, Jianhui Zhao, Qionghai Dai, Gerard Pons-moll, Yebin Liu.*<br>
