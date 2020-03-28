@@ -109,6 +109,10 @@ ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/
 
 ## Dense Shape Correspondence & Matching
 
+**ANCNet: Correspondence Networks with Adaptive Neighbourhood Consensus.**<br>
+*Shuda Li, Kai Han, Theo W. Costain, Henry Howard-Jenkins, Victor Prisacariu.*<br>
+CVPR 2020. [[PDF](https://ancnet.avlcode.org/asset/cvpr2020_anc_net.pdf)] [[Project](https://ancnet.avlcode.org/)] [[Github](https://github.com/ActiveVisionLab/ANCNet)] 
+
 **Self-supervised Learning of Dense Shape Correspondence.**<br>
 *Oshri Halimi, [Or Litany](https://orlitany.github.io/), Emanuele Rodola, Alex M. Bronstein, Ron Kimmel.*<br>
 CVPR 2019 Oral. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Halimi_Unsupervised_Learning_of_Dense_Shape_Correspondence_CVPR_2019_paper.html)] [[PDF](https://github.com/OshriHalimi/unsupervised_learning_of_dense_shape_correspondence)] 

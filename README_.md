@@ -151,6 +151,15 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.00273)] [[Github](https://github.co
 *Yihao Zhao, Ruihai Wu, Hao Dong.*<br>
 arxiv, 10 Mar 2020. [[PDF](https://arxiv.org/abs/2003.04858)]
 
+**Optimal Unsupervised Domain Translation.**<br>
+*Emmanuel de Bézenac, Ibrahim Ayed, Patrick Gallinari.*<br>
+ICML 2020 Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models (INNF+ ).
+[[PDF](https://arxiv.org/abs/1906.01292)]
+
+**Cross-Domain Cascaded Deep Feature Translation.**<br>
+*Oren Katzir, Dani Lischinski, Daniel Cohen-Or.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1906.01526)]
+
 ### Disentanglement
 
 **XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings.**<br>
@@ -473,7 +482,7 @@ TIP 2019. [[PDF](https://arxiv.org/abs/1806.06195)]
 
 **SPA-GAN: Spatial Attention GAN for Image-to-Image Translation.**<br>
 *Hajar Emami, Majid Moradi Aliabadi, Ming Dong, Ratna Babu Chinnam.*<br>
-ArXiv 2019. [[PDF](https://arxiv.org/abs/1908.06616)] 
+arxiv 2019. [[PDF](https://arxiv.org/abs/1908.06616)] 
 
 ### Layout Guided
 
@@ -619,6 +628,10 @@ Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https
 
 ### Video
 
+**Unsupervised Video-to-Video Translation via Self-Supervised Learning.**<br>
+*Kangning Liu, Shuhang Gu, Radu Timofte.*<br>
+2020. [[PDF](https://openreview.net/forum?id=HkevCyrFDS)]
+
 **Video-to-Video Synthesis.**<br>
 *Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bryan Catanzaro.*<br>
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1808.06601)] [[Github](https://github.com/NVIDIA/vid2vid)]   
@@ -750,7 +763,11 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1903.05885)][[Github](https://github.com
 
 **SelectionGAN: Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation.**<br>
 *Hao Tang, Dan Xu, Nicu Sebe, Yanzhi Wang, Jason J. Corso, Yan Yan.*<br>
-VPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
+
+**Multi-Channel Attention Selection GANs for Guided Image-to-Image Translation.**<br>
+*Hao Tang, Dan Xu, Yan Yan, Jason J. Corso, Philip H.S. Torr, Nicu Sebe.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2002.01048)]
 
 **VR Facial Animation via Multiview Image Translation.**<br>
 *Shih-En Wei, Jason Saragih, Tomas Simon, Adam W. Harley, Stephen Lombardi, Michal Perdoch, Alexander Hypes, Dawei Wang, Hernan Badino, Yaser Sheikh.*<br>

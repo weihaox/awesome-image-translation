@@ -9,6 +9,10 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
 *Ye Yu, William A. P. Smith.*<br>
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_InverseRenderNet_Learning_Single_Image_Inverse_Rendering_CVPR_2019_paper.html)] [[Github](https://github.com/YeeU/InverseRenderNet)] [[IIW Dataset](http://opensurfaces.cs.cornell.edu/publications/intrinsic/#download)] 
 
+**Learning Inverse Rendering of Faces from Real-world Videos.**<br>
+*Yuda Qiu, Zhangyang Xiong, Kai Han, Zhongyuan Wang, Zixiang Xiong, Xiaoguang Han.*<br>
+arxiv, 2020. [[PDF](https://arxiv.org/abs/2003.12047)] [[Github](https://github.com/RudyQ/InverseFaceRender)]
+
 ## Disentanglement
 **Unsupervised Disentanglement of Pose, Appearance and Background from Images and Videos.**<br>
 *Aysegul Dundar, Kevin J. Shih, Animesh Garg, Robert Pottorf, Andrew Tao, Bryan Catanzaro.*<br>
@@ -517,6 +521,112 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1811.10719)] [[Project](http://hiroharu-
 **Self-supervised Learning of 3D Objects from Natural Images.**<br>
 *Hiroharu Kato, Tatsuya Harada.* <br>
 arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://hiroharu-kato.com/projects_en/cifar10_3d.html)]
+
+## Depth with ToF
+
+**Deep End-to-End Alignment and Refinement for Time-of-Flight RGB-D Module.**<br>
+*Di Qiu, Jiahao Pang, [Wenxiu Sun](http://wenxiusun.com/), Chengxi Yang.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1909.07623)] [[Github](https://github.com/sylqiu/tof_rgbd_processing)]
+
+**Deep End-to-End Time-of-Flight Imaging.**<br>
+*Shuochen Su, Felix Heide, Gordon Wetzstein, Wolfgang Heidrich.*<br>
+CVPR 2018. [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/html/Su_Deep_End-to-End_Time-of-Flight_CVPR_2018_paper.html)] [[Github](https://github.com/shuochsu/DeepEnd2EndToFImaging)]
+
+**Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image.**<br>
+*[Fangchang Ma](http://www.mit.edu/~fcma), [Sertac Karaman](http://karaman.mit.edu/).*<br>
+ICRA 2018. [[PDF](https://arxiv.org/abs/1709.07492)] [[Github](https://github.com/fangchangma/sparse-to-dense.pytorch)]
+
+## Temporal- and Scale-Consistent Depth Estimation
+
+**Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields.**<br>
+*Michael Ramamonjisoa, Yuming Du, Vincent Lepetit..*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12730)]
+
+**DiverseDepth: Affine-invariant Depth Prediction Using Diverse Data.**<br>
+*Wei Yin, Xinlong Wang, Chunhua Shen, Yifan Liu, Zhi Tian, Songcen Xu, Changming Sun, Dou Renyin.*<br>
+arxiv, 3 Feb 2020. [[PDF](https://arxiv.org/abs/2002.00569)]
+
+**Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer.**<br>
+*René Ranftl, Katrin Lasinger, David Hafner, Konrad Schindler, Vladlen Koltun.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1907.01341)] [[Github](https://github.com/intel-isl/MiDaS)]
+
+**Enforcing Geometric Constraints of Virtual Normal for Depth Prediction.**<br>
+*Wei Yin, Yifan Liu, Chunhua Shen, Youliang Yan.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1907.12209)] [[Project](https://tinyurl.com/virtualnormal)]
+
+**Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera.**<br>
+*[Chao Liu](http://www.cs.cmu.edu/~ILIM/people/chaoliu1/), [Jinwei Gu](http://www.gujinwei.org/), [Kihwan Kim](https://research.nvidia.com/person/kihwan-kim), Srinivasa Narasimhan, [Jan Kautz](https://research.nvidia.com/person/jan-kautz).*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1901.02571)] [[Project](https://research.nvidia.com/publication/2019-06_Neural-RGBD)] [[Github](https://github.com/NVlabs/neuralrgbd)]
+
+**Don't Forget The Past: Recurrent Depth Estimation from Monocular Video.**<br>
+*Vaishakh Patil, Wouter Van Gansbeke, Dengxin Dai, Luc Van Gool.*<br>
+arxiv, 8 Jan 2020. [[PDF](https://arxiv.org/abs/2001.02613)] [[Github](https://github.com/wvangansbeke/Recurrent-Depth-Estimation)]
+
+**GLNet: Self-supervised Learning with Geometric Constraints in Monocular Video: Connecting Flow, Depth, and Camera.**<br>
+*Yuhua Chen, Cordelia Schmid, Cristian Sminchisescu.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1907.05820)]
+
+**Exploiting Temporal Consistency for Real-time Video Depth Estimation.**<br>
+*Haokui Zhang, Chunhua Shen, Ying Li, Yuanzhouhan Cao, Yu Liu, Youliang Yan.*<br>
+ICCV, 2019. [[PDF](https://arxiv.org/abs/1908.03706.pdf)] [[Project](https://tinyurl.com/STCLSTM)]
+
+**Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video.**<br>
+*Jia-Wang Bian, Zhichao Li, Naiyan Wang, Huangying Zhan, Chunhua Shen, Ming-Ming Cheng, Ian Reid.* <br>
+NeurIPS, 2019.  
+[[PDF](https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf)] 
+[[Github](https://github.com/JiawangBian/SC-SfMLearner-Release)]
+[[Project](https://jwbian.net/sc-sfmlearner)]
+
+## Depth and Related Tasks
+
+**Pattern-Affinitive Propagation Across Depth, Surface Normal and Semantic Segmentation.**<br>
+*Zhenyu Zhang, Zhen Cui, Chunyan Xu, Yan Yan, Nicu Sebe, Jian Yang.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Pattern-Affinitive_Propagation_Across_Depth_Surface_Normal_and_Semantic_Segmentation_CVPR_2019_paper.pdf)]
+
+**Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation.**<br>
+*Anurag Ranjan, [Varun Jampani](https://varunjampani.github.io/), Lukas Balles, Kihwan Kim, Deqing Sun, Jonas Wulff, Michael J. Black.*<br>
+CVPR 2019. 
+[[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ranjan_Competitive_Collaboration_Joint_Unsupervised_Learning_of_Depth_Camera_Motion_Optical_CVPR_2019_paper.pdf)]
+[[Github](http://github.com/anuragranj/cc)]
+
+## Learning Temporal Information from Videos
+[Related Topics: Object Detection, Tracking and Segmentation.]
+
+### FastSlow, Multiple Stream and Temporal Pyramid
+**SlowFast Networks for Video Recognition.**<br>
+*Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, Kaiming He.*<br>
+ICCV 2019. 
+[[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Feichtenhofer_SlowFast_Networks_for_Video_Recognition_ICCV_2019_paper.pdf)]
+[[Github](https://github.com/facebookresearch/SlowFast)]
+
+### 3D convolutions (C3D)
+**Learning a Spatio-Temporal Embedding for Video Instance Segmentation.**<br>
+*Anthony Hu, Alex Kendall, Roberto Cipolla.*<br>
+ICLR 2020. [[PDF](https://arxiv.org/abs/1912.08969v1)]
+
+**Fast Spatio-Temporal Residual Network for Video Super-Resolution.**<br>
+*Sheng Li, Fengxiang He, Bo Du, Lefei Zhang, Yonghao Xu, Dacheng Tao.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Fast_Spatio-Temporal_Residual_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf)]
+
+### Flow
+**Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video.**<br>
+*Jia-Wang Bian, Zhichao Li, Naiyan Wang, Huangying Zhan, Chunhua Shen, Ming-Ming Cheng, Ian Reid.* <br>
+NeurIPS, 2019.  
+[[PDF](https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf)] 
+[[Github](https://github.com/JiawangBian/SC-SfMLearner-Release)]
+[[Project](https://jwbian.net/sc-sfmlearner)]
+
+### 2DCNN + LSTM (Temporal Block)
+**Exploiting Temporal Consistency for Real-time Video Depth Estimation.**<br>
+*Haokui Zhang, Chunhua Shen, Ying Li, Yuanzhouhan Cao, Yu Liu, Youliang Yan.*<br>
+ICCV, 2019. [[PDF](https://arxiv.org/abs/1908.03706.pdf)] [[Project](https://tinyurl.com/STCLSTM)]
+
+**3D Human Pose Estimation in Video with Temporal Convolutions and Semi-supervised Training.**<br>
+*Dario Pavllo, Christoph Feichtenhofer, David Grangier, Michael Auli.*<br>
+CVPR 2019. 
+[[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf)] 
+[[Github](https://github.com/facebookresearch/VideoPose3D)] [[Project](https://dariopavllo.github.io/VideoPose3D)]
+
 
 ## Gaze Estimation/Tracking/Redirection/Correction, Blink Detection
 

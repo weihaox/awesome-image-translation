@@ -6,44 +6,59 @@ Part of this repo is in [here](https://github.com/xiaweihao/awesome-image-transl
 
 ## Texture Mapping & Surface Mapping
 
-**Adversarial Texture Optimization from RGB-D Scans.**
-*[Jingwei Huang](http://stanford.edu/~jingweih/), [Justus Thies](http://abhijitkundu.info/), [Angela Dai](https://www.3dunderstanding.org/), [Abhijit Kundu](https://justusthies.github.io/), [Chiyu Jiang](https://www.maxjiang.ml/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Matthias Nießner](http://www.niessnerlab.org/), [Thomas Funkhouser](https://www.cs.princeton.edu/~funk/).*
+**Adversarial Texture Optimization from RGB-D Scans.**<br>
+*[Jingwei Huang](http://stanford.edu/~jingweih/), [Justus Thies](http://abhijitkundu.info/), [Angela Dai](https://www.3dunderstanding.org/), [Abhijit Kundu](https://justusthies.github.io/), [Chiyu Jiang](https://www.maxjiang.ml/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Matthias Nießner](http://www.niessnerlab.org/), [Thomas Funkhouser](https://www.cs.princeton.edu/~funk/).*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08400)] [[Project](http://stanford.edu/~jingweih/papers/advtex/)] [[Github](https://github.com/hjwdzh/AdversarialTexture)] [[pyRender](https://github.com/hjwdzh/pyRender)]
 
 **CSM: Canonical Surface Mapping via Geometric Cycle Consistency.**<br>
 *Nilesh Kulkarni, Abhinav Gupta, Shubham Tulsiani.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1907.10043)] [[Github](https://nileshkulkarni.github.io/csm/)] [[Project](https://nileshkulkarni.github.io/csm/)]
 
-**Texture Mapping for 3D Reconstruction with RGB-D Sensor.** <br>
-*Yanping Fu, [Qingan Yan](https://yanqingan.github.io/), Long Yang, Jie Liao, [Chunxia Xiao](http://graphvision.whu.edu.cn/).* <br>
+**Texture Mapping for 3D Reconstruction with RGB-D Sensor.**<br>
+*Yanping Fu, [Qingan Yan](https://yanqingan.github.io/), Long Yang, Jie Liao, [Chunxia Xiao](http://graphvision.whu.edu.cn/).*<br>
 CVPR 2018. [[PDF](https://yanqingan.github.io/docs/cvpr18_texture.pdf)] [[thecvf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Texture_Mapping_for_CVPR_2018_paper.pdf)] [[Code on Github](https://github.com/fdp0525/G2LTex)]
 
-**Let There Be Color! - Large-Scale Texturing of 3D Reconstructions.** <br>
-*Waechter, Michael and Moehrle, Nils and Goesele, Michael.* <br>
+**Let There Be Color! - Large-Scale Texturing of 3D Reconstructions.**<br>
+*Waechter, Michael and Moehrle, Nils and Goesele, Michael.*<br>
 ECCV 2018. [[PDF](https://www.gcc.tu-darmstadt.de/media/gcc/papers/Waechter-2014-LTB.pdf)] [[Project](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)] [[Github](https://github.com/nmoehrle/mvs-texturing)] [[rayint](https://github.com/nmoehrle/rayint)] [[Eigen](http://eigen.tuxfamily.org)] [[Multi-View Environment](http://www.gcc.tu-darmstadt.de/home/proj/mve)] [[mapMAP](http://www.gcc.tu-darmstadt.de/home/proj/mapmap)]
 
-**Learning Category-Specific Mesh Reconstruction from Image Collections.** <br>
+**Learning Category-Specific Mesh Reconstruction from Image Collections.**<br>
 *Angjoo Kanazawa, Shubham Tulsiani Alexei A. Efros, Jitendra Malik.*<br>
-[[Github](akanazawa.github.io/cmr/)] [[Project](https://github.com/akanazawa/cmr)]
+ECCV 2018. [[Github](akanazawa.github.io/cmr/)] [[Project](https://github.com/akanazawa/cmr)]
  
 **Texture Fields: Learning Texture Representations in Function Space.**<br>
 *Michael Oechsle, Lars Mescheder, Michael Niemeyer, Thilo Strauss, Andreas Geiger.*<br>
-[[PDF](https://arxiv.org/abs/1905.07259)]
+ICCV 2019. [[PDF](https://arxiv.org/abs/1905.07259)]
 
-**AtlasNet: A Papier-Mache Approach to Learning 3D Surface Generation.** <br>
+**AtlasNet: A Papier-Mache Approach to Learning 3D Surface Generation.**<br>
 *Thibault Groueix, Matthew Fisher, Vladimir Kim, Bryan Russell, Mathieu Aubry.*<br>
-[[PDF](https://hal.inria.fr/hal-01718933/file/1802.05384.pdf)]
+CVPR 2018. [[PDF](https://hal.inria.fr/hal-01718933/file/1802.05384.pdf)] [[Project](http://imagine.enpc.fr/~groueixt/atlasnet/)] [[Github](https://github.com/ThibaultGROUEIX/AtlasNet)]
 
-**Learning to Generate Textures on Meshes.** <br>
-*Amit Raj, Cusuh Ham, Connelly Barnes, Vladimir Kim, Jingwan Lu, James Hays.*<br>
-[[PDF](http://openaccess.thecvf.com/content_cvprw_20/papers/3D-WidDGET/Amit_Raj_Learning_to_Generate_Textures_on_3D_Meshes_CVPRW_2019_paper.pdf)]
+**Learning Elementary Structures For 3D Shape Generation And Matching.**<br>
+*Theo Deprelle, Thibault Groueix, Matthew Fisher, Vladimir G. Kim, Bryan C. Russell, Mathieu Aubry.*<br>
+arxiv, 2019. [[PDF](https://arxiv.org/abs/1908.04725)]
+[[Project](http://imagine.enpc.fr/~deprellt/atlasnet2/)]
+[[Github](https://github.com/TheoDEPRELLE/AtlasNetV2)]
 
-**Unsupervised Texture Transfer from Images to Model Collections.** <br>
-*Y. Wang, [Hao Su](http://ai.ucsd.edu/~haosu/), Qixing Huang, Jingwei Huang, Leonidas J. Guibas, Niloy J. J. Mitra.* <br>
+**Learning to Generate Textures on Meshes.**<br>
+*Amit Raj, [Cusuh Ham](https://cusuh.github.io/), Connelly Barnes, Vladimir Kim, Jingwan Lu, James Hays.*<br>
+CVPR [Deep Generative Models for 3D Understanding 2019](https://sites.google.com/view/3d-widget/) (Best Paper). [[PDF](http://openaccess.thecvf.com/content_cvprw_20/papers/3D-WidDGET/Amit_Raj_Learning_to_Generate_Textures_on_3D_Meshes_CVPRW_2019_paper.pdf)]
+
+**Unsupervised Texture Transfer from Images to Model Collections.**<br>
+*[Tuanfeng Yand Wang](http://geometry.cs.ucl.ac.uk/tuanfeng/), [Hao Su](http://ai.ucsd.edu/~haosu/), Qixing Huang, Jingwei Huang, Leonidas J. Guibas, [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/index.html).*<br>
 SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_transfer_small.pdf)]
+[[Project](http://geometry.cs.ucl.ac.uk/projects/2016/texture_transfer/)]
+[[Data](http://geometry.cs.ucl.ac.uk/tuanfeng/texturetransfer/texture_transfer_code_and_data.zip)]
 
-## Novel-View Synthesis
-[Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+## 2D to 3D
+
+**Self-Supervised 2D Image to 3D Shape Translation with Disentangled Representations.**<br>
+*Berk Kaya, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2003.10016)]
+
+**Deep 3D-Zoom Net: Unsupervised Learning of Photo-Realistic 3D-Zoom.**<br>
+*Juan Luis Gonzalez Bello, Munchurl Kim.*<br>
+ICLR 2020. [[PDF](https://arxiv.org/abs/1909.09349)] [[Video](https://www.youtube.com/watch?v=Gz76VYwUzZ8)]
 
 **SynSin: End-to-end View Synthesis from a Single Image.**<br>
 *Olivia Wiles, Georgia Gkioxari, Richard Szeliski, Justin Johnson.*<br>
@@ -56,6 +71,13 @@ arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://
 **View Independent Generative Adversarial Network for Novel View Synthesis.**<br>
 *Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
+
+## Novel-View Synthesis
+[Novel-View Synthesis](https://paperswithcode.com/task/novel-view-synthesis/codeless)
+
+**GPU-Accelerated Mobile Multi-view Style Transfer.**<br>
+*Puneet Kohli, Saravana Gunaseelan, Jason Orozco, Yiwen Hua, Edward Li, Nicolas Dahlquist.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.00706v1)]
 
 **IGNOR: Image-guided Neural Object Rendering.**<br>
 *Justus Thies, Michael Zollhöfer, Christian Theobalt, Marc Stamminger, [Matthias Nießner](http://niessnerlab.org/publications.html).*<br>
@@ -79,12 +101,7 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_
 
 **DNR: A Neural Rendering Framework for Free-Viewpoint Relighting.**<br>
 *Zhang Chen, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu.*<br>
-arxiv, 26 Nov 2019.
-
-## 3D Pose Transfer
-**Neural Pose Transfer by Spatially Adaptive Instance Normalization.**<br>
-*Jiashun Wang, Chao Wen, Yanwei Fu, Haitao Lin, Tianyun Zou, Xiangyang Xue, Yinda Zhang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.com/jiashunwang/Neural-Pose-Transfer)]
+arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
 
 ## Motion Transfer & Retargeting & Reenactment & Dubbing & Animation
 
@@ -141,6 +158,11 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 **Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer.**<br>
 *Dongxu Wei, Haibin Shen, Kejie Huang.*<br>
 arxiv, 25 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10672)]
+
+## 3D Pose Transfer
+**Neural Pose Transfer by Spatially Adaptive Instance Normalization.**<br>
+*Jiashun Wang, Chao Wen, Yanwei Fu, Haitao Lin, Tianyun Zou, Xiangyang Xue, Yinda Zhang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.com/jiashunwang/Neural-Pose-Transfer)]
 
 ## Video Prediction and Future Prediction
 
@@ -295,6 +317,44 @@ arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
 **Multi-Graph Transformer for Free-Hand Sketch Recognition.**<br>
 *[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
 arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
+
+## Restoration with Unpair or Misaligned Data
+
+**EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
+*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
+AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)]
+
+**Meta-Transfer Learning for Zero-Shot Super-Resolution.**<br>
+*Jae Woong Soh, Sunwoo Cho, Nam Ik Cho.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12213)]
+
+**Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
+*Andrey Ignatov, Luc Van Gool, Radu Timofte.* <br>
+arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://github.com/aiff22/PyNET)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)]
+
+**EnlightenGAN: Deep Light Enhancement without Paired Supervision.**<br>
+*Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang.*<br>
+[[PDF](https://arxiv.org/abs/1906.06972)] [[Github](https://github.com/TAMU-VITA/EnlightenGAN)] [[Dataset](https://github.com/TAMU-VITA/EnlightenGAN/issues/28)] [[KinD](https://arxiv.org/abs/1905.04161)]
+
+**Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software.**<br>
+*Satoshi Kosugi, Toshihiko Yamasaki.* <br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/1912.07833)]
+
+**Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements.**<br>
+*Kaixuan Wei, Jiaolong Yang, Ying Fu, David Wipf, Hua Huang.* <br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00637)] [[Project](https://github.com/Vandermode/ERRNet)]
+
+**Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software.**<br>
+*Kosugi, Toshihiko Yamasaki.*<br>
+ArXiV, 17 Dec 2019 [[PDF](https://arxiv.org/pdf/1912.07833.pdfSatoshi)]
+
+**Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs.**<br>
+*Yu-Sheng Chen, Yu-Ching Wang, Man-Hsin Kao, Yung-Yu Chuang.*<br>
+CVPR 2018. [[PDF](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf)] [[Supplementary Material](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE-sm-compress.pdf)] [[Demo](http://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/)] [[Github](https://github.com/nothinglo/Deep-Photo-Enhancer)]  [[MIT-Adobe FiveK Dataset](https://data.csail.mit.edu/graphics/fivek/)] [[DSLR Photo Enhancement Dataset](http://people.ee.ethz.ch/~ihnatova/#demo)]
+
+**Probabilistic Noise2Void: Unsupervised Content-Aware Denoising.**<br>
+*Alexander Krull, Tomas Vicar, Florian Jug.*<br>
+[[PDF](https://arxiv.org/abs/1906.00651)] [[PN2V](https://github.com/juglab/pn2v)] [[PPN2V](https://github.com/juglab/ppn2v)]
 
 ## Diving Deep into Image Synthesis
 

@@ -59,6 +59,7 @@ Others
 **University College London (UCL)** 
 * [VECG: Virtual Environments and Computer Graphics](http://vecg.cs.ucl.ac.uk/)
 * [VIS: Vision and Imaging Science](http://vis.cs.ucl.ac.uk)
+* [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php)
 
 University of Cambridge 
 * [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/) 
