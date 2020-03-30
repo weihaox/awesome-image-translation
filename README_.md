@@ -295,6 +295,10 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1911.00622)]
 
 ### Keypoint or Landmark Guided
 
+**ADGAN: Controllable Person Image Synthesis with Attribute-Decomposed GAN.**<br>
+*[Yifang Men](https://menyifang.github.io/), [Yiming Mao](https://mtroym.github.io/), Yuning Jiang, Wei-Ying Ma, Zhouhui Lian.*<br>
+CVPR 2020. [[PDF](https://menyifang.github.io/projects/ADGAN/ADGAN_files/Paper_ADGAN_CVPR2020.pdf)] [[Project](https://menyifang.github.io/projects/ADGAN/ADGAN.html)]  [[Github](https://github.com/menyifang/ADGAN)]
+
 **AGUIT: Attribute Guided Unpaired Image-to-Image Translation with Semi-supervised Learning.**<br>
 *Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji.*<br>
 arxiv, 29 Apr 2019. [[PDF](https://arxiv.org/abs/1904.12428)] [[Github](https://github.com/imlixinyang/AGUIT)]
@@ -395,6 +399,14 @@ ArXiv 2019. [[PDF](https://arxiv.org/abs/1910.11328)] [[Github](http://t.cn/Ai1b
 
 ### Text Guided
 
+**Image-to-Image Translation with Text Guidance.**<br>
+*Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
+arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
+
+**Cycle Text-To-Image GAN with BERT.**<br>
+*Trevor Tsue, Samir Sen, Jason Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12137)]
+
 **ManiGAN: Text-Guided Image Manipulation.**<br>
 *[Bowen Li](https://mrlibw.github.io/), [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06203)] [[Github](https://github.com/mrlibw/ManiGAN)]
@@ -402,10 +414,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06203)] [[Github](https://github.co
 **Controllable Text-to-Image Generation.**<br>
 *Bowen Li, [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
 NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.07083)]
-
-**Image-to-Image Translation with Text Guidance.**<br>
-*Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
-arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
 
 **MirrorGAN: Learning Text-to-image Generation by Redescription.**
 *Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao.*
@@ -486,6 +494,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1908.06616)]
 
 ### Layout Guided
 
+**BachGAN: High-Resolution Image Synthesis from Salient Object Layout.**<br>
+*[Yandong Li](https://cold-winter.github.io/), [Yu Cheng](https://sites.google.com/site/chengyu05/home), [Zhe Gan](https://www.cs.unc.edu/~licheng/), [Licheng Yu](https://www.cs.unc.edu/~licheng//), [Liqiang Wang](http://www.cs.ucf.edu/~lwang//), [Jingjing Liu](http://people.csail.mit.edu/jingl/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.11690)] [[Github](https://github.com/Cold-Winter/BachGAN)]
+
 **LayoutGAN: Generating Graphic Layouts with Wireframe Discriminator.**<br>
 *Jianan Li, Jimei Yang, Aaron Hertzmann, Jianming Zhang, Tingfa Xu.*<br>
 ICLR 2019. [[PDF](https://openreview.net/forum?id=HJxB5sRcFQ)]
@@ -558,6 +570,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1807.09251)] [[Github](https://github.co
 ## Applications
 
 ### Photo Animation
+
+**Learning to Cartoonize Using White-box Cartoon Representations.**<br>
+*Xinrui Wang, Jinze Yu.*<br>
+CVPR 2020. [[PDF](https://github.com/SystemErrorWang/White-box-Cartoonization/blob/master/paper/06791.pdf)] [[Project](https://systemerrorwang.github.io/White-box-Cartoonization/)] [[Github](https://github.com/SystemErrorWang/White-box-Cartoonization)]
 
 **AnimeGAN: A Novel Lightweight GAN For Photo Animation.**<br>
 2020. [[Github](https://github.com/TachibanaYoshino/AnimeGAN)]
@@ -665,6 +681,14 @@ NeurIPS 2019 Machine Learning for Health Workshop. [[PDF](https://arxiv.org/abs/
 *Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz.*</br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1904.07223)] [[Github](https://github.com/NVlabs/DG-Net)]
 
+**Compressed Sensing using Generative Models.**</br>
+*Ashish Bora, Ajil Jalal, Eric Price, Alexandros G. Dimakis.*</br>
+arxiv 2017. [[PDF](https://arxiv.org/abs/1703.03208)] [[Github](https://github.com/AshishBora/csgm)]
+
+**Person Transfer GAN to Bridge Domain Gap for Person Re-Identification.**</br>
+*Longhui Wei, Shiliang Zhang, Wen Gao, Qi Tian.*</br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1711.08565)]
+
 ### Model-Compression-and-Pruning
 
 **GAN Compression: Efficient Architectures for Interactive Conditional GANs.**<br>
@@ -717,7 +741,7 @@ arxiv 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Projec
 
 **SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**</br>
 *Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br> 
-arxiv, 28 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)]
+arxiv, 28 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)] [[Github](https://github.com/ZPdesu/SEAN)]
 
 **Face-to-Parameter Translation for Game Character Auto-Creation.**</br> 
 *Tianyang Shi, Yi Yuan, Changjie Fan, Zhengxia Zou, Zhenwei Shi, Yong Liu.*<br>

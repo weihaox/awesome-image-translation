@@ -1,10 +1,14 @@
-# Controlable Image Generation
+# Controllable Image Generation
 
-This repository is about *intelligent image manipulation* guided by text, audio, camera pose or other information. 
+This repository is about *Controllable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose or other information. 
 
-Part of this repo is in [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation), which is about *Guided Image-to-image translation*.
+Part of this repository is about *Guided Image-to-image translation* which in [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
 
 ## Texture Mapping & Surface Mapping
+
+**UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World.**<br>
+*Shangbang Long, Cong Yao.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10608)] [[Github](https://github.com/Jyouhou/UnrealText)]
 
 **Adversarial Texture Optimization from RGB-D Scans.**<br>
 *[Jingwei Huang](http://stanford.edu/~jingweih/), [Justus Thies](http://abhijitkundu.info/), [Angela Dai](https://www.3dunderstanding.org/), [Abhijit Kundu](https://justusthies.github.io/), [Chiyu Jiang](https://www.maxjiang.ml/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Matthias Nießner](http://www.niessnerlab.org/), [Thomas Funkhouser](https://www.cs.princeton.edu/~funk/).*<br>
@@ -106,6 +110,10 @@ arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
 ## Motion Transfer & Retargeting & Reenactment & Dubbing & Animation
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
+
+**First Order Motion Model for Image Animation.**<br>
+*[Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/), [Stéphane Lathuilière](http://stelat.eu/), [Sergey Tulyakov](http://stulyakov.com/), [Elisa Ricci](http://elisaricci.eu/), [Nicu Sebe](http://disi.unitn.it/~sebe/).*<br>
+NeurIPS 2019. [[PDF](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation)] [[Project](https://aliaksandrsiarohin.github.io/first-order-model-website)] [[Github](https://github.com/AliaksandrSiarohin/first-order-model)]
 
 **Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation.**<br>
 *Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt.*<br>
@@ -438,6 +446,10 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
+
+**One-Shot GAN Generated Fake Face Detection.**<br>
+*Hadi Mansourifar, Weidong Shi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12244)]
 
 **Global Texture Enhancement for Fake Face Detection in the Wild.**<br>
 *Zhengzhe Liu, Xiaojuan Qi, Philip H.S. Torr.*<br>

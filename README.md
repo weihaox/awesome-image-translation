@@ -15,6 +15,9 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
+**ADGAN: Controllable Person Image Synthesis with Attribute-Decomposed GAN.**[[PDF](https://menyifang.github.io/projects/ADGAN/ADGAN_files/Paper_ADGAN_CVPR2020.pdf)] [[Project](https://menyifang.github.io/projects/ADGAN/ADGAN.html)]  [[Github](https://github.com/menyifang/ADGAN)]<br>
+*[Yifang Men](https://menyifang.github.io/), [Yiming Mao](https://mtroym.github.io/), Yuning Jiang, Wei-Ying Ma, Zhouhui Lian.*<br>
+
 **Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.** [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.com/Ha0Tang/LGGAN)]<br> 
 *[Hao Tang](http://disi.unitn.it/~hao.tang/), Dan Xu, Yan Yan, Philip H. S. Torr, Nicu Sebe.*<br> 
 

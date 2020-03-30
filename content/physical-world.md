@@ -45,28 +45,28 @@ SIGGRAPH 2020 (TOG 2020).
 [[Priject](https://lllyasviel.github.io/PaintingLight/)]
 [[Github](https://github.com/lllyasviel/PaintingLight)]
 
-**Illumination Decomposition for Photograph with Multiple Light Sources.** <br>
-*Ling Zhang, Qingan Yan, Zheng Liu, Hua Zou, Chunxia Xiao.* <br>
+**Illumination Decomposition for Photograph with Multiple Light Sources.**<br>
+*Ling Zhang, Qingan Yan, Zheng Liu, Hua Zou, Chunxia Xiao.*<br>
 TIP 2017. [[PDF](https://yanqingan.github.io/docs/tip17_illumination.pdf)] [[Github](https://github.com/yanqingan/Illumination_Decomposition)]
 
-**Learning to Predict Indoor Illumination from a Single Image.** <br>
+**Learning to Predict Indoor Illumination from a Single Image.**<br>
 *Marc-André Gardner, [Kalyan Sunkavalli](https://research.adobe.com/person/kalyan-sunkavalli/), [Ersin Yumer](https://research.adobe.com/person/ersin-yumer/), [Xiaohui Shen](https://research.adobe.com/person/xiaohui-shen/), Emiliano Gambaretto, [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), and [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/).*<br>
 ACM Transactions on Graphics (SIGGRAPH Asia), 2017. [[PDF](https://arxiv.org/abs/1704.00090)] [[Dataset](http://indoor.hdrdb.com/)] [[Homepage](vision.gel.ulaval.ca/~jflalonde/projects/deepIndoorLight)]
 
-**Deep Parametric Indoor Lighting Estimation.** <br>
-*Marc-André Gardner, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Christian Gagné, and Jean-François Lalonde.* <br>
+**Deep Parametric Indoor Lighting Estimation.**<br>
+*Marc-André Gardner, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Christian Gagné, and Jean-François Lalonde.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1910.08812)] [[Supplementary material](https://lvsn.github.io/deepparametric/supplementary/index.html)] [[Laval Indoor HDR Database](http://indoor.hdrdb.com/) and [Depth](http://indoordepth.hdrdb.com/)] [[Project](https://lvsn.github.io/deepparametric/)] 
 
 **Fast Spatially-Varying Indoor Lighting Estimation.**<br>
-*Mathieu Garon, Kalyan Sunkavalli, Sunil Hadap, Nathan Carr, [Jean-François Lalonde](http://www.jflalonde.ca/).* <br>
+*Mathieu Garon, Kalyan Sunkavalli, Sunil Hadap, Nathan Carr, [Jean-François Lalonde](http://www.jflalonde.ca/).*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1906.03799)] [[Supplementary material](https://lvsn.github.io/fastindoorlight/supplementary/index.html)] [[Project](https://lvsn.github.io/fastindoorlight/)] [[Lavel Indoor Spatially Varying HDR Dataset / 79 HDR Light Probes](http://indoorsv.hdrdb.com/)]
 
-**GLoSH: Global-Local Spherical Harmonics for Intrinsic Image Decomposition.** <br>
-*[Hao Zhou](http://zhhoper.github.io), Xiang Yu, David W Jacobs.* <br>
+**GLoSH: Global-Local Spherical Harmonics for Intrinsic Image Decomposition.**<br>
+*[Hao Zhou](http://zhhoper.github.io), Xiang Yu, David W Jacobs.*<br>
 ICCV 2019. [[PDF](https://zhhoper.github.io/paper/zhou_ICCV2019_IID.pdf)] [[Supplement](https://zhhoper.github.io/paper/zhou_ICCV_2019_IID_sup.pdf)] [[Poster](https://zhhoper.github.io/poster/Poster_ICCV_2019_IID.pdf)] [[Spherical Harmonic Tools](shtools.github.io/SHTOOLS)]
 
 **Deep Single-Image Portrait Relighting.**<br>
-*Hao Zhou, Sunil Hadap, Kalyan Sunkavalli, David W. Jacobs.* <br>
+*Hao Zhou, Sunil Hadap, Kalyan Sunkavalli, David W. Jacobs.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/pdf/1905.00824)] [[Github](https://github.com/zhhoper/DPR)] [[Project](https://zhhoper.github.io/dpr.html)] [[DPR Dataset](https://drive.google.com/drive/folders/10luekF8vV5vo2GFYPRCe9Rm2Xy2DwHkT?usp=sharing)]
 
 **Single Image Portrait Relighting.**<br>
@@ -77,10 +77,10 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/1905.00824)]
 *Julien Philip, Michael Gharbi, Tinghui Zhou, Alexei (Alyosha) Efros, George Drettakis.*<br>
 
 **SfSNet: Learning Shape, Reflectance and llluminance of Faces in the Wild.**<br>
-*Soumyadip Sengupta, Angjoo Kanazawa, Carlos D. Castillo, David W. Jacobs.* <br>
+*Soumyadip Sengupta, Angjoo Kanazawa, Carlos D. Castillo, David W. Jacobs.*<br>
 CVPR 2018. [[Project](https://senguptaumd.github.io/SfSNet/)] [[PDF](https://arxiv.org/abs/1703.10131)] [[Github](https://github.com/matansel/pix2vertex)]
 
-**Occlusion-aware 3D Morphable Models and an Illumination Prior for Face Image Analysis.** <br>
+**Occlusion-aware 3D Morphable Models and an Illumination Prior for Face Image Analysis.**<br>
 *Bernhard Egger, Sandro Schoenborn, Andreas Schneider, Adam Kortylewski, Andreas Morel-Forster, Clemens Blumer and Thomas Vetter.*<br>
 IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](http://gravis.dmi.unibas.ch/publications/2018/2018_Egger_IJCV.pdf)]
 
@@ -108,10 +108,10 @@ arxiv, 6 Dec 2019. [[PDF](https://arxiv.org/abs/1912.03207)]
 arxiv, 11 Dec 2019. [[PDF](https://arxiv.org/abs/1912.05656)]
 
 **Learning 3D Human Dynamics from Video.**<br>
-*Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik.* <br>
+*Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1812.01601)] [[HomePage](https://akanazawa.github.io/human_dynamics/)]
 
-**Predicting 3D Human Dynamics from Video.** <br>
+**Predicting 3D Human Dynamics from Video.**<br>
 *Jason Y. Zhang, Panna Felsen, Angjoo Kanazawa, Jitendra Malik.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1908.04781)] [[HomePage](https://jasonyzhang.com/phd/)]
 
@@ -119,12 +119,12 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1908.04781)] [[HomePage](https://jasonyz
 *[Zerong Zheng](https://zhengzerong.github.io/), [Tao Yu](https://ytrock.com/), Yixuan Wei, Qionghai Dai, [Yebin Liu](http://www.liuyebin.com/).*<br>
 ICCV 2019. [[PDF](http://www.liuyebin.com/deephuman/assets/DeepHuman.pdf)] [[Project](http://www.liuyebin.com/deephuman/deephuman.html)] [[Code](https://github.com/ZhengZerong/DeepHuman)] [[THUmanDataset](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset)] [[im2smpl](https://github.com/ZhengZerong/im2smpl)]
 
-**LiveCap: Real-time Human Performance Capture from Monocular Video.** <br>
-*Marc Habermann, Weipeng Xu, Michael and Zollhoefer, Gerard Pons-Moll, Christian Theobalt.* <br>
+**LiveCap: Real-time Human Performance Capture from Monocular Video.**<br>
+*Marc Habermann, Weipeng Xu, Michael and Zollhoefer, Gerard Pons-Moll, Christian Theobalt.*<br>
 SIGGRAPH 2019. [[PDF](https://gvv.mpi-inf.mpg.de/projects/LiveCap/)] [[Project](https://gvv.mpi-inf.mpg.de/projects/LiveCap/)]
 
 **Superpixel Soup: Monocular Dense 3D Reconstruction of a Complex Dynamic Scene.**<br>
-*Suryansh Kumar, Yuchao Dai, Hongdong Li.* <br>
+*Suryansh Kumar, Yuchao Dai, Hongdong Li.*<br>
 TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)] 
 
 ### Human Poses and Shapes
@@ -159,19 +159,27 @@ AAAI 2020. [[PDF](https://arxiv.org/abs/2001.01613)] [[Project](https://ps.is.tu
 *Yu Sun, Yun Ye, Wu Liu, Wenpeng Gao, Yili Fu, Tao Mei.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.pdf)] [[Github](https://github.com/Arthur151/DSD-SATN)]
 
-**HMR: End-to-end Recovery of Human Shape and Pose.** <br>
-*Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik.* <br><br>
+**HMR: End-to-end Recovery of Human Shape and Pose.**<br>
+*Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik.*<br><br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1712.06584)] [[Github](https://github.com/MandyMo/pytorch_HMR)] [[Project](https://akanazawa.github.io/hmr/)]
 
-**Keep It SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image.** <br>
+**Keep It SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image.**<br>
 *Federica Bogo*, Angjoo Kanazawa*, Christoph Lassner, Peter Gehler, Javier Romero, Michael Black.*<br>
 ECCV 2016. [[Project](http://smplify.is.tue.mpg.de/)] [[PDF](https://www.semanticscholar.org/paper/Keep-It-SMPL%3A-Automatic-Estimation-of-3D-Human-Pose-Bogo-Kanazawa/4233b07033a1ef8af188383f30602a5fd0aa2181)]
 
-**SMPL: A Skinned Multi-Person Linear Model.** <br>
-*Matthew Loper, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, Michael J. Black.* <br>
+**SMPL: A Skinned Multi-Person Linear Model.**<br>
+*Matthew Loper, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, Michael J. Black.*<br>
 ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)] [[Offical](https://smpl.is.tue.mpg.de/)] [[SMPL layer for PyTorch](https://github.com/gulvarol/smplpytorch)]
 
-### Msic (Face, Object)
+### Misc (Face, Object)
+
+**Modeling 3D Shapes by Reinforcement Learning.**<br>
+*Cheng Lin, Tingxiang Fan, Wenping Wang, Matthias Nießner.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12397)]
+
+**FacePSNet: Lightweight Photometric Stereo for Facial Details Recovery.**<br>
+*Xueying Wang, Yudong Guo, Bailin Deng, Juyong Zhang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12307)] [[Github](https://github.com/Juyong/FacePSNet)]
 
 **High Accuracy Face Geometry Capture using a Smartphone Video.**<br>
 *Shubham Agrawal, Anuj Pahuja, Simon Lucey.*<br>
@@ -197,37 +205,37 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.05653)]
 arxiv, 28 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12674)]
 
 **Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction.**<br>
-*Daeyun Shin, Zhile Ren, Erik B. Sudderth, Charless C. Fowlkes.* <br>
+*Daeyun Shin, Zhile Ren, Erik B. Sudderth, Charless C. Fowlkes.*<br>
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPRW_2019/papers/SUMO/Shin_Multi-layer_Depth_and_Epipolar_Feature_Transformers_for_3D_Scene_Reconstruction_CVPRW_2019_paper.pdf)]
 
-**SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization.** <br>
+**SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization.**<br>
 *Yue Jiang, Dantong Ji, Zhizhong Han, Matthias Zwicker.*<br>
 arxiv, 15 Dec 2019. [[PDF](https://arxiv.org/abs/1912.07109)]
 
-**Learning to Reconstruct 3D Manhattan Wireframes from a Single Image.** <br>
-*Yichao Zhou, [Haozhi Qi](https://people.eecs.berkeley.edu/~hqi/), Yuexiang Zhai, Qi Sun, Zhili Chen, [Li-Yi Wei](https://research.adobe.com/person/li-yi-wei/), [Yi Ma](https://people.eecs.berkeley.edu/~yima/).* <br>
+**Learning to Reconstruct 3D Manhattan Wireframes from a Single Image.**<br>
+*Yichao Zhou, [Haozhi Qi](https://people.eecs.berkeley.edu/~hqi/), Yuexiang Zhai, Qi Sun, Zhili Chen, [Li-Yi Wei](https://research.adobe.com/person/li-yi-wei/), [Yi Ma](https://people.eecs.berkeley.edu/~yima/).*<br>
 ICCV 2019. [[PDF](https://people.eecs.berkeley.edu/~hqi/)] [[Video Demonstration](https://youtu.be/l3sUtddPJPY)]
 
-**Semi-Supervised Monocular 3D Face Reconstruction With End-to-End Shape-Preserved Domain Transfer.** <br>
-*Jingtan Piao, Chen Qian, Hongsheng Li.* <br>
+**Semi-Supervised Monocular 3D Face Reconstruction With End-to-End Shape-Preserved Domain Transfer.**<br>
+*Jingtan Piao, Chen Qian, Hongsheng Li.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Semi-Supervised_Monocular_3D_Face_Reconstruction_With_End-to-End_Shape-Preserved_Domain_Transfer_ICCV_2019_paper.pdf)]
 
-**Learning Joint Reconstruction of Hands and Manipulated Objects.** <br>
-*Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, Cordelia Schmid.* <br>
+**Learning Joint Reconstruction of Hands and Manipulated Objects.**<br>
+*Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, Cordelia Schmid.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05767)] [[Project](https://hassony2.github.io/obman.html)] [[ObMan dataset](https://github.com/hassony2/obman)] [[Github](https://github.com/hassony2/obman_train)]
 
-**Facial Details Synthesis From Single Input Image.** <br>
+**Facial Details Synthesis From Single Input Image.**<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1903.10873)] [[Supplemental Material](https://github.com/apchenstu/Facial_Details_Synthesis/blob/master/src/imgs/Supplemental_Material.pdf)] [[Github](https://github.com/apchenstu/Facial_Details_Synthesis)]
 
-**Photo-Realistic Facial Details Synthesis from Single Image.** <br>
-*Anpei Chen, Zhang Chen, Guli Zhang, Ziheng Zhang, Kenny Mitchell, Jingyi Yu.* <br> 
+**Photo-Realistic Facial Details Synthesis from Single Image.**<br>
+*Anpei Chen, Zhang Chen, Guli Zhang, Ziheng Zhang, Kenny Mitchell, Jingyi Yu.*<br> 
 ICCV 2019. [[PDF](https://arxiv.org/abs/1903.10873)] [[Supplemental Material](https://github.com/apchenstu/Facial_Details_Synthesis/blob/master/src/imgs/Supplemental_Material.pdf)] [[Github](https://github.com/apchenstu/Facial_Details_Synthesis)]
 
-**FML: Face Model Learning From Video.** <br>
+**FML: Face Model Learning From Video.**<br>
 *A. Tewari, F. Bernard, P. Garrido, G. Bharaj, M. Elgharib, H-P. Seidel, P. Perez, M. Zollhöfer, C.Theobalt.*  <br>
 CVPR 2019. [[PDF](http://gvv.mpi-inf.mpg.de/projects/FML19/paper.pdf)] [[MPI Informatics, Saarland Informatics Campus](http://www.mpi-inf.mpg.de/home/)] [[Project](gvv.mpi-inf.mpg.de/projects/FML19)] 
 
-**Unsupervised 3D Reconstruction Networks.** <br>
+**Unsupervised 3D Reconstruction Networks.**<br>
 *Geonho Cha, Minsik Lee, Songhwai Oh.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cha_Unsupervised_3D_Reconstruction_Networks_ICCV_2019_paper.pdf)]
 
@@ -235,8 +243,8 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cha_Unsu
 *Pedro O. Pinheiro, Negar Rostamzadeh, Sungjin Ahn.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Pinheiro_Domain-Adaptive_Single-View_3D_Reconstruction_ICCV_2019_paper.pdf)]
 
-**Neural 3D Mesh Renderer.** <br>
-*Hiroharu Kato, Yoshitaka Ushiku, Tatsuya Harada.* <br>
+**Neural 3D Mesh Renderer.**<br>
+*Hiroharu Kato, Yoshitaka Ushiku, Tatsuya Harada.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1711.07566)] [[Project](http://hiroharu-kato.com/projects_en/neural_renderer.html)] [[Github](https://github.com/hiroharu-kato/neural_renderer)]
 
 ## Depth From Video (Depth, Normal and Camera Motion Estimation)
@@ -448,43 +456,43 @@ CVPR 2017. [[PDF](https://ibug.doc.ic.ac.uk/media/uploads/documents/normalestima
 ## Hair Segmentation and Reconstruction
 
 **Dynamic Hair Modeling from Monocular Videos using Deep Neural Networks.**<br>
-*Lingchen Yang, Zefeng Shi, [Youyi Zheng](http://youyizheng.net/research.html), [Kun Zhou](http://kunzhou.net/).* <br>
+*Lingchen Yang, Zefeng Shi, [Youyi Zheng](http://youyizheng.net/research.html), [Kun Zhou](http://kunzhou.net/).*<br>
 ACM Transactions on Graphics (SIGGRAPH ASIA 2019). [[PDF](http://www.cad.zju.edu.cn/home/zyy/docs/dynamic_hair.pdf)]
 
-**Hair-GAN: Recovering 3D Hair Structure from a Single Image using Generative Adversarial Networks.** <br>
-*Meng Zhang, Youyi Zheng.* <br>
+**Hair-GAN: Recovering 3D Hair Structure from a Single Image using Generative Adversarial Networks.**<br>
+*Meng Zhang, Youyi Zheng.*<br>
 Visual Informatics 2019. [[PDF](http://www.cad.zju.edu.cn/home/zyy/docs/hairgan_final.pdf)]
 
 **Semantic Soft Segmentation.**<br>
 *Yagiz Aksoy, Tae-Hyun Oh, Sylvain Paris, Marc Pollefeys and Wojciech Matusik.*<br>
 ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://yaksoy.github.io/papers/TOG18-sss-supp.pdf)] [[Project](http://yaksoy.github.io/sss/)] [[Github](https://github.com/yaksoy/SemanticSoftSegmentation)] 
 
-**Learning-based Sampling for Natural Image Matting.** <br>
+**Learning-based Sampling for Natural Image Matting.**<br>
 *Jingwei Tang, Yagiz Aksoy, Cengiz Oztireli, Markus Gross, and Tunc Ozan Aydin.*<br>
 CVPR, 2019. [[PDF](http://yaksoy.github.io/papers/CVPR19-samplenet.pdf)] [[Project](http://yaksoy.github.io/samplenet/)] 
 
 **Soft Segmentation of Images.**<br>
-*Yagiz Aksoy.* <br>
+*Yagiz Aksoy.*<br>
 PhD Thesis, ETH Zurich, 2019. [[PDF](http://yaksoy.github.io/papers/ETH19-PhD-Aksoy.pdf)] [[Project](yaksoy.github.io/ssi/)]
 
 **3D Hair Synthesis Using Volumetric Variational Autoencoders.**<br>
-*Shunsuke Saito, Liwen Hu, Chongyang Ma, Hikaru Ibayashi, Linjie Luo, Hao Li.* <br>
+*Shunsuke Saito, Liwen Hu, Chongyang Ma, Hikaru Ibayashi, Linjie Luo, Hao Li.*<br>
 ACM Transaction on Graphics (SIGGRAPH Asia 2018). [[PDF](http://www.hao-li.com/publications/papers/siggraphAsia2018PAGAN.pdf)]
 
 **HairNet: Single-View Hair Reconstruction using Convolutional Neural Networks.**<br>
-*Yi Zhou, Liwen Hu, Jun Xing, Weikai Chen, Han-Wei Kung, Xin Tong, Hao Li.* <br>
+*Yi Zhou, Liwen Hu, Jun Xing, Weikai Chen, Han-Wei Kung, Xin Tong, Hao Li.*<br>
 2018. [[PDF](https://arxiv.org/abs/1806.07467)] [[GitHub](http://t.cn/AiBvbwNK)] 
 
 ## Human Pose Estimation
 
 [[Awesome work on hand pose estimation/tracking.](https://github.com/xinghaochen/awesome-hand-pose-estimation)]
 
-**Camera-to-Robot Pose Estimation from a Single Image.** <br>
+**Camera-to-Robot Pose Estimation from a Single Image.**<br>
 *Timothy E. Lee, Jonathan Tremblay, Thang To, Jia Cheng, Terry Mosier, Oliver Kroemer, Dieter Fox, Stan Birchfield.*<br>
 [[PDF](https://arxiv.org/abs/1911.09231)]
 
 **Mask-pose Cascaded CNN for 2D Hand Pose Estimation from Single Color Images.**<br>
-**Yangang Wang, Cong Peng, Yebin Liu.** <br>
+**Yangang Wang, Cong Peng, Yebin Liu.**<br>
 IEEE Trans. CSVT 2019. [[Project](https://www.yangangwang.com/papers/WANG-MCC-2018-10.html)]
 [[PDF](http://www.liuyebin.com/hand2d/hand2d.pdf)] 
 
@@ -503,23 +511,23 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Duan_TRB
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf)]
 
 **HoloGAN: Unsupervised learning of 3D representations from natural images.**<br>
-*Thu Nguyen-Phuoc, Chuan Li, Lucas Theis, Christian Richardt Yong-liang Yang.* <br>
+*Thu Nguyen-Phuoc, Chuan Li, Lucas Theis, Christian Richardt Yong-liang Yang.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1904.01326)] [[GitHub](https://github.com/christopher-beckham/hologan-pytorch)]
 
 **GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs.**<br>
-*Yuan Liu, Zehong Shen, Zhixuan Lin, Sida Peng, Hujun Bao, Xiaowei Zhou.* <br>
+*Yuan Liu, Zehong Shen, Zhixuan Lin, Sida Peng, Hujun Bao, Xiaowei Zhou.*<br>
 NeurIPS 2019. [[PDF](https://arxiv.org/abs/1911.05932)] [[Github](https://github.com/zju3dv/GIFT)] [[Project](https://zju3dv.github.io/GIFT/)]
 
 **Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency.**<br>
-*Shubham Tulsiani, Tinghui Zhou, Alexei A. Efros, Jitendra Malik.* <br>
+*Shubham Tulsiani, Tinghui Zhou, Alexei A. Efros, Jitendra Malik.*<br>
 CVPR 2017 (Oral).[[PDF](https://arxiv.org/abs/1704.06254)]
 
-**Learning View Priors for Single-view 3D Reconstruction.** <br>
-*Hiroharu Kato, Tatsuya Harada.* <br>
+**Learning View Priors for Single-view 3D Reconstruction.**<br>
+*Hiroharu Kato, Tatsuya Harada.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1811.10719)] [[Project](http://hiroharu-kato.com/projects_en/view_prior_learning.html)]
 
 **Self-supervised Learning of 3D Objects from Natural Images.**<br>
-*Hiroharu Kato, Tatsuya Harada.* <br>
+*Hiroharu Kato, Tatsuya Harada.*<br>
 arxiv 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.08850)] [[Project](http://hiroharu-kato.com/projects_en/cifar10_3d.html)]
 
 ## Depth with ToF
@@ -571,7 +579,7 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1907.05820)]
 ICCV, 2019. [[PDF](https://arxiv.org/abs/1908.03706.pdf)] [[Project](https://tinyurl.com/STCLSTM)]
 
 **Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video.**<br>
-*Jia-Wang Bian, Zhichao Li, Naiyan Wang, Huangying Zhan, Chunhua Shen, Ming-Ming Cheng, Ian Reid.* <br>
+*Jia-Wang Bian, Zhichao Li, Naiyan Wang, Huangying Zhan, Chunhua Shen, Ming-Ming Cheng, Ian Reid.*<br>
 NeurIPS, 2019.  
 [[PDF](https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf)] 
 [[Github](https://github.com/JiawangBian/SC-SfMLearner-Release)]
@@ -610,7 +618,7 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Fast_
 
 ### Flow
 **Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video.**<br>
-*Jia-Wang Bian, Zhichao Li, Naiyan Wang, Huangying Zhan, Chunhua Shen, Ming-Ming Cheng, Ian Reid.* <br>
+*Jia-Wang Bian, Zhichao Li, Naiyan Wang, Huangying Zhan, Chunhua Shen, Ming-Ming Cheng, Ian Reid.*<br>
 NeurIPS, 2019.  
 [[PDF](https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf)] 
 [[Github](https://github.com/JiawangBian/SC-SfMLearner-Release)]
@@ -652,15 +660,15 @@ Zhuoqing Chang, J. Matias Di Martino, Qiang Qiu, Steven Espinosa, Guillermo Sapi
 ### Gaze Dataset
 
 **Columbia Gaze Data Set: Gaze Locking: Passive Eye Contact Detection for Human–Object Interaction.**<br>
-*Brian A. Smith,  Qi Yin,  Steven K. Feiner,  Shree K. Nayar.* <br>
+*Brian A. Smith,  Qi Yin,  Steven K. Feiner,  Shree K. Nayar.*<br>
 ACM Symposium on User Interface Software and Technology (UIST), 2013. [[PDF](http://www.cs.columbia.edu/~brian/publications/gaze_locking.html)] [[Columbia Gaze Data Set](http://www.cs.columbia.edu/CAVE/databases/columbia_gaze/)]
 
 **GazeCapture: Eye Tracking for Everyone.**<br>
-*Kyle Krafka*, Aditya Khosla*, Petr Kellnhofer, Harini Kannan, Suchendra Bhandarkar, Wojciech Matusik, Antonio Torralba.* <br>
+*Kyle Krafka*, Aditya Khosla*, Petr Kellnhofer, Harini Kannan, Suchendra Bhandarkar, Wojciech Matusik, Antonio Torralba.*<br>
 CVPR 2016. [[PDF](https://gazecapture.csail.mit.edu/)] [[GazeCapture](https://gazecapture.csail.mit.edu/)] [[Github](https://github.com/CSAILVision/GazeCapture)]
 
 **MPIIGaze: Appearance-based Gaze Estimation in the Wild.**<br>
-*Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling.* <br>
+*Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling.*<br>
 CVPR 2015. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf)] [[MPIIGaze Dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild/)] [[Max Planck Institute for Informatics](www.mpi-inf.mpg.de/)]
 
 **MPIIFaceGaze: It’s Written All Over Your Face: Full-Face Appearance-Based Gaze Estimation.**<br>
@@ -685,12 +693,12 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1906.00805)] [[Github](https://github.
 *Chih-Fan Hsu, Yushuen  Wang, C.-L Lei, Kuan-Ta Chen.*<br> 
 TOMM (ACM Transactions on Multimedia Computing, Communications, and Applications). [[PDF](https://dl.acm.org/doi/10.1145/3311784)] [[Github](https://github.com/chihfanhsu/gaze_correction)]
 
-**Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks.** <br>
+**Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks.**<br>
 *Zhe He, Adrian Spurr, Xucong Zhang, Otmar Hilliges ([AIT Lab, ETH Zurich](https://ait.ethz.ch/)).*<br> 
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/He_Photo-Realistic_Monocular_Gaze_Redirection_Using_Generative_Adversarial_Networks_ICCV_2019_paper.pdf)] [[Github](https://github.com/HzDmS/gaze_redirection)] [[Columbia Gaze Dataset](http://www.cs.columbia.edu/~brian/projects/columbia_gaze.html)] [[Processed](https://drive.google.com/file/d/1tE3QfFjxtRco4ruLZwYyUhjyYSp2QIJL/view?usp=sharing)]
 
-**Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis.** <br>
-*Yu Yu, Gang Liu, Jean-Marc Odobez.* <br>
+**Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis.**<br>
+*Yu Yu, Gang Liu, Jean-Marc Odobez.*<br>
 CVPR 2019. [[PDF](http://www.idiap.ch/~odobez/publications/YuLiuOdobez-CVPR2019.pdf)]
 
 **GazeDirector: Fully Articulated Eye Gaze Redirection in Video.**<br>
@@ -698,26 +706,26 @@ CVPR 2019. [[PDF](http://www.idiap.ch/~odobez/publications/YuLiuOdobez-CVPR2019.
 Eurographics 2018 (Best Paper Honourable Mention Award). [[PDF](https://perceptual.mpi-inf.mpg.de/files/2018/03/wood18_eg.pdf)] 
 
 **GazeGAN: Unpaired Adversarial Image Generation for Gaze Estimation.**<br>
-*Matan Sela, Pingmei Xu, Junfeng He, Vidhya Navalpakkam, Dmitry Lagun.* <br>
+*Matan Sela, Pingmei Xu, Junfeng He, Vidhya Navalpakkam, Dmitry Lagun.*<br>
 2017. [[PDF](https://arxiv.org/abs/1711.09767)]
 
 **DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation.**<br>
-*Yaroslav Ganin, Daniil Kononenko, Diana Sungatullina, Victor Lempitsky.* <br>
+*Yaroslav Ganin, Daniil Kononenko, Diana Sungatullina, Victor Lempitsky.*<br>
 ECCV 2016. [[PDF](http://sites.skoltech.ru/compvision/projects/deepwarp/files/deepwarp_eccv2016.pdf)] [[Project](http://sites.skoltech.ru/compvision/projects/deepwarp/)]
 
 **Learning to look up: Realtime Monocular Gaze Correction using Machine Learning.**<br>
 CVPR 2015. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kononenko_Learning_To_Look_2015_CVPR_paper.pdf)] 
 
 **Gaze Correction for Home Video Conferencing.**<br>
-*C. Kuster, T. Popa, J.C. Bazin, C. Gotsman, M. Gross.* <br>
+*C. Kuster, T. Popa, J.C. Bazin, C. Gotsman, M. Gross.*<br>
 ACM TOG 2012.  [[PDF](https://cgl.ethz.ch/disclaimer.php?dlurl=/Downloads/Publications/Papers/2012/Kus12/Kus12.pdf)] [[CGL ETHZ](https://cgl.ethz.ch/publications/papers/paperKus12.php)]
 
 **An Eye For An Eye: A Single Camera Gaze-Replacement Method.**<br>
-*[Lior Wolf](http://www.cs.tau.ac.il/~wolf/), Ziv Freund, Shai Avidan.* <br>
+*[Lior Wolf](http://www.cs.tau.ac.il/~wolf/), Ziv Freund, Shai Avidan.*<br>
 CVPR 2010. [[PDF](http://www.cs.tau.ac.il/~wolf/papers/eyes_cameraready.pdf)] 
 
 **Eye Gaze Correction with Stereovision For Video-teleconferencing.**<br>
-*Ruigang Yang, Zhengyou Zhang.* <br>
+*Ruigang Yang, Zhengyou Zhang.*<br>
 ECCV 2004. [[PDF](https://www.microsoft.com/en-us/research/publication/eye-gaze-correction-with-stereovision-for-video-teleconferencing/)]
 
 ### Gaze Estimation
@@ -731,11 +739,11 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few
 ICCV 2019. [[PDF](http://gaze360.csail.mit.edu/iccv2019_gaze360.pdf)] [[Github](https://github.com/Erkil1452/gaze360)] [[Project](http://gaze360.csail.mit.edu)] [[Dataset](http://gaze360.csail.mit.edu/download.php)]
 
 **Mixed Effects Neural Networks (MeNets) With Applications to Gaze Estimation.**<br>
-*Yunyang Xiong, Hyunwoo J. Kim, Vikas Singh.* <br>
+*Yunyang Xiong, Hyunwoo J. Kim, Vikas Singh.*<br>
 CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Mixed_Effects_Neural_Networks_MeNets_With_Applications_to_Gaze_Estimation_CVPR_2019_paper.pdf)]
 
 **Deep Pictorial Gaze Estimation.**<br>
-*Seonwook Park, Adrian Spurr, Otmar Hilliges.* <br>
+*Seonwook Park, Adrian Spurr, Otmar Hilliges.*<br>
 ECCV 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seonwook_Park_Deep_Pictorial_Gaze_ECCV_2018_paper.pdf)] 
 
 **RTGENE: Real-Time Gaze Estimation in Natural Environments.**<br>
@@ -746,11 +754,11 @@ ECCV 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_F
 ### Eye Tracking
 
 **Neuro-Inspired Eye Tracking With Eye Movement Dynamics.**<br>
-*Kang Wang, Hui Su, Qiang Ji.* <br>
+*Kang Wang, Hui Su, Qiang Ji.*<br>
 CVPR 2019. [[PDF](http://homepages.rpi.edu/~wangk10/papers/wang2019neural.pdf)]
 
 **Generalizing Eye Tracking With Bayesian Adversarial Learning.**<br>
-*Kang Wang, Rui Zhao, Hui Su, Qiang Ji.* <br>
+*Kang Wang, Rui Zhao, Hui Su, Qiang Ji.*<br>
 CVPR 2019. [[PDF](https://www.semanticscholar.org/paper/Generalizing-Eye-Tracking-with-Bayesian-Adversarial-Wang-Zhao/77b9b6786699a236aad0c3fa3734730ece4a780f)]
 
 **EyeDiap: A Database For the Development and Evaluation of Gaze Estimation Algorithms from RGB and RGBD Cameras.**<br>
@@ -775,14 +783,15 @@ Computer Graphics, TU Braunschweig, Germany.
 
 ## Good Start of 3D Resources (Python)
 
-[face3d](https://github.com/YadiraF/face3d). This project implements some basic functions related to 3D faces. You can use this to process mesh data, generate 3D faces from morphable model, reconstruct 3D face with a single image and key points as inputs, render faces with difference lightings.
+[Face3D](https://github.com/YadiraF/face3d). This project implements some basic functions related to 3D faces. You can use this to process mesh data, generate 3D faces from morphable model, reconstruct 3D face with a single image and key points as inputs, render faces with difference lightings.
 
 [PySLAM](https://github.com/luigifreda/pyslam). pySLAM is a toy implementation of a monocular Visual Odometry (VO) pipeline in Python for educational purposes.
 
 [PySOT](https://github.com/STVIR/pysot). SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask.
 
-[PyTranking](https://github.com/visionml/pytracking). A general python framework for training and running visual object trackers, based on PyTorch.
+[PyTracking](https://github.com/visionml/pytracking). A general python framework for training and running visual object trackers, based on PyTorch.
 
 [PySlowFast](https://github.com/facebookresearch/SlowFast). PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 
+[PyMatting](https://github.com/pymatting/pymatting). PyMatting: A Python Library for Alpha Matting.
 
