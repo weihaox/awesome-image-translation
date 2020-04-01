@@ -183,7 +183,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07254)] [[Github](https://github.co
 ## Video Prediction and Future Prediction
 
 **Transformation-based Adversarial Video Prediction on Large-Scale Data.**<br>
-*Pauline Luc, Aidan Clark, Sander Dieleman, Diego de Las Casas, Yotam Doron, Albin Cassirer, Karen Simonyan.*
+*Pauline Luc, Aidan Clark, Sander Dieleman, Diego de Las Casas, Yotam Doron, Albin Cassirer, Karen Simonyan.*<br>
 arxiv, 9 Mar 2020. [[PDF](https://arxiv.org/abs/2003.04035)]
 
 **The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction.**<br>
@@ -203,7 +203,7 @@ TPAMI 2019 / NeurIPS 2016. [[PDF](https://arxiv.org/abs/1807.09245)] [[Project](
 ICLR 2019. [[PDF](https://openreview.net/forum?id=B1lKS2AqtX)] [[GitHub](https://github.com/google/e3d_lstm)]
 
 **STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction.**<br>
-*Yingfan Huang, HuiKun Bi, Zhaoxin Li, Tianlu Mao, Zhaoqi Wang1.*<br> 
+*Yingfan Huang, HuiKun Bi, Zhaoxin Li, Tianlu Mao, Zhaoqi Wang.*<br> 
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)]
 [[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
 
@@ -229,7 +229,7 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00830)]
 [[Software](https://drive.google.com/file/d/1uuDkF4j4H1AI1ot88XdqzwMdvAPhxKN8/view)]
 
 **Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation.**<br>
-*[Huaizu Jiang(http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
+*[Huaizu Jiang](http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)] [[Github](https://github.com/avinashpaliwal/Super-SloMo)]
 
 ## Multi-Modality Translation
@@ -335,6 +335,10 @@ arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
 arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
 
 ## Restoration with Unpair or Misaligned Data
+
+**Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution.**<br>
+*Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07018)]
 
 **DeepLPF: Deep Local Parametric Filters for Image Enhancement.**<br>
 *Sean Moran, Pierre Marza, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br>
