@@ -15,6 +15,12 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
+**Semi-supervised Learning for Few-shot Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2003.13853)]<br>
+*Yaxing Wang, Salman Khan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan.*<br>
+
+**Augmenting Colonoscopy using Extended and Directional CycleGAN for Lossy Image Translation.**[[PDF](https://arxiv.org/abs/2003.12473)]<br>
+*Shawn Mathew, Saad Nadeem, Sruti Kumari, Arie Kaufman.*<br>
+
 **ADGAN: Controllable Person Image Synthesis with Attribute-Decomposed GAN.**[[PDF](https://menyifang.github.io/projects/ADGAN/ADGAN_files/Paper_ADGAN_CVPR2020.pdf)] [[Project](https://menyifang.github.io/projects/ADGAN/ADGAN.html)]  [[Github](https://github.com/menyifang/ADGAN)]<br>
 *[Yifang Men](https://menyifang.github.io/), [Yiming Mao](https://mtroym.github.io/), Yuning Jiang, Wei-Ying Ma, Zhouhui Lian.*<br>
 
@@ -248,7 +254,7 @@ Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
 
 **DRIT++: Diverse Image-to-Image Translation via Disentangled Representations.**<br>
 *Hsin-Ying Lee, Hung-Yu Tseng, Qi Mao, Jia-Bin Huang, Yu-Ding Lu, Maneesh Singh, Ming-Hsuan Yang.*<br>
-IJCV 2019. [[Project](http://vllab.ucmerced.edu/hylee/DRIT_pp/)] [[Github](https://github.com/HsinYingLee/MDMM)]
+IJCV 2019. [[PDF](https://arxiv.org/abs/1905.01270)] [[Project](http://vllab.ucmerced.edu/hylee/DRIT_pp/)] [[Github](https://github.com/HsinYingLee/MDMM)]
 
 **Show, Attend and Translate: Unsupervised Image Translation with Self-Regularization and Attention.**<br>
 *Chao Yang, Taehwan Kim, Ruizhe Wang, Hao Peng, C.-C. Jay Kuo.*<br>

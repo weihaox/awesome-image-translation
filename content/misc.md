@@ -8,6 +8,10 @@
 
 ## When Deep Learning met Physics-Based Simulation
 
+**A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising.**<br>
+*Kaixuan Wei, Ying Fu, Jiaolong Yang, Hua Huang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12751)] [[Github](https://github.com/Vandermode/NoiseModel)]
+
 **Use the Force, Luke! Learning to Predict Physical Forces by Simulating Effects.**<br>
 *Kiana Ehsani, Shubham Tulsiani, Saurabh Gupta, Ali Farhadi, Abhinav Gupta.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/pdf/2003.12045)]

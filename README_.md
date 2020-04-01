@@ -347,6 +347,10 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02621)]
 
 ### Segmentation or Label Map Guided
 
+**Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis.**<br>
+*Hao Tang, Xiaojuan Qi, Dan Xu, Philip H. S. Torr, Nicu Sebe.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13898)]
+
 **Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.**<br>
 *[Hao Tang](http://disi.unitn.it/~hao.tang/), Dan Xu, Yan Yan, Philip H. S. Torr, [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.com/Ha0Tang/LGGAN)]
@@ -405,7 +409,7 @@ arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
 
 **Cycle Text-To-Image GAN with BERT.**<br>
 *Trevor Tsue, Samir Sen, Jason Li.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12137)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12137)] [Github](https://github.com/suetAndTie/cycle-image-gan)]
 
 **ManiGAN: Text-Guided Image Manipulation.**<br>
 *[Bowen Li](https://mrlibw.github.io/), [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
@@ -415,8 +419,8 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06203)] [[Github](https://github.co
 *Bowen Li, [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
 NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.07083)]
 
-**MirrorGAN: Learning Text-to-image Generation by Redescription.**
-*Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao.*
+**MirrorGAN: Learning Text-to-image Generation by Redescription.**<br>
+*Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1903.05854)] [[Unofficial TensorFlow](https://github.com/taki0112/MirrorGAN-Tensorflow)]
 
 **AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks.**<br>
@@ -598,6 +602,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1903.01594)] [[Github](https://github.co
 
 ### Attribute-Editing
 
+**Lifespan Age Transformation Synthesis.**<br>
+*Roy Or-El, Soumyadip Sengupta, Ohad Fried, Eli Shechtman, Ira Kemelmacher-Shlizerman.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.09764)]
+
 **IcGAN: Invertible Conditional GANs for image editing.**<br>
 *Guim Perarnau, Joost van de Weijer, Bogdan Raducanu, Jose M. Álvarez.*<br>
 NeurIPS Workshop 2016. [[PDF](https://arxiv.org/abs/1611.06355)] [[Github](https://github.com/Guim3/IcGAN)]
@@ -716,6 +724,10 @@ NeurIPS 2019. [[PDF](https://arxiv.org/abs/1908.01517v1)]]
 arxiv, 1 Oct 2019. [[PDF](https://arxiv.org/abs/1910.01112)]   
 
 ### Few-Shot
+
+**Semi-supervised Learning for Few-shot Image-to-Image Translation.**<br>
+*Yaxing Wang, Salman Khan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13853)]
 
 **FUNIT: Few-Shot Unsupervised Image-to-Image Translation.**</br> 
 *[Ming-Yu Liu](http://mingyuliu.net/), Xun Huang, Arun Mallya, Tero Karras, Timo Aila, Jaakko Lehtinen, Jan Kautz.*<br> 

@@ -4,6 +4,18 @@ This repository is a collection of papers on learning 3D representations from na
 
 ## 3D Shape Representation and Feature Embedding
 
+**Pix2Shape: Towards Unsupervised Learning of 3D Scenes from Images using a View-based Representation.**<br>
+*Sai Rajeswar, Fahim Mannan, Florian Golemo, Jérôme Parent-Lévesque, David Vazquez, Derek Nowrouzezahrai, Aaron Courville.*<br>
+IJCV 2020. [[PDF](https://arxiv.org/abs/2003.14166)]
+
+**LIMP: Learning Latent Shape Representations with Metric Preservation Priors.**<br>
+*Luca Cosmo, Antonio Norelli, Oshri Halimi, Ron Kimmel, Emanuele Rodolà.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12283)]
+
+**Learning 3D Part Assembly from a Single Image.**<br>
+*Yichen Li, Kaichun Mo, Lin Shao, Minhyuk Sung, Leonidas Guibas.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.09754)]
+
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
 *[Ben Mildenhall](http://people.eecs.berkeley.edu/~bmild/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), [Matthew Tancik](http://www.matthewtancik.com/), [Jonathan T. Barron](https://jonbarron.info/), [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
 arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub](https://github.com/bmild/nerf)]

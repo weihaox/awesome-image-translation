@@ -111,6 +111,14 @@ arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.11530v1.pdf)]
 
 [[awesome-human-motion](https://github.com/derikon/awesome-human-motion)]
 
+**StyleRig: Rigging StyleGAN for 3D Control over Portrait Images.**<br>
+*A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H-P. Seidel, P. Perez, M. Zollhöfer, C.Theobalt.*<br>
+CVPR 2020. [[PDF](http://gvv.mpi-inf.mpg.de/projects/StyleRig/data/paper.pdf)] [[Project](http://gvv.mpi-inf.mpg.de/projects/StyleRig/)]
+
+**TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting.**<br>
+*Zhuoqian Yang, Wentao Zhu, Wayne Wu, Chen Qian, Qiang Zhou, Bolei Zhou, Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.14401)]
+
 **First Order Motion Model for Image Animation.**<br>
 *[Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/), [Stéphane Lathuilière](http://stelat.eu/), [Sergey Tulyakov](http://stulyakov.com/), [Elisa Ricci](http://elisaricci.eu/), [Nicu Sebe](http://disi.unitn.it/~sebe/).*<br>
 NeurIPS 2019. [[PDF](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation)] [[Project](https://aliaksandrsiarohin.github.io/first-order-model-website)] [[Github](https://github.com/AliaksandrSiarohin/first-order-model)]
@@ -328,6 +336,18 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.
 
 ## Restoration with Unpair or Misaligned Data
 
+**DeepLPF: Deep Local Parametric Filters for Image Enhancement.**<br>
+*Sean Moran, Pierre Marza, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
+
+**Learning Invariant Representation for Unsupervised Image Restoration.**<br>
+*Wenchao Du, Hu Chen, Hongyu Yang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12769)]
+
+**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
+*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
+
 **EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
 *Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
 AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)]
@@ -365,6 +385,14 @@ CVPR 2018. [[PDF](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/
 [[PDF](https://arxiv.org/abs/1906.00651)] [[PN2V](https://github.com/juglab/pn2v)] [[PPN2V](https://github.com/juglab/ppn2v)]
 
 ## Diving Deep into Image Synthesis
+
+**ConSinGAN: Improved Techniques for Training Single-Image GANs.**<br>
+*Tobias Hinz, Matthew Fisher, Oliver Wang, Stefan Wermter.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.11512)]  [[Github](https://github.com/tohinz/ConSinGAN)]
+
+**MSG-GAN: Multi-Scale Gradient GAN for Stable Image Synthesis.**<br>
+*Animesh Karnewar, Oliver Wang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1903.06048)] [[Github](https://github.com/akanimax/msg-stylegan-tf)]
 
 **ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation.**<br>
 *Shreeyak S. Sajjan, Matthew Moore, Mike Pan, Ganesh Nagaraja, Johnny Lee, Andy Zeng, Shuran Song.*<br>

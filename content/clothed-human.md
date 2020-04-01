@@ -2,6 +2,10 @@
 
 ## 3D Clothing Draping & 3D People Dressing
 
+**Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images.**<br>
+*Heming Zhu, Yu Cao, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, Xiaoguang Han.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12753)] [[Project](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)]
+
 **Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion.**<br>
 *Julian Chibane, [Thiemo Alldieck](https://graphics.tu-bs.de/people/alldieck), Gerard Pons-Moll.*<br>
 CVPR 2020. [[PDF](https://virtualhumans.mpi-inf.mpg.de/papers/chibane20ifnet/chibane20ifnet.pdf)]
@@ -47,6 +51,14 @@ ACM Transactions on Graphics (TOG) 2012.
 arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
+
+**DeepCap: Monocular Human Performance Capture Using Weak Supervision.**<br>
+*Marc Habermann, Weipeng Xu, Michael Zollhoefer, erard Pons-Moll, Christian Theobalt.*<br>
+CVPR 2020. [[PDF](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-deepcap/data/paper.pdf)] [[PDF](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-deepcap/)]
+
+**EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera.**<br>
+*Lan XU, Weipeng Xu, Vladislav Golyanik, Marc Habermann, Lu Fang, Christian Theobalt.*<br>
+CVPR 2020. [[PDF](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/data/paper.pdf)] [[PDF](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/)]
 
 **Learning to Transfer Texture from Clothing Images to 3D Humans.**<br>
 *Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll.*<br>
