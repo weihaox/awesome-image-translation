@@ -6,6 +6,10 @@ Part of this repository is about *Guided Image-to-image translation* which in [h
 
 ## Texture Mapping & Surface Mapping
 
+**Articulation-aware Canonical Surface Mapping.**<br>
+*Nilesh Kulkarni, Abhinav Gupta, David F. Fouhey, Shubham Tulsiani.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00614)] [[Github](https://github.com/nileshkulkarni/acsm/)] [[Project](https://nileshkulkarni.github.io/acsm/)]
+
 **UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World.**<br>
 *Shangbang Long, Cong Yao.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10608)] [[Github](https://github.com/Jyouhou/UnrealText)]
@@ -117,7 +121,7 @@ CVPR 2020. [[PDF](http://gvv.mpi-inf.mpg.de/projects/StyleRig/data/paper.pdf)] [
 
 **TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting.**<br>
 *Zhuoqian Yang, Wentao Zhu, Wayne Wu, Chen Qian, Qiang Zhou, Bolei Zhou, Chen Change Loy.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.14401)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.14401)] [[Github](https://github.com/yzhq97/transmomo.pytorch)] [[Project](https://yzhq97.github.io/transmomo)]
 
 **First Order Motion Model for Image Animation.**<br>
 *[Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/), [Stéphane Lathuilière](http://stelat.eu/), [Sergey Tulyakov](http://stulyakov.com/), [Elisa Ricci](http://elisaricci.eu/), [Nicu Sebe](http://disi.unitn.it/~sebe/).*<br>
@@ -336,6 +340,10 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.
 
 ## Restoration with Unpair or Misaligned Data
 
+**Robust Image Reconstruction with Misaligned Structural Information.**<br>
+*Leon Bungert, Matthias J. Ehrhardt.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00589)]
+
 **Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution.**<br>
 *Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07018)]
@@ -387,6 +395,24 @@ CVPR 2018. [[PDF](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/
 **Probabilistic Noise2Void: Unsupervised Content-Aware Denoising.**<br>
 *Alexander Krull, Tomas Vicar, Florian Jug.*<br>
 [[PDF](https://arxiv.org/abs/1906.00651)] [[PN2V](https://github.com/juglab/pn2v)] [[PPN2V](https://github.com/juglab/ppn2v)]
+
+## Long-Tailed 
+
+**Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective.**<br>
+*Muhammad Abdullah Jamal, Matthew Brown, Ming-Hsuan Yang, Liqiang Wang, Boqing Gong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10780)]
+
+**Domain Balancing: Face Recognition on Long-Tailed Domains.**<br>
+*Dong Cao, Xiangyu Zhu, Xingyu Huang, Jianzhu Guo, Zhen Lei.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13791)]
+
+**M2m: Imbalanced Classification via Major-to-minor Translation.**<br>
+*Jaehyung Kim, Jongheon Jeong, Jinwoo Shin.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
+
+**OLTR: Large-Scale Long-Tailed Recognition in an Open World.**<br>
+*[Ziwei Liu](https://liuziwei7.github.io/), [Zhongqi Miao](https://github.com/zhmiao), [Xiaohang Zhan](https://xiaohangzhan.github.io/), [Jiayun Wang](http://pwang.pw/), [Boqing Gong](http://boqinggong.info/), [Stella X. Yu](https://www1.icsi.berkeley.edu/~stellayu/).*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05160)] [[Github](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)] [[Project](https://liuziwei7.github.io/projects/LongTail.html)]
 
 ## Diving Deep into Image Synthesis
 
@@ -478,6 +504,10 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
+
+**Evading Deepfake-Image Detectors with White- and Black-Box Attacks.**<br>
+*Nicholas Carlini, Hany Farid.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00622)]
 
 **One-Shot GAN Generated Fake Face Detection.**<br>
 *Hadi Mansourifar, Weidong Shi.*<br>
