@@ -2,6 +2,10 @@
 
 ## 3D Clothing Draping & 3D People Dressing
 
+**DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data.**
+*Aljaž Božič, Michael Zollhöfer, Christian Theobalt, Matthias Nießner.*
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.04302)] [[Project](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3187203)] [[Github](https://github.com/AljazBozic/DeepDeform)] [[DeepDeform Benchmark](http://kaldir.vc.in.tum.de/deepdeform_benchmark)]
+
 **Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images.**<br>
 *Heming Zhu, Yu Cao, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, Xiaoguang Han.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12753)] [[Project](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)]
@@ -34,11 +38,9 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1811.10983)] [[Supplementary Material](h
 *Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, [Gerard Pons-Moll](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/gerard-pons-moll/)(REAL VIRTUAL HUMANS, MPII).*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1908.06903)]
 
-**Learning to Dress 3D People in Generative Clothing.**<br>
-*CAPE: Clothed Auto Person Encoding.*<br>
-*Dressing 3D Human Using Conditional Mesh-VAE-GAN.*<br>
+**CAPE: Learning to Dress 3D People in Generative Clothing.**<br>
 *[Qianli Ma](https://ps.is.tue.mpg.de/person/qma), Jinlong Yang, Anurag Ranjan, Sergi Pujades, Gerard Pons-Moll, Siyu Tang, [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
-[[PDF](https://arxiv.org/abs/1907.13615v2)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/1907.13615v2)] 	[[Projecr](http://ps.is.mpg.de/publications/cape-cvpr-20)]
 
 **DRAPE: DRessing Any PErson.**<br>
 *Peng Guan, Loretta Reiss, David A. Hirshberg, Alexander Weiss, Michael J. Black.*<br>
@@ -51,6 +53,10 @@ ACM Transactions on Graphics (TOG) 2012.
 arxiv, 5 Dec 2019. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
+
+**PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization.**<br>
+*Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00452)] [[Project](https://shunsukesaito.github.io/PIFuHD)] [[Github](https://github.com/shunsukesaito/PIFuHD)]
 
 **DeepCap: Monocular Human Performance Capture Using Weak Supervision.**<br>
 *Marc Habermann, Weipeng Xu, Michael Zollhoefer, erard Pons-Moll, Christian Theobalt.*<br>
@@ -121,6 +127,10 @@ ICCV 2109. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_A_N
 Oppo shared on ISMAR 2019.
 
 ## Image-Based Virtual Try-On
+
+**LGVTON: A Landmark Guided Approach to Virtual Try-On.**<br>
+*Debapriya Roy, Sanchayan Santra, Bhabatosh Chanda.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00562)]
 
 **Toward Accurate and Realistic Virtual Try-on Through Shape Matching and Multiple Warps.**<br>
 *Kedan Li, Min Jin Chong, Jingen Liu, David Forsyth.*<br>
