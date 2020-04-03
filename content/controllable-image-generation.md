@@ -4,6 +4,27 @@ This repository is about *Controllable Image Generation* or *intelligent image m
 
 Part of this repository is about *Guided Image-to-image translation* which in [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
 
+## Table of Contents
+- [Texture Mapping & Surface Mapping](#texture-mapping---surface-mapping)
+- [2D to 3D](#2d-to-3d)
+- [Novel-View Synthesis](#novel-view-synthesis)
+- [Motion Transfer & Retargeting & Reenactment & Dubbing & Animation](#motion-transfer---retargeting---reenactment---dubbing---animation)
+- [3D Pose Transfer](#3d-pose-transfer)
+- [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
+- [Frame Interpolation and Videos Generation](#frame-interpolation-and-videos-generation)
+- [Multi-Modality Translation](#multi-modality-translation)
+	* [Voice-to-Voice](#voice-to-voice)
+	* [Text-to-Image](#text-to-image)
+	* [Voice-to-Image](#voice-to-image)
+	* [speech-to-Text](#speech-to-text)
+	* [Text-to-speech](#text-to-speech)
+	- [Free-Hand Sketch](#free-hand-sketch)
+- [Restoration or Enhancement with Unpair or Misaligned Data](#restoration-or-enhancement-with-unpair-or-misaligned-data)
+- [Restoration or Enhancement](#restoration-or-enhancement)
+- [Long-Tailed](#long-tailed)
+- [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
+* [DeepFake and Forensic](#deepfake-and-forensic)
+
 ## Texture Mapping & Surface Mapping
 
 **Articulation-aware Canonical Surface Mapping.**<br>
