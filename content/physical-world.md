@@ -93,6 +93,12 @@ IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
 
 [[Awesome 3D Human Resources List](https://github.com/lijiaman/awesome-3d-human)]
 
+### Soft-tissue Dynamics
+
+**SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans.**<br>
+*[Igor Santesteban](http://isantesteban.com/), Elena Garces, Miguel A. Otaduy, and Dan Casas.*<br>
+Computer Graphics Forum (Proc. of Eurographics), 2020. [[PDF](http://dancasas.github.io/docs/santesteban_Eurographics2020.pdf)] [[Project](http://dancasas.github.io/projects/SoftSMPL)]
+
 ### Human Dynamics 
 
 **Do As I Do: Transferring Human Motion and Appearance between Monocular Videos with Spatial and Temporal Constraints.**<br>
@@ -128,6 +134,10 @@ SIGGRAPH 2019. [[PDF](https://gvv.mpi-inf.mpg.de/projects/LiveCap/)] [[Project](
 TPAMI 2019 (ICCV 2017). [[PDF](https://arxiv.org/abs/1911.09092)] 
 
 ### Human Poses and Shapes
+
+**Bodies at Rest: 3D Human Pose and Shape Estimation from a Pressure Image using Synthetic Data.**<br>
+*Henry M. Clever, Zackory Erickson, Ariel Kapusta, Greg Turk, C. Karen Liu, Charles C. Kemp.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01166)]
 
 **PoseNet3D: Unsupervised 3D Human Shape and Pose Estimation.**<br>
 *Shashank Tripathi, Siddhant Ranade, Ambrish Tyagi, Amit Agrawal.*<br>
@@ -172,6 +182,14 @@ ECCV 2016. [[Project](http://smplify.is.tue.mpg.de/)] [[PDF](https://www.semanti
 ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)] [[Offical](https://smpl.is.tue.mpg.de/)] [[SMPL layer for PyTorch](https://github.com/gulvarol/smplpytorch)]
 
 ### Misc (Face, Object)
+
+**AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild".**<br>
+*Alexandros Lattas, Stylianos Moschoglou, Baris Gecer, Stylianos Ploumpis, Vasileios Triantafyllou, Abhijeet Ghosh, Stefanos Zafeiriou.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)] [[Github](http://github.com/lattas/AvatarMe)]
+
+**DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes.**<br>
+*Mahyar Najibi, Guangda Lai, Abhijit Kundu, Zhichao Lu, Vivek Rathod, Tom Funkhouser, Caroline Pantofaru, David Ross, Larry S. Davis, Alireza Fathi.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01170)]
 
 **Modeling 3D Shapes by Reinforcement Learning.**<br>
 *Cheng Lin, Tingxiang Fan, Wenping Wang, Matthias Nießner.*<br>

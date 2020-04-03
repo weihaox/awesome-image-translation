@@ -2,8 +2,8 @@
 
 ## 3D Clothing Draping & 3D People Dressing
 
-**DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data.**
-*Aljaž Božič, Michael Zollhöfer, Christian Theobalt, Matthias Nießner.*
+**DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data.**<br>
+*Aljaž Božič, Michael Zollhöfer, Christian Theobalt, Matthias Nießner.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.04302)] [[Project](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3187203)] [[Github](https://github.com/AljazBozic/DeepDeform)] [[DeepDeform Benchmark](http://kaldir.vc.in.tum.de/deepdeform_benchmark)]
 
 **Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images.**<br>

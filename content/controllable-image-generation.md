@@ -378,14 +378,6 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.
 *Leon Bungert, Matthias J. Ehrhardt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00589)]
 
-**Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution.**<br>
-*Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07018)]
-
-**DeepLPF: Deep Local Parametric Filters for Image Enhancement.**<br>
-*Sean Moran, Pierre Marza, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
-
 **Learning Invariant Representation for Unsupervised Image Restoration.**<br>
 *Wenchao Du, Hu Chen, Hongyu Yang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12769)]
@@ -418,19 +410,6 @@ CVPR 2018. [[PDF](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/
 *Alexander Krull, Tomas Vicar, Florian Jug.*<br>
 [[PDF](https://arxiv.org/abs/1906.00651)] [[PN2V](https://github.com/juglab/pn2v)] [[PPN2V](https://github.com/juglab/ppn2v)]
 
-**Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
-*Andrey Ignatov, Luc Van Gool, Radu Timofte.* <br>
-arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://github.com/aiff22/PyNET)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)]
-
-**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
-*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
-
-**EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
-*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
-AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)]
-
-
 ## Restoration or Enhancement
 
 **Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy.**<br>
@@ -444,6 +423,26 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01179)] [[Github](https://github.co
 **Learning to See Through Obstructions.**<br>
 *Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang.*<br>
 CVPR 2020. [[PDF](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval_/02197.pdf)] [[Github](https://github.com/alex04072000/ObstructionRemoval)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval)]
+
+**Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution.**<br>
+*Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07018)]
+
+**DeepLPF: Deep Local Parametric Filters for Image Enhancement.**<br>
+*Sean Moran, Pierre Marza, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
+
+**Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
+*Andrey Ignatov, Luc Van Gool, Radu Timofte.* <br>
+arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://github.com/aiff22/PyNET)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)]
+
+**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
+*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
+
+**EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
+*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
+AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)]
 
 ## Long-Tailed 
 
