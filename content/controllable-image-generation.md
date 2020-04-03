@@ -60,6 +60,19 @@ SIGGRAPH Asia 2016. [[PDF](http://ai.ucsd.edu/~haosu/papers/siga16.texture_trans
 
 ## 2D to 3D
 
+**3D-CariGAN: An End-to-End Solution to 3D Caricature Generation from Face Photos.**<br>
+*Zipeng Ye, Ran Yi, Minjing Yu, Juyong Zhang, Yu-Kun Lai, Yong-jin Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.06841)]
+
+**Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling.**<br>
+*Changjian Li, Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
+SIGGRAPH Asia 2018.
+[[Project](http://haopan.github.io/sketchCNN.html)]  [[PDF](https://enigma-li.github.io/projects/sketchcnn/SketchCNN_SIGA_2018.pdf)]  [[Code,Data - GitHub](https://github.com/Enigma-li/SketchCNN/)]
+
+**BendSketch: Modeling Freeform Surfaces Through 2D Sketching.**<br>
+*[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
+SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
+
 **Self-Supervised 2D Image to 3D Shape Translation with Disentangled Representations.**<br>
 *Berk Kaya, Radu Timofte.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/pdf/2003.10016)]
@@ -338,7 +351,7 @@ arxiv, 2018. [[PDF](https://arxiv.org/abs/1811.00249)]
 *[Peng Xu](http://www.pengxu.net/), [Chaitanya K. Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/).*<br>
 arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.com/PengBoXiangShang/multigraph_transformer)]
 
-## Restoration with Unpair or Misaligned Data
+## Restoration or Enhancement with Unpair or Misaligned Data
 
 **Robust Image Reconstruction with Misaligned Structural Information.**<br>
 *Leon Bungert, Matthias J. Ehrhardt.*<br>
@@ -356,21 +369,9 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
 *Wenchao Du, Hu Chen, Hongyu Yang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12769)]
 
-**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
-*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
-
-**EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
-*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
-AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)]
-
 **Meta-Transfer Learning for Zero-Shot Super-Resolution.**<br>
 *Jae Woong Soh, Sunwoo Cho, Nam Ik Cho.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12213)]
-
-**Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
-*Andrey Ignatov, Luc Van Gool, Radu Timofte.* <br>
-arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://github.com/aiff22/PyNET)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)]
 
 **EnlightenGAN: Deep Light Enhancement without Paired Supervision.**<br>
 *Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang.*<br>
@@ -396,6 +397,33 @@ CVPR 2018. [[PDF](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/
 *Alexander Krull, Tomas Vicar, Florian Jug.*<br>
 [[PDF](https://arxiv.org/abs/1906.00651)] [[PN2V](https://github.com/juglab/pn2v)] [[PPN2V](https://github.com/juglab/ppn2v)]
 
+**Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
+*Andrey Ignatov, Luc Van Gool, Radu Timofte.* <br>
+arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://github.com/aiff22/PyNET)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)]
+
+**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
+*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
+
+**EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
+*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
+AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)]
+
+
+## Restoration or Enhancement
+
+**Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy.**<br>
+*Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00448)] [[Github](https://github.com/clovaai/cutblur)]
+
+**Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline.**<br>
+*[Yu-Lun Liu](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/), Wei-Sheng Lai, Yu-Sheng Chen, Yi-Lung Kao, Ming-Hsuan Yang, Yung-Yu Chuang, Jia-Bin Huang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01179)] [[Github](https://github.com/alex04072000/SingleHDR)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/SingleHDR)]
+
+**Learning to See Through Obstructions.**<br>
+*Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang.*<br>
+CVPR 2020. [[PDF](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval_/02197.pdf)] [[Github](https://github.com/alex04072000/ObstructionRemoval)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval)]
+
 ## Long-Tailed 
 
 **Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective.**<br>
@@ -413,6 +441,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
 **OLTR: Large-Scale Long-Tailed Recognition in an Open World.**<br>
 *[Ziwei Liu](https://liuziwei7.github.io/), [Zhongqi Miao](https://github.com/zhmiao), [Xiaohang Zhan](https://xiaohangzhan.github.io/), [Jiayun Wang](http://pwang.pw/), [Boqing Gong](http://boqinggong.info/), [Stella X. Yu](https://www1.icsi.berkeley.edu/~stellayu/).*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05160)] [[Github](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)] [[Project](https://liuziwei7.github.io/projects/LongTail.html)]
+
+**Learning to Segment the Tail.**<br>
+*Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
 
 ## Diving Deep into Image Synthesis
 
@@ -504,6 +536,10 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
+
+**Deep Spatial Gradient and Temporal Depth Learning for Face Anti-spoofing.**<br>
+*Zezheng Wang, Zitong Yu, Chenxu Zhao, Xiangyu Zhu, Yunxiao Qin, Qiusheng Zhou, Feng Zhou, Zhen Lei.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08061)]
 
 **Evading Deepfake-Image Detectors with White- and Black-Box Attacks.**<br>
 *Nicholas Carlini, Hany Farid.*<br>
