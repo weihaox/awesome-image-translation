@@ -12,10 +12,7 @@ This is a list of computer vision groups and Graphic from various universities a
 * [Computer Graphics Laboratory](graphics.ethz.ch) by Prof. Dr. Markus Gross.
 * [IGL: Interactive Geometry Lab](igl.ethz.ch) by Prof. Dr. Olga Sorkine-Hornung.
 * [AIT: Advanced Interactive Technologies](https://ait.ethz.ch/) [[PhD Position](https://ait.ethz.ch/phd/)] [[AIT Application Guidelines](https://ait.ethz.ch/jobs/apply/)]
-<br>
-Others
 * [PRS: Photogrammetry and Remote Sensing](https://prs.igp.ethz.ch/). Department of Civil, Environmental and Geomatic EngineeringInstitute of Geodesy and Photogrammetry.
-
 
 **ETH Zurich and Max Plank Institute for Intelligent Systems**
 * Max Plank ETH Center For Learning Systems. by Prof. Otmar Hilliges (AIT, ETHZ) and Prof. Michael Black (MPII). [[PhD Position](learning-systems.org/phds)] [[Application](https://cls.tue.mpg.de/registration/cls_2020)]
@@ -125,7 +122,7 @@ KTH Royal Institute of Technology
 **University of Amsterdam**
 * [Computer Vision](http://ivi.uva.nl/content/research-groups/computer-vision/computer-vision.html) 
 
-French Institute for Research in Computer Science and Automation (INRIA)
+**French Institute for Research in Computer Science and Automation (INRIA)**
 * [Perception, Cognition and Interaction](https://www.inria.fr/en/domains/perception-cognition-and-interaction)
 
 **Graz University of Technology**
