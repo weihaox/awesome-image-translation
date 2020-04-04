@@ -10,7 +10,24 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 
 Feedback and contributions are welcome!
 
-## Conference
+## Table of Contents
+- [Year 2020](#year-2020)
+  * [CVPR 2020](#cvpr-2020)
+  * [ICLR 2020](#iclr-2020)
+  * [AAAI 2020](#aaai-2020)
+  * [Others 2020](#others-2020)
+- [Year 2019](#year-2019)
+  * [NeurIPS 2019](#neurips-2019)
+  * [ICCV 2019](#iccv-2019)
+  * [CVPR 2019](#cvpr-2019)
+  * [ICLR 2019](#iclr-2019)
+  * [AAAI 2019](#aaai-2019)
+  * [ACM MM 2019](#acm-mm-2019)
+  * [Journal 2019](#journal-2019)
+  * [Others 2019](#others-2019)
+- [Before 2018](#before-2018)
+
+## Year 2020
 
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
@@ -95,6 +112,8 @@ arxiv, 23 Jan 2020. [[PDF](https://arxiv.org/abs/2001.08601)]
 **CDGAN: Cyclic Discriminative Generative Adversarial Networks for Image-to-Image Transformation.**<br>
 *Kancharagunta Kishan Babu, Shiv Ram Dubey.*<br>
 arxiv, 15 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05489)]
+
+## Year 2019
 
 ### NeurIPS 2019 
 [[accepted paper list](https://nips.cc/Conferences/2019/AcceptedPapersInitial)]
@@ -338,7 +357,7 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1904.12428)] [[Github](https://github.c
 *Omry Sendik, Dani Lischinski, Daniel Cohen-Or.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1901.04530)]
 
-### Before 2018
+## Before 2018
 
 **pix2pix: Image-to-Image Translation with Conditional Adversarial Networks.**<br>
 *Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros.*<br>
