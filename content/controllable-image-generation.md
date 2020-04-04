@@ -374,9 +374,21 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.
 
 ## Restoration or Enhancement with Unpair or Misaligned Data
 
+**Unsupervised Real-world Image Super Resolution via Domain-distance Aware Training.**<br>
+*Yunxuan Wei, [Shuhang Gu](https://shuhanggu.github.io/), Yawei Li, Longcun Jin.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2004.01178)] [[Github](https://github.com/ShuhangGu/DASR)]
+
 **Robust Image Reconstruction with Misaligned Structural Information.**<br>
 *Leon Bungert, Matthias J. Ehrhardt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00589)]
+
+**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
+*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
+
+**Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution.**<br>
+*Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07018)]
 
 **Learning Invariant Representation for Unsupervised Image Restoration.**<br>
 *Wenchao Du, Hu Chen, Hongyu Yang.*<br>
@@ -424,10 +436,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01179)] [[Github](https://github.co
 *Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang.*<br>
 CVPR 2020. [[PDF](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval_/02197.pdf)] [[Github](https://github.com/alex04072000/ObstructionRemoval)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval)]
 
-**Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution.**<br>
-*Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07018)]
-
 **DeepLPF: Deep Local Parametric Filters for Image Enhancement.**<br>
 *Sean Moran, Pierre Marza, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
@@ -436,15 +444,15 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
 *Andrey Ignatov, Luc Van Gool, Radu Timofte.* <br>
 arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://github.com/aiff22/PyNET)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)]
 
-**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
-*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
-
 **EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
 *Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
-AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)]
+AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)] [[Project](https://zjuvag.org/publications/eemefn/)]
 
 ## Long-Tailed 
+
+**BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.**<br>
+*Boyan Zhou, Quan Cui, Xiu-Shen Wei, Zhao-Min Chen.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02413)] [[Github](https://github.com/Megvii-Nanjing/BBN)]
 
 **Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective.**<br>
 *Muhammad Abdullah Jamal, Matthew Brown, Ming-Hsuan Yang, Liqiang Wang, Boqing Gong.*<br>
@@ -467,6 +475,18 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05160)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
 
 ## Diving Deep into Image Synthesis
+
+**Image Processing Using Multi-Code GAN Prior.**<br>
+*Jinjin Gu, Yujun Shen, Bolei Zhou.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.07116)] [[Project](https://genforce.github.io/mganprior/)] [[Github](https://github.com/genforce/mganprior)]
+
+**Interpreting the Latent Space of GANs for Semantic Face Editing.**<br>
+*[Yujun Shen](http://shenyujun.github.io/), [Jinjin Gu](http://www.jasongt.com/), [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Bolei Zhou](http://bzhou.ie.cuhk.edu.hk/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1907.10786)] [[Project](https://genforce.github.io/interfacegan/)] [[Github](https://github.com/genforce/interfacegan)]
+
+**In-Domain GAN Inversion for Real Image Editing.**<br>
+*Jiapeng Zhu, Yujun Shen, Deli Zhao, Bolei Zhou.*<br>
+arrive2020. [[PDF](https://arxiv.org/abs/2004.00049)] [[Project](https://genforce.github.io/idinvert/)] [[Github](https://github.com/genforce/idinvert)]
 
 **ConSinGAN: Improved Techniques for Training Single-Image GANs.**<br>
 *Tobias Hinz, Matthew Fisher, Oliver Wang, Stefan Wermter.*<br>
