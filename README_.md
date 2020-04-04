@@ -596,6 +596,10 @@ CVPR 2018. [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Car
 *Boyan Duan, Chaoyou Fu, Yi Li, Xingguang Song, Ran He.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1909.04365)]
 
+**Learning Invariant Representation for Unsupervised Image Restoration.**<br>
+*Wenchao Du, Hu Chen, Hongyu Yang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12769)]
+
 **Unsupervised Domain-Specific Deblurring via Disentangled Representations.**<br>
 *Boyu Lu, Jun-Cheng Chen, Rama Chellappa.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1903.01594)] [[Github](https://github.com/ustclby/Unsupervised-Domain-Specific-Deblurring/)]
@@ -726,8 +730,8 @@ arxiv, 1 Oct 2019. [[PDF](https://arxiv.org/abs/1910.01112)]
 ### Few-Shot
 
 **Semi-supervised Learning for Few-shot Image-to-Image Translation.**<br>
-*Yaxing Wang, Salman Khan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13853)]
+*[Yaxing Wang](https://yaxingwang.github.io/), Salman Khan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13853)] [[Github](https://github.com/yaxingwang/SEMIT)]
 
 **FUNIT: Few-Shot Unsupervised Image-to-Image Translation.**</br> 
 *[Ming-Yu Liu](http://mingyuliu.net/), Xun Huang, Arun Mallya, Tero Karras, Timo Aila, Jaakko Lehtinen, Jan Kautz.*<br> 
@@ -840,13 +844,13 @@ python download-dataset.py datasetname
 - `Ford Autonomous Vehicle Seasonal Dataset`: It is a challenging multi-agent seasonal dataset collected by a fleet of Ford autonomous vehicles at different days and times during 2017-18. The vehicles traversed an average route of 66 km in Michigan that included a mix of driving scenarios such as the Detroit Airport, freeways, city-centers, university campus and suburban neighbourhoods, etc. Each vehicle used in this data collection is a Ford Fusion outfitted with an Applanix POS-LV GNSS system, four HDL-32E Velodyne 3D-lidar scanners, 6 Point Grey 1.3 MP Cameras arranged on the rooftop for 360-degree coverage and 1 Pointgrey 5 MP camera mounted behind the windshield for the forward field of view. They present the seasonal variation in weather, lighting, construction and traffic conditions experienced in dynamic urban environments. To get more details about the Ford AV Dataset, please refer to the [paper](https://arxiv.org/abs/2003.07969), [github](https://github.com/Ford/AVData) or visit [the website](https://avdata.ford.com/).
 
 ### Attribute Editing
-- `CelebA`. The CelebFaces Attributes (CelebA) dataset contains 202,599 face images of celebrities, each annotated with 40 binary attributes. size 178×218. hair color (black, blond, brown),gender (male/female), and age (young/old).
-- `CelebA-HQ`.
-- `CelebAMask-HQ`. It is a large-scale face image dataset that has 30,000 high-resolution face images selected from the CelebA dataset by following CelebA-HQ. Each image has segmentation mask of facial attributes corresponding to CelebA. The masks of CelebAMask-HQ were manually-annotated with the size of 512×512 and 19 classes including all facial components and acessories such as skin, nose, eyes, eyebrows, ears, mouth, lip, hair, hat, eyeglass, earring, necklace, neck, and cloth.
-- `RaFD`. The Radboud Faces Database (RaFD) consists of 4,824 images collected from 67 participants. Each participant makes eight facial expressions in three different gaze directions, which are captured from three different angles.
-- `CMU Multi-PIE Face Database`. [[Multi-PIE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2873597/)] A large (305GB) database of images for training facial recognition software. It consists 13 poses within ±90 degrees of 337 subjects and can be used for face frontalization experiments.
+- `CelebA`. The CelebFaces Attributes (CelebA) dataset contains 202,599 face images of celebrities, each annotated with 40 binary attributes. size 178×218. hair color (black, blond, brown),gender (male/female), and age (young/old). [[Onedrive](mmlab.ie.cuhk.edu.hk/projects/CelebA.html)] [[BaiduYun](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1eSNpdRG%23list/path%3D%252F)]
+- `CelebA-HQ`. [[Homepage](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)]. There is also a Modified [h5tool.py](https://github.com/willylulu/celeba-hq-modified) to make user getting celeba-HQ easier.
+- `CelebAMask-HQ`. It is a large-scale face image dataset that has 30,000 high-resolution face images selected from the CelebA dataset by following CelebA-HQ. Each image has segmentation mask of facial attributes corresponding to CelebA. The masks of CelebAMask-HQ were manually-annotated with the size of 512×512 and 19 classes including all facial components and acessories such as skin, nose, eyes, eyebrows, ears, mouth, lip, hair, hat, eyeglass, earring, necklace, neck, and cloth. The dataset can be downloaded [[here](https://github.com/switchablenorms/CelebAMask-HQ)].
+- `RaFD`. The Radboud Faces Database ([RaFD](http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=main)) consists of 4,824 images collected from 67 participants. Each participant makes eight facial expressions in three different gaze directions, which are captured from three different angles.
 - `AFHQ`.  Released in StarGAN v2. Animal FacesHQ (AFHQ) consists of 15,000 high-quality images at 512 × 512 resolution. We collected images with
-permissive licenses from the [Flickr](https://www.flickr.com/) and [Pixabay](https://pixabay.com/) websites. All images are vertically and horizontally aligned to have the eyes at the center. The low-quality images were discarded by human effort. See the [Project](https://github.com/clovaai/stargan-v2) or Paper for more details.
+permissive licenses from the [Flickr](https://www.flickr.com/) and [Pixabay](https://pixabay.com/) websites. All images are vertically and horizontally aligned to have the eyes at the center. The low-quality images were discarded by human effort. You can downloaded using the provided [scripts](https://github.com/clovaai/stargan-v2/blob/master/download.sh). For more details, see the [Project](https://github.com/clovaai/stargan-v2) or [Paper](https://arxiv.org/abs/1912.01865).
+- `CMU Multi-PIE Face Database`. [[Multi-PIE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2873597/)] A large (305GB) database of images for training facial recognition software. It consists 13 poses within ±90 degrees of 337 subjects and can be used for face frontalization experiments.
 
 ### Others
 - `Makeup Transfer`. [[Download](http://liusi-group.com/projects/BeautyGAN)]
