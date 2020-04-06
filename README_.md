@@ -162,6 +162,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1906.01526)]
 
 ### Disentanglement
 
+**Guided Variational Autoencoder for Disentanglement Learning.**<br>
+*Zheng Ding, Yifan Xu, Weijian Xu, Gaurav Parmar, Yang Yang, Max Welling, Zhuowen Tu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01255)]
+
 **XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings.**<br>
 *Amélie Royer, Konstantinos Bousmalis, Stephan Gouws, Fred Bertsch, Inbar Mosseri, Forrester Cole, Kevin Murphy.*<br>
 ICML 2018. [[PDF](https://arxiv.org/abs/1711.05139)] [[Dataset](https://google.github.io/cartoonset/)]
@@ -287,7 +291,7 @@ International Conference on Multimedia Modeling (MMM 2020). [[PDF](https://arxiv
 *Wenju Xu, Shawn Keshmiri, Guanghui Wang.*</br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1905.08766)]
 
-**Unsupervised Multi-Domain Multimodal Image-to-Image Translation with Explicit Domain-Constrained Disentanglement.**</br>
+**DCMIT: Unsupervised Multi-Domain Multimodal Image-to-Image Translation with Explicit Domain-Constrained Disentanglement.**</br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue.*</br>
 arxiv, 2019. [[PDF](https://arxiv.org/abs/1911.00622)]
 
@@ -349,7 +353,7 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02621)]
 
 **Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis.**<br>
 *Hao Tang, Xiaojuan Qi, Dan Xu, Philip H. S. Torr, Nicu Sebe.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13898)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13898)] [[Github](https://github.com/Ha0Tang/EdgeGAN)]
 
 **Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.**<br>
 *[Hao Tang](http://disi.unitn.it/~hao.tang/), Dan Xu, Yan Yan, Philip H. S. Torr, [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).*<br>

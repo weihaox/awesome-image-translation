@@ -2,9 +2,8 @@
 
 This repository is about *Controllable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose or other information. 
 
-Part of this repository is about *Guided Image-to-image translation* which in [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
-
 ## Table of Contents
+- [Guided Image-to-image translation](#guided-image-to-image-translation)
 - [Texture Mapping & Surface Mapping](#texture-mapping---surface-mapping)
 - [2D to 3D](#2d-to-3d)
 - [Novel-View Synthesis](#novel-view-synthesis)
@@ -24,6 +23,10 @@ Part of this repository is about *Guided Image-to-image translation* which in [h
 - [Long-Tailed](#long-tailed)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
 * [DeepFake and Forensic](#deepfake-and-forensic)
+
+## Guided Image-to-image translation
+
+Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
 
 ## Texture Mapping & Surface Mapping
 
@@ -423,6 +426,18 @@ CVPR 2018. [[PDF](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/
 [[PDF](https://arxiv.org/abs/1906.00651)] [[PN2V](https://github.com/juglab/pn2v)] [[PPN2V](https://github.com/juglab/ppn2v)]
 
 ## Restoration or Enhancement
+
+**Deep White-Balance Editing.**<br>
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)]
+
+**What Else Can Fool Deep Learning? Addressing Color Constancy Errors on Deep Neural Network Performance.**<br>
+*[Mahmoud Afifi](http://www.cse.yorku.ca/~mafifi/), Michael S. Brown.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Afifi_What_Else_Can_Fool_Deep_Learning_Addressing_Color_Constancy_Errors_ICCV_2019_paper.pdf)] [[Project](http://cvil.eecs.yorku.ca/projects/public_html/wb_emulation/index.html)] [[Github](https://github.com/mahmoudnafifi/WB_color_augmenter)]
+
+**When Color Constancy Goes Wrong: Correcting Improperly White-Balanced Images.**<br>
+*Mahmoud Afifi, Brian Price, Scott Cohen, and Michael S. Brown.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Afifi_When_Color_Constancy_Goes_Wrong_Correcting_Improperly_White-Balanced_Images_CVPR_2019_paper.pdf)] [[Github](https://github.com/mahmoudnafifi/WB_sRGB)] 
 
 **Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy.**<br>
 *Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn.*<br>

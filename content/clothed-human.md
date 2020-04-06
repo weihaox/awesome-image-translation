@@ -126,6 +126,12 @@ ICCV 2109. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_A_N
 **3D Reconstruction from a single image.** <br>
 Oppo shared on ISMAR 2019.
 
+## Fashion Style Influences
+
+**From Paris to Berlin: Discovering Fashion Style Influences Around the World.**<br>
+*Ziad Al-Halah, Kristen Grauman.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01316)]
+
 ## Image-Based Virtual Try-On
 
 **LGVTON: A Landmark Guided Approach to Virtual Try-On.**<br>

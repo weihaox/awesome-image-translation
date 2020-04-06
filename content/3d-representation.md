@@ -121,6 +121,10 @@ ACM Transactions on Graphics (SIGGRAPH Asia), 2018. [[PDF](http://www.cs.ubc.ca/
 
 ## Dense Shape Correspondence & Matching
 
+**S2DNet: Learning Accurate Correspondences for Sparse-to-Dense Feature Matching.**<br>
+*Hugo Germain, Guillaume Bourmaud, Vincent Lepetit.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2004.01255.pdf)]
+
 **ANCNet: Correspondence Networks with Adaptive Neighbourhood Consensus.**<br>
 *Shuda Li, Kai Han, Theo W. Costain, Henry Howard-Jenkins, Victor Prisacariu.*<br>
 CVPR 2020. [[PDF](https://ancnet.avlcode.org/asset/cvpr2020_anc_net.pdf)] [[Project](https://ancnet.avlcode.org/)] [[Github](https://github.com/ActiveVisionLab/ANCNet)] 

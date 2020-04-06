@@ -32,6 +32,9 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
+**Guided Variational Autoencoder for Disentanglement Learning.**[[PDF](https://arxiv.org/abs/2004.01255)]<br>
+*Zheng Ding, Yifan Xu, Weijian Xu, Gaurav Parmar, Yang Yang, Max Welling, Zhuowen Tu.*<br>
+
 **Semi-supervised Learning for Few-shot Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2003.13853)] [[Github](https://github.com/yaxingwang/SEMIT)]<br>
 *Yaxing Wang, Salman Khan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan.*<br>
 
