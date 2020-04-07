@@ -2,6 +2,13 @@
 
 This repository is a collection of papers on learning 3D representations from natural images.
 
+## Table of Contents
+- [3D Shape Representation and Feature Embedding](#3d-shape-representation-and-feature-embedding)
+- [Representation of Motion](#representation-of-motion)
+- [Surface Cuts and Parameterization](#surface-cuts-and-parameterization)
+- [Dense Shape Correspondence & Matching](#dense-shape-correspondence---matching)
+- [3D Reconstruction with Synthesied Images](#3d-reconstruction-with-synthesied-images)
+
 ## 3D Shape Representation and Feature Embedding
 
 **Pix2Shape: Towards Unsupervised Learning of 3D Scenes from Images using a View-based Representation.**<br>
@@ -18,7 +25,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2003.09754)]
 
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
 *[Ben Mildenhall](http://people.eecs.berkeley.edu/~bmild/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), [Matthew Tancik](http://www.matthewtancik.com/), [Jonathan T. Barron](https://jonbarron.info/), [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
-arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub](https://github.com/bmild/nerf)]
+arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Gtihub-Tensorflow](https://github.com/bmild/nerf)] [[krrish94-PyTorch](https://github.com/krrish94/nerf-pytorch)] [[yenchenlin-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
 
 **LLFF: Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines.**<br>
 *[Ben Mildenhall](http://people.eecs.berkeley.edu/~bmild/), Pratul Srinivasan, Rodrigo Ortiz-Cayon, Nima Khademi Kalantari, Ravi Ramamoorthi, Ren Ng, Abhishek Kar.*<br>

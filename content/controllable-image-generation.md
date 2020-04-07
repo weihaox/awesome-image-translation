@@ -4,10 +4,11 @@ This repository is about *Controllable Image Generation* or *intelligent image m
 
 ## Table of Contents
 - [Guided Image-to-image translation](#guided-image-to-image-translation)
+- [Soft Segmentation and Background Matting](#soft-segmentation-and-background-matting)
 - [Texture Mapping & Surface Mapping](#texture-mapping---surface-mapping)
 - [2D to 3D](#2d-to-3d)
 - [Novel-View Synthesis](#novel-view-synthesis)
-- [Motion Transfer & Retargeting & Reenactment & Dubbing & Animation](#motion-transfer---retargeting---reenactment---dubbing---animation)
+- [Motion Transfer, Retargeting, Reenactment, Dubbing, nimation](#motion-transfer---retargeting---reenactment---dubbing---animation)
 - [3D Pose Transfer](#3d-pose-transfer)
 - [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
 - [Frame Interpolation and Videos Generation](#frame-interpolation-and-videos-generation)
@@ -17,16 +18,26 @@ This repository is about *Controllable Image Generation* or *intelligent image m
 	* [Voice-to-Image](#voice-to-image)
 	* [speech-to-Text](#speech-to-text)
 	* [Text-to-speech](#text-to-speech)
-	- [Free-Hand Sketch](#free-hand-sketch)
+- [Free-Hand Sketch](#free-hand-sketch)
 - [Restoration or Enhancement with Unpair or Misaligned Data](#restoration-or-enhancement-with-unpair-or-misaligned-data)
 - [Restoration or Enhancement](#restoration-or-enhancement)
 - [Long-Tailed](#long-tailed)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
-* [DeepFake and Forensic](#deepfake-and-forensic)
+- [DeepFake and Forensic](#deepfake-and-forensic)
 
 ## Guided Image-to-image translation
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
+
+## Soft Segmentation and Background Matting
+
+**Background Matting: The World is Your Green Screen.**<br>
+*[Soumyadip Sengupta](https://homes.cs.washington.edu/~soumya91/), [Vivek Jayaram](http://www.vivekjayaram.com/research), Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00626)] [[Github](https://github.com/senguptaumd/Background-Matting)] [[Project](https://grail.cs.washington.edu/projects/background-matting/)]
+
+**Semantic Soft Segmentation.**<br>
+*[Yagiz Aksoy](http://yaksoy.github.io/), Tae-Hyun Oh, Sylvain Paris, Marc Pollefeys and Wojciech Matusik.*<br>
+ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://cfg.mit.edu/sites/cfg.mit.edu/files/sss_3.pdf)] [[Project](http://yaksoy.github.io/sss/)] [[Github-Matlab](https://github.com/yaksoy/SemanticSoftSegmentation)] [[Github-Python](https://github.com/iyah4888/SIGGRAPH18SSS)]
 
 ## Texture Mapping & Surface Mapping
 
@@ -427,6 +438,14 @@ CVPR 2018. [[PDF](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/
 
 ## Restoration or Enhancement
 
+**Self-Supervised Scene De-occlusion.**<br>
+*[Xiaohang Zhan](https://xiaohangzhan.github.io/), [Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Github](https://github.com/XiaohangZhan/deocclusion/)]
+
+**CDVD-TSP: Cascaded Deep Video Deblurring Using Temporal Sharpness Prior.**<br>
+*Jinshan Pan, Haoran Bai, Jinhui Tang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.com/csbhr/CDVD-TSP)]
+
 **Deep White-Balance Editing.**<br>
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)]
@@ -485,11 +504,19 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
 *[Ziwei Liu](https://liuziwei7.github.io/), [Zhongqi Miao](https://github.com/zhmiao), [Xiaohang Zhan](https://xiaohangzhan.github.io/), [Jiayun Wang](http://pwang.pw/), [Boqing Gong](http://boqinggong.info/), [Stella X. Yu](https://www1.icsi.berkeley.edu/~stellayu/).*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05160)] [[Github](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)] [[Project](https://liuziwei7.github.io/projects/LongTail.html)]
 
+**Long-tail learning with attributes.**<br>
+*Dvir Samuel, Yuval Atzmon, Gal Chechik.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)]
+
 **Learning to Segment the Tail.**<br>
 *Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
 
 ## Diving Deep into Image Synthesis
+
+**GANSpace: Discovering Interpretable GAN Controls.**<br>
+*Erik Härkönen, Aaron Hertzmann, Jaakko Lehtinen, Sylvain Paris.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02546)]
 
 **Image Processing Using Multi-Code GAN Prior.**<br>
 *Jinjin Gu, Yujun Shen, Bolei Zhou.*<br>

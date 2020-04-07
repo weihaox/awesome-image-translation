@@ -3,6 +3,37 @@
 
 A collection of papers on inferring the physical world (shape, depth, motion, paint, light, colors, etc) from single RGB, multi-view or temporal images. 
 
+## Table of Contents
+- [Inverse Rendering](#inverse-rendering)
+- [Disentanglement](#disentanglement)
+- [Light, Reflectance, lluminance and Shade](#light--reflectance--lluminance-and-shade)
+- [Shape and Viewpoint](#shape-and-viewpoint)
+- [Human 3D Reconstruction](#human-3d-reconstruction)
+  * [Soft-tissue Dynamics](#soft-tissue-dynamics)
+  * [Human Dynamics](#human-dynamics)
+  * [Human Poses and Shapes](#human-poses-and-shapes)
+  * [Misc (Face, Object)](#misc--face--object-)
+- [Depth From Video (Depth, Normal and Camera Motion Estimation)](#depth-from-video--depth--normal-and-camera-motion-estimation-)
+- [Hair Segmentation and Reconstruction](#hair-segmentation-and-reconstruction)
+- [Human Pose Estimation](#human-pose-estimation)
+- [3D Representations From Natural Images](#3d-representations-from-natural-images)
+- [Depth with ToF](#depth-with-tof)
+- [Temporal- and Scale-Consistent Depth Estimation](#temporal--and-scale-consistent-depth-estimation)
+- [Depth and Related Tasks](#depth-and-related-tasks)
+- [Learning Temporal Information from Videos](#learning-temporal-information-from-videos)
+  * [FastSlow, Multiple Stream and Temporal Pyramid](#fastslow--multiple-stream-and-temporal-pyramid)
+  * [3D convolutions (C3D)](#3d-convolutions--c3d-)
+  * [Flow](#flow)
+  * [2DCNN + LSTM (Temporal Block)](#2dcnn---lstm--temporal-block-)
+- [Gaze Estimation/Tracking/Redirection/Correction, Blink Detection](#gaze-estimation-tracking-redirection-correction--blink-detection)
+  * [ICCV 2019 WorkShop: [Gaze Estimation and Prediction in the Wild](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_GAZE.py) [[Homepage](http://gazeworkshop.github.io/)]](#iccv-2019-workshop---gaze-estimation-and-prediction-in-the-wild--http---openaccessthecvfcom-iccv2019-workshops-iccv2019-gazepy----homepage--http---gazeworkshopgithubio---)
+  * [Gaze Dataset](#gaze-dataset)
+  * [Gaze Redirection and Correction](#gaze-redirection-and-correction)
+  * [Gaze Estimation](#gaze-estimation)
+  * [Eye Tracking](#eye-tracking)
+- [Team and People](#team-and-people)
+- [Good Start of 3D Resources (Python)](#good-start-of-3d-resources--python-)
+
 ## Inverse Rendering
 
 **InverseRenderNet: Learning Single Image Inverse Rendering.**<br>
@@ -88,6 +119,10 @@ IJCV 2018. [[BIP Dataset](https://gravis.dmi.unibas.ch/PMM/data/bip/)] [[PDF](ht
 **Self-supervised 3D Shape and Viewpoint Estimation from Single Images for Robotics.**<br>
 *Oier Mees, Maxim Tatarchenko, Thomas Brox and Wolfram Burgard.*<br>
 IROS 2019. [[PDF](https://arxiv.org/abs/1910.07948.pdf)]
+
+**Self-Supervised Viewpoint Learning From Image Collections.**<br>
+*Siva Karthik Mustikovela, Varun Jampani, Shalini De Mello, Sifei Liu, Umar Iqbal, Carsten Rother, Jan Kautz.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01793)]
 
 ## Human 3D Reconstruction
 
@@ -182,6 +217,10 @@ ECCV 2016. [[Project](http://smplify.is.tue.mpg.de/)] [[PDF](https://www.semanti
 ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)] [[Offical](https://smpl.is.tue.mpg.de/)] [[SMPL layer for PyTorch](https://github.com/gulvarol/smplpytorch)]
 
 ### Misc (Face, Object)
+
+**A Morphable Face Albedo Model.**<br>
+*William A.P. Smith, Alassane Seck, Hannah Dee, Bernard Tiddeman, Joshua Tenenbaum, Bernhard Egger.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02711)]
 
 **HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation from a Single Depth Map.**<br>
 *Jameel Malik, Ibrahim Abdelaziz, Ahmed Elhayek, Soshi Shimada, Sk Aziz Ali, Vladislav Golyanik, Christian Theobalt, Didier Stricker.*<br>

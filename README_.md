@@ -160,6 +160,10 @@ ICML 2020 Workshop on Invertible Neural Networks, Normalizing Flows, and Explici
 *Oren Katzir, Dani Lischinski, Daniel Cohen-Or.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1906.01526)]
 
+**Towards Lifelong Self-Supervision For Unpaired Image-to-Image Translation.**<br>
+*Victor Schmidt, Makesh Narsimhan Sreedhar, Mostafa ElAraby, Irina Rish.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00161)] [[Github](https://github.com/vict0rsch/LiSS)]
+
 ### Disentanglement
 
 **Guided Variational Autoencoder for Disentanglement Learning.**<br>
@@ -500,7 +504,11 @@ TIP 2019. [[PDF](https://arxiv.org/abs/1806.06195)]
 *Hajar Emami, Majid Moradi Aliabadi, Ming Dong, Ratna Babu Chinnam.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1908.06616)] 
 
-### Layout Guided
+### Layout or Structure Guided
+
+**Structural-analogy from a Single Image Pair.**<br>
+*Sagie Benaim, Ron Mokady, Amit Bermano, Daniel Cohen-Or, Lior Wolf.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02222)]
 
 **BachGAN: High-Resolution Image Synthesis from Salient Object Layout.**<br>
 *[Yandong Li](https://cold-winter.github.io/), [Yu Cheng](https://sites.google.com/site/chengyu05/home), [Zhe Gan](https://www.cs.unc.edu/~licheng/), [Licheng Yu](https://www.cs.unc.edu/~licheng//), [Liqiang Wang](http://www.cs.ucf.edu/~lwang//), [Jingjing Liu](http://people.csail.mit.edu/jingl/).*<br>
@@ -578,6 +586,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1807.09251)] [[Github](https://github.co
 ## Applications
 
 ### Photo Animation
+
+**AutoToon: Automatic Geometric Warping for Face Cartoon Generation.**<br>
+*Julia Gong, Yannick Hold-Geoffroy, Jingwan Lu.*<br>
+WACV 2020. [[PDF](https://arxiv.org/abs/2004.02377)]
 
 **Learning to Cartoonize Using White-box Cartoon Representations.**<br>
 *Xinrui Wang, Jinze Yu.*<br>
@@ -769,7 +781,7 @@ ICCV 2019. [[PDF](https://arxiv.org/pdf/1909.01064.pdf)]
 
 **APDrawingGAN: Face-to-Parameter Translation for Game Character Auto-Creation.**</br>
 *Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul L. Rosin.*<br>
-CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.pdf) [Github](https://github.com/yiranran/APDrawingGAN)] [[Online Demo](https://face.lol)]
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.pdf)] [[Github](https://github.com/yiranran/APDrawingGAN)] [[Online Demo](https://face.lol)]
 
 **Cascaded Generation of High-quality Color Visible Face Images from Thermal Captures.**</br> 
 *Naser Damer, Fadi Boutros, Khawla Mallat, Florian Kirchbuchner, Jean-Luc Dugelay, Arjan Kuijper.*<br>
