@@ -26,7 +26,6 @@ A collection of papers on inferring the physical world (shape, depth, motion, pa
   * [Flow](#flow)
   * [2DCNN + LSTM (Temporal Block)](#2dcnn---lstm--temporal-block-)
 - [Gaze Estimation/Tracking/Redirection/Correction, Blink Detection](#gaze-estimation-tracking-redirection-correction--blink-detection)
-  * [ICCV 2019 WorkShop: [Gaze Estimation and Prediction in the Wild](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_GAZE.py) [[Homepage](http://gazeworkshop.github.io/)]](#iccv-2019-workshop---gaze-estimation-and-prediction-in-the-wild--http---openaccessthecvfcom-iccv2019-workshops-iccv2019-gazepy----homepage--http---gazeworkshopgithubio---)
   * [Gaze Dataset](#gaze-dataset)
   * [Gaze Redirection and Correction](#gaze-redirection-and-correction)
   * [Gaze Estimation](#gaze-estimation)
@@ -701,7 +700,7 @@ CVPR 2019.
 
 [[Awesome Work on Gaze Estimation.](https://github.com/cvlab-uob/Awesome-Gaze-Estimation)]
 
-### ICCV 2019 WorkShop: [Gaze Estimation and Prediction in the Wild](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_GAZE.py) [[Homepage](http://gazeworkshop.github.io/)]
+ICCV 2019 WorkShop: [Gaze Estimation and Prediction in the Wild](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_GAZE.py) [[Homepage](http://gazeworkshop.github.io/)]
 
 * A Generalized and Robust Method Towards Practical Gaze Estimation on Smart Phone. [[PDF]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/Guo_A_Generalized_and_Robust_Method_Towards_Practical_Gaze_Estimation_on_ICCVW_2019_paper.pdf)
 Tianchu Guo, Yongchao Liu, Hui Zhang, Xiabing Liu, Youngjun Kwak, Byung In Yoo, Jae-Joon Han, Changkyu Choi.

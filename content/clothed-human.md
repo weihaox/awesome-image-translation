@@ -1,5 +1,13 @@
 # Clothed People Digitalization
 
+## Table of Contents
+- [3D Clothing Draping & 3D People Dressing](#3d-clothing-draping---3d-people-dressing)
+- [Clothed People Digitalization](#clothed-people-digitalization)
+- [Fashion Style Influences](#fashion-style-influences)
+- [Image-Based Virtual Try-On](#image-based-virtual-try-on)
+  * [Challenge and workshop](#challenge-and-workshop)
+  * [Datasets](#datasets)
+
 ## 3D Clothing Draping & 3D People Dressing
 
 **DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data.**<br>
