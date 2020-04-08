@@ -274,6 +274,10 @@ Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
 
 ### Journal 2019
 
+**DosGAN: Exploring Explicit Domain Supervision for Latent Space Disentanglement in Unpaired Image-to-Image Translation.**<br>
+*[Jianxin Lin](http://home.ustc.edu.cn/~linjx/), [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/), Yingce Xia, Sen Liu, Tao Qin, Jiebo Luo.*<br>
+TPAMI 2019. [[PDF](https://arxiv.org/abs/1902.03782)] [[Github](https://github.com/linjx-ustc1106/DosGAN-PyTorch)]
+
 **DRIT++: Diverse Image-to-Image Translation via Disentangled Representations.**<br>
 *Hsin-Ying Lee, Hung-Yu Tseng, Qi Mao, Jia-Bin Huang, Yu-Ding Lu, Maneesh Singh, Ming-Hsuan Yang.*<br>
 IJCV 2019. [[PDF](https://arxiv.org/abs/1905.01270)] [[Project](http://vllab.ucmerced.edu/hylee/DRIT_pp/)] [[Github](https://github.com/HsinYingLee/MDMM)]
@@ -287,6 +291,10 @@ TIP 2019. [[PDF](https://arxiv.org/abs/1806.06195)]
 TIP 2019. [[PDF](https://arxiv.org/abs/1711.10678)] [[Github](https://github.com/LynnHo/AttGAN-Tensorflow)]
 
 ### Others 2019
+
+**Deliberation Learning for Image-to-Image Translation.**<br>
+*Tianyu He, Yingce Xia, Jianxin Lin, Xu Tan, Di He, Tao Qin, Zhibo Chen.*<br>
+IJCAI 2019. [[PDF](https://www.ijcai.org/Proceedings/2019/0345.pdf)]
 
 **RL-GAN: Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation.**<br>
 *Shani Gamrian, Yoav Goldberg.*<br>

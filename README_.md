@@ -32,7 +32,7 @@ Feedback and contributions are welcome!
 - [Continous Change](#continous-change)
 - [Applications](#applications)
   * [Image Restoration](#image-restoration)
-  * [Attribute-Editing](#attribute-editing)
+  * [Attribute Editing and Makeup Transfer](#attribute-editing)
   * [Video](#video)
   * [Data Augmentation](#data-augmentation)
   * [Model-Compression-and-Pruning](#model-compression-and-pruning)
@@ -221,6 +221,10 @@ NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.07877)] [[Github](https://github
 **Flow-based Image-to-Image Translation with Feature Disentanglement.**</br> 
 *Ruho Kondo, Keisuke Kawano, Satoshi Koide, Takuro Kutsuna.*<br>
 NeurIPS 2019. [[PDF](http://papers.nips.cc/paper/8670-flow-based-image-to-image-translation-with-feature-disentanglement.pdf)]
+
+**DosGAN: Exploring Explicit Domain Supervision for Latent Space Disentanglement in Unpaired Image-to-Image Translation.**<br>
+*[Jianxin Lin](http://home.ustc.edu.cn/~linjx/), [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/), Yingce Xia, Sen Liu, Tao Qin, Jiebo Luo.*<br>
+TPAMI 2019. [[PDF](https://arxiv.org/abs/1902.03782)] [[Github](https://github.com/linjx-ustc1106/DosGAN-PyTorch)]
 
 ### Multi-Domain and Multi-Modal
 
@@ -414,6 +418,10 @@ ArXiv 2019. [[PDF](https://arxiv.org/abs/1910.11328)] [[Github](http://t.cn/Ai1b
 **Image-to-Image Translation with Text Guidance.**<br>
 *Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
 arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
+
+**Neural Image Inpainting Guided with Descriptive Text.**<br>
+*Lisai Zhang, Qingcai Chen, Baotian Hu, Shuoran Jiang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03212)]
 
 **Cycle Text-To-Image GAN with BERT.**<br>
 *Trevor Tsue, Samir Sen, Jason Li.*<br>

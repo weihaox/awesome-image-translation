@@ -213,6 +213,10 @@ ACM Trans. Graphics (Proc. SIGGRAPH Asia) 2016. [[PDF](http://files.is.tue.mpg.d
 
 ### Misc (Face, Object)
 
+**Learning Generative Models of Shape Handles.**<br>
+*Matheus Gadelha, Giorgio Gori, Duygu Ceylan, Radomir Mech, Nathan Carr, Tamy Boubekeur, Rui Wang, Subhransu Maji.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03028)]
+
 **A Morphable Face Albedo Model.**<br>
 *William A.P. Smith, Alassane Seck, Hannah Dee, Bernard Tiddeman, Joshua Tenenbaum, Bernhard Egger.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02711)]

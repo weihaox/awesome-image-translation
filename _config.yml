@@ -14,3 +14,4 @@ include:
   - content/3d-representation.md
   - content/controllable-image-generation.md
   - content/clothed-human.md
+  - content/image-synthesis.md
