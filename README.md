@@ -32,6 +32,9 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
+**Semantic Image Manipulation Using Scene Graphs.**[[PDF](https://arxiv.org/abs/2004.03677)]<br>
+*Helisa Dhamo, Azade Farshad, Iro Laina, Nassir Navab, Gregory D. Hager, Federico Tombari, Christian Rupprecht.*<br>
+
 **Guided Variational Autoencoder for Disentanglement Learning.**[[PDF](https://arxiv.org/abs/2004.01255)]<br>
 *Zheng Ding, Yifan Xu, Weijian Xu, Gaurav Parmar, Yang Yang, Max Welling, Zhuowen Tu.*<br>
 
@@ -184,6 +187,10 @@ Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
 **Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.html)]<br>
 *Wen Liu, Zhixin Piao, Jie Min, Wenhan Luo, Lin Ma, Shenghua Gao.*
 
+**SMIT: Stochastic Multi-Label Image-to-Image Translation.**<br>
+*Andrés Romero, Pablo Arbeláez, Luc Van Gool, Radu Timofte.*<br>
+ICCV Workshops 2019. [[PDF](https://arxiv.org/abs/1812.03704)] [[Github](https://github.com/BCV-Uniandes/SMIT)]
+
 ### CVPR 2019 
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2019.py)]
 
@@ -258,19 +265,35 @@ Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
 **OT-CycleGAN: Guiding the One-to-one Mapping in CycleGAN via Optimal Transport.** [[PDF](https://arxiv.org/abs/1811.06284)] <br>
 *Guansong Lu, Zhiming Zhou, Yuxuan Song, Kan Ren, Yong Yu.*<br> 
 
-### ACM MM 2019
+### ACM MM and SIGGRAPH 2019
 
-**C2-GAN: Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation.**[[PDF](https://arxiv.org/abs/1908.00999)] <br>
-*Hao Tang, Dan Xu, Gaowen Liu, Wei Wang, Nicu Sebe, Yan Yan.*<br>
+**VR Facial Animation via Multiview Image Translation.**<br>
+*Shih-En Wei, Jason Saragih, Tomas Simon, Adam W. Harley, Stephen Lombardi, Michal Perdoch, Alexander Hypes, Dawei Wang, Hernan Badino, Yaser Sheikh.*<br>
+SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)]
 
-**Towards Automatic Face-to-Face Translation.**[[PDF](https://dl.acm.org/doi/10.1145/3343031.3351066)] [[Github](https://github.com/Rudrabha/LipGAN)] [[Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/facetoface-translation)]<br>
+**Stylizing Video by Example.**<br> 
+*Ondřej Jamriška, Šárka Sochorová, Ondřej Texler, Michal Lukáč, Jakub Fišer, Jingwan Lu, Eli Shechtman, Daniel Sýkora.*<br>
+SIGGRAPH 2019. [[PDF](https://dcgi.fel.cvut.cz/home/sykorad/Jamriska19-SIG.pdf)]
+
+**VR Facial Animation via Multiview Image Translation.**<br>
+*Shih-En Wei, Jason Saragih, Tomas Simon, Adam W. Harley, Stephen Lombardi, Michal Perdoch, Alexander Hypes, Dawei Wang, Hernan Badino, Yaser Sheikh.*<br>
+SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)]
+
+**C2-GAN: Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation.**<br>
+*[Hao Tang](http://disi.unitn.it/~hao.tang/), [Dan Xu](http://www.robots.ox.ac.uk/~danxu/), [Gaowen Liu](https://dblp.uni-trier.de/pers/hd/l/Liu:Gaowen), [Wei Wang](https://weiwangtrento.github.io/), [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en), [Yan Yan](https://scholar.google.com/citations?user=zhi-j1wAAAAJ&hl=en).*<br>
+ACM MM 2019. [[PDF](https://arxiv.org/abs/1908.00999)] [[Project](http://disi.unitn.it/~hao.tang/project/C2GAN.html)] [[Github](https://github.com/Ha0Tang/C2GAN)]
+
+**Towards Automatic Face-to-Face Translation.**<br>
 *Prajwal Renukanand, Rudrabha Mukhopadhyay, Jerin Philip, Abhishek Jha, Vinay Namboodiri and C.V. Jawahar.*<br>
+ACM MM 2019. [[PDF](https://dl.acm.org/doi/10.1145/3343031.3351066)] [[Github](https://github.com/Rudrabha/LipGAN)] [[Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/facetoface-translation)]
 
-**Preserving Semantic and Temporal Consistency for Unpaired Video-to-Video Translation.**[[PDF](https://arxiv.org/abs/1908.07683)]<br>
+**Preserving Semantic and Temporal Consistency for Unpaired Video-to-Video Translation.**<br>
 *Kwanyong Park, Sanghyun Woo, Dahun Kim, Donghyeon Cho, In So Kweon.*<br>
- 
-**Mocycle-GAN: Unpaired Video-to-Video Translation.**[[PDF](https://arxiv.org/abs/1908.09514)]<br> 
+ACM MM 2019. [[PDF](https://arxiv.org/abs/1908.07683)]
+
+**Mocycle-GAN: Unpaired Video-to-Video Translation.**<br> 
 *Yang Chen, Yingwei Pan, Ting Yao, Xinmei Tian, Tao Mei.*<br> 
+ACM MM 2019. [[PDF](https://arxiv.org/abs/1908.09514)]
 
 ### Journal 2019
 
@@ -300,18 +323,6 @@ IJCAI 2019. [[PDF](https://www.ijcai.org/Proceedings/2019/0345.pdf)]
 *Shani Gamrian, Yoav Goldberg.*<br>
 ICML 2019. [[accepted paper list](http://proceedings.mlr.press/v97/)] [[PDF](https://arxiv.org/abs/1806.07377)] [[Supplementary PDF](http://proceedings.mlr.press/v97/fujimoto19a/fujimoto19a-supp.pdf)] [[Github](https://github.com/ShaniGam/RL-GAN)]
 
-**VR Facial Animation via Multiview Image Translation.**<br>
-*Shih-En Wei, Jason Saragih, Tomas Simon, Adam W. Harley, Stephen Lombardi, Michal Perdoch, Alexander Hypes, Dawei Wang, Hernan Badino, Yaser Sheikh.*<br>
-SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)]
-
-**Stylizing Video by Example.**<br> 
-*Ondřej Jamriška, Šárka Sochorová, Ondřej Texler, Michal Lukáč, Jakub Fišer, Jingwan Lu, Eli Shechtman, Daniel Sýkora.*<br>
-SIGGRAPH 2019. [[PDF](https://dcgi.fel.cvut.cz/home/sykorad/Jamriska19-SIG.pdf)]
-
-**VR Facial Animation via Multiview Image Translation.**<br>
-*Shih-En Wei, Jason Saragih, Tomas Simon, Adam W. Harley, Stephen Lombardi, Michal Perdoch, Alexander Hypes, Dawei Wang, Hernan Badino, Yaser Sheikh.*<br>
-SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)]
-
 **CartoonRenderer: An Instance-based Multi-Style Cartoon Image Translator.**<br>
 *Yugang Chen, Muchun Chen, Chaoyue Song, Bingbing Ni.*<br>
 International Conference on Multimedia Modeling (MMM2020). [[PDF](https://arxiv.org/abs/1911.06102)] 
@@ -319,10 +330,6 @@ International Conference on Multimedia Modeling (MMM2020). [[PDF](https://arxiv.
 **AttentionGAN: Attention-Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation.**<br>
 *Hao Tang, Dan Xu, Nicu Sebe, Yan Yan.*<br>
 IJCNN 2019. [[Github](https://github.com/Ha0Tang/AttentionGAN)]
-
-**SMIT: Stochastic Multi-Label Image-to-Image Translation.**<br>
-*Andrés Romero, Pablo Arbeláez, Luc Van Gool, Radu Timofte.*<br>
-ICCV Workshops 2019. [[PDF](https://arxiv.org/abs/1812.03704)] [[Github](https://github.com/BCV-Uniandes/SMIT)]
 
 **Image-to-Image Translation with Multi-Path Consistency Regularization.**<br>
 *Jianxin Lin, Yingce Xia, Yijun Wang, Tao Qin, Zhibo Chen.*<br>
@@ -335,6 +342,18 @@ arxiv, 14 Dec 2019 (ACCV 2018 Extension) [[PDF](https://arxiv.org/abs/1912.06931
 **PPN2V: Fully Unsupervised Probabilistic Noise2Void.**<br>
 *Mangal Prakash, Manan Lalit, Pavel Tomancak, Alexander Krull, Florian Jug.*<br>
 arxiv, 27 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12291)] [[GitHub](https://github.com/juglab/ppn2v)] [[MPI-CBG: Max-Planck Institute of Molecular Cell Biology and Genetics](https://www.mpi-cbg.de/home/)]
+
+**CrossNet: Latent Cross-Consistency for Unpaired Image Translation.**<br>
+*Omry Sendik, Dani Lischinski, [Daniel Cohen-Or](https://danielcohenor.com/).*<br>
+WACV, 2020. [[PDF](https://arxiv.org/abs/1901.04530)]
+
+**Cross-Domain Cascaded Deep Feature Translation.**<br>
+*Oren Katzir, Dani Lischinski, Daniel Cohen-Or.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1906.01526)]
+
+**Implicit Pairs for Boosting Unpaired Image-to-Image Translation.**<br>
+*Yiftach Ginger, Dov Danon, Hadar Averbuch-Elor, Daniel Cohen-Or.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1904.06913)]
 
 **PN2V:Probabilistic Noise2Void: Unsupervised Content-Aware Denoising.**<br>
 *Alexander Krull, Tomas Vicar, Florian Jug.*<br>
@@ -356,17 +375,9 @@ arxiv, 24 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10538)]
 *Wenju Xu, Shawn Keshmiri, Guanghui Wang.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1905.08766)]
 
-**Cross-Domain Cascaded Deep Feature Translation.**<br>
-*Oren Katzir, Dani Lischinski, Daniel Cohen-Or.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/1906.01526)]
-
 **AGUIT: Attribute Guided Unpaired Image-to-Image Translation with Semi-supervised Learning.**<br>
 *Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1904.12428)] [[Github](https://github.com/imlixinyang/aguit)]
-
-**CrossNet: Latent Cross-Consistency for Unpaired Image Translation.**<br>
-*Omry Sendik, Dani Lischinski, Daniel Cohen-Or.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/1901.04530)]
 
 ## Before 2018
 
@@ -416,7 +427,7 @@ BMVC 2017. [[Github](https://github.com/Prinsphield/GeneGAN)] [[PDF](https://arx
 
 **Face-Age-cGAN: Face Aging With Conditional Generative Adversarial Networks.**<br>
 *Grigory Antipov, Moez Baccouche, Jean-Luc Dugelay.*<br>
-[[PDF](https://arxiv.org/abs/1702.01983)]
+ICIP 2017. [[PDF](https://arxiv.org/abs/1702.01983)]
 
 
 ## License

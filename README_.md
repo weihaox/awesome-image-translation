@@ -228,6 +228,10 @@ TPAMI 2019. [[PDF](https://arxiv.org/abs/1902.03782)] [[Github](https://github.c
 
 ### Multi-Domain and Multi-Modal
 
+**Multimodal Image Synthesis with Conditional Implicit Maximum Likelihood Estimation.**<br>
+*Ke Li, Shichong Peng, Tianhao Zhang, Jitendra Malik.*<br>
+IJCV 2020. [[PDF](https://arxiv.org/abs/2004.03590)]
+
 **MSGAN: Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis.**<br>
 *Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Siwei Ma, Ming-Hsuan Yang.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1903.05628)] [[Github](https://github.com/HelenMao/MSGAN)]
@@ -305,6 +309,11 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1911.00622)]
 
 ## Guided Image-to-image Translation
 
+### Scene Graphs Guided
+**Semantic Image Manipulation Using Scene Graphs.**<br>
+*Helisa Dhamo, Azade Farshad, Iro Laina, Nassir Navab, Gregory D. Hager, Federico Tombari, Christian Rupprecht.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03677)]
+
 ### Keypoint or Landmark Guided
 
 **ADGAN: Controllable Person Image Synthesis with Attribute-Decomposed GAN.**<br>
@@ -358,6 +367,10 @@ ECCVW 2018. [[PDF](https://arxiv.org/abs/1808.07371)] [[Project](https://carolin
 CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02621)]
 
 ### Segmentation or Label Map Guided
+
+**Attentive Normalization for Conditional Image Generation.**<br>
+*Yi Wang, Ying-Cong Chen, Xiangyu Zhang, Jian Sun, Jiaya Jia.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03828)]
 
 **Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis.**<br>
 *Hao Tang, Xiaojuan Qi, Dan Xu, Philip H. S. Torr, Nicu Sebe.*<br>
