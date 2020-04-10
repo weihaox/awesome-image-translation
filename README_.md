@@ -164,6 +164,18 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1906.01526)]
 *Victor Schmidt, Makesh Narsimhan Sreedhar, Mostafa ElAraby, Irina Rish.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00161)] [[Github](https://github.com/vict0rsch/LiSS)]
 
+**TuiGAN: Learning Versatile Image-to-Image Translation with Two Unpaired Images.**<br>
+*Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
+
+**Unpaired Image Translation via Adaptive Convolution-based Normalization.**<br>
+*[Wonwoong cho](https://wonwoongcho.github.io/), Kangyeol Kim, Eungyeup Kim, Hyunwoo J. Kim, Jaegul Choo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1911.13271)]
+
+**What and Where to Translate: Local Mask-based Image-to-Image Translation.**<br>
+*Wonwoong Cho, Seunghwan Choi, Junwoo Park, David Keetae Park, Tao Qin, Jaegul Choo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1906.03598)]
+
 ### Disentanglement
 
 **Guided Variational Autoencoder for Disentanglement Learning.**<br>
