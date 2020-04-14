@@ -531,7 +531,7 @@ TIP 2019. [[PDF](https://arxiv.org/abs/1806.06195)]
 
 **U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation.**<br>
 *Junho Kim, Minjae Kim, Hyeonwoo Kang, Kwanghee Lee.*<br>
-[[PDF](https://arxiv.org/abs/1907.10830)] [[TensorFlow](https://github.com/taki0112/UGATIT) or [Pytorch](https://github.com/znxlwm/UGATIT-pytorch)]
+ICLR 2020. [[PDF](https://arxiv.org/abs/1907.10830)] [[TensorFlow](https://github.com/taki0112/UGATIT) or [Pytorch](https://github.com/znxlwm/UGATIT-pytorch)]
 
 **SPA-GAN: Spatial Attention GAN for Image-to-Image Translation.**<br>
 *Hajar Emami, Majid Moradi Aliabadi, Ming Dong, Ratna Babu Chinnam.*<br>

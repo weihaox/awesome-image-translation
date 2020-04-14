@@ -13,7 +13,6 @@ Feedback and contributions are welcome!
 ## Table of Contents
 - [Year 2020](#year-2020)
   * [CVPR 2020](#cvpr-2020)
-  * [ICLR 2020](#iclr-2020)
   * [AAAI 2020](#aaai-2020)
   * [Others 2020](#others-2020)
 - [Year 2019](#year-2019)
@@ -32,6 +31,9 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
+**CoCosNet: Cross-domain Correspondence Learning for Exemplar-based Image Translation.**[[PDF](https://arxiv.org/abs/2004.05571)][[Project](https://panzhang0212.github.io/CoCosNet/)]<br>
+*[Pan Zhang](panzhang0212.github.io), [Bo Zhang](https://www.microsoft.com/en-us/research/people/zhanbo/), Dong Chen, Lu Yuan, Fang Wen.*<br>
+
 **Semantic Image Manipulation Using Scene Graphs.**[[PDF](https://arxiv.org/abs/2004.03677)]<br>
 *Helisa Dhamo, Azade Farshad, Iro Laina, Nassir Navab, Gregory D. Hager, Federico Tombari, Christian Rupprecht.*<br>
 
@@ -47,7 +49,7 @@ Feedback and contributions are welcome!
 **ADGAN: Controllable Person Image Synthesis with Attribute-Decomposed GAN.**[[PDF](https://menyifang.github.io/projects/ADGAN/ADGAN_files/Paper_ADGAN_CVPR2020.pdf)] [[Project](https://menyifang.github.io/projects/ADGAN/ADGAN.html)]  [[Github](https://github.com/menyifang/ADGAN)]<br>
 *[Yifang Men](https://menyifang.github.io/), [Yiming Mao](https://mtroym.github.io/), Yuning Jiang, Wei-Ying Ma, Zhouhui Lian.*<br>
 
-**Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.** [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.com/Ha0Tang/LGGAN)]<br> 
+**LGGAN: Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.** [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.com/Ha0Tang/LGGAN)]<br> 
 *[Hao Tang](http://disi.unitn.it/~hao.tang/), Dan Xu, Yan Yan, Philip H. S. Torr, Nicu Sebe.*<br> 
 
 **StarGAN v2: Diverse Image Synthesis for Multiple Domains.**[[PDF](https://arxiv.org/abs/1912.01865)] [[GitHub](https://github.com/clovaai/stargan-v2)]<br> 
@@ -61,12 +63,6 @@ Feedback and contributions are welcome!
 
 **NICE: Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation.** [[PDF](https://arxiv.org/abs/2003.00273)] [[Github](https://github.com/alpc91/NICE-GAN-pytorch)]<br>
 *Runfa Chen, Wenbing Huang, Binghui Huang, Fuchun Sun, Bin Fang.*<br>
-
-### ICLR 2020 
-[[accepted paper list](https://openreview.net/group?id=ICLR.cc/2020/Conference)]
-
-**U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](https://github.com/taki0112/UGATIT)] [[Pytorch](https://github.com/znxlwm/UGATIT-pytorch)]<br>
-*Junho Kim, Minjae Kim, Hyeonwoo Kang, Kwanghee Lee.*<br>
 
 ### AAAI 2020 
 [[accepted paper list](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)]
@@ -97,9 +93,13 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation.**<br>
+*Junho Kim, Minjae Kim, Hyeonwoo Kang, Kwanghee Lee.*<br>
+[ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)]. [[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](https://github.com/taki0112/UGATIT)] [[Pytorch](https://github.com/znxlwm/UGATIT-pytorch)]
+
 **GANILLA: Generative Adversarial Networks for Image to Illustration Translation.**<br>
 *Samet Hicsonmez, Nermin Samet, Emre Akbas, Pinar Duygulu.*<br>
-arxiv, 13 Feb 2020. Image and Vision Computing. [[PDF](https://arxiv.org/abs/2002.05638)] [[Github](https://github.com/giddyyupp/ganilla)]
+Image and Vision Computing 2020. [[PDF](https://arxiv.org/abs/2002.05638)] [[Github](https://github.com/giddyyupp/ganilla)]
 
 **Image-to-Image Translation with Text Guidance.**<br>
 *Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
@@ -387,7 +387,7 @@ CVPR 2017. [[Project](https://phillipi.github.io/pix2pix/)] [[Github](https://gi
 
 **BicycleGAN: Toward Multimodal Image-to-Image Translation.**<br>
 *Jun-Yan Zhu, Richard Zhang, Deepak Pathak, Trevor Darrell, Alexei A. Efros, Oliver Wang, Eli Shechtman.*<br>
-NIPS 2017. [[Github](https://github.com/junyanz/BicycleGAN)] [[Github](https://github.com/gitlimlab/BicycleGAN-Tensorflow)]
+NIPS 2017. [[PDF](https://arxiv.org/abs/1711.11586)] [[Project](https://junyanz.github.io/BicycleGAN/)] [[Github](https://github.com/junyanz/BicycleGAN)] [[TensorFlow](https://github.com/gitlimlab/BicycleGAN-Tensorflow)]
 
 **CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.**<br>
 *Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros.*<br>
