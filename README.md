@@ -2,7 +2,8 @@
 
 A collection of resources on image-to-image translation. 
 
-This repo is organized chronologically by conferences, another repo which is organized in terms of catrgory is also [available](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md). 
+This repository is organized chronologically by conferences (constantly updating).
+There is another one organized in terms of **catrgory**, which is also [available](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md). 
 
 ## Contributing
 
@@ -31,11 +32,14 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
+**SMIS: Semantically Multi-modal Image Synthesis.**[[PDF](https://arxiv.org/abs/2003.12697)] [[Project](http://seanseattle.github.io/SMIS)] [[Github](https://github.com/Seanseattle/SMIS)]<br> 
+*Zhen Zhu, Zhiliang Xu, Ansheng You, Xiang Bai.*<br>
+
 **CoCosNet: Cross-domain Correspondence Learning for Exemplar-based Image Translation.**[[PDF](https://arxiv.org/abs/2004.05571)][[Project](https://panzhang0212.github.io/CoCosNet/)]<br>
 *[Pan Zhang](panzhang0212.github.io), [Bo Zhang](https://www.microsoft.com/en-us/research/people/zhanbo/), Dong Chen, Lu Yuan, Fang Wen.*<br>
 <details>
-  <summary> Comment </summary>C
-  oCosNet = <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Exemplar-Based_Video_Colorization_CVPR_2019_paper">DEVC</a> + <a href="https://github.com/NVlabs/SPADE">SPADE</a>
+  <summary> Comment </summary>
+  CoCosNet = <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Exemplar-Based_Video_Colorization_CVPR_2019_paper">DEVC</a> + <a href="https://github.com/NVlabs/SPADE">SPADE</a>
 </details>
 
 **Intuitive, Interactive Beard and Hair Synthesis with Generative Models.**[[PDF](https://arxiv.org/abs/2004.06848)]<br>
@@ -65,7 +69,7 @@ Feedback and contributions are welcome!
 **GAN Compression: Efficient Architectures for Interactive Conditional GANs.**[[PDF](https://arxiv.org/abs/2003.08936)] [[Demo](https://tinyurl.com/r474uca)] [[Github](https://github.com/mit-han-lab/gan-compression/)]<br>
 *[Muyang Li](https://lmxyy.me/), Ji Lin, Yaoyao Ding, Zhijian Liu, Jun-Yan Zhu, and [Song Han](https://songhan.mit.edu/).*<br>
 
-**High-Resolution Daytime Translation Without Domain Labels.**[[PDF](https://arxiv.org/abs/2003.08791)]<br>
+**HiDT: High-Resolution Daytime Translation Without Domain Labels.**[[PDF](https://arxiv.org/abs/2003.08791)]<br>
 *Ivan Anokhin, Pavel Solovev, Denis Korzhenkov, Alexey Kharlamov, Taras Khakhulin, Gleb Sterkin, Alexey Silvestrov, Sergey Nikolenko, Victor Lempitsky.*<br>
 
 **NICE: Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation.** [[PDF](https://arxiv.org/abs/2003.00273)] [[Github](https://github.com/alpc91/NICE-GAN-pytorch)]<br>

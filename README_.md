@@ -1,8 +1,8 @@
 # awesome image-to-image translation papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of resources on image-to-image translation. 
+A collection of resources on image-to-image translation (constantly updating). 
 
-This repo is organized in terms of catrgory, another repo which is organized chronologically by conferences is also [available](https://github.com/xiaweihao/awesome-image-translation/blob/master/README.md). 
+This repository is organized in terms of catrgory, another one which is organized chronologically by conferences is also [available](https://github.com/xiaweihao/awesome-image-translation/blob/master/README.md). 
 
 ## Contributing
 
@@ -18,6 +18,7 @@ Feedback and contributions are welcome!
   * [Disentanglement](#disentanglement)
   * [Multi-Domain and Multi-Modal](#multi-domain-and-multi-modal)
 - [Guided Image-to-image Translation](#guided-image-to-image-translation)
+  * [Scene Graphs Guided](#scene-graphs-guided)
   * [Keypoint or Landmark Guided](#keypoint-or-landmark-guided)
   * [Pose and Skeleton Guided](#pose-and-skeleton-guided)
   * [Amodal Map Guided](#amodal-map-guided)
@@ -27,21 +28,22 @@ Feedback and contributions are welcome!
   * [Mask Guided](#mask-guided)
   * [Exemplar Guided](#exemplar-guided)
   * [Attention Guided](#attention-guided)
-  * [Layout Guided](#layout-guided)
+  * [Layout or Structure Guided](#layout-or-structure-guided)
   * [Dialog Guided](#dialog-guided)
   * [Audio Guided](#audio-guided)
 - [Continous Change](#continous-change)
+- [Video](#video)
+- [Few-Shot](#few-shot)
 - [Applications](#applications)
+  * [Photo Animation](#photo-animation)
   * [Image Restoration](#image-restoration)
-  * [Attribute Editing and Makeup Transfer](#attribute-editing)
-  * [Video](#video)
+  * [Image ynthesis](#image-synthesis)
+  * [Retargeting and 3D Vision](#retargeting-and-3d-vision)
+  * [Attribute Editing](#attribute-editing)
   * [Data Augmentation](#data-augmentation)
   * [Model-Compression-and-Pruning](#model-compression-and-pruning)
-  * [Adversarial-Examples](#adversarial-examples)
+  * [Adversarial Examples](#adversarial-examples)
   * [Imbalanced Data](#imbalanced-data)
-  * [Few-Shot](#few-shot)
-  * [Image-Synthesis](#image-synthesis)
-  * [Retargeting-and-3D-Vision](#retargeting-and-3d-vision)
 - [Datasets](#datasets)
 
 ## Tutorials
@@ -635,6 +637,70 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Homom
 *Albert Pumarola, Antonio Agudo, Aleix M. Martinez, Alberto Sanfeliu, Francesc Moreno-Noguer.*<br>
 ECCV 2018. [[PDF](https://arxiv.org/abs/1807.09251)] [[Github](https://github.com/albertpumarola/GANimation)] 
 
+## Video
+
+**Line Art Correlation Matching Network for Automatic Animation Colorization.**<br>
+*Zhang Qian, Wang Bo, Wen Wei, Li Hai, Liu Jun Hui.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06718)]
+
+**Unsupervised Multimodal Video-to-Video Translation via Self-Supervised Learning.**<br>
+*Kangning Liu, Shuhang Gu, Andres Romero, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06502)]
+
+**Unsupervised Video-to-Video Translation via Self-Supervised Learning.**<br>
+*Kangning Liu, Shuhang Gu, Radu Timofte.*<br>
+2020. [[PDF](https://openreview.net/forum?id=HkevCyrFDS)]
+
+**Video-to-Video Synthesis.**<br>
+*Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bryan Catanzaro.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1808.06601)] [[Github](https://github.com/NVIDIA/vid2vid)]   
+
+**Everybody Dance Now.**<br>
+*Caroline Chan, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros.*<br>
+ECCVW 2018. [[PDF](https://arxiv.org/abs/1808.07371)] [[Project](https://carolineec.github.io/everybody_dance_now/)]
+
+**Preserving Semantic and Temporal Consistency for Unpaired Video-to-Video Translation.**<br>
+*Kwanyong Park, Sanghyun Woo, Dahun Kim, Donghyeon Cho, In So Kweon.*<br>
+ACM MM 2019. [[PDF](https://arxiv.org/abs/1908.07683)]
+
+**Mocycle-GAN: Unpaired Video-to-Video Translation.**<br> 
+*Yang Chen, Yingwei Pan, Ting Yao, Xinmei Tian, Tao Mei.*<br> 
+ACM MM 2019. [[PDF](https://arxiv.org/abs/1908.09514)] 
+
+**Recycle-GAN: Unsupervised Video Retargeting.**<br> 
+*Aayush Bansal, Shugao Ma, Deva Ramanan, Yaser Sheikh.*<br> 
+ECCV 2018. [[PDF](https://arxiv.org/abs/1808.05174)] [[Github](https://github.com/aayushbansal/Recycle-GAN)]
+
+**Few-shot Video-to-Video Synthesis.**</br>
+*Ting-Chun Wang, Ming-Yu Liu, Andrew Tao, Guilin Liu, Jan Kautz, Bryan Catanzaro.*<br> 
+NeurIPS 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)] [[Github](https://github.com/NVlabs/few-shot-vid2vid)]
+
+## Few-Shot
+
+**Semi-supervised Learning for Few-shot Image-to-Image Translation.**<br>
+*[Yaxing Wang](https://yaxingwang.github.io/), Salman Khan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13853)] [[Github](https://github.com/yaxingwang/SEMIT)]
+
+**FUNIT: Few-Shot Unsupervised Image-to-Image Translation.**</br> 
+*[Ming-Yu Liu](http://mingyuliu.net/), Xun Huang, Arun Mallya, Tero Karras, Timo Aila, Jaakko Lehtinen, Jan Kautz.*<br> 
+ICCV 2019. [[PDF](https://arxiv.org/abs/1905.01723)] [[Project](https://nvlabs.github.io/FUNIT/)] [[Github](https://github.com/nvlabs/FUNIT/)]
+
+**Semi Few-Shot Attribute Translation.**</br> 
+*Ricard Durall, Franz-Josef Pfreundt, Janis Keuper.*<br> 
+arxiv 2019. [[PDF](https://arxiv.org/abs/1910.03240)] 
+
+**ZstGAN: An Adversarial Approach for Unsupervised Zero-Shot Image-to-Image Translation.**</br> 
+*Jianxin Lin, Yingce Xia, Sen Liu, Tao Qin, Zhibo Chen.*<br> 
+arxiv 2019. [[PDF](https://arxiv.org/abs/1906.00184)] [[Github](https://github.com/linjx-ustc1106/ZstGAN-PyTorch)]
+
+**MetaPix: Few-Shot Video Retargeting.**</br>
+*Jessica Lee, Deva Ramanan, Rohit Girdhar.*<br> 
+ICCV 2019. [[PDF](https://arxiv.org/abs/1910.04742)]] [[Project](https://motionretargeting2d.github.io)] [[Github](https://github.com/imjal/MetaPix)] 
+
+**Few-shot Video-to-Video Synthesis.**</br>
+*Ting-Chun Wang, Ming-Yu Liu, Andrew Tao, Guilin Liu, Jan Kautz, Bryan Catanzaro.*<br> 
+arxiv 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)]
+
 ## Applications
 
 ### Photo Animation
@@ -672,7 +738,67 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12769)]
 *Boyu Lu, Jun-Cheng Chen, Rama Chellappa.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1903.01594)] [[Github](https://github.com/ustclby/Unsupervised-Domain-Specific-Deblurring/)]
 
-### Attribute-Editing
+### Image Synthesis
+
+**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**</br>
+*Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br> 
+arxiv, 28 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)] [[Github](https://github.com/ZPdesu/SEAN)]
+
+**Face-to-Parameter Translation for Game Character Auto-Creation.**</br> 
+*Tianyang Shi, Yi Yuan, Changjie Fan, Zhengxia Zou, Zhenwei Shi, Yong Liu.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/pdf/1909.01064.pdf)]    
+
+**APDrawingGAN: Face-to-Parameter Translation for Game Character Auto-Creation.**</br>
+*Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul L. Rosin.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.pdf)] [[Github](https://github.com/yiranran/APDrawingGAN)] [[Online Demo](https://face.lol)]
+
+**Cascaded Generation of High-quality Color Visible Face Images from Thermal Captures.**</br> 
+*Naser Damer, Fadi Boutros, Khawla Mallat, Florian Kirchbuchner, Jean-Luc Dugelay, Arjan Kuijper.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1910.09524)] 
+
+**CartoonGAN: Generative Adversarial Networks for Photo Cartoonization.**</br>
+*Yang Chen, Yu-Kun Lai, Yong-Jin Liu.*<br>
+CVPR 2018. [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)] [[Github](https://github.com/FlyingGoblin/CartoonGAN)] [[unofficial test](https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch)] [[unofficial pytorch](https://github.com/znxlwm/pytorch-CartoonGAN)]
+
+### Retargeting and 3D Vision
+
+**Render4Completion: Synthesizing Multi-View Depth Maps for 3D Shape Completion.**</br>
+*Tao Hu, Zhizhong Han, Abhinav Shrivastava, Matthias Zwicker.*</br>
+ICCV 2019 workshop on Geometry meets Deep Learning. [[PDF](https://arxiv.org/abs/1904.08366)]
+
+**Multi-Garment Net_Learning to Dress 3D people from Images.**</br>
+*Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, Gerard Pons-Moll.*<br>
+ICCV 2019. [[PDF](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2019mgn/bhatnagar2019mgn.pdf)] [[Github](https://github.com/bharat-b7/MultiGarmentNetwork)]
+
+**Tex2Shape: Detailed Full Human Body Geometry From a Single Image.**</br>
+*Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor.*</br>
+ICCV 2019. [[arxiv](https://arxiv.org/abs/1904.08645)] [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Alldieck_Tex2Shape_Detailed_Full_Human_Body_Geometry_From_a_Single_Image_ICCV_2019_paper.html)] [[Github](https://github.com/thmoa/tex2shape)]
+
+**pix2vertex: Unrestricted facial geometry reconstruction using image-to-image translation.**</br>
+*Matan Sela, Elad Richardson, Ron Kimmel.*</br>
+arxiv, 2017. [[PDF](https://arxiv.org/abs/1703.10131)] [[Github](https://github.com/matansel/pix2vertex)]
+
+**Learning to Reconstruct People in Clothing from a Single RGB Camera.**</br>
+*Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll.*</br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1903.05885)][[Github](https://github.com/thmoa/octopus)]
+
+**360-Degree Textures of People in Clothing from a Single Image.**</br>
+*Verica Lazova, Eldar Insafutdinov, Gerard Pons-Moll.*</br>
+3DV 2019. [[PDF](https://arxiv.org/pdf/1908.07117.pdf)][[Project](http://virtualhumans.mpi-inf.mpg.de/360tex/)] 
+
+**SelectionGAN: Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation.**<br>
+*Hao Tang, Dan Xu, Nicu Sebe, Yanzhi Wang, Jason J. Corso, Yan Yan.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
+
+**Multi-Channel Attention Selection GANs for Guided Image-to-Image Translation.**<br>
+*Hao Tang, Dan Xu, Yan Yan, Jason J. Corso, Philip H.S. Torr, Nicu Sebe.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2002.01048)]
+
+**VR Facial Animation via Multiview Image Translation.**<br>
+*Shih-En Wei, Jason Saragih, Tomas Simon, Adam W. Harley, Stephen Lombardi, Michal Perdoch, Alexander Hypes, Dawei Wang, Hernan Badino, Yaser Sheikh.*<br>
+SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)]
+
+### Attribute Editing
 
 **Intuitive, Interactive Beard and Hair Synthesis with Generative Models.**<br>
 *Kyle Olszewski, Duygu Ceylan, Jun Xing, Jose Echevarria, Zhili Chen, Weikai Chen, Hao Li.*<br>
@@ -726,44 +852,6 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1908.08847)]
 *Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann.*<br> 
 Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
 
-### Video
-
-**Line Art Correlation Matching Network for Automatic Animation Colorization.**<br>
-*Zhang Qian, Wang Bo, Wen Wei, Li Hai, Liu Jun Hui.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06718)]
-
-**Unsupervised Multimodal Video-to-Video Translation via Self-Supervised Learning.**<br>
-*Kangning Liu, Shuhang Gu, Andres Romero, Radu Timofte.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06502)]
-
-**Unsupervised Video-to-Video Translation via Self-Supervised Learning.**<br>
-*Kangning Liu, Shuhang Gu, Radu Timofte.*<br>
-2020. [[PDF](https://openreview.net/forum?id=HkevCyrFDS)]
-
-**Video-to-Video Synthesis.**<br>
-*Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bryan Catanzaro.*<br>
-NeurIPS 2018. [[PDF](https://arxiv.org/abs/1808.06601)] [[Github](https://github.com/NVIDIA/vid2vid)]   
-
-**Everybody Dance Now.**<br>
-*Caroline Chan, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros.*<br>
-ECCVW 2018. [[PDF](https://arxiv.org/abs/1808.07371)] [[Project](https://carolineec.github.io/everybody_dance_now/)]
-
-**Preserving Semantic and Temporal Consistency for Unpaired Video-to-Video Translation.**<br>
-*Kwanyong Park, Sanghyun Woo, Dahun Kim, Donghyeon Cho, In So Kweon.*<br>
-ACM MM 2019. [[PDF](https://arxiv.org/abs/1908.07683)]
-
-**Mocycle-GAN: Unpaired Video-to-Video Translation.**<br> 
-*Yang Chen, Yingwei Pan, Ting Yao, Xinmei Tian, Tao Mei.*<br> 
-ACM MM 2019. [[PDF](https://arxiv.org/abs/1908.09514)] 
-
-**Recycle-GAN: Unsupervised Video Retargeting.**<br> 
-*Aayush Bansal, Shugao Ma, Deva Ramanan, Yaser Sheikh.*<br> 
-ECCV 2018. [[PDF](https://arxiv.org/abs/1808.05174)] [[Github](https://github.com/aayushbansal/Recycle-GAN)]
-
-**Few-shot Video-to-Video Synthesis.**</br>
-*Ting-Chun Wang, Ming-Yu Liu, Andrew Tao, Guilin Liu, Jan Kautz, Bryan Catanzaro.*<br> 
-NeurIPS 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)] [[Github](https://github.com/NVlabs/few-shot-vid2vid)]
-
 ### Data Augmentation
 
 **Generative Image Translation for Data Augmentation in Colorectal Histopathology Images.**</br>
@@ -806,92 +894,6 @@ NeurIPS 2019. [[PDF](https://arxiv.org/abs/1908.01517v1)]]
 **Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Imbalanced Data.**</br>
 *Utkarsh Ojha, Krishna Kumar Singh, Cho-Jui Hsieh, Yong Jae Lee.*<br>
 arxiv, 1 Oct 2019. [[PDF](https://arxiv.org/abs/1910.01112)]   
-
-### Few-Shot
-
-**Semi-supervised Learning for Few-shot Image-to-Image Translation.**<br>
-*[Yaxing Wang](https://yaxingwang.github.io/), Salman Khan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13853)] [[Github](https://github.com/yaxingwang/SEMIT)]
-
-**FUNIT: Few-Shot Unsupervised Image-to-Image Translation.**</br> 
-*[Ming-Yu Liu](http://mingyuliu.net/), Xun Huang, Arun Mallya, Tero Karras, Timo Aila, Jaakko Lehtinen, Jan Kautz.*<br> 
-ICCV 2019. [[PDF](https://arxiv.org/abs/1905.01723)] [[Project](https://nvlabs.github.io/FUNIT/)] [[Github](https://github.com/nvlabs/FUNIT/)]
-
-**Semi Few-Shot Attribute Translation.**</br> 
-*Ricard Durall, Franz-Josef Pfreundt, Janis Keuper.*<br> 
-arxiv 2019. [[PDF](https://arxiv.org/abs/1910.03240)] 
-
-**ZstGAN: An Adversarial Approach for Unsupervised Zero-Shot Image-to-Image Translation.**</br> 
-*Jianxin Lin, Yingce Xia, Sen Liu, Tao Qin, Zhibo Chen.*<br> 
-arxiv 2019. [[PDF](https://arxiv.org/abs/1906.00184)] [[Github](https://github.com/linjx-ustc1106/ZstGAN-PyTorch)]
-
-**MetaPix: Few-Shot Video Retargeting.**</br>
-*Jessica Lee, Deva Ramanan, Rohit Girdhar.*<br> 
-ICCV 2019. [[PDF](https://arxiv.org/abs/1910.04742)]] [[Project](https://motionretargeting2d.github.io)] [[Github](https://github.com/imjal/MetaPix)] 
-
-**Few-shot Video-to-Video Synthesis.**</br>
-*Ting-Chun Wang, Ming-Yu Liu, Andrew Tao, Guilin Liu, Jan Kautz, Bryan Catanzaro.*<br> 
-arxiv 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)]
-
-### Image-Synthesis
-
-**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**</br>
-*Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br> 
-arxiv, 28 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)] [[Github](https://github.com/ZPdesu/SEAN)]
-
-**Face-to-Parameter Translation for Game Character Auto-Creation.**</br> 
-*Tianyang Shi, Yi Yuan, Changjie Fan, Zhengxia Zou, Zhenwei Shi, Yong Liu.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/pdf/1909.01064.pdf)]    
-
-**APDrawingGAN: Face-to-Parameter Translation for Game Character Auto-Creation.**</br>
-*Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul L. Rosin.*<br>
-CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.pdf)] [[Github](https://github.com/yiranran/APDrawingGAN)] [[Online Demo](https://face.lol)]
-
-**Cascaded Generation of High-quality Color Visible Face Images from Thermal Captures.**</br> 
-*Naser Damer, Fadi Boutros, Khawla Mallat, Florian Kirchbuchner, Jean-Luc Dugelay, Arjan Kuijper.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/1910.09524)] 
-
-**CartoonGAN: Generative Adversarial Networks for Photo Cartoonization.**</br>
-*Yang Chen, Yu-Kun Lai, Yong-Jin Liu.*<br>
-CVPR 2018. [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)] [[Github](https://github.com/FlyingGoblin/CartoonGAN)] [[unofficial test](https://github.com/Yijunmaverick/CartoonGAN-Test-Pytorch-Torch)] [[unofficial pytorch](https://github.com/znxlwm/pytorch-CartoonGAN)]
-
-### Retargeting-and-3D-Vision
-
-**Render4Completion: Synthesizing Multi-View Depth Maps for 3D Shape Completion.**</br>
-*Tao Hu, Zhizhong Han, Abhinav Shrivastava, Matthias Zwicker.*</br>
-ICCV 2019 workshop on Geometry meets Deep Learning. [[PDF](https://arxiv.org/abs/1904.08366)]
-
-**Multi-Garment Net_Learning to Dress 3D people from Images.**</br>
-*Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, Gerard Pons-Moll.*<br>
-ICCV 2019. [[PDF](https://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar2019mgn/bhatnagar2019mgn.pdf)] [[Github](https://github.com/bharat-b7/MultiGarmentNetwork)]
-
-**Tex2Shape: Detailed Full Human Body Geometry From a Single Image.**</br>
-*Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor.*</br>
-ICCV 2019. [[arxiv](https://arxiv.org/abs/1904.08645)] [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Alldieck_Tex2Shape_Detailed_Full_Human_Body_Geometry_From_a_Single_Image_ICCV_2019_paper.html)] [[Github](https://github.com/thmoa/tex2shape)]
-
-**pix2vertex: Unrestricted facial geometry reconstruction using image-to-image translation.**</br>
-*Matan Sela, Elad Richardson, Ron Kimmel.*</br>
-arxiv, 2017. [[PDF](https://arxiv.org/abs/1703.10131)] [[Github](https://github.com/matansel/pix2vertex)]
-
-**Learning to Reconstruct People in Clothing from a Single RGB Camera.**</br>
-*Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll.*</br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1903.05885)][[Github](https://github.com/thmoa/octopus)]
-
-**360-Degree Textures of People in Clothing from a Single Image.**</br>
-*Verica Lazova, Eldar Insafutdinov, Gerard Pons-Moll.*</br>
-3DV 2019. [[PDF](https://arxiv.org/pdf/1908.07117.pdf)][[Project](http://virtualhumans.mpi-inf.mpg.de/360tex/)] 
-
-**SelectionGAN: Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation.**<br>
-*Hao Tang, Dan Xu, Nicu Sebe, Yanzhi Wang, Jason J. Corso, Yan Yan.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1904.06807)] [[Github](https://github.com/Ha0Tang/SelectionGAN)]
-
-**Multi-Channel Attention Selection GANs for Guided Image-to-Image Translation.**<br>
-*Hao Tang, Dan Xu, Yan Yan, Jason J. Corso, Philip H.S. Torr, Nicu Sebe.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2002.01048)]
-
-**VR Facial Animation via Multiview Image Translation.**<br>
-*Shih-En Wei, Jason Saragih, Tomas Simon, Adam W. Harley, Stephen Lombardi, Michal Perdoch, Alexander Hypes, Dawei Wang, Hernan Badino, Yaser Sheikh.*<br>
-SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)]
 
 ## Datasets
 Please cite their papers if you use the data.
