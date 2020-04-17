@@ -33,6 +33,13 @@ Feedback and contributions are welcome!
 
 **CoCosNet: Cross-domain Correspondence Learning for Exemplar-based Image Translation.**[[PDF](https://arxiv.org/abs/2004.05571)][[Project](https://panzhang0212.github.io/CoCosNet/)]<br>
 *[Pan Zhang](panzhang0212.github.io), [Bo Zhang](https://www.microsoft.com/en-us/research/people/zhanbo/), Dong Chen, Lu Yuan, Fang Wen.*<br>
+<details>
+  <summary> Comment </summary>C
+  oCosNet = <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Exemplar-Based_Video_Colorization_CVPR_2019_paper">DEVC</a> + <a href="https://github.com/NVlabs/SPADE">SPADE</a>
+</details>
+
+**Intuitive, Interactive Beard and Hair Synthesis with Generative Models.**[[PDF](https://arxiv.org/abs/2004.06848)]<br>
+*Kyle Olszewski, Duygu Ceylan, Jun Xing, Jose Echevarria, Zhili Chen, Weikai Chen, Hao Li.*<br>
 
 **Semantic Image Manipulation Using Scene Graphs.**[[PDF](https://arxiv.org/abs/2004.03677)]<br>
 *Helisa Dhamo, Azade Farshad, Iro Laina, Nassir Navab, Gregory D. Hager, Federico Tombari, Christian Rupprecht.*<br>
@@ -178,7 +185,7 @@ Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
 **Guided Image-to-Image Translation With Bi-Directional Feature Transformation.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/AlBahar_Guided_Image-to-Image_Translation_With_Bi-Directional_Feature_Transformation_ICCV_2019_paper.html)]<br>
 *Badour AlBahar, Jia-Bin Huang.*
 
-**Few-Shot Unsupervised Image-to-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Few-Shot_Unsupervised_Image-to-Image_Translation_ICCV_2019_paper.html)]<br>
+**FUNIT: Few-Shot Unsupervised Image-to-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Few-Shot_Unsupervised_Image-to-Image_Translation_ICCV_2019_paper.html)]<br>
 *Ming-Yu Liu, Xun Huang, Arun Mallya, Tero Karras, Timo Aila, Jaakko Lehtinen, Jan Kautz.*
 
 **InGAN: Capturing and Retargeting the "DNA" of a Natural Image.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Shocher_InGAN_Capturing_and_Retargeting_the_DNA_of_a_Natural_Image_ICCV_2019_paper.html)]<br>

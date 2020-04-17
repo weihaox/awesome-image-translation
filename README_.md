@@ -20,11 +20,12 @@ Feedback and contributions are welcome!
 - [Guided Image-to-image Translation](#guided-image-to-image-translation)
   * [Keypoint or Landmark Guided](#keypoint-or-landmark-guided)
   * [Pose and Skeleton Guided](#pose-and-skeleton-guided)
+  * [Amodal Map Guided](#amodal-map-guided)
   * [Segmentation or Label Map Guided](#segmentation-or-label-map-guided)
   * [Texture Guided](#texture-guided)
   * [Text Guided](#text-guided)
   * [Mask Guided](#mask-guided)
-  * [Examplar Guided](#examplar-guided)
+  * [Exemplar Guided](#exemplar-guided)
   * [Attention Guided](#attention-guided)
   * [Layout Guided](#layout-guided)
   * [Dialog Guided](#dialog-guided)
@@ -378,6 +379,12 @@ ECCVW 2018. [[PDF](https://arxiv.org/abs/1808.07371)] [[Project](https://carolin
 *[Liqian Ma](https://www.esat.kuleuven.be/psi/members/00111336), [Qianru Sun](https://qianrusun.com/), Stamatios Georgoulis, Luc Van Gool, Bernt Schiele, Mario Fritz.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02621)]
 
+### Amodal Map Guided
+
+**Self-Supervised Scene De-occlusion.**<br>
+*[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
+
 ### Segmentation or Label Map Guided
 
 **Attentive Normalization for Conditional Image Generation.**<br>
@@ -440,6 +447,14 @@ ArXiv 2019. [[PDF](https://arxiv.org/abs/1910.11328)] [[Github](http://t.cn/Ai1b
 
 ### Text Guided
 
+**Local-Global Video-Text Interactions for Temporal Grounding.**<br>
+*[Jonghwan Mun](http://cvlab.postech.ac.kr/~jonghwan/), [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/), [Bohyung Han](https://cv.snu.ac.kr/index.php/bhhan/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07514)] [[Github](https://github.com/JonghwanMun/LGI4temporalgrounding)]
+
+**CookGAN: Meal Image Synthesis from Ingredients.**<br>
+*Fangda Han, Ricardo Guerrero, Vladimir Pavlovic.*<br>
+WACV 2020. [[PDF](https://arxiv.org/abs/2002.11493)]
+
 **Image-to-Image Translation with Text Guidance.**<br>
 *Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
 arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
@@ -498,7 +513,11 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1708.00315)]
 *Zhiqiang Shen, Mingyang Huang, Jianping Shi, Xiangyang Xue, Thomas Huang.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1905.01744)] [[project](http://zhiqiangshen.com/projects/INIT/index.html)] 
 
-### Examplar Guided
+### Exemplar Guided
+
+**Controllable Descendant Face Synthesis.**<br>
+*Yong Zhang, Le Li, Zhilei Liu, Baoyuan Wu, Yanbo Fan, Zhifeng Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2002.11376)]
 
 **pix2pixSC: Example-Guided Style Consistent Image Synthesis from Semantic Labeling.**<br>
 *Miao Wang, Guo-Ye Yang, Ruilong Li, Run-Ze Liang, Song-Hai Zhang, Peter. M. Hall, Shi-Min Hu.*<br>
@@ -655,6 +674,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1903.01594)] [[Github](https://github.co
 
 ### Attribute-Editing
 
+**Intuitive, Interactive Beard and Hair Synthesis with Generative Models.**<br>
+*Kyle Olszewski, Duygu Ceylan, Jun Xing, Jose Echevarria, Zhili Chen, Weikai Chen, Hao Li.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.06848)]
+
 **Lifespan Age Transformation Synthesis.**<br>
 *Roy Or-El, Soumyadip Sengupta, Ohad Fried, Eli Shechtman, Ira Kemelmacher-Shlizerman.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.09764)]
@@ -704,6 +727,14 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1908.08847)]
 Workshop on Computer Vision for Fashion, Art and Design, ICCV 2019. [[PDF](https://arxiv.org/abs/1908.09638)] 
 
 ### Video
+
+**Line Art Correlation Matching Network for Automatic Animation Colorization.**<br>
+*Zhang Qian, Wang Bo, Wen Wei, Li Hai, Liu Jun Hui.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06718)]
+
+**Unsupervised Multimodal Video-to-Video Translation via Self-Supervised Learning.**<br>
+*Kangning Liu, Shuhang Gu, Andres Romero, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.06502)]
 
 **Unsupervised Video-to-Video Translation via Self-Supervised Learning.**<br>
 *Kangning Liu, Shuhang Gu, Radu Timofte.*<br>
