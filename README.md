@@ -33,7 +33,7 @@ Feedback and contributions are welcome!
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
 **SMIS: Semantically Multi-modal Image Synthesis.**[[PDF](https://arxiv.org/abs/2003.12697)] [[Project](http://seanseattle.github.io/SMIS)] [[Github](https://github.com/Seanseattle/SMIS)]<br> 
-*Zhen Zhu, Zhiliang Xu, Ansheng You, Xiang Bai.*<br>
+*[Zhen Zhu](https://zzhu.vision/), Zhiliang Xu, Ansheng You, [Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/).*<br>
 
 **CoCosNet: Cross-domain Correspondence Learning for Exemplar-based Image Translation.**[[PDF](https://arxiv.org/abs/2004.05571)][[Project](https://panzhang0212.github.io/CoCosNet/)]<br>
 *[Pan Zhang](panzhang0212.github.io), [Bo Zhang](https://www.microsoft.com/en-us/research/people/zhanbo/), Dong Chen, Lu Yuan, Fang Wen.*<br>
@@ -106,7 +106,7 @@ Feedback and contributions are welcome!
 
 **U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation.**<br>
 *Junho Kim, Minjae Kim, Hyeonwoo Kang, Kwanghee Lee.*<br>
-[ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)]. [[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](https://github.com/taki0112/UGATIT)] [[Pytorch](https://github.com/znxlwm/UGATIT-pytorch)]
+[ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference). [[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](https://github.com/taki0112/UGATIT)] [[Pytorch](https://github.com/znxlwm/UGATIT-pytorch)]
 
 **GANILLA: Generative Adversarial Networks for Image to Illustration Translation.**<br>
 *Samet Hicsonmez, Nermin Samet, Emre Akbas, Pinar Duygulu.*<br>
@@ -243,6 +243,9 @@ ICCV Workshops 2019. [[PDF](https://arxiv.org/abs/1812.03704)] [[Github](https:/
 
 ### ICLR 2019 
 [[accepted paper list](https://openreview.net/group?id=ICLR.cc/2019/Conference)]
+
+**Diversity-Sensitive Conditional Generative Adversarial Networks.**[[PDF](https://arxiv.org/abs/1901.09024)]<br> 
+*Dingdong Yang, Seunghoon Hong, Yunseok Jang, Tianchen Zhao, Honglak Lee.*<br>
 
 **InstaGAN: Instance-aware Image-to-Image Translation.** [[PDF](https://openreview.net/forum?id=ryxwJhC9YX)] [[Github](https://github.com/sangwoomo/instagan)]<br>
 *Sangwoo Mo, Minsu Cho, Jinwoo Shin.*<br>
