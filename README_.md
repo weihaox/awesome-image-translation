@@ -325,6 +325,7 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1911.00622)]
 ## Guided Image-to-image Translation
 
 ### Scene Graphs Guided
+
 **Semantic Image Manipulation Using Scene Graphs.**<br>
 *Helisa Dhamo, Azade Farshad, Iro Laina, Nassir Navab, Gregory D. Hager, Federico Tombari, Christian Rupprecht.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03677)]
@@ -449,13 +450,29 @@ ArXiv 2019. [[PDF](https://arxiv.org/abs/1910.11328)] [[Github](http://t.cn/Ai1b
 
 ### Text Guided
 
-**Local-Global Video-Text Interactions for Temporal Grounding.**<br>
-*[Jonghwan Mun](http://cvlab.postech.ac.kr/~jonghwan/), [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/), [Bohyung Han](https://cv.snu.ac.kr/index.php/bhhan/).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07514)] [[Github](https://github.com/JonghwanMun/LGI4temporalgrounding)]
+**3DLSN: End-to-End Optimization of Scene Layout.**<br>
+*Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
+CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
 
 **CookGAN: Meal Image Synthesis from Ingredients.**<br>
 *Fangda Han, Ricardo Guerrero, Vladimir Pavlovic.*<br>
 WACV 2020. [[PDF](https://arxiv.org/abs/2002.11493)]
+
+**ControlGAN: Controllable Text-to-Image Generation.**<br>
+*Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H. S. Torr.*<br>
+NeurIPS 2019. [[PDF](https://papers.nips.cc/paper/8480-controllable-text-to-image-generation.pdf)] [[Github](https://github.com/mrlibw/ControlGAN)]
+
+**Object-driven Text-to-Image Synthesis via Adversarial Training.**<br>
+*Wenbo Li, Pengchuan Zhang, Lei Zhang, Qiuyuan Huang, Xiaodong He, Siwei Lyu, Jianfeng Gao.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1902.10740)]
+
+**SwapText: Image Based Texts Transfer in Scenes.**<br>
+*Qiangpeng Yang, Hongsheng Jin, Jun Huang, Wei Lin.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08152)]
+
+**Local-Global Video-Text Interactions for Temporal Grounding.**<br>
+*[Jonghwan Mun](http://cvlab.postech.ac.kr/~jonghwan/), [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/), [Bohyung Han](https://cv.snu.ac.kr/index.php/bhhan/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07514)] [[Github](https://github.com/JonghwanMun/LGI4temporalgrounding)]
 
 **Image-to-Image Translation with Text Guidance.**<br>
 *Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
@@ -500,6 +517,7 @@ ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.co
 **Learning Deep Representations of Fine-grained Visual Descriptions.**<br>
 *Scott Reed, Zeynep Akata, Bernt Schiele, Honglak Lee.*<br>
 CVPR 2016. [[PDF](https://arxiv.org/abs/1605.05395)] [[Github](https://github.com/reedscot/cvpr2016)]
+
 
 ### Mask Guided
 
@@ -868,6 +886,10 @@ arxiv 2017. [[PDF](https://arxiv.org/abs/1703.03208)] [[Github](https://github.c
 **Person Transfer GAN to Bridge Domain Gap for Person Re-Identification.**</br>
 *Longhui Wei, Shiliang Zhang, Wen Gao, Qi Tian.*</br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1711.08565)]
+
+**Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification.**</br>
+*Weijian Deng, Liang Zheng, Qixiang Ye, Guoliang Kang, Yi Yang, Jianbin Jiao.*</br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1711.07027)]
 
 ### Model-Compression-and-Pruning
 
