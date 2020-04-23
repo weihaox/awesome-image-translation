@@ -32,6 +32,10 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
+**Bringing Old Photos Back to Life.**<br>
+*[Ziyu Wan](http://raywzy.com), Bo Zhang, [Dongdong Chen](http://www.dongdongchen.bid/), Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]
+
 **SMIS: Semantically Multi-modal Image Synthesis.**[[PDF](https://arxiv.org/abs/2003.12697)] [[Project](http://seanseattle.github.io/SMIS)] [[Github](https://github.com/Seanseattle/SMIS)]<br> 
 *[Zhen Zhu](https://zzhu.vision/), Zhiliang Xu, Ansheng You, [Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/).*<br>
 
@@ -72,7 +76,7 @@ Feedback and contributions are welcome!
 **LGGAN: Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.** [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.com/Ha0Tang/LGGAN)]<br> 
 *[Hao Tang](http://disi.unitn.it/~hao.tang/), Dan Xu, Yan Yan, Philip H. S. Torr, Nicu Sebe.*<br> 
 
-**StarGAN v2: Diverse Image Synthesis for Multiple Domains.**[[PDF](https://arxiv.org/abs/1912.01865)] [[GitHub](https://github.com/clovaai/stargan-v2)]<br> 
+**StarGAN v2: Diverse Image Synthesis for Multiple Domains.**[[PDF](https://arxiv.org/abs/1912.01865)] [[GitHub](https://github.com/clovaai/stargan-v2)] [[Tensorflow](https://github.com/taki0112/StarGAN_v2-Tensorflow)] <br> 
 *Yunjey Choi, Youngjung Uh, Jaejun Yoo, Jung-Woo Ha. Clova AI Research, NAVER Corp.*<br> 
 
 **GAN Compression: Efficient Architectures for Interactive Conditional GANs.**[[PDF](https://arxiv.org/abs/2003.08936)] [[Demo](https://tinyurl.com/r474uca)] [[Github](https://github.com/mit-han-lab/gan-compression/)]<br>
@@ -113,13 +117,17 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**TriGAN: Image-to-Image Translation for Multi-Source Domain Adaptation.**<br>
+*Subhankar Roy, Aliaksandr Siarohin, Enver Sangineto, Nicu Sebe, Elisa Ricci.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.08769)]
+
 **Domain Bridge for Unpaired Image-to-Image Translation and Unsupervised Domain Adaptation.**<br>
 *Fabio Pizzati, Raoul de Charette, Michela Zaccaria, Pietro Cerri.*<br>
 WACV 2020. [[PDF](https://arxiv.org/abs/1910.10563v3)]
 
 **U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation.**<br>
 *Junho Kim, Minjae Kim, Hyeonwoo Kang, Kwanghee Lee.*<br>
-[ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference). [[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](https://github.com/taki0112/UGATIT)] [[Pytorch](https://github.com/znxlwm/UGATIT-pytorch)]
+[ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference). [[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](https://github.com/taki0112/UGATIT)] [[Pytorch](https://github.com/znxlwm/UGATIT-pytorch)] [[photo2cartoon](https://github.com/minivision-ai/photo2cartoon)]
 
 **GANILLA: Generative Adversarial Networks for Image to Illustration Translation.**<br>
 *Samet Hicsonmez, Nermin Samet, Emre Akbas, Pinar Duygulu.*<br>

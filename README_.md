@@ -358,6 +358,10 @@ MM 2018. [[PDF](https://arxiv.org/abs/1712.03474)]
 
 ### Pose and Skeleton Guided
 
+**Pose Manipulation with Identity Preservation.**<br>
+*Andrei-Timotei Ardelean, Lucian Mircea Sasu.*<br>
+International Journal of Computers Communications & Control 2020. [[PDF](https://arxiv.org/abs/2004.09169)]
+
 **Pose Guided Person Image Generation.**<br>
 *Liqian Ma, Xu Jia, Qianru Sun, Bernt Schiele, Tinne Tuytelaars, Luc Van Gool.*<br>
 NIPS 2017. [[PDF](https://arxiv.org/abs/1705.09368)] [[Github](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)]
@@ -389,6 +393,10 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02621)]
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
 
 ### Segmentation or Label Map Guided
+
+**Example-Guided Image Synthesis across Arbitrary Scenes using Masked Spatial-Channel Attention and Self-Supervision.**<br>
+*Haitian Zheng, Haofu Liao, Lele Chen, Wei Xiong, Tianlang Chen, Jiebo Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10024)]
 
 **Attentive Normalization for Conditional Image Generation.**<br>
 *Yi Wang, Ying-Cong Chen, Xiangyu Zhang, Jian Sun, Jiaya Jia.*<br>
@@ -744,6 +752,10 @@ CVPR 2018. [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Car
 
 ### Image Restoration
 
+**Bringing Old Photos Back to Life.**<br>
+*[Ziyu Wan](http://raywzy.com), Bo Zhang, [Dongdong Chen](http://www.dongdongchen.bid/), Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]
+
 **Pose Agnostic Cross-spectral Hallucination via Disentangling Independent Factors.**<br>
 *Boyan Duan, Chaoyou Fu, Yi Li, Xingguang Song, Ran He.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1909.04365)]
@@ -955,7 +967,7 @@ python download-dataset.py datasetname
 - `AFHQ`.  Released in StarGAN v2. Animal FacesHQ (AFHQ) consists of 15,000 high-quality images at 512 × 512 resolution. We collected images with
 permissive licenses from the [Flickr](https://www.flickr.com/) and [Pixabay](https://pixabay.com/) websites. All images are vertically and horizontally aligned to have the eyes at the center. The low-quality images were discarded by human effort. You can downloaded using the provided [scripts](https://github.com/clovaai/stargan-v2/blob/master/download.sh). For more details, see the [Project](https://github.com/clovaai/stargan-v2) or [Paper](https://arxiv.org/abs/1912.01865).
 - `CMU Multi-PIE Face Database`. [[Multi-PIE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2873597/)] A large (305GB) database of images for training facial recognition software. It consists 13 poses within ±90 degrees of 337 subjects and can be used for face frontalization experiments.
-
+- `APDrawing Dataset`. [[APDrawingDB](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/APDrawingDB.zip)], [[Project](https://github.com/yiranran/APDrawingGAN)].
 ### Others
 - `Makeup Transfer`. [[Download](http://liusi-group.com/projects/BeautyGAN)]
 - `DeepFashion`. In-shop Clothes Retrieval Benchmark evaluates the performance of in-shop Clothes Retrieval. This is a large subset of DeepFashion, containing large pose and scale variations. It also has large diversities, large quantities, and rich annotations, including 7,982 number of clothing items, 52,712 number of in-shop clothes images, and ~200,000 cross-pose/scale pairs, Each image is annotated by bounding box, clothing type and pose type. [Download](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/InShopRetrieval.html)
