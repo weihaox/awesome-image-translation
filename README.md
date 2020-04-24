@@ -117,6 +117,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.co
 
 ### Others 2020
 
+**Unpaired Photo-to-manga Translation Based on The Methodology of Manga Drawing.**<br>
+*Hao Su, Jianwei Niu, Xuefeng Liu, Qingfeng Li, Jiahe Cui, Ji Wan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10634)]
+
 **TriGAN: Image-to-Image Translation for Multi-Source Domain Adaptation.**<br>
 *Subhankar Roy, Aliaksandr Siarohin, Enver Sangineto, Nicu Sebe, Elisa Ricci.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.08769)]

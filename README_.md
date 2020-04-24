@@ -330,61 +330,15 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1911.00622)]
 *Helisa Dhamo, Azade Farshad, Iro Laina, Nassir Navab, Gregory D. Hager, Federico Tombari, Christian Rupprecht.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03677)]
 
-### Keypoint or Landmark Guided
+### Texture Guided
 
-**ADGAN: Controllable Person Image Synthesis with Attribute-Decomposed GAN.**<br>
-*[Yifang Men](https://menyifang.github.io/), [Yiming Mao](https://mtroym.github.io/), Yuning Jiang, Wei-Ying Ma, Zhouhui Lian.*<br>
-CVPR 2020. [[PDF](https://menyifang.github.io/projects/ADGAN/ADGAN_files/Paper_ADGAN_CVPR2020.pdf)] [[Project](https://menyifang.github.io/projects/ADGAN/ADGAN.html)]  [[Github](https://github.com/menyifang/ADGAN)]
+**TextureGAN: Controlling Deep Image Synthesis with Texture Patches.**<br>
+*Wenqi Xian, Patsorn Sangkloy, Varun Agrawal, Amit Raj, Jingwan Lu, Chen Fang, Fisher Yu, James Hays.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1706.02823)] [[Github](https://github.com/janesjanes/Pytorch-TextureGAN)]
 
-**AGUIT: Attribute Guided Unpaired Image-to-Image Translation with Semi-supervised Learning.**<br>
-*Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji.*<br>
-arxiv, 29 Apr 2019. [[PDF](https://arxiv.org/abs/1904.12428)] [[Github](https://github.com/imlixinyang/AGUIT)]
-
-**Geometry Guided Adversarial Facial Expression Synthesis.**<br>
-*Lingxiao Song, Zhihe Lu, Ran He, Zhenan Sun, Tieniu Tan.*<br>
-MM 2018. [[PDF](https://arxiv.org/abs/1712.03474)] 
-
-**C2-GAN: Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation.**</br>
-*Hao Tang, Dan Xu, Gaowen Liu, Wei Wang, Nicu Sebe, Yan Yan.*<br>
-MM 2019. [[PDF](https://arxiv.org/abs/1908.00999)] [[Gtihub](https://github.com/Ha0Tang/C2GAN)]
-
-**Few-Shot Adversarial Learning of Realistic Neural Talking Head Models.**<br>
-*Egor Zakharov, Aliaksandra Shysheya, Egor Burkov, Victor Lempitsky.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1905.08233)] [[Github](https://github.com/grey-eye/talking-heads)]
-
-**Geometry Guided Adversarial Facial Expression Synthesis.**<br>
-*Lingxiao Song, Zhihe Lu, Ran He, Zhenan Sun, Tieniu Tan.*<br>
-MM 2018. [[PDF](https://arxiv.org/abs/1712.03474)]  
-
-### Pose and Skeleton Guided
-
-**Pose Manipulation with Identity Preservation.**<br>
-*Andrei-Timotei Ardelean, Lucian Mircea Sasu.*<br>
-International Journal of Computers Communications & Control 2020. [[PDF](https://arxiv.org/abs/2004.09169)]
-
-**Pose Guided Person Image Generation.**<br>
-*Liqian Ma, Xu Jia, Qianru Sun, Bernt Schiele, Tinne Tuytelaars, Luc Van Gool.*<br>
-NIPS 2017. [[PDF](https://arxiv.org/abs/1705.09368)] [[Github](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)]
-
-**Deformable GANs for Pose-based Human Image Generation.**<br>
-*Aliaksandr Siarohin, Enver Sangineto, Stephane Lathuiliere, Nicu Sebe.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1801.00055)] [[Github](https://github.com/AliaksandrSiarohin/pose-gan)]
-
-**A Variational U-Net for Conditional Appearance and Shape Generation.**<br>
-*Patrick Esser, Ekaterina Sutter, Björn Ommer.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1804.04694)] [[Github](https://github.com/CompVis/vunet)]
-
-**Progressive Pose Attention Transfer for Person Image Generation.**<br>
-*Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1904.03349)] [[Github](https://github.com/tengteng95/Pose-Transfer)]
-
-**Everybody Dance Now.**<br>
-*Caroline Chan, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros.*<br>
-ECCVW 2018. [[PDF](https://arxiv.org/abs/1808.07371)] [[Project](https://carolineec.github.io/everybody_dance_now/)]
-
-**Disentangled Person Image Generation.**<br>
-*[Liqian Ma](https://www.esat.kuleuven.be/psi/members/00111336), [Qianru Sun](https://qianrusun.com/), Stamatios Georgoulis, Luc Van Gool, Bernt Schiele, Mario Fritz.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02621)]
+**Guided Image-to-Image Translation with Bi-Directional Feature Transformation.**<br>
+*Badour AlBahar, Jia-Bin Huang.*<br>
+ArXiv 2019. [[PDF](https://arxiv.org/abs/1910.11328)] [[Github](http://t.cn/Ai1beVDp)] 
 
 ### Amodal Map Guided
 
@@ -446,17 +400,39 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1808.06601)] [[Github](https://github
 *Ting-Chun Wang, Ming-Yu Liu, Andrew Tao, Guilin Liu, Jan Kautz, Bryan Catanzaro.*<br> 
 ArXiv 2019. [[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[Project](https://nvlabs.github.io/few-shot-vid2vid/)]
 
-### Texture Guided
-
-**TextureGAN: Controlling Deep Image Synthesis with Texture Patches.**<br>
-*Wenqi Xian, Patsorn Sangkloy, Varun Agrawal, Amit Raj, Jingwan Lu, Chen Fang, Fisher Yu, James Hays.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1706.02823)] [[Github](https://github.com/janesjanes/Pytorch-TextureGAN)]
-
-**Guided Image-to-Image Translation with Bi-Directional Feature Transformation.**<br>
-*Badour AlBahar, Jia-Bin Huang.*<br>
-ArXiv 2019. [[PDF](https://arxiv.org/abs/1910.11328)] [[Github](http://t.cn/Ai1beVDp)] 
-
 ### Text Guided
+
+#### Text-Guided Manipulation
+
+**SISGAN: Semantic Image Synthesis via Adversarial Learning.**<br>
+*Hao Dong, Simiao Yu, Chao Wu, Yike Guo.*<br>
+ICCV 2017. [[PDF](https://arxiv.org/abs/1707.06873)] [[Github](https://github.com/woozzu/dong_iccv_2017)]
+
+**Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language.**<br>
+*[Seonghyeon Nam](http://snam.ml/), Yunji Kim, Seon Joo Kim.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1810.11919)] [[Github](https://github.com/woozzu/tagan)]
+
+**ManiGAN: Text-Guided Image Manipulation.**<br>
+*[Bowen Li](https://mrlibw.github.io/), [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06203)] [[Github](https://github.com/mrlibw/ManiGAN)]
+
+**Generative Adversarial Text to Image Synthesis.**<br>
+*Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee.*<br>
+ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.com/reedscot/icml2016)]
+
+**Image-to-Image Translation with Text Guidance.**<br>
+*Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
+arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
+
+**Neural Image Inpainting Guided with Descriptive Text.**<br>
+*Lisai Zhang, Qingcai Chen, Baotian Hu, Shuoran Jiang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03212)]
+
+#### Text-to-Image Generation
+
+**Semantic Object Accuracy for Generative Text-to-Image Synthesis.**<br>
+*Tobias Hinz, Stefan Heinrich, Stefan Wermter.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1910.13321)] [[Github](https://github.com/tohinz/semantic-object-accuracy-for-generative-text-to-image-synthesis)]
 
 **3DLSN: End-to-End Optimization of Scene Layout.**<br>
 *Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
@@ -482,21 +458,9 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08152)]
 *[Jonghwan Mun](http://cvlab.postech.ac.kr/~jonghwan/), [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/), [Bohyung Han](https://cv.snu.ac.kr/index.php/bhhan/).*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07514)] [[Github](https://github.com/JonghwanMun/LGI4temporalgrounding)]
 
-**Image-to-Image Translation with Text Guidance.**<br>
-*Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
-arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
-
-**Neural Image Inpainting Guided with Descriptive Text.**<br>
-*Lisai Zhang, Qingcai Chen, Baotian Hu, Shuoran Jiang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03212)]
-
 **Cycle Text-To-Image GAN with BERT.**<br>
 *Trevor Tsue, Samir Sen, Jason Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12137)] [Github](https://github.com/suetAndTie/cycle-image-gan)]
-
-**ManiGAN: Text-Guided Image Manipulation.**<br>
-*[Bowen Li](https://mrlibw.github.io/), [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06203)] [[Github](https://github.com/mrlibw/ManiGAN)]
 
 **Controllable Text-to-Image Generation.**<br>
 *Bowen Li, [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
@@ -518,13 +482,65 @@ TPAMI 2018. [[PDF](https://arxiv.org/abs/1710.10916)] [[Github](https://github.c
 *Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
 ICCV 2017. [[PDF](https://arxiv.org/abs/1612.03242v2)] [[Github](https://github.com/hanzhanggit/StackGAN-Pytorch)]
 
-**Generative Adversarial Text to Image Synthesis.**<br>
-*Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee.*<br>
-ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.com/reedscot/icml2016)]
-
 **Learning Deep Representations of Fine-grained Visual Descriptions.**<br>
 *Scott Reed, Zeynep Akata, Bernt Schiele, Honglak Lee.*<br>
 CVPR 2016. [[PDF](https://arxiv.org/abs/1605.05395)] [[Github](https://github.com/reedscot/cvpr2016)]
+
+### Keypoint or Landmark Guided
+
+**ADGAN: Controllable Person Image Synthesis with Attribute-Decomposed GAN.**<br>
+*[Yifang Men](https://menyifang.github.io/), [Yiming Mao](https://mtroym.github.io/), Yuning Jiang, Wei-Ying Ma, Zhouhui Lian.*<br>
+CVPR 2020. [[PDF](https://menyifang.github.io/projects/ADGAN/ADGAN_files/Paper_ADGAN_CVPR2020.pdf)] [[Project](https://menyifang.github.io/projects/ADGAN/ADGAN.html)]  [[Github](https://github.com/menyifang/ADGAN)]
+
+**AGUIT: Attribute Guided Unpaired Image-to-Image Translation with Semi-supervised Learning.**<br>
+*Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji.*<br>
+arxiv, 29 Apr 2019. [[PDF](https://arxiv.org/abs/1904.12428)] [[Github](https://github.com/imlixinyang/AGUIT)]
+
+**Geometry Guided Adversarial Facial Expression Synthesis.**<br>
+*Lingxiao Song, Zhihe Lu, Ran He, Zhenan Sun, Tieniu Tan.*<br>
+MM 2018. [[PDF](https://arxiv.org/abs/1712.03474)] 
+
+**C2-GAN: Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation.**</br>
+*Hao Tang, Dan Xu, Gaowen Liu, Wei Wang, Nicu Sebe, Yan Yan.*<br>
+MM 2019. [[PDF](https://arxiv.org/abs/1908.00999)] [[Gtihub](https://github.com/Ha0Tang/C2GAN)]
+
+**Few-Shot Adversarial Learning of Realistic Neural Talking Head Models.**<br>
+*Egor Zakharov, Aliaksandra Shysheya, Egor Burkov, Victor Lempitsky.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1905.08233)] [[Github](https://github.com/grey-eye/talking-heads)]
+
+**Geometry Guided Adversarial Facial Expression Synthesis.**<br>
+*Lingxiao Song, Zhihe Lu, Ran He, Zhenan Sun, Tieniu Tan.*<br>
+MM 2018. [[PDF](https://arxiv.org/abs/1712.03474)]  
+
+### Pose and Skeleton Guided
+
+**Pose Manipulation with Identity Preservation.**<br>
+*Andrei-Timotei Ardelean, Lucian Mircea Sasu.*<br>
+International Journal of Computers Communications & Control 2020. [[PDF](https://arxiv.org/abs/2004.09169)]
+
+**Pose Guided Person Image Generation.**<br>
+*Liqian Ma, Xu Jia, Qianru Sun, Bernt Schiele, Tinne Tuytelaars, Luc Van Gool.*<br>
+NIPS 2017. [[PDF](https://arxiv.org/abs/1705.09368)] [[Github](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)]
+
+**Deformable GANs for Pose-based Human Image Generation.**<br>
+*Aliaksandr Siarohin, Enver Sangineto, Stephane Lathuiliere, Nicu Sebe.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1801.00055)] [[Github](https://github.com/AliaksandrSiarohin/pose-gan)]
+
+**A Variational U-Net for Conditional Appearance and Shape Generation.**<br>
+*Patrick Esser, Ekaterina Sutter, Björn Ommer.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1804.04694)] [[Github](https://github.com/CompVis/vunet)]
+
+**Progressive Pose Attention Transfer for Person Image Generation.**<br>
+*Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.03349)] [[Github](https://github.com/tengteng95/Pose-Transfer)]
+
+**Everybody Dance Now.**<br>
+*Caroline Chan, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros.*<br>
+ECCVW 2018. [[PDF](https://arxiv.org/abs/1808.07371)] [[Project](https://carolineec.github.io/everybody_dance_now/)]
+
+**Disentangled Person Image Generation.**<br>
+*[Liqian Ma](https://www.esat.kuleuven.be/psi/members/00111336), [Qianru Sun](https://qianrusun.com/), Stamatios Georgoulis, Luc Van Gool, Bernt Schiele, Mario Fritz.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02621)]
 
 
 ### Mask Guided
