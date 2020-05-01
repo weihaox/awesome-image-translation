@@ -788,7 +788,7 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1903.01594)] [[Github](https://github.co
 
 **SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**</br>
 *Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br> 
-arxiv, 28 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)] [[Github](https://github.com/ZPdesu/SEAN)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)] [[Github](https://github.com/ZPdesu/SEAN)]
 
 **Face-to-Parameter Translation for Game Character Auto-Creation.**</br> 
 *Tianyang Shi, Yi Yuan, Changjie Fan, Zhengxia Zou, Zhenwei Shi, Yong Liu.*<br>

@@ -39,6 +39,9 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.co
 **SMIS: Semantically Multi-modal Image Synthesis.**[[PDF](https://arxiv.org/abs/2003.12697)] [[Project](http://seanseattle.github.io/SMIS)] [[Github](https://github.com/Seanseattle/SMIS)]<br> 
 *[Zhen Zhu](https://zzhu.vision/), Zhiliang Xu, Ansheng You, [Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/).*<br>
 
+**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**[[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)] [[Github](https://github.com/ZPdesu/SEAN)]</br>
+*Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br> 
+
 **CoCosNet: Cross-domain Correspondence Learning for Exemplar-based Image Translation.**[[PDF](https://arxiv.org/abs/2004.05571)][[Project](https://panzhang0212.github.io/CoCosNet/)]<br>
 *[Pan Zhang](panzhang0212.github.io), [Bo Zhang](https://www.microsoft.com/en-us/research/people/zhanbo/), Dong Chen, Lu Yuan, Fang Wen.*<br>
 <details>
@@ -76,7 +79,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.co
 **LGGAN: Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation.** [[PDF](https://arxiv.org/abs/1912.12215)] [[Github](https://github.com/Ha0Tang/LGGAN)]<br> 
 *[Hao Tang](http://disi.unitn.it/~hao.tang/), Dan Xu, Yan Yan, Philip H. S. Torr, Nicu Sebe.*<br> 
 
-**StarGAN v2: Diverse Image Synthesis for Multiple Domains.**[[PDF](https://arxiv.org/abs/1912.01865)] [[GitHub](https://github.com/clovaai/stargan-v2)] [[Tensorflow](https://github.com/taki0112/StarGAN_v2-Tensorflow)] <br> 
+**StarGAN v2: Diverse Image Synthesis for Multiple Domains.**[[PDF](https://arxiv.org/abs/1912.01865)] [[GitHub](https://github.com/clovaai/stargan-v2)] [[Tensorflow](https://github.com/taki0112/StarGAN_v2-Tensorflow)] [[AFHQ Data](https://github.com/clovaai/stargan-v2)] <br> 
 *Yunjey Choi, Youngjung Uh, Jaejun Yoo, Jung-Woo Ha. Clova AI Research, NAVER Corp.*<br> 
 
 **GAN Compression: Efficient Architectures for Interactive Conditional GANs.**[[PDF](https://arxiv.org/abs/2003.08936)] [[Demo](https://tinyurl.com/r474uca)] [[Github](https://github.com/mit-han-lab/gan-compression/)]<br>
