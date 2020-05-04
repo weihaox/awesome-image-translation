@@ -430,6 +430,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03212)]
 
 #### Text-to-Image Generation
 
+**Adversarial Synthesis of Human Pose from Text.**<br>
+*Yifei Zhang, Rania Briq, Julian Tanke, Juergen Gall.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.00340)]
+
 **Semantic Object Accuracy for Generative Text-to-Image Synthesis.**<br>
 *Tobias Hinz, Stefan Heinrich, Stefan Wermter.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/1910.13321)] [[Github](https://github.com/tohinz/semantic-object-accuracy-for-generative-text-to-image-synthesis)]
