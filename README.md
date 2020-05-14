@@ -3,7 +3,7 @@
 A collection of resources on image-to-image translation. 
 
 This repository is organized chronologically by conferences (constantly updating).
-There is another one organized in terms of **catrgory**, which is also [available](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md). 
+There is another one organized in terms of **category**, which is also [available](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md). 
 
 ## Contributing
 
@@ -32,9 +32,11 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
-**Bringing Old Photos Back to Life.**<br>
+**Bringing Old Photos Back to Life.**[[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]<br>
 *[Ziyu Wan](http://raywzy.com), Bo Zhang, [Dongdong Chen](http://www.dongdongchen.bid/), Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]
+
+**Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence.**[[PDF](https://arxiv.org/abs/2005.05207)]<br>
+*Junsoo Lee, Eungyeup Kim, Yunsung Lee, Dongjun Kim, Jaehyuk Chang, Jaegul Choo.*<br>
 
 **SMIS: Semantically Multi-modal Image Synthesis.**[[PDF](https://arxiv.org/abs/2003.12697)] [[Project](http://seanseattle.github.io/SMIS)] [[Github](https://github.com/Seanseattle/SMIS)]<br> 
 *[Zhen Zhu](https://zzhu.vision/), Zhiliang Xu, Ansheng You, [Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/).*<br>
@@ -119,6 +121,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.co
 *Yiming Gao, Jiangqin Wu.*<br>
 
 ### Others 2020
+
+**CLADE: Rethinking Spatially-Adaptive Normalization.**<br>
+*Zhentao Tan, Dongdong Chen, Qi Chu, [Menglei Chai](https://mlchai.com/), Jing Liao, Mingming He, Lu Yuan, Nenghai Yu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02867)]
 
 **Unpaired Photo-to-manga Translation Based on The Methodology of Manga Drawing.**<br>
 *Hao Su, Jianwei Niu, Xuefeng Liu, Qingfeng Li, Jiahe Cui, Ji Wan.*<br>
@@ -356,6 +362,10 @@ TIP 2019. [[PDF](https://arxiv.org/abs/1806.06195)]
 TIP 2019. [[PDF](https://arxiv.org/abs/1711.10678)] [[Github](https://github.com/LynnHo/AttGAN-Tensorflow)]
 
 ### Others 2019
+
+**DeepHist: Differentiable Joint and Color Histogram Layers for Image-to-Image Translation.**<br>
+*Mor Avi-Aharon, Assaf Arbelle, Tammy Riklin Raviv.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/2005.03995)]
 
 **Deliberation Learning for Image-to-Image Translation.**<br>
 *Tianyu He, Yingce Xia, Jianxin Lin, Xu Tan, Di He, Tao Qin, Zhibo Chen.*<br>

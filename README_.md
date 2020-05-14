@@ -2,7 +2,7 @@
 
 A collection of resources on image-to-image translation (constantly updating). 
 
-This repository is organized in terms of catrgory, another one which is organized chronologically by conferences is also [available](https://github.com/xiaweihao/awesome-image-translation/blob/master/README.md). 
+This repository is organized in terms of category, another one which is organized chronologically by conferences is also [available](https://github.com/xiaweihao/awesome-image-translation/blob/master/README.md). 
 
 ## Contributing
 
@@ -775,6 +775,10 @@ CVPR 2018. [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Car
 **Bringing Old Photos Back to Life.**<br>
 *[Ziyu Wan](http://raywzy.com), Bo Zhang, [Dongdong Chen](http://www.dongdongchen.bid/), Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]
+
+**Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence.**<br>
+*Junsoo Lee, Eungyeup Kim, Yunsung Lee, Dongjun Kim, Jaehyuk Chang, Jaegul Choo.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2005.05207)]
 
 **Pose Agnostic Cross-spectral Hallucination via Disentangling Independent Factors.**<br>
 *Boyan Duan, Chaoyou Fu, Yi Li, Xingguang Song, Ran He.*<br>
