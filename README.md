@@ -122,6 +122,10 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**TuiGAN: Learning Versatile Image-to-Image Translation with Two Unpaired Images.**<br>
+*Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
+
 **CLADE: Rethinking Spatially-Adaptive Normalization.**<br>
 *Zhentao Tan, Dongdong Chen, Qi Chu, [Menglei Chai](https://mlchai.com/), Jing Liao, Mingming He, Lu Yuan, Nenghai Yu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02867)]
@@ -175,7 +179,7 @@ arxiv, 15 Jan 2020. [[PDF](https://arxiv.org/abs/2001.05489)]
 **Flow-based Image-to-Image Translation with Feature Disentanglement.** [[PDF](http://papers.nips.cc/paper/8670-flow-based-image-to-image-translation-with-feature-disentanglement.pdf)]<br>
 *Ruho Kondo, Keisuke Kawano, Satoshi Koide, Takuro Kutsuna.*
 
-**Explicitly disentangling image content from translation and rotation with spatial-VAE.** [[PDF](https://arxiv.org/abs/1909.11663)]<br>
+**Explicitly Disentangling Image Content From Translation And Rotation With Spatial-VAE.** [[PDF](https://arxiv.org/abs/1909.11663)]<br>
 Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
 
 **Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis.** [[PDF](https://arxiv.org/abs/1910.06809)]<br>
