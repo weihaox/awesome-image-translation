@@ -853,6 +853,13 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2002.01048)]
 SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)]
 
 ### Attribute Editing
+**Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
+*Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
+
+**High Resolution Face Age Editing.**<br>
+*Xu Yao, Gilles Puy, Alasdair Newson, Yann Gousseau, Pierre Hellier.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.04410)] [[Github](https://github.com/InterDigitalInc/HRFAE)]
 
 **Intuitive, Interactive Beard and Hair Synthesis with Generative Models.**<br>
 *Kyle Olszewski, Duygu Ceylan, Jun Xing, Jose Echevarria, Zhili Chen, Weikai Chen, Hao Li.*<br>
