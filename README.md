@@ -13,6 +13,7 @@ Feedback and contributions are welcome!
 
 ## Table of Contents
 - [Year 2020](#year-2020)
+  * [ACM MM and SIGGRAPH](#acm-mm-and-siggraph)
   * [CVPR 2020](#cvpr-2020)
   * [AAAI 2020](#aaai-2020)
   * [Others 2020](#others-2020)
@@ -22,12 +23,20 @@ Feedback and contributions are welcome!
   * [CVPR 2019](#cvpr-2019)
   * [ICLR 2019](#iclr-2019)
   * [AAAI 2019](#aaai-2019)
-  * [ACM MM 2019](#acm-mm-2019)
+  * [ACM MM and SIGGRAPH 2019](#acm-mm-and-siggraph-2019)
   * [Journal 2019](#journal-2019)
   * [Others 2019](#others-2019)
 - [Before 2018](#before-2018)
 
 ## Year 2020
+
+### ACM MM and SIGGRAPH 
+
+**Unsupervised multi-modal Styled Content Generation.**[[PDF](https://arxiv.org/abs/2001.03640)]<br>
+*Omry Sendik, Dani Lischinski, Daniel Cohen-Or.*<br>
+
+**MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**[[PDF](https://mlchai.com/files/tan2020michigan.pdf)]<br>
+*Zhentao Tan, [Menglei Chai](https://mlchai.com/), Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*
 
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]

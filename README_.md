@@ -243,6 +243,10 @@ TPAMI 2019. [[PDF](https://arxiv.org/abs/1902.03782)] [[Github](https://github.c
 
 ### Multi-Domain and Multi-Modal
 
+**Unsupervised multi-modal Styled Content Generation.**<br>
+*Omry Sendik, Dani Lischinski, Daniel Cohen-Or.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2001.03640)]
+
 **Multimodal Image Synthesis with Conditional Implicit Maximum Likelihood Estimation.**<br>
 *Ke Li, Shichong Peng, Tianhao Zhang, Jitendra Malik.*<br>
 IJCV 2020. [[PDF](https://arxiv.org/abs/2004.03590)]
