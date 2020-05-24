@@ -8,3 +8,7 @@ relative_links:
 include:
   - README.md
   - README_.md
+  - content/cv-lab.md
+  - content/dataset.md
+  - content/controllable-image-generation.md
+  - content/image-synthesis.md
