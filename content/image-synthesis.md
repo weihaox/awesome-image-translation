@@ -12,7 +12,6 @@
 - [Soft Segmentation and Background Matting](#soft-segmentation-and-background-matting)
 - [Free-Hand Sketch](#free-hand-sketch)
 - [Reciprocal Computer Vision Tasks](#reciprocal-computer-vision-tasks)
-- [Long-Tailed, Open Set and Small Dataset](#long-tailed--open-set-and-small-dataset)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
   * [Interpreting the Latent Space of Pretrained Models (GAN Inversion)](#interpreting-the-latent-space-of-pretrained-models--gan-inversion-)
   * [StyleGAN-Based Method](#stylegan-based-method)
@@ -317,7 +316,11 @@ ICLR 2019. [[PDF](https://openreview.net/forum?id=B1lKS2AqtX)] [[GitHub](https:/
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)]
 [[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
 
-## Frame Interpolation and Videos Generation
+## Frame Interpolation, Extrapolation and Videos Generation
+
+**Extrapolative-Interpolative Cycle-Consistency Learning for Video Frame Extrapolation.**<br>
+*Sangjin Lee, Hyeongmin Lee, Taeoh Kim, Sangyoun Lee.*<br>
+ICIP 2020. [[PDF](https://arxiv.org/abs/2005.13194)]
 
 **AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation.**<br>
 *[Hyeongmin Lee](https://hyeongminlee.github.io/), [Taeoh Kim](https://taeoh-kim.github.io/), Tae-young Chung, Daehyun Pak, Yuseok Ban, and Sangyoun Lee.*<br>
@@ -435,72 +438,17 @@ AAAI 2020. [[PDF](https://arxiv.org/abs/1912.05070)] [[Github](https://github.co
 *Weihao Xia, Zhanglin Cheng, Yujiu Yang, Jing-Hao Xue.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
 
-## Long-Tailed, Open Set and Small Dataset
-
-**Decoupling Representation and Classifier for Long-Tailed Recognition.**<br>
-*Bingyi Kang, Saining Xie,Marcus Rohrbach, Zhicheng Yan, Albert Gordo, Jiashi Feng, Yannis Kalantidis.*<br>
-ICLR 2020. [[PDF](https://arxiv.org/abs/1910.09217)] [[Github](https://github.com/facebookresearch/classifier-balancing)]
-
-**YuruGAN: Yuru-Chara Mascot Generator Using Generative Adversarial Networks With Clustering Small Dataset.**<br>
-*Yuki Hagiwara, Toshihisa Tanaka.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.08066)]
-
-**OSLNet: Deep Small-Sample Classification with an Orthogonal Softmax Layer.**<br>
-*Xiaoxu Li, Dongliang Chang, Zhanyu Ma, Zheng-Hua Tan, Jing-Hao Xue, Jie Cao, Jingyi Yu, Jun Guo.*<br>
-TIP 2020. [[PDF](https://arxiv.org/abs/2004.09033)] [[Github](https://github.com/dongliangchang/OSLNet)] 
-
-**Towards Inheritable Models for Open-Set Domain Adaptation.**<br>
-*Jogendra Nath Kundu, Naveen Venkat, Ambareesh Revanur, Rahul M V, R. Venkatesh Babu.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.com/val-iisc/inheritune)]
-
-**M2M: Imbalanced Classification via Major-to-Minor Translation.**<br>
-*Jaehyung Kim, Jongheon Jeong, Jinwoo Shin.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
-
-**BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.**<br>
-*Boyan Zhou, Quan Cui, Xiu-Shen Wei, Zhao-Min Chen.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02413)] [[Github](https://github.com/Megvii-Nanjing/BBN)]
-
-**Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective.**<br>
-*Muhammad Abdullah Jamal, Matthew Brown, Ming-Hsuan Yang, Liqiang Wang, Boqing Gong.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10780)]
-
-**Domain Balancing: Face Recognition on Long-Tailed Domains.**<br>
-*Dong Cao, Xiangyu Zhu, Xingyu Huang, Jianzhu Guo, Zhen Lei.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13791)]
-
-<details>
-  <summary> Datasets </summary> 
-<li><a href="https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/">MS-Celeb-1M</a>. Challenge of Recognizing One Million Celebrities in the Real World.</li>
-<li><a href="https://pgram.com/dataset/casia-webface/">CASIA-WebFace</a>. The CASIA WebFace Facial Dataset consists of 453,453 images over 10,575 identities after face detection. This dataset can be download from <a href="https://pan.baidu.com/s/1hQCOD4Kr66MOW0_PE8bL0w">Baidu Cloud</a> with password y3wj or <a href="https://drive.google.com/open?id=1Of_EVz-yHV7QVWQGihYfvtny9Ne8qXVz">Google Drive</a>. The original <a href="http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html">CASIA-webface Dataset</a> is very dirty and requires some filtering for quality. <a href="https://github.com/happynear/FaceVerification">Some</a> have washed the CASIA-webface database manually. After washing, 27703 wrong images are deleted. The washed list can be downloaded from <a href="http://pan.baidu.com/s/1hrKpbm8">Baidu Cloud</a>. There is also a <a href="https://1drv.ms/u/s!AjMP8wpvXdkfhMhnmNDEdj5oor7M_A">CASIA-maxpy-clean.zip</a> that kindly shared by <a href="https://github.com/cmusatyalab/openface/issues/119">OpenFace</a> Community.</li>
-</details>
-
-**DRAGON: Long-tail learning with attributes.**<br>
-*Dvir Samuel, Yuval Atzmon, Gal Chechik.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)] [[Github](https://github.com/dvirsamuel/DRAGON)]
-
-<details>
-  <summary> Datasets </summary>
-<li><a href="http://www.vision.caltech.edu/visipedia/CUB-200-2011.html">CUB-200-2011</a>. The Caltech-UCSD Birds-200-2011 contains 11,788 visual images of 200 bird species for fine-grained classification. Each species is described by 312 binary attributes (like tail-pattern:solid, wing-color:black).</li>
-<li><a href="http://groups.csail.mit.edu/vision/SUN/">SUN</a>. The SUN Attribute Database contains 14,340 complex visual scenes, from 717 scene types and 102 attributes (like material:rock, function:eating, surface:glossy).</li>
-<li><a href="http://attributes.kyb.tuebingen.mpg.de/">AWA</a>. The Animals with Attributes consists of 30,475 images of 50 animal classes and 85 attributes(like texture: furry, or color: black).</li>
-</details>
-
-**OLTR: Large-Scale Long-Tailed Recognition in an Open World.**<br>
-*[Ziwei Liu](https://liuziwei7.github.io/), [Zhongqi Miao](https://github.com/zhmiao), [Xiaohang Zhan](https://xiaohangzhan.github.io/), [Jiayun Wang](http://pwang.pw/), [Boqing Gong](http://boqinggong.info/), [Stella X. Yu](https://www1.icsi.berkeley.edu/~stellayu/).*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05160)] [[Github](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)] [[Project](https://liuziwei7.github.io/projects/LongTail.html)]
-
-**Long-Tailed Recognition Using Class-Balanced Experts.**<br>
-*Saurabh Sharma, Ning Yu, Mario Fritz, Bernt Schiele.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03706)]
-
-**Learning to Segment the Tail.**<br>
-*Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
-
 ## Diving Deep into Image Synthesis
 
 ### Interpreting the Latent Space of Pretrained Models (GAN Inversion)
+
+**PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
+*Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.03808)]
+
+**One-Shot Domain Adaptation For Face Generation.**<br>
+*Chao Yang, Ser-Nam Lim.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12869)]
 
 **Unsupervised Discovery of Interpretable Directions in the GAN Latent Space.**<br>
 *Andrey Voynov, Artem Babenko.*<br>

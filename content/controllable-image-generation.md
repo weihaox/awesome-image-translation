@@ -53,6 +53,12 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0
 *Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*<br>
 SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
 
+## Automatic Human-Centric Application
+
+**Zoom in to the details of human-centric videos.**<br>
+*Guanghan Li, Yaping Zhao, Mengqi Ji, Xiaoyun Yuan, Lu Fang.*<br>
+ICIP 2020. [[PDF](https://arxiv.org/abs/2005.13222)]
+
 ## Individual Object Manipulation
 
 *Individual Object Manipulation* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#individual-object-manipulate).
@@ -60,6 +66,10 @@ SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
 **Conditional Image Generation and Manipulation for User-Specified Content.**<br>
 *David Stap, Maurits Bleeker, Sarah Ibrahimi, Maartje ter Hoeve.*<br>
 AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04909)]
+
+**Context-Aware Synthesis and Placement ofObject Instances.**<br>
+*Donghoon Lee, Sifei Liu, Jinwei Gu, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1812.02350v1)] [[Project](https://research.nvidia.com/publication/2018-10_Context-aware-Synthesis-and)]
 
 ## Guided Image-to-image translation
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).

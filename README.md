@@ -131,9 +131,17 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**Wish You Were Here: Context-Aware Human Generation.**<br>
+*Oran Gafni, Lior Wolf.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.10663)]
+
+**Identity-Preserving Realistic Talking Face Generation.**<br>
+*Sanjana Sinha, Sandika Biswas, Brojeshwar Bhowmick.*<br>
+IJCNN 2020. [[PDF](https://arxiv.org/abs/2005.12318)]
+
 **TuiGAN: Learning Versatile Image-to-Image Translation with Two Unpaired Images.**<br>
 *Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)] [[Github](https://github.com/linjx-ustc1106/TuiGAN-PyTorch)]
 
 **CLADE: Rethinking Spatially-Adaptive Normalization.**<br>
 *Zhentao Tan, Dongdong Chen, Qi Chu, [Menglei Chai](https://mlchai.com/), Jing Liao, Mingming He, Lu Yuan, Nenghai Yu.*<br>
