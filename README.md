@@ -30,7 +30,7 @@ Feedback and contributions are welcome!
 
 ## Year 2020
 
-### ACM MM and SIGGRAPH 
+### ACM MM and SIGGRAPH 2020
 
 **Unsupervised multi-modal Styled Content Generation.**[[PDF](https://arxiv.org/abs/2001.03640)]<br>
 *Omry Sendik, Dani Lischinski, Daniel Cohen-Or.*<br>
@@ -53,7 +53,7 @@ Feedback and contributions are welcome!
 **SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**[[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)] [[Github](https://github.com/ZPdesu/SEAN)]</br>
 *Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br> 
 
-**CoCosNet: Cross-domain Correspondence Learning for Exemplar-based Image Translation.**[[PDF](https://arxiv.org/abs/2004.05571)][[Project](https://panzhang0212.github.io/CoCosNet/)]<br>
+**CoCosNet: Cross-domain Correspondence Learning for Exemplar-based Image Translation.**[[PDF](https://arxiv.org/abs/2004.05571)][[Project](https://panzhang0212.github.io/CoCosNet/)] [[Unofficial](https://github.com/Lotayou/CoCosNet)] <br>
 *[Pan Zhang](panzhang0212.github.io), [Bo Zhang](https://www.microsoft.com/en-us/research/people/zhanbo/), Dong Chen, Lu Yuan, Fang Wen.*<br>
 <details>
   <summary> Comment </summary>
