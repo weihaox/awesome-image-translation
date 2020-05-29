@@ -137,6 +137,11 @@ ICASSP 2020.
 ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
 ### Text-to-Image
+
+**TIME: Text and Image Mutual-Translation Adversarial Networks.**<br>
+*Bingchen Liu, Kunpeng Song, Yizhe Zhu, Gerard de Melo, Ahmed Elgammal.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.13192)]
+
 **S2IGAN: Speech-to-Image Generation via Adversarial Learning.**<br>
 *Xinsheng Wang, Tingting Qiao, Jihua Zhu, Alan Hanjalic, Odette Scharenborg.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.06968)]

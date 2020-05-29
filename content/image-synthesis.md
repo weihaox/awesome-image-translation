@@ -137,6 +137,16 @@ arxiv, 27 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12291)] [[GitHub](https://
 *Alexander Krull, Tomas Vicar, Florian Jug.*<br>
 arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://github.com/juglab/pn2v)]
 
+### Replacing ISP
+
+**PyNET: Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
+*Andrey Ignatov, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)] [[Official PyTorch](https://github.com/aiff22/PyNET-PyTorch)] [[Official TensorFlow](https://github.com/aiff22/PyNET)]
+
+**Deep White-Balance Editing.**<br>
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi), Michael S. Brown.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.com/mahmoudnafifi/Deep_White_Balance)]
+
 ### Misc
 
 **Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss.**<br>
