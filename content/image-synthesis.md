@@ -1,13 +1,15 @@
 # Image Synthesis
 
 ## Table of Contents
+- [Team](#team)
 - [Restoration or Enhancement](#restoration-or-enhancement)
   * [With Exemplar](#with-exemplar)
   * [With Unpair or Misaligned Data](#with-unpair-or-misaligned-data)
+  * [Replacing ISP](#replacing-isp)
   * [Misc](#misc)
   * [Challenge and Survey](#challenge-and-survey)
 - [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
-- [Frame Interpolation and Videos Generation](#frame-interpolation-and-videos-generation)
+- [Frame Interpolation, Extrapolation and Videos Generation](#frame-interpolation--extrapolation-and-videos-generation)
 - [Photorealistic Style Transfer](#photorealistic-style-transfer)
 - [Soft Segmentation and Background Matting](#soft-segmentation-and-background-matting)
 - [Free-Hand Sketch](#free-hand-sketch)
@@ -646,6 +648,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
 **DeepFaceLab: A simple, flexible and extensible face swapping framework.**<br>
 *Ivan Petrov, Daiheng Gao, Nikolay Chervoniy, Kunlin Liu, Sugasa Marangonda, Chris Umé, Mr. Dpfks, Carl Shift Facenheim, Luis RP, Jian Jiang, Sheng Zhang, Pingyu Wu, Bo Zhou, Weiming Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.05535)] [[Github](https://github.com/iperov/DeepFaceLab/)]
+
+**Learning Meta Model for Zero- and Few-shot Face Anti-Spoofing.**<br>
+*Yunxiao Qin, Chenxu Zhao, Xiangyu Zhu, Zezheng Wang, Zitong Yu, Tianyu Fu, Feng Zhou, Jingping Shi, Zhen Lei.*<br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/1904.12490)] [[Gtihub](https://github.com/qyxqyx/AIM_FAS)]
 
 **Detecting CNN-Generated Facial Images in Real-World Scenarios.**<br>
 *Nils Hulzebosch, Sarah Ibrahimi, Marcel Worring.*<br>

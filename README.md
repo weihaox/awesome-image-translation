@@ -13,7 +13,7 @@ Feedback and contributions are welcome!
 
 ## Table of Contents
 - [Year 2020](#year-2020)
-  * [ACM MM and SIGGRAPH](#acm-mm-and-siggraph)
+  * [ACM MM and SIGGRAPH 2020](#acm-mm-and-siggraph-2020)
   * [CVPR 2020](#cvpr-2020)
   * [AAAI 2020](#aaai-2020)
   * [Others 2020](#others-2020)
