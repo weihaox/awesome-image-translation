@@ -378,6 +378,12 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00626)] [[Github](https://github.co
 *[Yagiz Aksoy](http://yaksoy.github.io/), Tae-Hyun Oh, Sylvain Paris, Marc Pollefeys and Wojciech Matusik.*<br>
 ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://cfg.mit.edu/sites/cfg.mit.edu/files/sss_3.pdf)] [[Project](http://yaksoy.github.io/sss/)] [[Github-Matlab](https://github.com/yaksoy/SemanticSoftSegmentation)] [[Github-Python](https://github.com/iyah4888/SIGGRAPH18SSS)]
 
+## Image Harmonization
+
+**Foreground-aware Semantic Representations for Image Harmonization.**<br> 
+*Konstantin Sofiiuk, Polina Popenova, Anton Konushin.*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.00809)] [[Github](https://github.com/saic-vul/image_harmonization)]
+
 ## Free-Hand Sketch
 
 [Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications)
@@ -386,7 +392,7 @@ ACM Transactions on Graphics (Proc. SIGGRAPH), 2018. [[PDF](http://cfg.mit.edu/s
 
 **DeepFaceDrawing: Deep Generation of Face Images from Sketches.**<br> 
 *[Shu-Yu Chen](http://people.geometrylearning.com/csy/), [Wanchao Su](https://www.scm.cityu.edu.hk/doctoral-researcher/wanchaosu2-c), Lin Gao, Shihong Xia, Hongbo Fu.*<br> 
-Siggraph 2020. [[PDF]()] [[Project](http://www.geometrylearning.com/DeepFaceDrawing/)]
+Siggraph 2020. [[PDF](https://arxiv.org/abs/2006.01047)] [[Project](http://www.geometrylearning.com/DeepFaceDrawing/)]
 
 **Synthesizing Human-Like Sketches From Natural Images Using A Conditional Convolutional Decoder.**<br> 
 *Moritz Kampelmühler, Axel Pinz.*<br> 
