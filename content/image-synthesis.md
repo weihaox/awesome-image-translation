@@ -151,6 +151,22 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**GAN-Based Facial Attractiveness Enhancement.**<br>
+*Yuhongze Zhou, Qinjie Xiao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.02766)]
+
+**PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
+*Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.03808)] [[Github](https://github.com/adamian98/pulse)]
+
+**DeepUPE: Underexposed Photo Enhancement Using Deep Illumination Estimation.**<br>
+*Ruixing Wang, Qing Zhang, Chi-Wing Fu, Xiaoyong Shen, Wei-Shi Zheng, Jiaya Jia.*<br>
+CVPR 2019. [[PDF](http://jiaya.me/papers/photoenhance_cvpr19.pdf)] [[Github](https://github.com/luppx/DeepUPE)]
+
+**Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining.**<br>
+*Yiqun Mei, Yuchen Fan, Yuqian Zhou, Lichao Huang, Thomas S. Huang, and Humphrey Shi.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.01424)] [[Github](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)]
+
 **Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss.**<br>
 *Marcel Santana Santos, Tsang Ing Ren, Nima Khademi Kalantari.*<br>
 SIGGRAPH 2020. [[PDF](http://faculty.cs.tamu.edu/nimak/Papers/SIGGRAPH2020_HDR/files/SIGGRAPH2020Final.pdf)] [[Project](http://faculty.cs.tamu.edu/nimak/Papers/SIGGRAPH2020_HDR/)]
@@ -654,6 +670,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
 **DeepFaceLab: A simple, flexible and extensible face swapping framework.**<br>
 *Ivan Petrov, Daiheng Gao, Nikolay Chervoniy, Kunlin Liu, Sugasa Marangonda, Chris Umé, Mr. Dpfks, Carl Shift Facenheim, Luis RP, Jian Jiang, Sheng Zhang, Pingyu Wu, Bo Zhou, Weiming Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.05535)] [[Github](https://github.com/iperov/DeepFaceLab/)]
+
+**Look Locally Infer Globally: A Generalizable Face Anti-Spoofing Approach.**<br>
+*Debayan Deb, Anil K. Jain.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.02834)]
 
 **Learning Meta Model for Zero- and Few-shot Face Anti-Spoofing.**<br>
 *Yunxiao Qin, Chenxu Zhao, Xiangyu Zhu, Zezheng Wang, Zitong Yu, Tianyu Fu, Feng Zhou, Jingping Shi, Zhen Lei.*<br>
