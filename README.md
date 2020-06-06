@@ -131,6 +131,10 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**Recapture as You Want.**<br>
+*Chen Gao, Si Liu, Ran He, Shuicheng Yan, Bo Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.01435)]
+
 **Wish You Were Here: Context-Aware Human Generation.**<br>
 *Oran Gafni, Lior Wolf.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.10663)]
