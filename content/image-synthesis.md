@@ -29,6 +29,10 @@
 
 ### With Exemplar
 
+**Learning Texture Transformer Network for Image Super-Resolution.**<br>
+*Fuzhi Yang, Huan Yang, Jianlong Fu, Hongtao Lu, Baining Guo.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.com/FuzhiYang/TTSR)]
+
 **Instance-aware Image Colorization.**<br>
 *Jheng-Wei Su, Hung-Kuo Chu, Jia-Bin Huang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2005.10825)] [[Github](https://ericsujw.github.io/InstColorization/)] [[Project](https://ericsujw.github.io/InstColorization/)]
@@ -150,6 +154,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Project](http://people.e
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.com/mahmoudnafifi/Deep_White_Balance)]
 
 ### Misc
+
+**Single Image Deraining Using Time-lapse Data.**<br>
+*Jaehoon Cho, [Seungryong Kim](https://seungryong.github.io/), Dongbo Min, and Kwanghoon Sohn.*<br>
+IEEE Trans. on Image Processing (TIP) 2020. [[PDF](https://seungryong.github.io/publication/derain_TIP2020.pdf)]
 
 **GAN-Based Facial Attractiveness Enhancement.**<br>
 *Yuhongze Zhou, Qinjie Xiao.*<br>

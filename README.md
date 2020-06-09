@@ -41,6 +41,15 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
+**DUNIT: Detection-based Unsupervised Image-to-Image Translation.**[[PDF](https://seungryong.github.io/publication/DUNIT_CVPR2020)]<br>
+*Deblina Bhattacharjee, [Seungryong Kim](https://seungryong.github.io), Guillaume Vizier, and Mathieu Salzmann.*<br>
+
+**UCTGAN: Diverse Image Inpainting Based on Unsupervised Cross-Space Translation.**[[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf)]<br>
+*Lei Zhao, Qihang Mo, Sihuan Lin, Zhizhong Wang, Zhiwen Zuo, Haibo Chen, Wei Xing, Dongming Lu.*<br>
+
+**Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Arar_Unsupervised_Multi-Modal_Image_Registration_via_Geometry_Preserving_Image-to-Image_Translation_CVPR_2020_paper.pdf)] <br>
+*Moab Arar, Yiftach Ginger, Dov Danon, Amit H. Bermano, Daniel Cohen-Or.*<br>
+
 **Bringing Old Photos Back to Life.**[[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]<br>
 *[Ziyu Wan](http://raywzy.com), Bo Zhang, [Dongdong Chen](http://www.dongdongchen.bid/), Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
 
@@ -130,6 +139,10 @@ Feedback and contributions are welcome!
 *Yiming Gao, Jiangqin Wu.*<br>
 
 ### Others 2020
+
+**Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals.**<br>
+*Siyuan Li, Semih Günel, Mirela Ostrek, Pavan Ramdya, Pascal Fua, Helge Rhodin.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.08601)]
 
 **Recapture as You Want.**<br>
 *Chen Gao, Si Liu, Ran He, Shuicheng Yan, Bo Li.*<br>

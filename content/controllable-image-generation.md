@@ -12,6 +12,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 - [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
 - [3D Pose Transfer](#3d-pose-transfer)
 - [Multi-Modality Translation](#multi-modality-translation)
+  * [Image-to-Voice](#image-to-voice)
   * [Voice-to-Voice](#voice-to-voice)
   * [Text-to-Image](#text-to-image)
   * [Voice-to-Image](#voice-to-image)
@@ -117,6 +118,12 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10120)] [[Github](https://github.c
 ## Multi-Modality Translations
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
 [[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
+
+### Image-to-Voice
+
+**Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis.**<br>
+*K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2005.08209)] [[Github](https://github.com/Rudrabha/Lip2Wav)]
 
 ### Voice-to-Voice
 **REMI: Pop Music Transformer: Generating Music with Rhythm and Harmony.**<br>
