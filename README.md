@@ -111,6 +111,9 @@ Feedback and contributions are welcome!
 **NICE: Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation.** [[PDF](https://arxiv.org/abs/2003.00273)] [[Github](https://github.com/alpc91/NICE-GAN-pytorch)]<br>
 *Runfa Chen, Wenbing Huang, Binghui Huang, Fuchun Sun, Bin Fang.*<br>
 
+**Council-GAN: Breaking the cycle - Colleagues are all you need.**[[PDF](https://arxiv.org/abs/1911.10538)][[GitHub](https://github.com/Onr/Council-GAN)] [[Project](https://onr.github.io/Council_web/)]
+*Ori Nizan, Ayellet Tal.*<br>
+
 ### AAAI 2020 
 [[accepted paper list](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)]
 
@@ -456,10 +459,6 @@ arxiv, 29 Nov 2019. [[PDF]( https://arxiv.org/abs/1911.13271)]
 **EDIT: Exemplar-Domain Aware Image-to-Image Translation.**<br>
 *Yuanbin Fu, Jiayi Ma, Lin Ma, Xiaojie Guo.*<br>
 arxiv, 24 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10520)] [[GitHub](http://t.cn/AigvDwW3)]
-
-**Council-GAN: Breaking the cycle - Colleagues are all you need.**<br>
-*Ori Nizan, Ayellet Tal.*<br>
-arxiv, 24 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10538)]
 
 **injectionGAN: Toward Learning a Unified Many-to-Many Mapping for Diverse Image Translation.**<br>
 *Wenju Xu, Shawn Keshmiri, Guanghui Wang.*<br>
