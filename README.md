@@ -112,7 +112,7 @@ Feedback and contributions are welcome!
 *Runfa Chen, Wenbing Huang, Binghui Huang, Fuchun Sun, Bin Fang.*<br>
 
 **Council-GAN: Breaking the cycle - Colleagues are all you need.**[[PDF](https://arxiv.org/abs/1911.10538)][[GitHub](https://github.com/Onr/Council-GAN)] [[Project](https://onr.github.io/Council_web/)] <br>
-*[Ori Nizan](https://onr.github.io/),[Ayellet Tal](https://webee.technion.ac.il/~ayellet/).*<br>
+*[Ori Nizan](https://onr.github.io/), [Ayellet Tal](https://webee.technion.ac.il/~ayellet/).*<br>
 
 ### AAAI 2020 
 [[accepted paper list](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)]
