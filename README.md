@@ -41,6 +41,9 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
+**Breaking The Cycle: Colleagues Are All You Need.**[[PDF](https://arxiv.org/abs/1911.10538)][[Project](https://onr.github.io/Council_web/)][[Github](https://github.com/Onr/Council-GAN)]<br>
+*[Ori Nizan](https://onr.github.io/), [Ayellet Tal](https://webee.technion.ac.il/~ayellet/).*<br>
+
 **DUNIT: Detection-based Unsupervised Image-to-Image Translation.**[[PDF](https://seungryong.github.io/publication/DUNIT_CVPR2020)]<br>
 *Deblina Bhattacharjee, [Seungryong Kim](https://seungryong.github.io), Guillaume Vizier, and Mathieu Salzmann.*<br>
 
