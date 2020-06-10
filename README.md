@@ -111,7 +111,7 @@ Feedback and contributions are welcome!
 **NICE: Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation.** [[PDF](https://arxiv.org/abs/2003.00273)] [[Github](https://github.com/alpc91/NICE-GAN-pytorch)]<br>
 *Runfa Chen, Wenbing Huang, Binghui Huang, Fuchun Sun, Bin Fang.*<br>
 
-**Council-GAN: Breaking the cycle - Colleagues are all you need.**[[PDF](https://arxiv.org/abs/1911.10538)][[GitHub](https://github.com/Onr/Council-GAN)] [[Project](https://onr.github.io/Council_web/)]
+**Council-GAN: Breaking the cycle - Colleagues are all you need.**[[PDF](https://arxiv.org/abs/1911.10538)][[GitHub](https://github.com/Onr/Council-GAN)] [[Project](https://onr.github.io/Council_web/)]<br>
 *Ori Nizan, Ayellet Tal.*<br>
 
 ### AAAI 2020 
