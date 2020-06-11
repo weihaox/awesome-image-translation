@@ -31,6 +31,7 @@ Feedback and contributions are welcome!
 ## Year 2020
 
 ### ACM MM and SIGGRAPH 2020
+[[SIGGRAPH 2020 Papers On The Web](https://kesen.realtimerendering.com/sig2020.html)]
 
 **Unsupervised multi-modal Styled Content Generation.**[[PDF](https://arxiv.org/abs/2001.03640)]<br>
 *Omry Sendik, Dani Lischinski, Daniel Cohen-Or.*<br>
@@ -41,7 +42,7 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
-**Breaking The Cycle: Colleagues Are All You Need.**[[PDF](https://arxiv.org/abs/1911.10538)][[Project](https://onr.github.io/Council_web/)][[Github](https://github.com/Onr/Council-GAN)]<br>
+**CouncilGAN: Breaking The Cycle: Colleagues Are All You Need.**[[PDF](https://arxiv.org/abs/1911.10538)][[Project](https://onr.github.io/Council_web/)][[Github](https://github.com/Onr/Council-GAN)]<br>
 *[Ori Nizan](https://onr.github.io/), [Ayellet Tal](https://webee.technion.ac.il/~ayellet/).*<br>
 
 **DUNIT: Detection-based Unsupervised Image-to-Image Translation.**[[PDF](https://seungryong.github.io/publication/DUNIT_CVPR2020)]<br>
