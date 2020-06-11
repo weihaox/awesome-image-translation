@@ -155,6 +155,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**Single Image Reflection Removal through Cascaded Refinement.**<br>
+*Chao Li, Yixiao Yang, Kun He, Stephen Lin, John E. Hopcroft.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1911.06634)]
+
 **Single Image Deraining Using Time-lapse Data.**<br>
 *Jaehoon Cho, [Seungryong Kim](https://seungryong.github.io/), Dongbo Min, and Kwanghoon Sohn.*<br>
 IEEE Trans. on Image Processing (TIP) 2020. [[PDF](https://seungryong.github.io/publication/derain_TIP2020.pdf)]
