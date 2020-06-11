@@ -434,6 +434,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03212)]
 
 #### Text-to-Image Generation
 
+**RiFeGAN: Rich Feature Generation for Text-to-Image Synthesis From Prior Knowledge.**<br>
+*Jun Cheng, Fuxiang Wu, Yanling Tian, Lei Wang, Dapeng Tao.*<br>
+CVPR 2020. [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_RiFeGAN_Rich_Feature_Generation_for_Text-to-Image_Synthesis_From_Prior_Knowledge_CVPR_2020_paper.pdf)]
+
 **Adversarial Synthesis of Human Pose from Text.**<br>
 *Yifei Zhang, Rania Briq, Julian Tanke, Juergen Gall.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.00340)]
