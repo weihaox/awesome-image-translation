@@ -324,7 +324,7 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1905.08766)]
 
 **DCMIT: Unsupervised Multi-Domain Multimodal Image-to-Image Translation with Explicit Domain-Constrained Disentanglement.**</br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue.*</br>
-arxiv, 2019. [[PDF](https://arxiv.org/abs/1911.00622)]
+Neural Networks 2020. [[PDF](https://arxiv.org/abs/1911.00622)]
 
 ## Guided Image-to-image Translation
 

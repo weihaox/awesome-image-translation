@@ -26,6 +26,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Interactive and Controllable Image Manipulation
 
+**CONFIG: Controllable Neural Face Image Generation.**<br>
+*Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.02671)]
+
 **Interactive Video Stylization Using Few-Shot Patch-Based Training.**<br>
 *[Ondřej Texler](https://ondrejtexler.github.io/), David Futschik, Michal Kučera, Ondřej Jamriška, Šárka Sochorová, Menglei Chai, Sergey Tulyakov, Daniel Sýkora.*<br>
 TOG 2020 (SIGGRAPH 2020) [[PDF](https://ondrejtexler.github.io/res/Texler20-SIG_patch-based_training_main.pdf)] [[Project](https://ondrejtexler.github.io/patch-based_training/)]

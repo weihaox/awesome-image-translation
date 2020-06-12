@@ -155,6 +155,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**Learning to Incorporate Structure Knowledge for Image Inpainting.**<br>
+*Jie Yang, Zhiquan Qi, Yong Shi.*<br>
+AAAI 2020. [[PDF](https://www.researchgate.net/publication/338984531_Learning_to_Incorporate_Structure_Knowledge_for_Image_Inpainting)] [[Github](https://github.com/YoungGod/sturcture-inpainting)]
+
 **Single Image Reflection Removal through Cascaded Refinement.**<br>
 *Chao Li, Yixiao Yang, Kun He, Stephen Lin, John E. Hopcroft.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/1911.06634)]

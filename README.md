@@ -115,9 +115,6 @@ Feedback and contributions are welcome!
 **NICE: Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation.** [[PDF](https://arxiv.org/abs/2003.00273)] [[Github](https://github.com/alpc91/NICE-GAN-pytorch)]<br>
 *Runfa Chen, Wenbing Huang, Binghui Huang, Fuchun Sun, Bin Fang.*<br>
 
-**Council-GAN: Breaking the cycle - Colleagues are all you need.**[[PDF](https://arxiv.org/abs/1911.10538)][[GitHub](https://github.com/Onr/Council-GAN)] [[Project](https://onr.github.io/Council_web/)] <br>
-*[Ori Nizan](https://onr.github.io/), [Ayellet Tal](https://webee.technion.ac.il/~ayellet/).*<br>
-
 ### AAAI 2020 
 [[accepted paper list](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)]
 
@@ -146,6 +143,14 @@ Feedback and contributions are welcome!
 *Yiming Gao, Jiangqin Wu.*<br>
 
 ### Others 2020
+
+**DCMIT: Unsupervised Multi-Domain Multimodal Image-to-Image Translation with Explicit Domain-Constrained Disentanglement.**</br>
+*Weihao Xia, Yujiu Yang, Jing-Hao Xue.*</br>
+Neural Networks 2020. [[PDF](https://arxiv.org/abs/1911.00622)]
+
+**TUNIT: Rethinking the Truly Unsupervised Image-to-Image Translation.**<br>
+*Kyungjune Baek, Yunjey Choi, Youngjung Uh, Jaejun Yoo, Hyunjung Shim.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.05734)] [[Github](https://github.com/clovaai/tunit)]
 
 **Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals.**<br>
 *Siyuan Li, Semih Günel, Mirela Ostrek, Pavan Ramdya, Pascal Fua, Helge Rhodin.*<br>
