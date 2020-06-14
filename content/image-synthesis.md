@@ -75,6 +75,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpair or Misaligned Data
 
+**Unpaired Image Super-Resolution using Pseudo-Supervision.**<br>
+*Shunta Maeda.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11397)]
+
 **Domain Adaptation for Image Dehazing.**<br>
 *Yuanjie Shao, Lerenhan Li, Wenqi Ren, Changxin Gao, Nong Sang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04668)]
@@ -154,6 +158,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Project](http://people.e
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.com/mahmoudnafifi/Deep_White_Balance)]
 
 ### Misc
+
+**Deep unfolding network for image super-resolution.**<br>
+*[Kai Zhang](https://cszn.github.io/), Luc Van Gool, Radu Timofte.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/pdf/2003.10428.pdf)] [[Github](https://github.com/cszn/USRNet)]
 
 **Learning to Incorporate Structure Knowledge for Image Inpainting.**<br>
 *Jie Yang, Zhiquan Qi, Yong Shi.*<br>
