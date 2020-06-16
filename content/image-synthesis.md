@@ -614,6 +614,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
 
+**Pitfalls of the Gram Loss for Neural Texture Synthesis in Light of Deep Feature Histograms.**<br>
+*Eric Heitz, Kenneth Vanhoey, Thomas Chambon, Laurent Belcour.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07229)]
+
 **Co-occurrence Based Texture Synthesis.**<br>
 *Anna Darzi, Itai Lang, Ashutosh Taklikar, Hadar Averbuch-Elor, Shai Avidan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.08186)] [[Github](https://github.com/Ashu7397/coco_texture)]
@@ -690,6 +694,10 @@ arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 **Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
+
+**The DeepFake Detection Challenge Dataset.**<br>
+*Brian Dolhansky, Joanna Bitton, Ben Pflaum, Jikuo Lu, Russ Howes, Menglin Wang, Cristian Canton Ferrer.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07397)] [[Dataset](http://ai.facebook.com/)]
 
 **DeepFaceLab: A simple, flexible and extensible face swapping framework.**<br>
 *Ivan Petrov, Daiheng Gao, Nikolay Chervoniy, Kunlin Liu, Sugasa Marangonda, Chris Umé, Mr. Dpfks, Carl Shift Facenheim, Luis RP, Jian Jiang, Sheng Zhang, Pingyu Wu, Bo Zhou, Weiming Zhang.*<br>
