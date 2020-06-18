@@ -42,6 +42,12 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
+**Fine-grained Image-to-Image Transformation towards Visual Recognition.** [[PDF](https://arxiv.org/abs/2001.03856)] <br>
+*Wei Xiong, Yutong He, Yixuan Zhang, Wenhan Luo, Lin Ma, Jiebo Luo.*<br>
+
+**RL-CycleGAN: Reinforcement Learning Aware Simulation-To-Real.** [[PDF](https://arxiv.org/abs/2006.09001)] <br>
+*Kanishka Rao, Chris Harris, Alex Irpan, Sergey Levine, Julian Ibarz, Mohi Khansari.*<br>
+
 **CouncilGAN: Breaking The Cycle: Colleagues Are All You Need.**[[PDF](https://arxiv.org/abs/1911.10538)][[Project](https://onr.github.io/Council_web/)][[Github](https://github.com/Onr/Council-GAN)]<br>
 *[Ori Nizan](https://onr.github.io/), [Ayellet Tal](https://webee.technion.ac.il/~ayellet/).*<br>
 
