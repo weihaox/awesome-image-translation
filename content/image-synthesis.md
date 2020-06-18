@@ -159,7 +159,15 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
-**Deep unfolding network for image super-resolution.**<br>
+**Burst Photography for Learning to Enhance Extremely Dark Images.**<br>
+*Ahmet Serdar Karadeniz, Erkut Erdem, Aykut Erdem.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09845)]
+
+**Structured and Localized Image Restoration.**<br>
+*Thomas Eboli, Alex Nowak-Vila, Jian Sun, Francis Bach, Jean Ponce, Alessandro Rudi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09261)]
+
+**USRNet: Deep Unfolding Network for Image Super-Resolution.**<br>
 *[Kai Zhang](https://cszn.github.io/), Luc Van Gool, Radu Timofte.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/pdf/2003.10428.pdf)] [[Github](https://github.com/cszn/USRNet)]
 
@@ -430,6 +438,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.00809)] [[Github](https://github.c
 
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
 
+**Sketch-Guided Scenery Image Outpainting.**<br> 
+*Yaxiong Wang, Yunchao Wei, Xueming Qian, Li Zhu, Yi Yang.*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09788)]
+
+**3D Shape Reconstruction from Free-Hand Sketches.**<br> 
+*Jiayun Wang, Jierui Lin, Qian Yu, Runtao Liu, Yubei Chen, Stella X. Yu.*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09694)]
+
 **DeepFaceDrawing: Deep Generation of Face Images from Sketches.**<br> 
 *[Shu-Yu Chen](http://people.geometrylearning.com/csy/), [Wanchao Su](https://www.scm.cityu.edu.hk/doctoral-researcher/wanchaosu2-c), Lin Gao, Shihong Xia, Hongbo Fu.*<br> 
 Siggraph 2020. [[PDF](https://arxiv.org/abs/2006.01047)] [[Project](http://www.geometrylearning.com/DeepFaceDrawing/)]
@@ -437,6 +453,10 @@ Siggraph 2020. [[PDF](https://arxiv.org/abs/2006.01047)] [[Project](http://www.g
 **Synthesizing Human-Like Sketches From Natural Images Using A Conditional Convolutional Decoder.**<br> 
 *Moritz Kampelmühler, Axel Pinz.*<br> 
 WACV 2020. [[PDF](https://kampelmuehler.github.io/files/synthesizing_human_like_sketches.pdf)] [[Github](https://github.com/kampelmuehler/synthesizing_human_like_sketches)] [[Project](https://kampelmuehler.github.io/publications/synthesizing_human_like_sketches)]
+
+**Unsupervised Sketch-to-Photo Synthesis.**<br>
+*Runtao Liu, Qian Yu, Stella Yu.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1909.08313)] [[Github](https://github.com/rt219/Unpaired-Sketch-to-Photo-Translation)]
 
 **APDrawingGAN: Generating Artistic Portrait Drawings From Face Photos With Hierarchical GANs.**<br> 
 *Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul L. Rosin.*<br> 
