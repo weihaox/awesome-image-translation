@@ -42,6 +42,9 @@ Feedback and contributions are welcome!
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
+**Diverse Image Generation via Self-Conditioned GANs.**.[[PDF](https://arxiv.org/abs/2006.10728)] [[Project](http://selfcondgan.csail.mit.edu/)] [[Github](https://github.com/stevliu/self-conditioned-gan)] <br>
+*Steven Liu, Tongzhou Wang, David Bau, Jun-Yan Zhu, Antonio Torralba.*<br>
+
 **Fine-grained Image-to-Image Transformation towards Visual Recognition.** [[PDF](https://arxiv.org/abs/2001.03856)] <br>
 *Wei Xiong, Yutong He, Yixuan Zhang, Wenhan Luo, Lin Ma, Jiebo Luo.*<br>
 

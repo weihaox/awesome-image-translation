@@ -438,6 +438,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.00809)] [[Github](https://github.c
 
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
 
+**Multi-Density Sketch-to-Image Translation Network.**<br> 
+*Jialu Huang, Jing Liao, Zhifeng Tan, Sam Kwong.*<br> 
+2020. [[PDF](https://arxiv.org/pdf/2006.10649)]
+
 **Sketch-Guided Scenery Image Outpainting.**<br> 
 *Yaxiong Wang, Yunchao Wei, Xueming Qian, Li Zhu, Yi Yang.*<br> 
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09788)]
@@ -519,6 +523,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
 ## Diving Deep into Image Synthesis
 
 ### Interpreting the Latent Space of Pretrained Models (GAN Inversion)
+
+**Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
+*Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10132)]
 
 **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
@@ -633,6 +641,14 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
+*[Matthew Tancik](http://matthewtancik.com/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Jonathan T. Barron](https://jonbarron.info/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)] [[Github](https://github.com/tancik/fourier-feature-networks)]
+
+**Sky Optimization: Semantically Aware Image Processing of Skies in Low-Light Photography.**<br>
+*Orly Liba, Longqi Cai, Yun-Ta Tsai, Elad Eban, Yair Movshovitz-Attias, Yael Pritch, Huizhong Chen, [Jonathan T. Barron](https://jonbarron.info/).*<br>
+CVPR Workshop 2020. [[PDF](https://arxiv.org/abs/2006.10172)]
 
 **Pitfalls of the Gram Loss for Neural Texture Synthesis in Light of Deep Feature Histograms.**<br>
 *Eric Heitz, Kenneth Vanhoey, Thomas Chambon, Laurent Belcour.*<br>

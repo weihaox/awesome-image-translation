@@ -26,6 +26,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Interactive and Controllable Image Manipulation
 
+**Neural Graphics Pipeline for Controllable Image Generation.**<br>
+*Xuelin Chen, Daniel Cohen-Or, Baoquan Chen, Niloy J. Mitra.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10569)]
+
 **CONFIG: Controllable Neural Face Image Generation.**<br>
 *Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.02671)]

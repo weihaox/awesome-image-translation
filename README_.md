@@ -68,6 +68,16 @@ arxiv, 25 Mar 2019. [[PDF](https://arxiv.org/abs/1903.10146)] [[Github](https://
 
 ## Unsupervised
 
+### Truly Unsupervised
+
+**Diverse Image Generation via Self-Conditioned GANs.**. <br>
+*Steven Liu, Tongzhou Wang, David Bau, Jun-Yan Zhu, Antonio Torralba.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.10728)] [[Project](http://selfcondgan.csail.mit.edu/)] [[Github](https://github.com/stevliu/self-conditioned-gan)]
+
+**TUNIT: Rethinking the Truly Unsupervised Image-to-Image Translation.**<br>
+*Kyungjune Baek, Yunjey Choi, Youngjung Uh, Jaejun Yoo, Hyunjung Shim.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.05734)] [[Github](https://github.com/clovaai/tunit)]
+
 ### General
 
 **CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.**<br>
