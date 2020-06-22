@@ -153,6 +153,10 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**MatchGAN: A Self-Supervised Semi-Supervised Conditional Generative Adversarial Network.**</br>
+*Jiaze Sun, Binod Bhattarai, Tae-Kyun Kim.*</br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06614)] [[Github](https://github.com/justin941208/MatchGAN)]
+
 **DCMIT: Unsupervised Multi-Domain Multimodal Image-to-Image Translation with Explicit Domain-Constrained Disentanglement.**</br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue.*</br>
 Neural Networks 2020. [[PDF](https://arxiv.org/abs/1911.00622)]
