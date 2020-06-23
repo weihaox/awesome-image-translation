@@ -24,7 +24,20 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Gaze Estimation](#gaze-estimation)
   * [Eye Tracking](#eye-tracking)
 
+## Image Sentiment Transfer
+**Image Sentiment Transfer.**<br>
+*Tianlang Chen, Wei Xiong, Haitian Zheng, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11337)]
+
+**Global Image Sentiment Transfer.**<br>
+*Jie An, Tianlang Chen, Songyang Zhang, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11989)]
+
 ## Interactive and Controllable Image Manipulation
+
+**Facial Expression Editing with Continuous Emotion Labels.**<br>
+*Alexandra Lindt, Pablo Barros, Henrique Siqueira, Stefan Wermter.*<br>
+FG 2019. [[PDF](https://arxiv.org/abs/2006.12210)]
 
 **Neural Graphics Pipeline for Controllable Image Generation.**<br>
 *Xuelin Chen, Daniel Cohen-Or, Baoquan Chen, Niloy J. Mitra.*<br>

@@ -871,6 +871,11 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2002.01048)]
 SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)]
 
 ### Attribute Editing
+
+**Facial Expression Editing with Continuous Emotion Labels.**<br>
+*Alexandra Lindt, Pablo Barros, Henrique Siqueira, Stefan Wermter.*<br>
+FG 2019. [[PDF](https://arxiv.org/abs/2006.12210)]
+
 **Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
 *Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]

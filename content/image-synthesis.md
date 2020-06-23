@@ -378,6 +378,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ST
 
 ## Frame Interpolation, Extrapolation and Videos Generation
 
+**Hierarchical Patch VAE-GAN: Generating Diverse Videos from a Single Sample.**<br>
+*Shir Gur, Sagie Benaim, Lior Wolf.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)]
+
 **Extrapolative-Interpolative Cycle-Consistency Learning for Video Frame Extrapolation.**<br>
 *Sangjin Lee, Hyeongmin Lee, Taeoh Kim, Sangyoun Lee.*<br>
 ICIP 2020. [[PDF](https://arxiv.org/abs/2005.13194)]
