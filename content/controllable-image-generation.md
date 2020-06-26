@@ -35,6 +35,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11989)]
 
 ## Interactive and Controllable Image Manipulation
 
+**Attentive Normalization for Conditional Image Generation.**<br>
+*Yi Wang, Ying-Cong Chen, Xiangyu Zhang, Jian Sun, Jiaya Jia.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03828)]
+
+**Diverse Image Generation via Self-Conditioned GANs.**<br>
+*Steven Liu, Tongzhou Wang, David Bau, Jun-Yan Zhu, Antonio Torralba.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.10728)] [[Project](http://selfcondgan.csail.mit.edu/)] [[Github](https://github.com/stevliu/self-conditioned-gan)] 
+
 **Facial Expression Editing with Continuous Emotion Labels.**<br>
 *Alexandra Lindt, Pablo Barros, Henrique Siqueira, Stefan Wermter.*<br>
 FG 2019. [[PDF](https://arxiv.org/abs/2006.12210)]
