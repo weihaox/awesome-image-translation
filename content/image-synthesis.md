@@ -159,6 +159,18 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**Hierarchical Patch VAE-GAN (HP-VAE-GAN): Generating Diverse Videos from a Single Sample.**<br>
+*[Shir Gur](http://www.gurshir.com/), [Sagie Benaim](https://sagiebenaim.github.io/), [Lior Wolf](http://www.cs.tau.ac.il/~wolf/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)] [[Project](https://shirgur.github.io/hp-vae-gan/)] [[Github](https://github.com/shirgur/hp-vae-gan)]
+
+**Sigma-VAE: Simple and Effective VAE Training with Calibrated Decoders.**<br>
+*[Oleh Rybkin](https://www.seas.upenn.edu/~oleh/), [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/), [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.13202)] [[Project](https://orybkin.github.io/sigma-vae/)] [[Github](https://github.com/orybkin/sigma-vae)]
+
+**SRFlow: Learning the Super-Resolution Space with Normalizing Flow.**<br>
+*Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.14200)]
+
 **Burst Photography for Learning to Enhance Extremely Dark Images.**<br>
 *Ahmet Serdar Karadeniz, Erkut Erdem, Aykut Erdem.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09845)]
@@ -646,9 +658,13 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
 
+**Empirical Analysis of Overfitting and Mode Drop in GAN Training.**<br>
+*Yasin Yazici, Chuan-Sheng Foo, Stefan Winkler, Kim-Hui Yap, Vijay Chandrasekhar.*<br>
+ICIP 2020. [[PDF](https://arxiv.org/abs/2006.14265)]
+
 **Implicit Neural Representations with Periodic Activation Functions.**<br>
 *[Vincent Sitzmann](https://vsitzmann.github.io), Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09661)] [[Project](https://vsitzmann.github.io/siren/)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09661)] [[Project](https://vsitzmann.github.io/siren/)] [[Github](https://github.com/vsitzmann/siren)]
 
 **Rethinking Semi-Supervised Learning in VAEs.**<br>
 *Tom Joy, Sebastian M. Schmon, Philip H. S. Torr, N. Siddharth, Tom Rainforth.*<br>
