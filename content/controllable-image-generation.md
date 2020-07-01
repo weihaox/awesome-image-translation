@@ -35,6 +35,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11989)]
 
 ## Interactive and Controllable Image Manipulation
 
+**High-Resolution Neural Face Swapping for Visual Effects.**<br>
+*Jacek Naruniec, Leonhard Helminger, Christopher Schroers, Romann M. Weber.*<br>
+Eurographics Symposium on Rendering 2020. [[PDF](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf)] [[Project](http://studios.disneyresearch.com/2020/06/29/high-resolution-neural-face-swapping-for-visual-effects/)]
+
 **Attentive Normalization for Conditional Image Generation.**<br>
 *Yi Wang, Ying-Cong Chen, Xiangyu Zhang, Jian Sun, Jiaya Jia.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03828)]

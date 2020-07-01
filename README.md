@@ -156,6 +156,10 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**Analogical Image Translation for Fog Generation.**</br>
+*Rui Gong, Dengxin Dai, Yuhua Chen, Wen Li, Luc Van Gool.*</br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15618)]
+
 **MatchGAN: A Self-Supervised Semi-Supervised Conditional Generative Adversarial Network.**</br>
 *Jiaze Sun, Binod Bhattarai, Tae-Kyun Kim.*</br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06614)] [[Github](https://github.com/justin941208/MatchGAN)]

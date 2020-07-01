@@ -159,6 +159,18 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network.**<br>
+*Boyun Li, Yuanbiao Gou, Shuhang Gu, Jerry Zitao Liu, Joey Tianyi Zhou, Xi Peng.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16829)]
+
+**Cross-Scale Internal Graph Neural Network for Image Super-Resolution.**<br>
+*Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16673)]
+
+**End-to-End Differentiable Learning to HDR Image Synthesis for Multi-exposure Images.**<br>
+*Jung Hee Kim, Siyeong Lee, Soyeon Jo, Suk-Ju Kang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15833)]
+
 **Hierarchical Patch VAE-GAN (HP-VAE-GAN): Generating Diverse Videos from a Single Sample.**<br>
 *[Shir Gur](http://www.gurshir.com/), [Sagie Benaim](https://sagiebenaim.github.io/), [Lior Wolf](http://www.cs.tau.ac.il/~wolf/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)] [[Project](https://shirgur.github.io/hp-vae-gan/)] [[Github](https://github.com/shirgur/hp-vae-gan)]
@@ -421,7 +433,6 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00830)]
 *[Huaizu Jiang](http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)] [[Github](https://github.com/avinashpaliwal/Super-SloMo)]
 
-
 ## Photorealistic Style Transfer
 
 **Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.**<br>
@@ -544,6 +555,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
 
 ### Interpreting the Latent Space of Pretrained Models (GAN Inversion)
 
+**When and How Can Deep Generative Models be Inverted?.**<br>
+*Aviad Aberdam, Dror Simon, Michael Elad.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15555)]
+
 **Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
 *Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10132)]
@@ -661,6 +676,39 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**High-Resolution Neural Face Swapping for Visual Effects.**<br>
+*Jacek Naruniec, Leonhard Helminger, Christopher Schroers, Romann M. Weber.*<br>
+Eurographics Symposium on Rendering 2020. [[PDF](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf)] [[Project](http://studios.disneyresearch.com/2020/06/29/high-resolution-neural-face-swapping-for-visual-effects/)]
+
+
+**PriorGAN: Real Data Prior for Generative Adversarial Nets.**<br>
+*Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16990)]
+
+**On Leveraging Pretrained GANs for Limited-Data Generation.**<br>
+*Miaoyun Zhao, Yulai Cong and Lawrence Carin.*<br>
+ICML 2020. [[PDF](https://arxiv.org/asb/2002.11810)] [[Github](https://github.com/MiaoyunZhao/GANTransferLimitedData)]
+
+**Learning Physical Graph Representations from Visual Scenes.**<br>
+*Daniel M. Bear, Chaofei Fan, Damian Mrowca, Yunzhu Li, Seth Alter, Aran Nayebi, Jeremy Schwartz, Li Fei-Fei, Jiajun Wu, Joshua B. Tenenbaum, Daniel L.K. Yamins.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12373)]
+
+**Learning Canonical Representations for Scene Graph to Image Generation.**<br>
+*[Roei Herzig](https://roeiherz.github.io/), [Amir Bar](http://www.amirbar.net/), [Huijuan Xu](https://cs-people.bu.edu/hxu/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Amir Globerson](http://www.cs.tau.ac.il/~gamir/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
+
+**Training Generative Adversarial Networks with Limited Data.**<br>
+*[Tero Karras](https://research.nvidia.com/person/tero-karras), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Samuli Laine, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06676v1)] [[Project](https://research.nvidia.com/publication/2020-06_Training-Generative-Adversarial)]
+
+**AlphaGAN: Fully Differentiable Architecture Search for Generative Adversarial Networks.**<br>
+*Yuesong Tian, Li Shen, Li Shen, Guinan Su, Zhifeng Li, Wei Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09134)] [[Github](https://github.com/yuesongtian/AlphaGAN)]
+
+**Self-Supervised MultiModal Versatile Networks.**<br>
+*Jean-Baptiste Alayrac, Adrià Recasens, Rosalia Schneider, Relja Arandjelović, Jason Ramapuram, Jeffrey De Fauw, Lucas Smaira, Sander Dieleman, Andrew Zisserman.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16228)]
 
 **Empirical Analysis of Overfitting and Mode Drop in GAN Training.**<br>
 *Yasin Yazici, Chuan-Sheng Foo, Stefan Winkler, Kim-Hui Yap, Vijay Chandrasekhar.*<br>
