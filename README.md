@@ -49,13 +49,37 @@ Feedback and contributions are welcome!
 **Cross-Domain Cascaded Deep Feature Translation.** [[PDF](https://arxiv.org/abs/1906.01526)]<br>
 *Oren Katzir, Dani Lischinski, Daniel Cohen-Or.*<br>
 
-**House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation.**<br>
 
+**Blind Face Restoration via Deep Multi-scale Component Dictionaries.**<br> 
+**PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br> 
+**Stacking Networks Dynamically for Image Restoration Based on the Plug-and-Play Framework.**<br>
+**LIRA: Lifelong Image Restoration from Unknown Blended Distortions.**<br> 
+**Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration.**<br> 
+**Microscopy Image Restoration with Deep Wiener-Kolmogorov filters.**<br>
+**Fully Trainable and Interpretable Non-Local Sparse Models for Image Restoration.**<br> 
+**Learning Enriched Features for Real Image Restoration and Enhancement.**<br> 
+**Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration.**<br> 
+**Low light video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping.**<br>
+**FHDe$^2$Net: Full High Definition Demoireing Network.**<br>
+
+**MatryODShka: Real-time 6DoF Video View Synthesis using Multi-Sphere Images.**<br> 
+**Synthesis and Completion of Facades from Satellite Imagery.**<br> 
+**Unsupervised Sketch-to-Photo Synthesis.**<br> 
+**Filter Style Transfer between Photos.**<br> 
+**In-Domain GAN Inversion for Real Image Editing.**<br>
+**AE-OT-GAN: Training GANs from data specific latent distribution.**<br>
+
+**3D Fluid Flow Reconstruction Using Compact Light Field PIV.**<br>
 **Learning Gradient Fields for Shape Generation.**<br>
+
+**Face Anti-Spoofing with Human Material Perception.**<br>
+
+**Face Super-Resolution Guided by 3D Facial Priors.**<br>  
+**House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation.**<br>
 **Neural Design Network: Graphic Layout Generation with Constraints.**<br>
 **DTVNet: Dynamic Time-lapse Video Generation via Single Still Image.**<br>
 **Talking-head Generation with Rhythmic Head Motion.**<br>
-**Contrastive Learning for Conditional Image Generation .**<br>
+**Contrastive Learning for Conditional Image Generation.**<br>
 **CONFIG: Controllable Neural Face Image Generation.**<br>
 **Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation.**<br>
 **Bridging the Sim-to-Real Gap: Unsupervised Learning of Scene Structure for Synthetic Data Generation.**<br>
@@ -76,47 +100,33 @@ Feedback and contributions are welcome!
 **Structure-Aware Human-Action Generation.**<br>
 **Learning Flow-based Feature Warping for Face Frontalization with Illumination Inconsistent Supervision.**<br>  
 
-**Blind Face Restoration via Deep Multi-scale Component Dictionaries.**<br> 
-**PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br> 
-**Stacking Networks Dynamically for Image Restoration Based on the Plug-and-Play Framework.**<br>
-**LIRA: Lifelong Image Restoration from Unknown Blended Distortions.**<br> 
-**Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration.**<br> 
-**Microscopy Image Restoration with Deep Wiener-Kolmogorov filters  Poster
-**Fully Trainable and Interpretable Non-Local Sparse Models for Image Restoration.**<br> 
-**Learning Enriched Features for Real Image Restoration and Enhancement.**<br> 
-**Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration.**<br> 
-
-
-**MatryODShka: Real-time 6DoF Video View Synthesis using Multi-Sphere Images.**<br> 
-**Synthesis and Completion of Facades from Satellite Imagery.**<br> 
-**Unsupervised Sketch-to-Photo Synthesis.**<br> 
-
 **Rotationally-Temporally Consistent Novel-View Synthesis of Human Performance Video.**<br> 
+**AUTO3D: Novel view synthesis through unsupervised-learned variational viewpoints and global 3D representation.**<br> 
+**Semantic View Synthesis.**<br> 
+**A Recurrent Transformer Network for Novel View Action Synthesis.**<br> 
+**Novel View Synthesis on Unpaired Data by Conditional Deformable Variational Auto-Encoder.**<br> 
+**Deep Novel View Synthesis from Unstructured Input.**<br>
+**Bridging the Sim-to-Real Gap: Unsupervised Learning of Scene Structure for Synthetic Data Generation.**<br>
+**Towards Causal Benchmarking of Algorithm Bias with Counterfactual Synthesis.**<br>
+**High-Fidelity Synthesis with Disentangled Representation.**<br> 
+
 **CPGAN: Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis.**<br> 
+
 **Controlling semantics and style in conditional image synthesis.**<br> 
+**Example-Guided Image Synthesis across Arbitrary Scenes using Masked Spatial-Channel Attention and Self-Supervision.**<br>
+**Deep Multi Depth Panoramas for View Synthesis.**<br>
+
 **Lifespan Age Transformation Synthesis.**<br> 
 **Synthesizing Content Consistent Vehicle Datasets with Attribute Descent.**<br> 
 **Controllable Image Synthesis via SegVAE.**<br> 
 **RetrieveGAN: Image Synthesis via Differentiable Patch Retrieval.**<br> 
 **World-Consistent Video-to-Video Synthesis.**<br> 
-**AUTO3D: Novel view synthesis through unsupervised-learned variational viewpoints and global 3D representation.**<br> 
 **Hierarchical Style-based Networks for Motion Synthesis.**<br> 
 **Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars.**<br> 
-**Semantic View Synthesis.**<br> 
-**Low light video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping Poster
-**JSSR: Joint Synthesis Segmentation and Registration System for 3D Multi-Model Image Analysis  Poster
-**Deep Multi Depth Panoramas for View Synthesis Poster
-**Example-Guided Image Synthesis across Arbitrary Scenes using Masked Spatial-Channel Attention and Self-Supervision  Poster
-**Bridging the Sim-to-Real Gap: Unsupervised Learning of Scene Structure for Synthetic Data Generation  Poster
-**Towards Causal Benchmarking of Algorithm Bias with Counterfactual Synthesis Poster
-**Deep Novel View Synthesis from Unstructured Input Poster
-**Category Level Object Pose Estimation via Neural Analysis-by-Synthesis.**<br> 
-**High-Fidelity Synthesis with Disentangled Representation.**<br> 
-**A Recurrent Transformer Network for Novel View Action Synthesis.**<br> 
-**Novel View Synthesis on Unpaired Data by Conditional Deformable Variational Auto-Encoder.**<br> 
+**JSSR: Joint Synthesis Segmentation and Registration System for 3D Multi-Model Image Analysis.**<br>
+
 **High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images.**<br> 
 **Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks.**<br> 
-**$S^3$Net: Semantic-Aware Self-Supervised Depth Estimation with Monocular Videos and Synthetic.**<br> 
 
 **XingGAN for Person Image Generation.**[[Github](https://github.com/Ha0Tang/XingGAN)]<br>
 *[Hao Tang](http://disi.unitn.it/~hao.tang/), Song Bai, Li Zhang, Philip H. S. Torr, Nicu Sebe.*<br>
