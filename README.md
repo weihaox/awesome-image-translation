@@ -13,6 +13,7 @@ Feedback and contributions are welcome!
 
 ## Table of Contents
 - [Year 2020](#year-2020)
+  * [ECCV 2020](#eccv-2020)
   * [ACM MM and SIGGRAPH 2020](#acm-mm-and-siggraph-2020)
   * [CVPR 2020](#cvpr-2020)
   * [AAAI 2020](#aaai-2020)
@@ -29,6 +30,102 @@ Feedback and contributions are welcome!
 - [Before 2018](#before-2018)
 
 ## Year 2020
+
+### ECCV 2020
+[[accepted paper list](https://eccv2020.eu/accepted-papers/)]
+
+**Semantic Relation Preserving Knowledge Distillation for Image-to-Image Translation.**<br>
+
+**A Simple and Versatile Framework for Image-to-Image Translation.**<br>
+
+**Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder.**<br>  
+
+**Unpaired Image-to-Image Translation using Adversarial Consistency Loss.**<br>  
+
+**Informative Sample Mining Network for Multi-Domain Image-to-Image Translation.**<br>
+
+**Transformation Consistency Regularization - A Semi-Supervised Paradigm for Image-to-Image Translation.**<br>
+
+**Cross-Domain Cascaded Deep Feature Translation.** [[PDF](https://arxiv.org/abs/1906.01526)]<br>
+*Oren Katzir, Dani Lischinski, Daniel Cohen-Or.*<br>
+
+**House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation.**<br>
+
+**Learning Gradient Fields for Shape Generation.**<br>
+**Neural Design Network: Graphic Layout Generation with Constraints.**<br>
+**DTVNet: Dynamic Time-lapse Video Generation via Single Still Image.**<br>
+**Talking-head Generation with Rhythmic Head Motion.**<br>
+**Contrastive Learning for Conditional Image Generation .**<br>
+**CONFIG: Controllable Neural Face Image Generation.**<br>
+**Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation.**<br>
+**Bridging the Sim-to-Real Gap: Unsupervised Learning of Scene Structure for Synthetic Data Generation.**<br>
+**Modeling Artistic Workflows for Image Generation and Editing.**<br>
+**GAN-based Garment Generation Using Sewing Pattern Images.**<br>
+**Few-shot Compositional Font Generation with Dual Memory.**<br>
+**Incorporating Reinforced Adversarial Learning in Autoregressive Image Generation.**<br>
+**Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation.**<br>
+**MEAD: A Large-scale Audio-visual Dataset for Emotional Talking Face Generation.**<br>
+**AutoSimulate: (Quickly) Learning Synthetic Data Generation.**<br>
+**GANwriting: Content-Conditioned Generation of Styled Handwritten Word Images.**<br>
+**Learning Visual Commonsense for Robust Scene Graph Generation.**<br>
+**Learning Canonical Representations for Scene Graph to Image Generation.**<br>
+**OneGAN: Simultaneous Unsupervised Learning of Conditional Image Generation, Foreground Segmentation, and Fine-Grained Clustering.**<br>
+**Structure-Aware Generation Network for Recipe Generation from Images.**<br>
+**Boundary Content Graph Neural Network for Temporal Action Proposal Generation.**<br>
+**Visual-Relation Conscious Image Generation from Structured-Text.**<br>
+**Structure-Aware Human-Action Generation.**<br>
+**Learning Flow-based Feature Warping for Face Frontalization with Illumination Inconsistent Supervision.**<br>  
+
+**Blind Face Restoration via Deep Multi-scale Component Dictionaries.**<br> 
+**PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br> 
+**Stacking Networks Dynamically for Image Restoration Based on the Plug-and-Play Framework.**<br>
+**LIRA: Lifelong Image Restoration from Unknown Blended Distortions.**<br> 
+**Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration.**<br> 
+**Microscopy Image Restoration with Deep Wiener-Kolmogorov filters  Poster
+**Fully Trainable and Interpretable Non-Local Sparse Models for Image Restoration.**<br> 
+**Learning Enriched Features for Real Image Restoration and Enhancement.**<br> 
+**Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration.**<br> 
+
+
+**MatryODShka: Real-time 6DoF Video View Synthesis using Multi-Sphere Images.**<br> 
+**Synthesis and Completion of Facades from Satellite Imagery.**<br> 
+**Unsupervised Sketch-to-Photo Synthesis.**<br> 
+
+**Rotationally-Temporally Consistent Novel-View Synthesis of Human Performance Video.**<br> 
+**CPGAN: Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis.**<br> 
+**Controlling semantics and style in conditional image synthesis.**<br> 
+**Lifespan Age Transformation Synthesis.**<br> 
+**Synthesizing Content Consistent Vehicle Datasets with Attribute Descent.**<br> 
+**Controllable Image Synthesis via SegVAE.**<br> 
+**RetrieveGAN: Image Synthesis via Differentiable Patch Retrieval.**<br> 
+**World-Consistent Video-to-Video Synthesis.**<br> 
+**AUTO3D: Novel view synthesis through unsupervised-learned variational viewpoints and global 3D representation.**<br> 
+**Hierarchical Style-based Networks for Motion Synthesis.**<br> 
+**Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars.**<br> 
+**Semantic View Synthesis.**<br> 
+**Low light video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping Poster
+**JSSR: Joint Synthesis Segmentation and Registration System for 3D Multi-Model Image Analysis  Poster
+**Deep Multi Depth Panoramas for View Synthesis Poster
+**Example-Guided Image Synthesis across Arbitrary Scenes using Masked Spatial-Channel Attention and Self-Supervision  Poster
+**Bridging the Sim-to-Real Gap: Unsupervised Learning of Scene Structure for Synthetic Data Generation  Poster
+**Towards Causal Benchmarking of Algorithm Bias with Counterfactual Synthesis Poster
+**Deep Novel View Synthesis from Unstructured Input Poster
+**Category Level Object Pose Estimation via Neural Analysis-by-Synthesis.**<br> 
+**High-Fidelity Synthesis with Disentangled Representation.**<br> 
+**A Recurrent Transformer Network for Novel View Action Synthesis.**<br> 
+**Novel View Synthesis on Unpaired Data by Conditional Deformable Variational Auto-Encoder.**<br> 
+**High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images.**<br> 
+**Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks.**<br> 
+**$S^3$Net: Semantic-Aware Self-Supervised Depth Estimation with Monocular Videos and Synthetic.**<br> 
+
+**XingGAN for Person Image Generation.**[[Github](https://github.com/Ha0Tang/XingGAN)]<br>
+*[Hao Tang](http://disi.unitn.it/~hao.tang/), Song Bai, Li Zhang, Philip H. S. Torr, Nicu Sebe.*<br>
+
+**GANHopper: Multi-Hop GAN for Unsupervised Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2002.10102)]<br>
+*Wallace Lira, Johannes Merz, Daniel Ritchie, Daniel Cohen-Or, Hao Zhang.*<br>
+
+**TuiGAN: Learning Versatile Image-to-Image Translation with Two Unpaired Images.**[[PDF](https://arxiv.org/abs/2004.04634)] [[Github](https://github.com/linjx-ustc1106/TuiGAN-PyTorch)]<br>
+*Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
 
 ### ACM MM and SIGGRAPH 2020
 [[SIGGRAPH 2020 Papers On The Web](https://kesen.realtimerendering.com/sig2020.html)]
@@ -156,6 +253,10 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**Future Urban Scenes Generation Through Vehicles Synthesis.**</br>
+*Alessandro Simoni, Luca Bergamini, Andrea Palazzi, Simone Calderara, Rita Cucchiara.*</br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.00323)]
+
 **Analogical Image Translation for Fog Generation.**</br>
 *Rui Gong, Dengxin Dai, Yuhua Chen, Wen Li, Luc Van Gool.*</br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15618)]
@@ -187,10 +288,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2005.10663)]
 **Identity-Preserving Realistic Talking Face Generation.**<br>
 *Sanjana Sinha, Sandika Biswas, Brojeshwar Bhowmick.*<br>
 IJCNN 2020. [[PDF](https://arxiv.org/abs/2005.12318)]
-
-**TuiGAN: Learning Versatile Image-to-Image Translation with Two Unpaired Images.**<br>
-*Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)] [[Github](https://github.com/linjx-ustc1106/TuiGAN-PyTorch)]
 
 **CLADE: Rethinking Spatially-Adaptive Normalization.**<br>
 *Zhentao Tan, Dongdong Chen, Qi Chu, [Menglei Chai](https://mlchai.com/), Jing Liao, Mingming He, Lu Yuan, Nenghai Yu.*<br>

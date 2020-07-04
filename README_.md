@@ -691,7 +691,7 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1807.10550)] [[Github](https://github.co
 
 **GANHopper: Multi-Hop GAN for Unsupervised Image-to-Image Translation.**<br>
 *Wallace Lira, Johannes Merz, Daniel Ritchie, Daniel Cohen-Or, Hao Zhang.*<br>
-arxiv, 24 Feb 2020, [[PDF](https://arxiv.org/abs/2002.10102)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2002.10102)]
 
 **Homomorphic Latent Space Interpolation for Unpaired Image-To-Image Translation.**<br>
 *[Ying-Cong Chen](https://yingcong.github.io/), Xiaogang Xu, Zhuotao Tian, Jiaya Jia.*<br>

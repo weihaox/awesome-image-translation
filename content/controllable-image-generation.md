@@ -3,7 +3,8 @@
 This repository is about *Controllable and Interpretable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
 
 ## Table of Contents
-- [Individual Object Manipulation](#individual-object-manipulate)
+- [Interactive and Controllable Image Manipulation](#interactive-and-controllable-image-manipulation)
+- [Individual Object Manipulation](#individual-object-manipulation)
 - [Guided Image-to-image translation](#guided-image-to-image-translation)
 - [Image-Based Virtual Try-On](#image-based-virtual-try-on)
 - [Attribute Editing and Makeup Transfer](#attribute-editing-and-makeup-transfer)
@@ -11,29 +12,22 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 - [Novel-View Synthesis](#novel-view-synthesis)
 - [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
 - [3D Pose Transfer](#3d-pose-transfer)
-- [Multi-Modality Translation](#multi-modality-translation)
-  * [Image-to-Voice](#image-to-voice)
-  * [Voice-to-Voice](#voice-to-voice)
-  * [Text-to-Image](#text-to-image)
-  * [Voice-to-Image](#voice-to-image)
-  * [speech-to-Text](#speech-to-text)
-  * [Text-to-speech](#text-to-speech)
+- [Grounded Image Captioning](#grounded-image-captioning)
+- [Pose and Music](#pose-and-music)
+- [Multi-Modality Translations](#multi-modality-translations)
+- [Automatic Human-Centric Application](#automatic-human-centric-application)
+- [Image Sentiment Transfer](#image-sentiment-transfer)
 - [Gaze Estimation, Tracking, Redirection, Correction and Blink Detection](#gaze-estimation--tracking--redirection--correction-and-blink-detection)
-  * [Gaze Dataset](#gaze-dataset)
-  * [Gaze Redirection and Correction](#gaze-redirection-and-correction)
-  * [Gaze Estimation](#gaze-estimation)
-  * [Eye Tracking](#eye-tracking)
-
-## Image Sentiment Transfer
-**Image Sentiment Transfer.**<br>
-*Tianlang Chen, Wei Xiong, Haitian Zheng, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11337)]
-
-**Global Image Sentiment Transfer.**<br>
-*Jie An, Tianlang Chen, Songyang Zhang, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11989)]
 
 ## Interactive and Controllable Image Manipulation
+
+**XingGAN for Person Image Generation.**<br>
+*[Hao Tang](http://disi.unitn.it/~hao.tang/), Song Bai, Li Zhang, Philip H. S. Torr, Nicu Sebe.*<br>
+ECCV 2020.  [[Github](https://github.com/Ha0Tang/XingGAN)]
+
+**DEEPSim: Deep Single Image Manipulation.**<br>
+*[Yael Vinker](https://www.linkedin.com/in/yael-vinker-a91a00157/), [Eliahu Horwitz](https://www.linkedin.com/in/eliahu-horwitz), [Nir Zabari](), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01289)] [[Project](http://www.vision.huji.ac.il/deepsim/)] [[Github](https://github.com/eliahuhorwitz/DeepSIM)]
 
 **High-Resolution Neural Face Swapping for Visual Effects.**<br>
 *Jacek Naruniec, Leonhard Helminger, Christopher Schroers, Romann M. Weber.*<br>
@@ -87,15 +81,31 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0
 *Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*<br>
 SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
 
-## Automatic Human-Centric Application
-
-**Zoom in to the details of human-centric videos.**<br>
-*Guanghan Li, Yaping Zhao, Mengqi Ji, Xiaoyun Yuan, Lu Fang.*<br>
-ICIP 2020. [[PDF](https://arxiv.org/abs/2005.13222)]
-
 ## Individual Object Manipulation
 
-*Individual Object Manipulation* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#individual-object-manipulate).
+**Self-Supervised Scene De-occlusion.**<br>
+*[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
+
+**3DLSN: End-to-End Optimization of Scene Layout.**<br>
+*Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
+CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
+
+**DJRN: Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
+*Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
+
+**Learning to Manipulate Individual Objects in an Image.**<br>
+*Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
+
+**AutoSweep: Recovering 3D Editable Objectsfrom a Single Photograph.**<br>
+*Xin Chen, Yuwei Li, Xi Luo, Tianjia Shao, Jingyi Yu, Kun Zhou, Youyi Zheng.*<br>
+IVCJ 2018. [[PDF](https://arxiv.org/abs/2005.13312)] [[Project](https://chenxin.tech/files/Paper/TVCG2018_AutoSweep/AutoSweep.html)]
+
+**Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition.**<br>
+*Hassan Abu Alhaija, Siva Karthik Mustikovela, Justus Thies, Matthias Nießner, Andreas Geiger, Carsten Rother.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16011)]
 
 **Conditional Image Generation and Manipulation for User-Specified Content.**<br>
 *David Stap, Maurits Bleeker, Sarah Ibrahimi, Maartje ter Hoeve.*<br>
@@ -288,6 +298,22 @@ arxiv, 15 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.06573v1.pdf)]
 **Using VAEs and Normalizing Flows for One-shot Text-To-Speech Synthesis of Expressive Speech.**<br>
 *Vatsal Aggarwal, Marius Cotescu, Nishant Prateek, Jaime Lorenzo-Trueba, Roberto Barra-Chicote.*<br>
 arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)] 
+
+## Automatic Human-Centric Application
+
+**Zoom in to the details of human-centric videos.**<br>
+*Guanghan Li, Yaping Zhao, Mengqi Ji, Xiaoyun Yuan, Lu Fang.*<br>
+ICIP 2020. [[PDF](https://arxiv.org/abs/2005.13222)]
+
+## Image Sentiment Transfer
+
+**Image Sentiment Transfer.**<br>
+*Tianlang Chen, Wei Xiong, Haitian Zheng, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11337)]
+
+**Global Image Sentiment Transfer.**<br>
+*Jie An, Tianlang Chen, Songyang Zhang, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11989)]
 
 ## Gaze Estimation, Tracking, Redirection, Correction and Blink Detection
 

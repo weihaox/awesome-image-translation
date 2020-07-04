@@ -12,6 +12,7 @@
 - [Frame Interpolation, Extrapolation and Videos Generation](#frame-interpolation--extrapolation-and-videos-generation)
 - [Photorealistic Style Transfer](#photorealistic-style-transfer)
 - [Soft Segmentation and Background Matting](#soft-segmentation-and-background-matting)
+- [Image Harmonization](#image-harmonization)
 - [Free-Hand Sketch](#free-hand-sketch)
 - [Reciprocal Computer Vision Tasks](#reciprocal-computer-vision-tasks)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
@@ -105,7 +106,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00589)]
 
 **Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
 *Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
 
 **Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution.**<br>
 *Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan.*<br>
@@ -677,10 +678,17 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
 
+**Unsupervised Landmark Learning from Unpaired Data.**<br>
+*Yinghao Xu, Ceyuan Yang, Ziwei Liu, Bo Dai, Bolei Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01053)]
+
+**RELATE: Physically Plausible Multi-Object Scene Synthesis Using Structured Latent Spaces.**<br>
+*Sebastien Ehrhardt, Oliver Groth, Aron Monszpart, Martin Engelcke, Ingmar Posner, Niloy Mitra, Andrea Vedaldi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01272)]
+
 **High-Resolution Neural Face Swapping for Visual Effects.**<br>
 *Jacek Naruniec, Leonhard Helminger, Christopher Schroers, Romann M. Weber.*<br>
 Eurographics Symposium on Rendering 2020. [[PDF](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf)] [[Project](http://studios.disneyresearch.com/2020/06/29/high-resolution-neural-face-swapping-for-visual-effects/)]
-
 
 **PriorGAN: Real Data Prior for Generative Adversarial Nets.**<br>
 *Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
