@@ -49,6 +49,7 @@ Feedback and contributions are welcome!
 **Cross-Domain Cascaded Deep Feature Translation.** [[PDF](https://arxiv.org/abs/1906.01526)]<br>
 *Oren Katzir, Dani Lischinski, Daniel Cohen-Or.*<br>
 
+**BLSM: A Bone-Level Skinned Model of the Human Mesh.**<br> 
 
 **Blind Face Restoration via Deep Multi-scale Component Dictionaries.**<br> 
 **PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br> 
@@ -64,7 +65,11 @@ Feedback and contributions are welcome!
 
 **MatryODShka: Real-time 6DoF Video View Synthesis using Multi-Sphere Images.**<br> 
 **Synthesis and Completion of Facades from Satellite Imagery.**<br> 
+
 **Unsupervised Sketch-to-Photo Synthesis.**<br> 
+*Runtao Liu, Qian Yu, Stella Yu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1909.08313)] [[Github](https://github.com/rt219/Unpaired-Sketch-to-Photo-Translation)]
+
 **Filter Style Transfer between Photos.**<br> 
 **In-Domain GAN Inversion for Real Image Editing.**<br>
 **AE-OT-GAN: Training GANs from data specific latent distribution.**<br>
@@ -148,6 +153,9 @@ Feedback and contributions are welcome!
 
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
+
+**Learning to Cartoonize Using White-box Cartoon Representations.**[[PDF](https://systemerrorwang.github.io/White-box-Cartoonization/paper/06791.pdf)][[Github](https://github.com/SystemErrorWang/White-box-Cartoonization)][[Project](https://systemerrorwang.github.io/White-box-Cartoonization/)]<br>
+*Xinrui Wang and Jinze Yu.*<br>  
 
 **Attentive Normalization for Conditional Image Generation.**[[PDF](https://arxiv.org/abs/2004.03828)]<br>
 *Yi Wang, Ying-Cong Chen, Xiangyu Zhang, Jian Sun, Jiaya Jia.*<br>
@@ -262,6 +270,10 @@ Feedback and contributions are welcome!
 *Yiming Gao, Jiangqin Wu.*<br>
 
 ### Others 2020
+
+**MCMI: Multi-Cycle Image Translation with Mutual Information Constraints.**</br>
+*Xiang Xu, Megha Nawhal, Greg Mori, Manolis Savva.*</br>
+arixv 2020. [[PDF](https://arxiv.org/abs/2007.02919)]
 
 **Future Urban Scenes Generation Through Vehicles Synthesis.**</br>
 *Alessandro Simoni, Luca Bergamini, Andrea Palazzi, Simone Calderara, Rita Cucchiara.*</br>

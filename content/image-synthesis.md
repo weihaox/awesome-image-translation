@@ -160,6 +160,22 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions.**<br>
+*Yuzhen Niu, Jianbin Wu, Wenxi Liu, Wenzhong Guo, Rynson W.H. Lau.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01628)]
+
+**End-to-end Interpretable Learning of Non-blind Image Deblurring.**<br>
+*Thomas Eboli, Jian Sun, Jean Ponce.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.01769)]
+
+**LF-InterNet: Spatial-Angular Interaction for Light Field Image Super-Resolution.**<br>
+*Yingqian Wang, Longguang Wang, Jungang Yang, Wei An, Jingyi Yu, Yulan Guo.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.07849)] [[Github](https://github.com/YingqianWang/LF-InterNet)]
+
+**Invertible Image Rescaling.**<br>
+*Mingqing Xiao, Shuxin Zheng, Chang Liu, Yaolong Wang, Di He, Guolin Ke, Jiang Bian, Zhouchen Lin, Tie-Yan Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.05650)] [[Github](https://github.com/pkuxmq/Invertible-Image-Rescaling)]
+
 **You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network.**<br>
 *Boyun Li, Yuanbiao Gou, Shuhang Gu, Jerry Zitao Liu, Joey Tianyi Zhou, Xi Peng.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16829)]
@@ -374,6 +390,16 @@ NTIRE 2020. [[PDF](https://arxiv.org/abs/2005.03155)]
 *Seungjun Nah, Sanghyun Son, Radu Timofte, Kyoung Mu Lee.*<br>
 ICCV 2019 Workshop: Advances in Image Manipulation. [[](https://arxiv.org/abs/2005.01233)]
 
+## Occlusion Reasoning
+
+**Peek-a-Boo: Occlusion Reasoning in Indoor Scenes with Plane Representations.**
+*Ziyu Jiang, Buyu Liu, Samuel Schulter, Zhangyang Wang, [Manmohan Chandraker](http://cseweb.ucsd.edu/~mkchandraker/).*
+CVPR 2020. [[PDF](http://cseweb.ucsd.edu/~mkchandraker/pdf/cvpr20_peekaboo.pdf)]
+
+**Self-Supervised Scene De-occlusion.**<br>
+*[Xiaohang Zhan](https://xiaohangzhan.github.io/), [Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Github](https://github.com/XiaohangZhan/deocclusion/)]
+
 ## Video Prediction and Future Prediction
 
 **Transformation-based Adversarial Video Prediction on Large-Scale Data.**<br>
@@ -402,6 +428,18 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ST
 [[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
 
 ## Frame Interpolation, Extrapolation and Videos Generation
+
+**Novel-View Human Action Synthesis.**<br>
+*Mohamed Ilyes Lakhal, Davide Boscaini, Fabio Poiesi, Oswald Lanz, Andrea Cavallaro.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02808)]
+
+**Structure-Aware Human-Action Generation.**<br>
+*Ping Yu, Yang Zhao, Chunyuan Li, Changyou Chen.*<br>
+ECCV 2020. [[](https://arxiv.org/abs/2007.01971)]
+
+**Video Prediction via Example Guidance.**<br>
+*Jingwei Xu, Huazhe Xu, Bingbing Ni, Xiaokang Yang, Trevor Darrell.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01738)] [[Project](https://sites.google.com/view/vpeg-supp/home)]
 
 **Hierarchical Patch VAE-GAN: Generating Diverse Videos from a Single Sample.**<br>
 *Shir Gur, Sagie Benaim, Lior Wolf.*<br>
@@ -465,6 +503,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.00809)] [[Github](https://github.c
 [Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications)
 
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
+
+**BézierSketch: A Generative Model For Scalable Vector Sketches.**<br> 
+*Ayan Das, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song.*<br> 
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02190)]
 
 **DeepFaceDrawing: Deep Generation of Face Images from Sketches.**<br> 
 *[Shu-Yu Chen](http://people.geometrylearning.com/csy/), [Wanchao Su](https://www.scm.cityu.edu.hk/doctoral-researcher/wanchaosu2-c), Lin Gao, Shihong Xia, Hongbo Fu.*<br> 
@@ -555,6 +597,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
 ## Diving Deep into Image Synthesis
 
 ### Interpreting the Latent Space of Pretrained Models (GAN Inversion)
+
+**Collaborative Learning for Faster StyleGAN Embedding.**<br>
+*Shanyan Guan, Ying Tai, Bingbing Ni, Feida Zhu, Feiyue Huang, Xiaokang Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01758)]
 
 **When and How Can Deep Generative Models be Inverted?.**<br>
 *Aviad Aberdam, Dror Simon, Michael Elad.*<br>
@@ -826,6 +872,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07397)] [[Dataset](http://ai.faceb
 **DeepFaceLab: A simple, flexible and extensible face swapping framework.**<br>
 *Ivan Petrov, Daiheng Gao, Nikolay Chervoniy, Kunlin Liu, Sugasa Marangonda, Chris Umé, Mr. Dpfks, Carl Shift Facenheim, Luis RP, Jian Jiang, Sheng Zhang, Pingyu Wu, Bo Zhou, Weiming Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.05535)] [[Github](https://github.com/iperov/DeepFaceLab/)]
+
+**Face Anti-Spoofing with Human Material Perception.**<br>
+*Zitong Yu, Xiaobai Li, Xuesong Niu, Jingang Shi, Guoying Zhao.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02157)]
 
 **Look Locally Infer Globally: A Generalizable Face Anti-Spoofing Approach.**<br>
 *Debayan Deb, Anil K. Jain.*<br>

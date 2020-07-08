@@ -21,6 +21,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Interactive and Controllable Image Manipulation
 
+**Task-agnostic Temporally Consistent Facial Video Editing.**<br>
+*Meng Cao, Haozhi Huang, Hao Wang, Xuan Wang, Li Shen, Sheng Wang, Linchao Bao, Zhifeng Li, Jiebo Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01466)]
+
 **XingGAN for Person Image Generation.**<br>
 *[Hao Tang](http://disi.unitn.it/~hao.tang/), Song Bai, Li Zhang, Philip H. S. Torr, Nicu Sebe.*<br>
 ECCV 2020.  [[Github](https://github.com/Ha0Tang/XingGAN)]
