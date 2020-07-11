@@ -8,6 +8,7 @@
   * [Replacing ISP](#replacing-isp)
   * [Misc](#misc)
   * [Challenge and Survey](#challenge-and-survey)
+- [Occlusion Reasoning](#occlusion-reasoning)
 - [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
 - [Frame Interpolation, Extrapolation and Videos Generation](#frame-interpolation--extrapolation-and-videos-generation)
 - [Photorealistic Style Transfer](#photorealistic-style-transfer)
@@ -159,6 +160,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Project](http://people.e
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.com/mahmoudnafifi/Deep_White_Balance)]
 
 ### Misc
+
+**Journey Towards Tiny Perceptual Super-Resolution.**<br>
+*Royson Lee, Łukasz Dudziak, Mohamed Abdelfattah, Stylianos I. Venieris, Hyeji Kim, Hongkai Wen, Nicholas D. Lane.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.04356)]
+
+**Lightweight Image Super-Resolution with Enhanced CNN.**<br>
+*Chunwei Tian, Ruibin Zhuge, Zhihao Wu, Yong Xu, Wangmeng Zuo, Chen Chen, Chia-Wen Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.04344)]
 
 **HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions.**<br>
 *Yuzhen Niu, Jianbin Wu, Wenxi Liu, Wenzhong Guo, Rynson W.H. Lau.*<br>
@@ -414,6 +423,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06445)] [[Project](https://next.cs.
 *[Wei Xiong](https://wxiong.me/), Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1709.07592)] [[Github](https://github.com/weixiong-ur/mdgan)] [[Dataset](https://drive.google.com/open?id=1xWLiU-MBGN7MrsFHQm4_yXmfHBsMbJQo)] [[Project](https://sites.google.com/site/whluoimperial/mdgan)]
 
+**Conditional Sig-Wasserstein GANs for Time Series Generation.**<br>
+*Hao Ni, Lukasz Szpruch, Magnus Wiese, Shujian Liao, Baoren Xiao.*<br>
+arxiv 2020. [[Github](https://github.com/SigCGANs/Conditional-Sig-Wasserstein-GANs)]
+
 **Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks.**<br>
 *[Tianfan Xue](http://people.csail.mit.edu/tfxue/research_statement_tianfan.pdf), Jiajun Wu, Katherine L. Bouman, William T. Freeman.*<br>
 TPAMI 2019 / NeurIPS 2016. [[PDF](https://arxiv.org/abs/1807.09245)] [[Project](visualdynamics.csail.mit.edu)] [[Github](https://github.com/tfxue/visual-dynamics)]
@@ -429,21 +442,9 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ST
 
 ## Frame Interpolation, Extrapolation and Videos Generation
 
-**Novel-View Human Action Synthesis.**<br>
-*Mohamed Ilyes Lakhal, Davide Boscaini, Fabio Poiesi, Oswald Lanz, Andrea Cavallaro.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02808)]
-
-**Structure-Aware Human-Action Generation.**<br>
-*Ping Yu, Yang Zhao, Chunyuan Li, Changyou Chen.*<br>
-ECCV 2020. [[](https://arxiv.org/abs/2007.01971)]
-
-**Video Prediction via Example Guidance.**<br>
-*Jingwei Xu, Huazhe Xu, Bingbing Ni, Xiaokang Yang, Trevor Darrell.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01738)] [[Project](https://sites.google.com/view/vpeg-supp/home)]
-
-**Hierarchical Patch VAE-GAN: Generating Diverse Videos from a Single Sample.**<br>
-*Shir Gur, Sagie Benaim, Lior Wolf.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)]
+**SiENet: Siamese Expansion Network for Image Extrapolation.**<br>
+*Xiaofeng Zhang, Feng Chen, Cailing Wang, Songsong Wu, Ming Tao, Guoping Jiang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03851)]
 
 **Extrapolative-Interpolative Cycle-Consistency Learning for Video Frame Extrapolation.**<br>
 *Sangjin Lee, Hyeongmin Lee, Taeoh Kim, Sangyoun Lee.*<br>
@@ -457,6 +458,22 @@ CVPR 2020.
 **Blurry Video Frame Interpolation.**<br>
 *Wang Shen, Wenbo Bao, Guangtao Zhai, Li Chen, Xiongkuo Min, Zhiyong Gao.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.12259)]
+
+**Novel-View Human Action Synthesis.**<br>
+*Mohamed Ilyes Lakhal, Davide Boscaini, Fabio Poiesi, Oswald Lanz, Andrea Cavallaro.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02808)]
+
+**Structure-Aware Human-Action Generation.**<br>
+*Ping Yu, Yang Zhao, Chunyuan Li, Changyou Chen.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.01971)]
+
+**Video Prediction via Example Guidance.**<br>
+*Jingwei Xu, Huazhe Xu, Bingbing Ni, Xiaokang Yang, Trevor Darrell.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01738)] [[Project](https://sites.google.com/view/vpeg-supp/home)]
+
+**Hierarchical Patch VAE-GAN: Generating Diverse Videos from a Single Sample.**<br>
+*Shir Gur, Sagie Benaim, Lior Wolf.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)]
 
 **Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution.**<br>
 *Xiaoyu Xiang, Yapeng Tian, Yulun Zhang, Yun Fu, Jan P. Allebach, Chenliang Xu.*<br>
@@ -503,6 +520,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.00809)] [[Github](https://github.c
 [Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications)
 
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
+
+**On Learning Semantic Representations for Million-Scale Free-Hand Sketches.**<br> 
+*Peng Xu, Yongye Huang, Tongtong Yuan, Tao Xiang, Timothy M. Hospedales, Yi-Zhe Song, Liang Wang.*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.04101)]
 
 **BézierSketch: A Generative Model For Scalable Vector Sketches.**<br> 
 *Ayan Das, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song.*<br> 
@@ -723,6 +744,10 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**NVAE: A Deep Hierarchical Variational Autoencoder.**<br>
+*[Arash Vahdat](https://arash-vahdat.github.io), Jan Kautz.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03898)] [[Github](https://arash-vahdat.github.io/NVAE_arxiv.pdf)]
 
 **Unsupervised Landmark Learning from Unpaired Data.**<br>
 *Yinghao Xu, Ceyuan Yang, Ziwei Liu, Bo Dai, Bolei Zhou.*<br>

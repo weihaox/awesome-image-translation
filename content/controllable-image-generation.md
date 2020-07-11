@@ -21,6 +21,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Interactive and Controllable Image Manipulation
 
+**ArtEditing: Modeling Artistic Workflows for Image Generation and Editing.**<br>
+*[Hung-Yu Tseng](https://sites.google.com/site/hytseng0509/), [Matt Fisher](https://techmatt.github.io/), [Jingwan (Cynthia) Lu](https://research.adobe.com/person/jingwan-lu/), [Yijun Li](https://yijunmaverick.github.io/), [Vladimir (Vova) Kim](http://www.vovakim.com/), [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/).*<br>
+ECCV 2020. [[Github](https://github.com/hytseng0509/ArtEditing)]
+
 **Task-agnostic Temporally Consistent Facial Video Editing.**<br>
 *Meng Cao, Haozhi Huang, Hao Wang, Xuan Wang, Li Shen, Sheng Wang, Linchao Bao, Zhifeng Li, Jiebo Luo.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01466)]
@@ -166,6 +170,15 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10120)] [[Github](https://github.c
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
 [[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
 
+### Voice-to-Image
+**Attention-based Residual Speech Portrait Model for Speech to Face Generation.**<br>
+*Jianrong Wang, Xiaosheng Hu, Li Liu, Wei Liu, Mei Yu, Tianyi Xu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.04536)]
+
+**Speech2Face: Learning the Face Behind a Voice.**<br>
+*Tae-Hyun Oh, Tali Dekel, Changil Kim, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Wojciech Matusik.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1905.09773)] [[project](https://speech2face.github.io/)] [[Related Work](https://speech2face.github.io/)]
+
 ### Image-to-Voice
 
 **Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis.**<br>
@@ -268,12 +281,7 @@ ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.co
 *Scott Reed, Zeynep Akata, Bernt Schiele, Honglak Lee.*<br>
 CVPR 2016. [[PDF](https://arxiv.org/abs/1605.05395)] [[Github](https://github.com/reedscot/cvpr2016)]
 
-### Voice-to-Image
-**Speech2Face: Learning the Face Behind a Voice.**<br>
-*Tae-Hyun Oh, Tali Dekel, Changil Kim, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Wojciech Matusik.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1905.09773)] [[project](https://speech2face.github.io/)] [[Related Work](https://speech2face.github.io/)]
-
-### speech-to-Text
+### Speech-to-Text
 **Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding.**<br>
 *Yuchen Liu, Jiajun Zhang, Hao Xiong, Long Zhou, Zhongjun He, Hua Wu, Haifeng Wang, Chengqing Zong.*<br>
 AAAI 2020. [[PDF](https://arxiv.org/abs/1912.07240)]
