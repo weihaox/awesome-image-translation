@@ -449,7 +449,7 @@ IJCV 2019. [[PDF](https://arxiv.org/abs/1905.01270)] [[Project](http://vllab.ucm
 
 **Masked Linear Regression for Learning Local Receptive Fields for Facial Expression Synthesis.**<br>
 *Nazar Khan, Arbish Akram, Arif Mahmood, Sania Ashraf, Kashif Murtaza.*<br>
-IJCV 2019. [PDF](http://faculty.pucit.edu.pk/nazarkhan/work/expression_mapping/mr_ijcv_manuscript.pdf) [[Github](https://github.com/arbishakram/masked_regression_code)]
+IJCV 2019. [[PDF](http://faculty.pucit.edu.pk/nazarkhan/work/expression_mapping/mr_ijcv_manuscript.pdf)] [[Github](https://github.com/arbishakram/masked_regression_code)]
 
 **Show, Attend and Translate: Unsupervised Image Translation with Self-Regularization and Attention.**<br>
 *Chao Yang, Taehwan Kim, Ruizhe Wang, Hao Peng, C.-C. Jay Kuo.*<br>
