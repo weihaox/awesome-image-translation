@@ -489,7 +489,21 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00830)]
 *[Huaizu Jiang](http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)] [[Github](https://github.com/avinashpaliwal/Super-SloMo)]
 
+## Motion Synthesis
+
+**Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows.**<br>
+*Alexanderson, Simon and Henter, Gustav Eje and Kucherenko, Taras and Beskow, Jonas.*<br>
+Computer Graphics Forum 2020. [[PDF](https://diglib.eg.org/handle/10.1111/cgf13946)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
+
+**MoGlow: Probabilistic and Controllable Motion Synthesis Using Normalising Flows.**<br>
+*Gustav Eje Henter, Simon Alexanderson, Jonas Beskow.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1905.06598)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
+
 ## Photorealistic Style Transfer
+
+**Geometric Style Transfer.**<br>
+*Xiao-Chang Liu, Xuan-Yi Li, Ming-Ming Cheng, Peter Hall.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.05471)]
 
 **Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.**<br>
 *Xide Xia, Meng Zhang, Tianfan Xue, Zheng Sun, Hui Fang, Brian Kulis, Jiawen Chen.*<br>
@@ -744,6 +758,30 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**DeepSinger: Singing Voice Synthesis with Data Mined From the Web.**<br>
+*Yi Ren, Xu Tan, Tao Qin, Jian Luan, Zhou Zhao, Tie-Yan Liu.*<br>
+KDD 2020. [[PDF](https://arxiv.org/abs/2007.04590)] [[Project](https://speechresearch.github.io/deepsinger/)]
+
+**Words as Art Materials: Generating Paintings with Sequential GANs.**<br>
+*Azmi Can Özgen, Hazım Kemal Ekenel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.04383)]
+
+**DANet: Dual Adversarial Network: Toward Real-world Noise Removal and Noise Generation.**<br>
+*Zongsheng Yue, Qian Zhao, Lei Zhang, Deyu Meng.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.05946)] [[Github](https://github.com/zsyOAOA/DANet)]
+
+**Implicit Euler ODE Networks for Single-Image Dehazing.**<br>
+*Jiawei Shen, Zhuoyan Li, Lei Yu, Gui-Song Xia, Wen Yang.*<br>
+CVPRW 2020. [[PDF](https://arxiv.org/abs/2007.06443)] [[Project](https://github.com/Jiawei-Shen)]
+
+**Wavelet-Based Dual-Branch Network for Image Demoireing.**<br>
+*Lin Liu, Jianzhuang Liu, Shanxin Yuan, Gregory Slabaugh, Ales Leonardis, Wengang Zhou, Qi Tian.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.07173)]
+
+**Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations.**<br>
+*Hongyu Liu, Bin Jiang, Yibing Song, Wei Huang, Chao Yang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.06929)]
 
 **NVAE: A Deep Hierarchical Variational Autoencoder.**<br>
 *[Arash Vahdat](https://arash-vahdat.github.io), Jan Kautz.*<br>

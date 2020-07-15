@@ -1,3 +1,4 @@
+
 # Controllable Image Generation
 
 This repository is about *Controllable and Interpretable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.

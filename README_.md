@@ -872,6 +872,10 @@ SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-v
 
 ### Attribute Editing
 
+**PA-GAN: Progressive Attention Generative Adversarial Network for Facial Attribute Editing.**<br>
+*Zhenliang He, Meina Kan, Jichao Zhang, Shiguang Shan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.05892)] [[Github](https://github.com/LynnHo/PA-GAN-Tensorflow)]
+
 **Facial Expression Editing with Continuous Emotion Labels.**<br>
 *Alexandra Lindt, Pablo Barros, Henrique Siqueira, Stefan Wermter.*<br>
 FG 2019. [[PDF](https://arxiv.org/abs/2006.12210)]
