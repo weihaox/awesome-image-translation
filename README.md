@@ -34,22 +34,22 @@ Feedback and contributions are welcome!
 ### ECCV 2020
 [[accepted paper list](https://eccv2020.eu/accepted-papers/)]
 
-**Unsupervised Sketch-to-Photo Synthesis.**[[PDF](https://arxiv.org/abs/1909.08313)] [[Github](https://github.com/rt219/Unpaired-Sketch-to-Photo-Translation)]<br> 
+**Unsupervised Sketch-to-Photo Synthesis.**[[PDF](https://arxiv.org/abs/1909.08313)][[Github](https://github.com/rt219/Unpaired-Sketch-to-Photo-Translation)]<br> 
 *Runtao Liu, Qian Yu, Stella Yu.*<br>
 
 **Informative Sample Mining Network for Multi-Domain Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2001.01173)]<br> 
 *Jie Cao, Huaibo Huang, Yi Li, Ran He, Zhenan Sun.*<br>
 
-**Unpaired Image-to-Image Translation using Adversarial Consistency Loss.**[[PDF](https://arxiv.org/abs/2003.04858)]<br>  
-*Yihao Zhao, Ruihai Wu, Hao Dong.*<br>
-
-**Transformation Consistency Regularization- A Semi-Supervised Paradigm for Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2007.07867)]<br>
+**Transformation Consistency Regularization: A Semi-Supervised Paradigm for Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2007.07867)]<br>
 *Aamir Mustafa, Rafal K. Mantiuk.*<br>
 
-**Cross-Domain Cascaded Deep Feature Translation.** [[PDF](https://arxiv.org/abs/1906.01526)]<br>
+**Cross-Domain Cascaded Deep Feature Translation.**[[PDF](https://arxiv.org/abs/1906.01526)]<br>
 *Oren Katzir, Dani Lischinski, Daniel Cohen-Or.*<br>
 
-**COCO-FUNIT: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder.**[[PDF](https://arxiv.org/abs/2007.07431)][[Github](https://nvlabs.github.io/COCO-FUNIT/)] <br>
+**Unpaired Image-to-Image Translation using Adversarial Consistency Loss.**[[PDF](https://arxiv.org/abs/2003.04858)]<br>
+*Yihao Zhao, Ruihai Wu, Hao Dong.*<br>
+
+**COCO-FUNIT: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder.**[[PDF](https://arxiv.org/abs/2007.07431)][[Github](https://nvlabs.github.io/COCO-FUNIT/)]<br>
 *Kuniaki Saito, Kate Saenko, Ming-Yu Liu.*<br>
 
 **XingGAN for Person Image Generation.**[[Github](https://github.com/Ha0Tang/XingGAN)]<br>
