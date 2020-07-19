@@ -206,6 +206,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
 ### Text-to-Image
 
+**CPGAN: Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis.**<br>
+*Jiadong Liang, Wenjie Pei, Feng Lu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.08562)]
+
 **TIME: Text and Image Mutual-Translation Adversarial Networks.**<br>
 *Bingchen Liu, Kunpeng Song, Yizhe Zhu, Gerard de Melo, Ahmed Elgammal.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.13192)]

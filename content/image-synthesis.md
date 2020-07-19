@@ -161,6 +161,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration.**<br>
+*Xin Li, Xin Jin, Jianxin Lin, Sen Liu, Yaojun Wu, Tao Yu, Wei Zhou, [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/publi.html).*<br>
+ECCV 2020.
+
+**LIRA: Lifelong Image Restoration from Unknown Blended Distortions.**<br>
+*Jianzhao Liu, Jianxin Lin, Xin Li, Wei Zhou, Sen Liu, Zhibo Chen.*<br>
+ECCV 2020.
+
 **Journey Towards Tiny Perceptual Super-Resolution.**<br>
 *Royson Lee, Łukasz Dudziak, Mohamed Abdelfattah, Stylianos I. Venieris, Hyeji Kim, Hongkai Wen, Nicholas D. Lane.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.04356)]
@@ -501,6 +509,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1905.06598)] [[Github](https://github.c
 
 ## Photorealistic Style Transfer
 
+**Filter Style Transfer between Photos.**<br>
+*Jonghwa Yim, Jisung Yoo, Won-joon Do, Beomsu Kim, Jihwan Choe.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.07925)]
+
 **Geometric Style Transfer.**<br>
 *Xiao-Chang Liu, Xuan-Yi Li, Ming-Ming Cheng, Peter Hall.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.05471)]
@@ -534,6 +546,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.00809)] [[Github](https://github.c
 [Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications)
 
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
+
+**Unsupervised Sketch-to-Photo Synthesis.**<br> 
+*Runtao Liu, Qian Yu, Stella Yu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1909.08313)] [[Github](https://github.com/rt219/Unpaired-Sketch-to-Photo-Translation)]
 
 **On Learning Semantic Representations for Million-Scale Free-Hand Sketches.**<br> 
 *Peng Xu, Yongye Huang, Tongtong Yuan, Tao Xiang, Timothy M. Hospedales, Yi-Zhe Song, Liang Wang.*<br> 
@@ -758,6 +774,26 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**Neural Design Network: Graphic Layout Generation with Constraints.**<br>
+*Hsin-Ying Lee, Weilong Yang, Lu Jiang, Madison Le, Irfan Essa, Haifeng Gong, Ming-Hsuan Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1912.09421)]
+
+**D2D: Learning to Find Good Correspondences for Image Matching and Manipulation.**<br>
+*Olivia Wiles, Sebastien Ehrhardt, Andrew Zisserman.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.08480)]
+
+**Controllable Image Synthesis via SegVAE.**<br>
+*Yen-Chi Cheng, Hsin-Ying Lee, Min Sun, Ming-Hsuan Yang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyenchicheng.github.io/SegVAE/)] [[Github](https://github.com/yccyenchicheng/SegVAE)]
+
+**RetrieveGAN: Image Synthesis via Differentiable Patch Retrieval.**<br>
+*Hung-Yu Tseng, Hsin-Ying Lee, Lu Jiang, Ming-Hsuan Yang, Weilong Yang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08513)]
+
+**World-Consistent Video-to-Video Synthesis.**<br>
+*Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08509)]
 
 **DeepSinger: Singing Voice Synthesis with Data Mined From the Web.**<br>
 *Yi Ren, Xu Tan, Tao Qin, Jian Luan, Zhou Zhao, Tie-Yan Liu.*<br>
