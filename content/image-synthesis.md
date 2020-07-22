@@ -161,6 +161,22 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**Texture Hallucination for Large-Factor Painting Super-Resolution.**<br>
+*Yulun Zhang, Zhifei Zhang, Stephen DiVerdi, Zhaowen Wang, Jose Echevarria, Yun Fu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.00515)] [[Github](http://yulunzhang.com/papers/PaintingSR_supp_arXiv.pdf)]
+
+**Microscopy Image Restoration with Deep Wiener-Kolmogorov filters.**<br>
+*Valeriya Pronina, Filippos Kokkinos, Dmitry V. Dylov, Stamatios Lefkimmiatis.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1911.10989)]
+
+**Fully Trainable and Interpretable Non-Local Sparse Models for Image Restoration.**<br>
+*Bruno Lecouat, Jean Ponce, Julien Mairal.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02456)]
+
+**Learning Enriched Features for Real Image Restoration and Enhancement.**<br>
+*Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang, Ling Shao.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.06792)] [[Github](https://github.com/swz30/MIRNet)]
+
 **Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration.**<br>
 *Xin Li, Xin Jin, Jianxin Lin, Sen Liu, Yaojun Wu, Tao Yu, Wei Zhou, [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/publi.html).*<br>
 ECCV 2020.
@@ -711,7 +727,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1907.10786)] [[Project](https://genforce
 
 **In-Domain GAN Inversion for Real Image Editing.**<br>
 *Jiapeng Zhu, Yujun Shen, Deli Zhao, Bolei Zhou.*<br>
-arrive2020. [[PDF](https://arxiv.org/abs/2004.00049)] [[Project](https://genforce.github.io/idinvert/)] [[Github](https://github.com/genforce/idinvert)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2004.00049)] [[Project](https://genforce.github.io/idinvert/)] [[Github](https://github.com/genforce/idinvert)]
 
 **Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?**<br>
 *Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
@@ -775,9 +791,73 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
 
+**Deep Preset: Blending and Retouching Photos with Color Style Transfer.**<br>
+*Man M. Ho, Jinjia Zhou.*<br>
+arxiv 2020. [[]PDF(https://arxiv.org/abs/2007.10701)] [[Project](https://github.com/minhmanho/deep_preset)]
+
+**Visual Commonsense Graphs: Reasoning about the Dynamic Context of a Still Image.**<br>
+*Jae Sung Park, Chandra Bhagavatula, Roozbeh Mottaghi, Ali Farhadi, Yejin Choi.*<br>
+arxiv 2020. [[](https://arxiv.org/abs/2004.10796)] [[Project](http://visualcomet.xyz/)]
+
+**Generative Hierarchical Features from Synthesizing Images.**<br>
+*Yinghao Xu, Yujun Shen, Jiapeng Zhu, Ceyuan Yang, Bolei Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.10379)]
+
+**Foley Music: Learning to Generate Music from Videos.**<br>
+*Chuang Gan, Deng Huang, Peihao Chen, Joshua B. Tenenbaum, Antonio Torralba.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.10984)] [[Project](http://foley-music.csail.mit.edu/)]
+
+**Example-Guided Image Synthesis across Arbitrary Scenes using Masked Spatial-Channel Attention and Self-Supervision.**<br>
+*Haitian Zheng, Haofu Liao, Lele Chen, Wei Xiong, Tianlang Chen, Jiebo Luo.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2004.10024)]
+
+**High-Fidelity Synthesis with Disentangled Representation.**<br>
+*Wonkwang Lee, Donggyun Kim, Seunghoon Hong, Honglak Lee.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2001.04296)]
+
+**House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation.**<br>
+*Nelson Nauata, Kai-Hung Chang, Chin-Yi Cheng, Greg Mori, Yasutaka Furukawa.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.06988)]
+
+**CONFIG: Controllable Neural Face Image Generation.**<br>
+*Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2005.02671)]
+
+**OneGAN: Simultaneous Unsupervised Learning of Conditional Image Generation, Foreground Segmentation, and Fine-Grained Clustering.**<br>
+*Yaniv Benny, Lior Wolf.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.13471)]
+
+**Learning Visual Commonsense for Robust Scene Graph Generation.**<br>
+*Alireza Zareian, Haoxuan You, Zhecan Wang, Shih-Fu Chang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2006.09623)]
+
+**Learning Canonical Representations for Scene Graph to Image Generation.**<br>
+*Roei Herzig, Amir Bar, Huijuan Xu, Gal Chechik, Trevor Darrell, Amir Globerson.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
+
+**GANwriting: Content-Conditioned Generation of Styled Handwritten Word Images.**<br>
+*Lei Kang, Pau Riba, Yaxing Wang, Marçal Rusiñol, Alicia Fornés, Mauricio Villegas.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.02567)]
+
+**Few-shot Compositional Font Generation with Dual Memory.**<br>
+*Junbum Cha, Sanghyuk Chun, Gayoung Lee, Bado Lee, Seonghyeon Kim, Hwalsuk Lee.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2005.10510)] [[Github](https://github.com/clovaai/dmfont)]
+
+**Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation.**<br>
+*[Mengyao Zhai](http://www.sfu.ca/~mnawhal), Lei Chen, Jiawei He, Megha Nawhal, Frederick Tung, and Greg Mori.*<br>
+ECCV 2020. [[PDF](http://www.sfu.ca/~mnawhal/projects/zhai_eccv20.pdf)]
+
+**Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation.**<br>
+*[Wenbin Wang](http://www.kennethwong.tech/), Ruiping Wang, Shiguang Shan, Xilin Chen.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08760)]
+
+**Generating Person Images with Appearance-aware Pose Stylizer.**<br>
+*Siyu Huang, Haoyi Xiong, Zhi-Qi Cheng, Qingzhong Wang, Xingran Zhou, Bihan Wen, Jun Huan, Dejing Dou.*<br>
+IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[Github](https://github.com/siyuhuang/PoseStylizer)]
+
 **Neural Design Network: Graphic Layout Generation with Constraints.**<br>
 *Hsin-Ying Lee, Weilong Yang, Lu Jiang, Madison Le, Irfan Essa, Haifeng Gong, Ming-Hsuan Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/1912.09421)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.09421)]
 
 **D2D: Learning to Find Good Correspondences for Image Matching and Manipulation.**<br>
 *Olivia Wiles, Sebastien Ehrhardt, Andrew Zisserman.*<br>

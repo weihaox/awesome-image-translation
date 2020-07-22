@@ -92,6 +92,10 @@ SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
 
 ## Individual Object Manipulation
 
+**SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects.**<br>
+*Evangelos Ntavelis, Andrés Romero, Iason Kastanis, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04977)]
+
 **Self-Supervised Scene De-occlusion.**<br>
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
@@ -205,6 +209,10 @@ ICASSP 2020.
 ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
 ### Text-to-Image
+
+**CVSE: Consensus-Aware Visual-Semantic Embedding for Image-Text Matching.**<br>
+*Haoran Wang, Ying Zhang, Zhong Ji, Yanwei Pang, Lin Ma.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08883)] [[Gtihub](https://github.com/BruceW91/CVSE)]
 
 **CPGAN: Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis.**<br>
 *Jiadong Liang, Wenjie Pei, Feng Lu.*<br>

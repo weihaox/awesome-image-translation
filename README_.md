@@ -872,6 +872,14 @@ SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-v
 
 ### Attribute Editing
 
+**Lifespan Age Transformation Synthesis.**<br>
+*Roy Or-El, Soumyadip Sengupta, Ohad Fried, Eli Shechtman, Ira Kemelmacher-Shlizerman.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.09764)]
+
+**LEED: Label-Free Expression Editing via Disentanglement.**<br>
+*Rongliang Wu, Shijian Lu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08971)]
+
 **PA-GAN: Progressive Attention Generative Adversarial Network for Facial Attribute Editing.**<br>
 *Zhenliang He, Meina Kan, Jichao Zhang, Shiguang Shan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.05892)] [[Github](https://github.com/LynnHo/PA-GAN-Tensorflow)]

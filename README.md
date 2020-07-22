@@ -34,6 +34,9 @@ Feedback and contributions are welcome!
 ### ECCV 2020
 [[accepted paper list](https://eccv2020.eu/accepted-papers/)]
 
+**LEED: Label-Free Expression Editing via Disentanglement.**[[PDF](https://arxiv.org/abs/2007.08971)]<br>
+*Rongliang Wu, Shijian Lu.*<br> 
+
 **Unsupervised Sketch-to-Photo Synthesis.**[[PDF](https://arxiv.org/abs/1909.08313)][[Github](https://github.com/rt219/Unpaired-Sketch-to-Photo-Translation)]<br> 
 *Runtao Liu, Qian Yu, Stella Yu.*<br>
 
