@@ -166,8 +166,14 @@ See the [scripts](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/m
 
 ## Generate Synthetic Datasets
 
-[Generating Training Data for Denoising Real RGB Images via Camera Pipeline Simulation.](https://arxiv.org/abs/1904.08825) 
-Ronnachai Jaroensri, Camille Biscarrat, Miika Aittala, Frédo Durand. [GitHub](https://github.com/12dmodel/camera_sim), 2019.
+**Simulating Content Consistent Vehicle Datasets with Attribute Descent.**</br>
+*Yue Yao, Liang Zheng, Xiaodong Yang, Milind Naphade, Tom Gedeon.*</br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.08855)]
 
-[Meta-Sim: Learning to Generate Synthetic Datasets.](https://arxiv.org/abs/1904.11621) [Github](https://nv-tlabs.github.io/meta-sim/), ICCV 2019. 
+**Generating Training Data for Denoising Real RGB Images via Camera Pipeline Simulation.**</br>
+*Ronnachai Jaroensri, Camille Biscarrat, Miika Aittala, Frédo Durand.*</br>
+2019. [[PDF](https://arxiv.org/abs/1904.08825)] [GitHub](https://github.com/12dmodel/camera_sim)
+
+**Meta-Sim: Learning to Generate Synthetic Datasets.**</br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1904.11621)] [[Github](https://nv-tlabs.github.io/meta-sim/)]
 

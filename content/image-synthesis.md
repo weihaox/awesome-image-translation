@@ -161,6 +161,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration.**<br>
+*Xin Li, Xin Jin, Jianxin Lin, Tao Yu, Sen Liu, Yaojun Wu, Wei Zhou, Zhibo Chen.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11430)]
+
 **Texture Hallucination for Large-Factor Painting Super-Resolution.**<br>
 *Yulun Zhang, Zhifei Zhang, Stephen DiVerdi, Zhaowen Wang, Jose Echevarria, Yun Fu.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.00515)] [[Github](http://yulunzhang.com/papers/PaintingSR_supp_arXiv.pdf)]
@@ -790,6 +794,10 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**AE-OT-GAN: Training GANs from Data Specific Latent Distribution.**<br>
+*Dongsheng An, Yang Guo, Min Zhang, Xin Qi, Na Lei, Shing-Tung Yau, Xianfeng Gu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2001.03698)]
 
 **Deep Preset: Blending and Retouching Photos with Color Style Transfer.**<br>
 *Man M. Ho, Jinjia Zhou.*<br>
