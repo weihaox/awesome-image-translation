@@ -161,6 +161,18 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution.**<br>
+*Wenbo Li, Xin Tao, Taian Guo, Lu Qi, Jiangbo Lu, Jiaya Jia.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11803)]
+
+**PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br>
+*Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, Jimmy Ren, Chao Dong.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12142)]
+
+**Guided Deep Decoder: Unsupervised Image Pair Fusion.**<br>
+*Tatsumi Uezato, Danfeng Hong, Naoto Yokoya, Wei He.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11766)]
+
 **Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration.**<br>
 *Xin Li, Xin Jin, Jianxin Lin, Tao Yu, Sen Liu, Yaojun Wu, Wei Zhou, Zhibo Chen.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11430)]
@@ -794,6 +806,10 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**Sound2Sight: Generating Visual Dynamics from Sound and Context.**<br>
+*Anoop Cherian, Moitreya Chatterjee, Narendra Ahuja.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12130)]
 
 **AE-OT-GAN: Training GANs from Data Specific Latent Distribution.**<br>
 *Dongsheng An, Yang Guo, Min Zhang, Xin Qi, Na Lei, Shing-Tung Yau, Xianfeng Gu.*<br>

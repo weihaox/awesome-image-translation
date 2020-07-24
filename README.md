@@ -34,6 +34,9 @@ Feedback and contributions are welcome!
 ### ECCV 2020
 [[accepted paper list](https://eccv2020.eu/accepted-papers/)]
 
+**TSIT: A Simple and Versatile Framework for Image-to-Image Translation.** [[PDF](https://arxiv.org/abs/2007.12072)]<br>
+*Liming Jiang, Changxu Zhang, Mingyang Huang, Chunxiao Liu, Jianping Shi, Chen Change Loy.*<br>
+
 **LEED: Label-Free Expression Editing via Disentanglement.**[[PDF](https://arxiv.org/abs/2007.08971)]<br>
 *Rongliang Wu, Shijian Lu.*<br> 
 
