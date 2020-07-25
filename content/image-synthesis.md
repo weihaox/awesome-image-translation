@@ -161,6 +161,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**Cross-Scale Internal Graph Neural Network for Image Super-Resolution.**<br>
+*Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16673)]
+
+**Polarized Reflection Removal with Perfect Alignment in the Wild.**<br>
+*Chenyang Lei, Xuhua Huang, Mengdi Zhang, Qiong Yan, [Wenxiu Sun](http://wenxiusun.com/), and [Qifeng Chen](https://cqf.io/publication).*</br>
+CVPR 2020. [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lei_Polarized_Reflection_Removal_With_Perfect_Alignment_in_the_Wild_CVPR_2020_paper.pdf)] [[Project](https://leichenyang.weebly.com/project-polarized.html)] [[Github](https://github.com/ChenyangLEI/CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment)]
+
 **MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution.**<br>
 *Wenbo Li, Xin Tao, Taian Guo, Lu Qi, Jiangbo Lu, Jiaya Jia.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11803)]
@@ -751,7 +759,7 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1904.03189)]
 
 **Image2StyleGAN++: How to Edit the Embedded Images?**<br>
 *Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
-arxiv, 26 Nov 2019. [[PDF](https://arxiv.org/abs/1911.11544)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/1911.11544)]
 
 ### StyleGAN-Based Method
 
@@ -777,7 +785,7 @@ arxiv, 5 Jun 2019. [[PDF](https://arxiv.org/abs/1906.11880)] [[Project](http://w
 
 **SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**<br>
 *eihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
-arxiv, 28 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12861)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12861)]
 
 **SMIS: Semantically Multi-modal Image Synthesis.**<br> 
 *[Zhen Zhu](https://zzhu.vision/), Zhiliang Xu, Ansheng You, [Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/).*<br>
@@ -806,6 +814,14 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks.**<br>
+*Animesh Karnewar, Oliver Wang.*<br>
+CVPR 2020.[[PDF](https://arxiv.org/abs/1903.06048)] [[Github](https://github.com/akanimax/msg-stylegan-tf)]
+
+**NestedVAE: Isolating Common Factors via Weak Supervision.**<br>
+*Matthew J. Vowels, Necati Cihan Camgoz, Richard Bowden.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11576)]
 
 **Sound2Sight: Generating Visual Dynamics from Sound and Context.**<br>
 *Anoop Cherian, Moitreya Chatterjee, Narendra Ahuja.*<br>
