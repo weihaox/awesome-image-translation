@@ -103,6 +103,14 @@ Feedback and contributions are welcome!
 **UCTGAN: Diverse Image Inpainting Based on Unsupervised Cross-Space Translation.**[[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf)]<br>
 *Lei Zhao, Qihang Mo, Sihuan Lin, Zhizhong Wang, Zhiwen Zuo, Haibo Chen, Wei Xing, Dongming Lu.*<br>
 
+**Wish You Were Here: Context-Aware Human Generation.**<br>
+*Oran Gafni, Lior Wolf.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2005.10663)]
+
+**Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals.**<br>
+*Siyuan Li, [Semih Günel](https://semihgunel.com/), Mirela Ostrek, Pavan Ramdya, [Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en), [Helge Rhodin](http://helge.rhodin.de/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2001.08601)]
+
 **Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Arar_Unsupervised_Multi-Modal_Image_Registration_via_Geometry_Preserving_Image-to-Image_Translation_CVPR_2020_paper.pdf)] <br>
 *Moab Arar, Yiftach Ginger, Dov Danon, Amit H. Bermano, Daniel Cohen-Or.*<br>
 
@@ -224,17 +232,9 @@ Neural Networks 2020. [[PDF](https://arxiv.org/abs/1911.00622)]
 *Kyungjune Baek, Yunjey Choi, Youngjung Uh, Jaejun Yoo, Hyunjung Shim.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.05734)] [[Github](https://github.com/clovaai/tunit)]
 
-**Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals.**<br>
-*Siyuan Li, Semih Günel, Mirela Ostrek, Pavan Ramdya, Pascal Fua, Helge Rhodin.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2001.08601)]
-
 **Recapture as You Want.**<br>
 *Chen Gao, Si Liu, Ran He, Shuicheng Yan, Bo Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.01435)]
-
-**Wish You Were Here: Context-Aware Human Generation.**<br>
-*Oran Gafni, Lior Wolf.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2005.10663)]
 
 **Identity-Preserving Realistic Talking Face Generation.**<br>
 *Sanjana Sinha, Sandika Biswas, Brojeshwar Bhowmick.*<br>
@@ -273,10 +273,6 @@ arxiv, 12 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05235)]
 arxiv, 3 Feb 2020. (An extended version of [SelectionGAN](https://arxiv.org/abs/1904.06807) published in CVPR2019) 
 [[PDF](https://arxiv.org/abs/2002.01048)]
 [[Githtub](https://github.com/Ha0Tang/SelectionGAN)]
-
-**Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals.**<br>
-*Siyuan Li, [Semih Günel](https://semihgunel.com/), Mirela Ostrek, Pavan Ramdya, [Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en), [Helge Rhodin](http://helge.rhodin.de/).*<br>
-arxiv, 23 Jan 2020. [[PDF](https://arxiv.org/abs/2001.08601)]
 
 **CDGAN: Cyclic Discriminative Generative Adversarial Networks for Image-to-Image Transformation.**<br>
 *Kancharagunta Kishan Babu, Shiv Ram Dubey.*<br>
