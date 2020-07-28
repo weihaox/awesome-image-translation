@@ -208,6 +208,16 @@ ICASSP 2020.
 *Mikołaj Bińkowski, Jeff Donahue, Sander Dieleman, Aidan Clark, Erich Elsen, Norman Casagrande, Luis C. Cobo, Karen Simonyan.*<br>
 ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
+### Image-to-Text
+
+**Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.**<br>
+*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13374)]
+
+**Inverse Cooking: Recipe Generation from Food Images.**<br>
+*Amaia Salvador, Michal Drozdzal, Xavier Giro-i-Nieto, Adriana Romero.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
+
 ### Text-to-Image
 
 **CVSE: Consensus-Aware Visual-Semantic Embedding for Image-Text Matching.**<br>
@@ -464,6 +474,10 @@ ECCV 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_F
 [[Github](https://github.com/Tobias-Fischer/rt_gene)]
 
 ### Eye Tracking
+
+**EVE: Towards End-to-end Video-based Eye-Tracking.**<br>
+*Seonwook Park, Emre Aksan, Xucong Zhang, Otmar Hilliges.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13120)] [[Project](https://ait.ethz.ch/projects/2020/EVE)]
 
 **Neuro-Inspired Eye Tracking With Eye Movement Dynamics.**<br>
 *Kang Wang, Hui Su, Qiang Ji.*<br>

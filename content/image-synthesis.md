@@ -689,6 +689,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
 
 ### Interpreting the Latent Space of Pretrained Models (GAN Inversion)
 
+**SeFa: Closed-Form Factorization of Latent Semantics in GANs.**<br>
+*Yujun Shen, Bolei Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.06600)] [[Github](https://github.com/genforce/sefa)] [[Project](https://genforce.github.io/sefa/)]
+
 **Collaborative Learning for Faster StyleGAN Embedding.**<br>
 *Shanyan Guan, Ying Tai, Bingbing Ni, Feida Zhu, Feiyue Huang, Xiaokang Yang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01758)]
@@ -814,6 +818,10 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**Style is a Distribution of Features.**<br>
+*Eddie Huang, Sahil Gupta.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13010)]
 
 **MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks.**<br>
 *Animesh Karnewar, Oliver Wang.*<br>

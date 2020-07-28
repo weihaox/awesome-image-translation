@@ -34,6 +34,9 @@ Feedback and contributions are welcome!
 ### ECCV 2020
 [[accepted paper list](https://eccv2020.eu/accepted-papers/)]
 
+**Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild.**[[PDF](https://homes.esat.kuleuven.be/~liqianma/pdf/ECCV20_Unselfie.pdf)] <br>
+*[Liqian Ma](https://homes.esat.kuleuven.be/~liqianma), Zhe Lin, Connelly Barnes, Alexei A. Efros, Jingwan Lu.*<br>
+
 **TSIT: A Simple and Versatile Framework for Image-to-Image Translation.** [[PDF](https://arxiv.org/abs/2007.12072)]<br>
 *Liming Jiang, Changxu Zhang, Mingyang Huang, Chunxiao Liu, Jianping Shi, Chen Change Loy.*<br>
 
