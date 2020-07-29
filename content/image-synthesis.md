@@ -819,6 +819,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
 
+**A Unified Framework of Surrogate Loss by Refactoring and Interpolation.**<br>
+*Lanlan Liu, Mingzhe Wang, Jia Deng.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13870)] [[Github](https://github.com/princeton-vl/uniloss)]
+
 **Style is a Distribution of Features.**<br>
 *Eddie Huang, Sahil Gupta.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13010)]
