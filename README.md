@@ -95,13 +95,11 @@ Feedback and contributions are welcome!
 **UCTGAN: Diverse Image Inpainting Based on Unsupervised Cross-Space Translation.**[[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf)]<br>
 *Lei Zhao, Qihang Mo, Sihuan Lin, Zhizhong Wang, Zhiwen Zuo, Haibo Chen, Wei Xing, Dongming Lu.*<br>
 
-**Wish You Were Here: Context-Aware Human Generation.**<br>
+**Wish You Were Here: Context-Aware Human Generation.**[[PDF](https://arxiv.org/abs/2005.10663)]<br>
 *Oran Gafni, Lior Wolf.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2005.10663)]
 
-**Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals.**<br>
+**Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals.**[[PDF](https://arxiv.org/abs/2001.08601)]<br>
 *Siyuan Li, [Semih Günel](https://semihgunel.com/), Mirela Ostrek, Pavan Ramdya, [Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en), [Helge Rhodin](http://helge.rhodin.de/).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2001.08601)]
 
 **Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Arar_Unsupervised_Multi-Modal_Image_Registration_via_Geometry_Preserving_Image-to-Image_Translation_CVPR_2020_paper.pdf)] <br>
 *Moab Arar, Yiftach Ginger, Dov Danon, Amit H. Bermano, Daniel Cohen-Or.*<br>
