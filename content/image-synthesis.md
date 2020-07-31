@@ -77,6 +77,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpair or Misaligned Data
 
+**DBSN: Unpaired Learning of Deep Image Denoising.**<br>
+*Xiaohe Wu, Ming Liu, Yue Cao, Dongwei Ren, Wangmeng Zuo.*<br>
+ECCV 2020. [[PDF](https://github.com/XHWXD/DBSN)]
+
 **Unpaired Image Super-Resolution using Pseudo-Supervision.**<br>
 *Shunta Maeda.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11397)]
@@ -688,6 +692,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1911.00679)]
 ## Diving Deep into Image Synthesis
 
 ### Interpreting the Latent Space of Pretrained Models (GAN Inversion)
+
+**Rewriting a Deep Generative Model.**<br>
+*David Bau, Steven Liu, Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.15646)] [[Github](https://github.com/davidbau/rewriting)]
 
 **SeFa: Closed-Form Factorization of Latent Semantics in GANs.**<br>
 *Yujun Shen, Bolei Zhou.*<br>
