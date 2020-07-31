@@ -22,6 +22,14 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Interactive and Controllable Image Manipulation
 
+**Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild.**<br>
+*[Liqian Ma](https://homes.esat.kuleuven.be/~liqianma), Zhe Lin, Connelly Barnes, Alexei A. Efros, Jingwan Lu.*<br>
+ECCV 2020. [[PDF](https://homes.esat.kuleuven.be/~liqianma/pdf/ECCV20_Unselfie.pdf)]
+
+**Translate the Facial Regions You Like Using Region-Wise Normalization.**<br>
+*Wenshuang Liu, Wenting Chen, Linlin Shen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.14615)]
+
 **ArtEditing: Modeling Artistic Workflows for Image Generation and Editing.**<br>
 *[Hung-Yu Tseng](https://sites.google.com/site/hytseng0509/), [Matt Fisher](https://techmatt.github.io/), [Jingwan (Cynthia) Lu](https://research.adobe.com/person/jingwan-lu/), [Yijun Li](https://yijunmaverick.github.io/), [Vladimir (Vova) Kim](http://www.vovakim.com/), [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/).*<br>
 ECCV 2020. [[Github](https://github.com/hytseng0509/ArtEditing)]
