@@ -165,6 +165,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.co
 
 ### Misc
 
+**Exploring Image Enhancement for Salient Object Detection in Low Light Images.**<br>
+*Xin Xu, Shiqin Wang, Zheng Wang, Xiaolong Zhang, Ruimin Hu.*<br>
+ACM Transactions on Multimedia Computing, Communications, and Applications 2020. [[PDF](https://arxiv.org/abs/2007.16124)]
+
 **Cross-Scale Internal Graph Neural Network for Image Super-Resolution.**<br>
 *Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Chen Change Loy.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16673)]
@@ -826,6 +830,18 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**Graph Structure of Neural Networks.**<br>
+*Jiaxuan You, Jure Leskovec, Kaiming He, Saining Xie.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2007.06559)]
+
+**Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation.**<br>
+*Nan Zhuang, Cheng Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13332)] [[Github](https://github.com/minivision-ai/photo2cartoon)]
+
+**Blending Generative Adversarial Image Synthesis with Rendering for Computer Graphics.**<br>
+*Ekim Yurtsever, Dongfang Yang, Ibrahim Mert Koc, Keith A. Redmill.*<br>
+arixv 2020. [[PDF](https://arxiv.org/abs/2007.15820)]
 
 **A Unified Framework of Surrogate Loss by Refactoring and Interpolation.**<br>
 *Lanlan Liu, Mingzhe Wang, Jia Deng.*<br>

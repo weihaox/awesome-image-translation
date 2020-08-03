@@ -381,6 +381,10 @@ Zhuoqing Chang, J. Matias Di Martino, Qiang Qiu, Steven Espinosa, Guillermo Sapi
 
 ### Gaze Dataset
 
+**ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation.**<br>
+*Xucong Zhang, Seonwook Park, Thabo Beeler, Derek Bradley, Siyu Tang, Otmar Hilliges.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.15837)] [[ETH-XGaze](https://ait.ethz.ch/projects/2020/ETH-XGaze)]
+
 **Columbia Gaze Data Set: Gaze Locking: Passive Eye Contact Detection for Human–Object Interaction.**<br>
 *Brian A. Smith,  Qi Yin,  Steven K. Feiner,  Shree K. Nayar.*<br>
 ACM Symposium on User Interface Software and Technology (UIST), 2013. [[PDF](http://www.cs.columbia.edu/~brian/publications/gaze_locking.html)] [[Columbia Gaze Data Set](http://www.cs.columbia.edu/CAVE/databases/columbia_gaze/)]

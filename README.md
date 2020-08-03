@@ -32,8 +32,8 @@ Feedback and contributions are welcome!
 ### ECCV 2020
 [[accepted paper list](https://eccv2020.eu/accepted-papers/)]
 
-**Contrastive Learning for Unpaired Image-to-Image Translation.**<br>
-*[Taesung Park](https://taesungp.github.io), Alexei A. Efros, Richard Zhang, Jun-Yan Zhu.*<br> [[PDF](https://arxiv.org/abs/2007.15651)] [[Project](https://taesungp.github.io/ContrastiveUnpairedTranslation/)] [[Github](https://github.com/taesungp/contrastive-unpaired-translation)]
+**Contrastive Learning for Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2007.15651)] [[Project](https://taesungp.github.io/ContrastiveUnpairedTranslation/)] [[Github](https://github.com/taesungp/contrastive-unpaired-translation)]<br>
+*[Taesung Park](https://taesungp.github.io), Alexei A. Efros, Richard Zhang, Jun-Yan Zhu.*<br> 
 
 **Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild.**[[PDF](https://homes.esat.kuleuven.be/~liqianma/pdf/ECCV20_Unselfie.pdf)] <br>
 *[Liqian Ma](https://homes.esat.kuleuven.be/~liqianma), Zhe Lin, Connelly Barnes, Alexei A. Efros, Jingwan Lu.*<br>
