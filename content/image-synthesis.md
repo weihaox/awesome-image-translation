@@ -8,7 +8,7 @@
   * [Replacing ISP](#replacing-isp)
   * [Misc](#misc)
   * [Challenge and Survey](#challenge-and-survey)
- - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
+- [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
   * [Interpreting the Latent Space of Pretrained Models (GAN Inversion)](#interpreting-the-latent-space-of-pretrained-models--gan-inversion-)
   * [StyleGAN-Based Method](#stylegan-based-method)
   * [Single-Image Training](#single-image-training)
