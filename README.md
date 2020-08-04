@@ -197,6 +197,14 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**From Design Draft to Real Attire: Unaligned Fashion Image Translation.**<br>
+*Yu Han, Shuai Yang, Wenjing Wang, Jiaying Liu.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.01023)] [[Project](https://victoriahy.github.io/MM2020/)]
+
+**Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
+*Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00951)]
+
 **Translate the Facial Regions You Like Using Region-Wise Normalization.**<br>
 *Wenshuang Liu, Wenting Chen, Linlin Shen.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.14615)]
