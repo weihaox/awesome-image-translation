@@ -22,6 +22,23 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Interactive and Controllable Image Manipulation
 
+
+**Controllable Image Synthesis via SegVAE.**<br>
+*Yen-Chi Cheng, Hsin-Ying Lee, Min Sun, Ming-Hsuan Yang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyenchicheng.github.io/SegVAE/)] [[Github](https://github.com/yccyenchicheng/SegVAE)]
+
+**Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation.**<br>
+*Nan Zhuang, Cheng Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13332)] [[Github](https://github.com/minivision-ai/photo2cartoon)]
+
+**CONFIG: Controllable Neural Face Image Generation.**<br>
+*Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2005.02671)]
+
+**Controlling Style and Semantics in Weakly-Supervised Image Generation.**<br>
+*Dario Pavllo, Aurelien Lucchi, and Thomas Hofmann.*<br>
+ECCV 2020. [[PDF](https://dariopavllo.github.io/papers/style-semantics.pdf)] [[Github](https://github.com/dariopavllo/style-semantics)]
+
 **Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild.**<br>
 *[Liqian Ma](https://homes.esat.kuleuven.be/~liqianma), Zhe Lin, Connelly Barnes, Alexei A. Efros, Jingwan Lu.*<br>
 ECCV 2020. [[PDF](https://homes.esat.kuleuven.be/~liqianma/pdf/ECCV20_Unselfie.pdf)]
