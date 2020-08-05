@@ -6,7 +6,12 @@ A list of image translation, restoration and enhancement datasets.
 
 See the [scripts](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/datasets.md) to download related datasets.
 
-### Image_Harmonization
+### Image Beautification
+
+* Everything is Better with Bokeh! Dataset [[Download](https://competitions.codalab.org/competitions/24716)]
+   * Rendering Natural Camera Bokeh Effect with Deep Learning. [[PDF](https://arxiv.org/abs/2006.05698)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet-bokeh.html)] Andrey Ignatov, Jagruti Patel, Radu Timofte.
+
+### Image Harmonization
 * IDH [[Homepage](https://github.com/bcmi/Image_Harmonization_Datasets)] [[PDF](https://arxiv.org/pdf/1911.13239.pdf)]
 * [DeepHarmonization](http://vllab.ucmerced.edu/ytsai/CVPR17/real_data.zip)
 * [colorRealism](http://balaton.graphics.cs.cmu.edu/jlalonde/colorStatistics/db.zip)
@@ -16,7 +21,7 @@ See the [scripts](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/m
 ## Image Enhancemnt
 ### HDR
 * Deep-SR-ITM [[Train](https://drive.google.com/open?id=144QYC403NrFXunlsr4k8MXUCxrlauVYH)] [[Test](https://drive.google.com/open?id=144QYC403NrFXunlsr4k8MXUCxrlauVYH)]
-   * Joint Learning of Super-Resolution and Inverse Tone-Mapping for 4K UHD HDR Applications. [[PDF](https://arxiv.org/abs/1904.11176)] [[Supplementary Material](https://drive.google.com/open?id=1bijPrcN-ont-iP0-DqyhBta_rj3dmZEe)] [[Github](https://github.com/sooyekim/Deep-SR-ITM)] Soo Ye Kim, Jihyong Oh, Munchurl Kim.  ICCV 2019.
+   * Joint Learning of Super-Resolution and Inverse Tone-Mapping for 4K UHD HDR Applications. [[PDF](https://arxiv.org/abs/1904.11176)] [[Supplementary Material](https://drive.google.com/open?id=1bijPrcN-ont-iP0-DqyhBta_rj3dmZEe)] [[Github](https://github.com/sooyekim/Deep-SR-ITM)] Soo Ye Kim, Jihyong Oh, Munchurl Kim. ICCV 2019.
 
 * MIT-Adobe FiveK Dataset [[Download, 50GB](https://data.csail.mit.edu/graphics/fivek/)]
 
