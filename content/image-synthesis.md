@@ -4,7 +4,7 @@
 - [Team](#team)
 - [Restoration or Enhancement](#restoration-or-enhancement)
   * [With Exemplar](#with-exemplar)
-  * [With Unpair or Misaligned Data](#with-unpair-or-misaligned-data)
+  * [With Unpaired or Misaligned Data](#with-unpaired-or-misaligned-data)
   * [Replacing ISP](#replacing-isp)
   * [Misc](#misc)
   * [Challenge and Survey](#challenge-and-survey)
@@ -27,7 +27,33 @@
 
 [GenForce](https://genforce.github.io): Research Initiative on Generative Modeling at CUHK.
 
-## Restoration or Enhancement
+## Image Restoration and Enhancement
+
+### Replacing ISP
+
+**Rendering Natural Camera Bokeh Effect with Deep Learning.**<br>
+*Andrey Ignatov, Jagruti Patel, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.05698)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet-bokeh.html)] [[Everything is Better with Bokeh!  Dataset](https://competitions.codalab.org/competitions/24716)]
+
+**PyNET: Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
+*Andrey Ignatov, Luc Van Gool, Radu Timofte.*<br>
+CVPRW 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)] [[Official PyTorch](https://github.com/aiff22/PyNET-PyTorch)] [[Official TensorFlow](https://github.com/aiff22/PyNET)]
+
+**DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks.**<br>
+*Andrey Ignatov, Nikolay Kobyshev, Radu Timofte, Kenneth Vanhoey, Luc Van Gool.*<br>
+ICCV 2017. [[PDF](https://arxiv.org/abs/1704.02470)] [[Github](https://github.com/aiff22/DPED)] [[Project](http://people.ee.ethz.ch/~ihnatova/index.html)]
+
+**WESPE: Weakly Supervised Photo Enhancer for Digital Cameras.**<br>
+*Andrey Ignatov, Nikolay Kobyshev, Radu Timofte, Kenneth Vanhoey, Luc Van Gool.*<br>
+CVPRW 2018. [[PDF](https://arxiv.org/abs/1709.01118)][[Project](http://people.ee.ethz.ch/~ihnatova/wespe.html)]
+
+**Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline.**<br>
+*[Yu-Lun Liu](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/), Wei-Sheng Lai, Yu-Sheng Chen, Yi-Lung Kao, Ming-Hsuan Yang, Yung-Yu Chuang, Jia-Bin Huang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01179)] [[Github](https://github.com/alex04072000/SingleHDR)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/SingleHDR)]
+
+**Deep White-Balance Editing.**<br>
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi), Michael S. Brown.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.com/mahmoudnafifi/Deep_White_Balance)]
 
 ### With Exemplar
 
@@ -40,7 +66,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.co
 CVPR 2020. [[PDF](https://arxiv.org/abs/2005.10825)] [[Github](https://ericsujw.github.io/InstColorization/)] [[Project](https://ericsujw.github.io/InstColorization/)]
 
 **Unsupervised Real Image Super-Resolution via Generative Variational AutoEncoder.**<br>
-*Zhi-Song Liu, Wan-Chi Siu, Li-Wen Wang, Chu-Tak Li, Marie-Paule Cani, Yui-Lam Chan.*<br>.
+*Zhi-Song Liu, Wan-Chi Siu, Li-Wen Wang, Chu-Tak Li, Marie-Paule Cani, Yui-Lam Chan.*<br>
 CVPR 2020 Workshop NTIRE. [[PDF](https://arxiv.org/abs/2004.12811)] [[Github](https://github.com/Holmes-Alan/dSRVAE)] [[NTIRE2020 Real Image Super-Resolution Challenge](https://data.vision.ee.ethz.ch/cvl/ntire20/)]
 
 **SRTNN: Image Super-Resolution by Neural Texture Transfer.**<br>
@@ -75,7 +101,7 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 *Audrey Richard, Ian Cherabier, Martin R. Oswald, Vagia Tsiminaki, Marc Pollefeys, Konrad Schindler.*<br>
 3DV 2019. [[PDF](https://arxiv.org/abs/2001.04775)]
 
-### With Unpair or Misaligned Data
+### With Unpaired or Misaligned Data
 
 **From Shadow Segmentation to Shadow Removal.**<br>
 *Hieu Le, Dimitris Samaras.*<br>
@@ -157,17 +183,11 @@ arxiv, 27 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12291)] [[GitHub](https://
 *Alexander Krull, Tomas Vicar, Florian Jug.*<br>
 arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://github.com/juglab/pn2v)]
 
-### Replacing ISP
-
-**PyNET: Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
-*Andrey Ignatov, Luc Van Gool, Radu Timofte.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)] [[Official PyTorch](https://github.com/aiff22/PyNET-PyTorch)] [[Official TensorFlow](https://github.com/aiff22/PyNET)]
-
-**Deep White-Balance Editing.**<br>
-*[Mahmoud Afifi](https://sites.google.com/view/mafifi), Michael S. Brown.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)] [[Github](https://github.com/mahmoudnafifi/Deep_White_Balance)]
-
 ### Misc
+
+**Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing.**<br>
+*Aupendu Kar, Sobhan Kanti Dhara, Debashis Sen, Prabir Kumar Biswas.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.01701)] [[Project](https://aupendu.github.io/iterative-dehaze)]
 
 **Implicit Euler ODE Networks for Single-Image Dehazing.**<br>
 *Jiawei Shen, Zhuoyan Li, Lei Yu, Gui-Song Xia, Wen Yang.*<br>
@@ -411,7 +431,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13081)] [[Github](https://github.co
 
 **DeepSEE: Deep Disentangled Semantic Explorative Extreme Super-Resolution.**<br>
 *Marcel Christoph Bühler, Andrés Romero, Radu Timofte.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04433)] [[Project](https://mcbuehler.github.io/DeepSEE/)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04433)] [[Project](https://mcbuehler.github.io/DeepSEE/)] [[Github](github.com/mcbuehler/DeepSEE)]
 
 **Deblurring using Analysis-Synthesis Networks Pair.**<br>
 *Adam Kaufman, Raanan Fattal.*<br>
@@ -440,10 +460,6 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Afifi_Wh
 **Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy.**<br>
 *Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00448)] [[Github](https://github.com/clovaai/cutblur)]
-
-**Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline.**<br>
-*[Yu-Lun Liu](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/), Wei-Sheng Lai, Yu-Sheng Chen, Yi-Lung Kao, Ming-Hsuan Yang, Yung-Yu Chuang, Jia-Bin Huang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01179)] [[Github](https://github.com/alex04072000/SingleHDR)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/SingleHDR)]
 
 **Learning to See Through Obstructions.**<br>
 *Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang.*<br>
