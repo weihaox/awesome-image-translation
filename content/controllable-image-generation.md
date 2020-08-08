@@ -22,6 +22,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Interactive and Controllable Image Manipulation
 
+**Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions.**<br>
+*[Xihui Liu](https://xh-liu.github.io/), Zhe Lin, Jianming Zhang, Handong Zhao, Quan Tran, Xiaogang Wang, and Hongsheng Li.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01576v1)] [[Github](https://github.com/xh-liu/Open-Edit)]
+
 **Describing Textures using Natural Language.**<br>
 *Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01180)] [[Project](https://people.cs.umass.edu/~chenyun/texture)]
@@ -181,7 +185,12 @@ ACM Transactions on Graphics 2020. [[PDF](https://arxiv.org/abs/2004.13204)]
 ## 3D Pose Transfer
 *3D Pose Transfer* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#attribute-editing).
 
-## Grounded Image Captioning
+## Generating Accurate Descriptions
+
+**Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards.**<br>
+*Xuewen Yang, Heming Zhang, Di Jin, Yingru Liu, Chi-Hao Wu, Jianchao Tan, Dongliang Xie, Jue Wang, Xin Wang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02693)]
+
 **POS-SCAN: More Grounded Image Captioning by Distilling Image-Text Matching Model.**<br>
 *Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.com/YuanEZhou/Grounded-Image-Captioning)]
