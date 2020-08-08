@@ -103,6 +103,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpaired or Misaligned Data
 
+**Component Divide-and-Conquer for Real-World Image Super-Resolution.**<br>
+*Pengxu Wei, Ziwei Xie, Hannan Lu, Zongyuan Zhan, Qixiang Ye, Wangmeng Zuo, Liang Lin.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.01928)] [[Github](https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution)]
+
 **From Shadow Segmentation to Shadow Removal.**<br>
 *Hieu Le, Dimitris Samaras.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.00267)] [[Github](https://www3.cs.stonybrook.edu/~cvl/projects/FSS2SR/index.html)]
@@ -499,6 +503,10 @@ ICCV 2019 Workshop: Advances in Image Manipulation. [[](https://arxiv.org/abs/20
 
 ### Interpreting the Latent Space of Pretrained Models (GAN Inversion)
 
+**StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows.**<br>
+*Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02401)] [[Github](https://rameenabdal.github.io/StyleFlow)]
+
 **Rewriting a Deep Generative Model.**<br>
 *David Bau, Steven Liu, Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.15646)] [[Github](https://github.com/davidbau/rewriting)]
@@ -581,6 +589,8 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1911.11544)]
 
 ### StyleGAN-Based Method
 
+[[awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)]
+
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
 arxiv, 3 Dec 2019.
@@ -632,6 +642,18 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**F2GAN: Fusing-and-Filling GAN for Few-shot Image Generation.**<br>
+*Yan Hong, Li Niu, Jianfu Zhang, Weijie Zhao, Chen Fu, Liqing Zhang.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.01999)]
+
+**Generative Adversarial Networks for Image and Video Synthesis: Algorithms and Applications.**<br>
+*Ming-Yu Liu, Xun Huang, Jiahui Yu, Ting-Chun Wang, Arun Mallya.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02793)]
+
+**Image Generation for Efficient Neural Network Training in Autonomous Drone Racing.**<br>
+*Theo Morales, Andriy Sarabakha, Erdal Kayacan.*<br>
+IJCNN 2020. [[PDF](https://arxiv.org/abs/2008.02596)]
 
 **Graph Structure of Neural Networks.**<br>
 *Jiaxuan You, Jure Leskovec, Kaiming He, Saining Xie.*<br>
@@ -1197,13 +1219,17 @@ arxiv, 2019. [[PDF](https://arxiv.org/abs/1912.11258)] [[Github](https://github.
 
 ## Occlusion Reasoning
 
-**Peek-a-Boo: Occlusion Reasoning in Indoor Scenes with Plane Representations.**
-*Ziyu Jiang, Buyu Liu, Samuel Schulter, Zhangyang Wang, [Manmohan Chandraker](http://cseweb.ucsd.edu/~mkchandraker/).*
+**Peek-a-Boo: Occlusion Reasoning in Indoor Scenes with Plane Representations.**<br>
+*Ziyu Jiang, Buyu Liu, Samuel Schulter, Zhangyang Wang, [Manmohan Chandraker](http://cseweb.ucsd.edu/~mkchandraker/).*<br>
 CVPR 2020. [[PDF](http://cseweb.ucsd.edu/~mkchandraker/pdf/cvpr20_peekaboo.pdf)]
 
 **Self-Supervised Scene De-occlusion.**<br>
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), [Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Github](https://github.com/XiaohangZhan/deocclusion/)]
+
+**Efficient Non-Line-of-Sight Imaging from Transient Sinograms.**<br>
+*Mariko Isogawa, Dorian Chan, Ye Yuan, Kris Kitani, Matthew O'Toole.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 ## Motion Synthesis
 
@@ -1222,6 +1248,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1905.06598)] [[Github](https://github.c
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.00809)] [[Github](https://github.com/saic-vul/image_harmonization)]
 
 ## Photorealistic Style Transfer
+
+**Domain-Specific Mappings for Generative Adversarial Style Transfers.**<br>
+*Hsin-Yu Chang, Zhixiang Wang, Yung-Yu Chuangs.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02198)] [[Project](https://acht7111020.github.io/DSMAP-demo/)] [[Github](https://acht7111020.github.io/DSMAP-demo/)]
 
 **Filter Style Transfer between Photos.**<br>
 *Jonghwa Yim, Jisung Yoo, Won-joon Do, Beomsu Kim, Jihwan Choe.*<br>
