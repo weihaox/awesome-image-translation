@@ -197,6 +197,10 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**Dual Attention GANs for Semantic Image Synthesis.**<br>
+*Hao Tang, Song Bai, Nicu Sebe.*<br>
+ACM MM 2020. [[PDF]()] [[Github](https://github.com/Ha0Tang/DAGAN)]
+
 **From Design Draft to Real Attire: Unaligned Fashion Image Translation.**<br>
 *Yu Han, Shuai Yang, Wenjing Wang, Jiaying Liu.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.01023)] [[Project](https://victoriahy.github.io/MM2020/)]
