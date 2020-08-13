@@ -189,6 +189,22 @@ arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://g
 
 ### Misc
 
+**F2GAN: Fusing-and-Filling GAN for Few-shot Image Generation.**<br>
+*Yan Hong, Li Niu, Jianfu Zhang, Weijie Zhao, Chen Fu, Liqing Zhang.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.01999)]
+
+**Recurrent Feature Reasoning for Image Inpainting.**<br>
+*Jingyuan Li, Ning Wang, Lefei Zhang, Bo Du, Dacheng Tao.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2008.03737)] [[GitHub](https://github.com/jingyuanli001/RFR-Inpainting)]
+
+**ESRGAN+: Further Improving Enhanced Super-Resolution Generative Adversarial Network.**<br>
+*Nathanaël Carraz Rakotonirina, Andry Rasoanaivo.*<br>
+ICASSP 2020. [[PDF](https://arxiv.org/abs/2001.08073)] [[GitHub](https://github.com/ncarraz/ESRGANplus)]
+
+**Rethinking Image Deraining via Rain Streaks and Vapors.**<br>
+*Yinglong Wang, Yibing Song, Chao Ma, Bing Zeng.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.00823)]
+
 **Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing.**<br>
 *Aupendu Kar, Sobhan Kanti Dhara, Debashis Sen, Prabir Kumar Biswas.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.01701)] [[Project](https://aupendu.github.io/iterative-dehaze)]
@@ -469,6 +485,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00448)] [[Github](https://github.co
 *Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang.*<br>
 CVPR 2020. [[PDF](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval_/02197.pdf)] [[Github](https://github.com/alex04072000/ObstructionRemoval)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval)]
 
+**Learning to See Through Obstructions with Layered Decomposition.**<br>
+*Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang, Jia-Bin Huang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.04902)]
+
 **DeepLPF: Deep Local Parametric Filters for Image Enhancement.**<br>
 *Sean Moran, Pierre Marza, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
@@ -502,6 +522,10 @@ ICCV 2019 Workshop: Advances in Image Manipulation. [[](https://arxiv.org/abs/20
 ## Diving Deep into Image Synthesis
 
 ### Interpreting the Latent Space of Pretrained Models (GAN Inversion)
+
+**Face Identity Disentanglement via Latent Space Mapping.**<br>
+*Yotam Nitzan, Amit Bermano, Yangyan Li, Daniel Cohen-Or.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.07728)]
 
 **StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows.**<br>
 *Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
@@ -579,13 +603,21 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1907.10786)] [[Project](https://genforce
 *Jiapeng Zhu, Yujun Shen, Deli Zhao, Bolei Zhou.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2004.00049)] [[Project](https://genforce.github.io/idinvert/)] [[Github](https://github.com/genforce/idinvert)]
 
+**Image2StyleGAN++: How to Edit the Embedded Images?**<br>
+*Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1911.11544)]
+
 **Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?**<br>
 *Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1904.03189)]
 
-**Image2StyleGAN++: How to Edit the Embedded Images?**<br>
-*Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1911.11544)]
+**Inverting The Generator Of A Generative Adversarial Network (II).**<br>
+*Antonia Creswell, Anil A Bharath.*<br>
+TNNLS 2018. [[PDF](https://arxiv.org/abs/1802.05701)] [[Github](https://github.com/ToniCreswell/InvertingGAN)]
+
+**Inverting The Generator Of A Generative Adversarial Network.**<br>
+*Antonia Creswell, Anil Anthony Bharath.*<br>
+NIPSW 2016. [[PDF](https://arxiv.org/abs/1611.05644)]
 
 ### StyleGAN-Based Method
 
@@ -642,6 +674,10 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis.**<br>
+*Ceyuan Yang, Yujun Shen, Bolei Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1911.09267)]
 
 **F2GAN: Fusing-and-Filling GAN for Few-shot Image Generation.**<br>
 *Yan Hong, Li Niu, Jianfu Zhang, Weijie Zhao, Chen Fu, Liqing Zhang.*<br>
@@ -924,6 +960,10 @@ arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
 
+**Two-branch Recurrent Network for Isolating Deepfakes in Videos.**<br>
+*Iacopo Masi, Aditya Killekar, Royston Marian Mascarenhas, Shenoy Pratik Gurudatt, Wael AbdAlmageed.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.03412)]
+
 **The DeepFake Detection Challenge Dataset.**<br>
 *Brian Dolhansky, Joanna Bitton, Ben Pflaum, Jikuo Lu, Russ Howes, Menglin Wang, Cristian Canton Ferrer.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07397)] [[Dataset](http://ai.facebook.com/)]
@@ -1056,6 +1096,10 @@ ICCV, 2019.
 ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
 
 ## Video Prediction and Future Prediction
+
+**DTVNet: Dynamic Time-lapse Video Generation via Single Still Image.**<br>
+*Jiangning Zhang, Chao Xu, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, Yunliang Jiang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.04776)]
 
 **Transformation-based Adversarial Video Prediction on Large-Scale Data.**<br>
 *Pauline Luc, Aidan Clark, Sander Dieleman, Diego de Las Casas, Yotam Doron, Albin Cassirer, Karen Simonyan.*<br>

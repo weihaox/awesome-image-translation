@@ -197,6 +197,10 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**Retrieval Guided Unsupervised Multi-domain Image-to-Image Translation.**<br>
+*Raul Gomez, Yahui Liu, Marco De Nadai, Dimosthenis Karatzas, Bruno Lepri, Nicu Sebe.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.04991)] 
+
 **Dual Attention GANs for Semantic Image Synthesis.**<br>
 *Hao Tang, Song Bai, Nicu Sebe.*<br>
 ACM MM 2020. [[PDF]()] [[Github](https://github.com/Ha0Tang/DAGAN)]
@@ -204,6 +208,14 @@ ACM MM 2020. [[PDF]()] [[Github](https://github.com/Ha0Tang/DAGAN)]
 **From Design Draft to Real Attire: Unaligned Fashion Image Translation.**<br>
 *Yu Han, Shuai Yang, Wenjing Wang, Jiaying Liu.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.01023)] [[Project](https://victoriahy.github.io/MM2020/)]
+
+**Learning to Caricature via Semantic Shape Transform.**<br>
+*Wenqing Chu, Wei-Chih Hung, Yi-Hsuan Tsai, Yu-Ting Chang, Yijun Li, Deng Cai, Ming-Hsuan Yang.*<br>
+IJCV 2020. [[PDF](https://arxiv.org/abs/2008.05090)]
+
+**Deep Sketch-guided Cartoon Video Synthesis.**<br>
+*Xiaoyu Li, Bo Zhang, Jing Liao, Pedro V. Sander.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.04149)]
 
 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
 *Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>

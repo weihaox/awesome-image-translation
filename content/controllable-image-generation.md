@@ -22,6 +22,14 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Interactive and Controllable Image Manipulation
 
+**Dual In-painting Model for Unsupervised Gaze Correction and Animation in the Wild.**<br>
+*Jichao Zhang, Jingjing Chen, Hao Tang, Wei Wang, Yan Yan, Enver Sangineto, Nicu Sebe.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.03834)]
+
+**Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach.**<br>
+*Yahui Liu, Marco De Nadai, Deng Cai, Huayang Li, Xavier Alameda-Pineda, Nicu Sebe, Bruno Lepri.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.04200)]
+
 **Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions.**<br>
 *[Xihui Liu](https://xh-liu.github.io/), Zhe Lin, Jianming Zhang, Handong Zhao, Quan Tran, Xiaogang Wang, and Hongsheng Li.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01576v1)] [[Github](https://github.com/xh-liu/Open-Edit)]
