@@ -103,6 +103,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpaired or Misaligned Data
 
+**Dehaze-GLCGAN: Unpaired Single Image De-hazing via Adversarial Training.**<br>
+*Zahra Anvari, Vassilis Athitsos.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.06632)]
+
 **Component Divide-and-Conquer for Real-World Image Super-Resolution.**<br>
 *Pengxu Wei, Ziwei Xie, Hannan Lu, Zongyuan Zhan, Qixiang Ye, Wangmeng Zuo, Liang Lin.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.01928)] [[Github](https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution)]
@@ -188,6 +192,18 @@ arxiv, 27 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12291)] [[GitHub](https://
 arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://github.com/juglab/pn2v)]
 
 ### Misc
+
+**Can You Read Me Now? Content Aware Rectification using Angle Supervision.**<br>
+*Amir Markovitz, Inbal Lavi, Or Perel, Shai Mazor, Roee Litman.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02231)]
+
+**DeepGIN: Deep Generative Inpainting Network for Extreme Image Inpainting.**<br>
+*Chu-Tak Li, Wan-Chi Siu, Zhi-Song Liu, Li-Wen Wang, Daniel Pak-Kong Lun.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.07173)]
+
+**SRFlow: Learning the Super-Resolution Space with Normalizing Flow.**<br>
+*Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
+ECCV 2020. [[PDF](http://de.arxiv.org/abs/2006.14200)] [[Github](https://github.com/andreas128/SRFlow)]
 
 **F2GAN: Fusing-and-Filling GAN for Few-shot Image Generation.**<br>
 *Yan Hong, Li Niu, Jianfu Zhang, Weijie Zhao, Chen Fu, Liqing Zhang.*<br>
@@ -674,6 +690,10 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**FFWM: Learning Flow-based Feature Warping for Face Frontalization with Illumination Inconsistent Supervision.**<br>
+*Yuxiang Wei, Ming Liu, Haolin Wang, Ruifeng Zhu, Guosheng Hu, Wangmeng Zuo.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.06843)] [[Github](https://github.com/csyxwei/FFWM)]
 
 **Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis.**<br>
 *Ceyuan Yang, Yujun Shen, Bolei Zhou.*<br>

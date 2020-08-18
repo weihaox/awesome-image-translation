@@ -265,6 +265,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 
 ### Text-to-Image
 
+**DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis.**<br>
+*Ming Tao, Hao Tang, Songsong Wu, Nicu Sebe, Fei Wu, Xiao-Yuan Jing.*<br>
+[[PDF](https://arxiv.org/abs/2008.05865)] [[Github](https://github.com/tobran/DF-GAN)]
+
 **CVSE: Consensus-Aware Visual-Semantic Embedding for Image-Text Matching.**<br>
 *Haoran Wang, Ying Zhang, Zhong Ji, Yanwei Pang, Lin Ma.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08883)] [[Gtihub](https://github.com/BruceW91/CVSE)]

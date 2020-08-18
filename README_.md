@@ -873,8 +873,8 @@ SIGGRAPH 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-v
 ### Attribute Editing
 
 **Lifespan Age Transformation Synthesis.**<br>
-*Roy Or-El, Soumyadip Sengupta, Ohad Fried, Eli Shechtman, Ira Kemelmacher-Shlizerman.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.09764)]
+*[Roy Or-El](https://homes.cs.washington.edu/~royorel/), [Soumyadip Sengupta](https://homes.cs.washington.edu/~soumya91/), [Ohad Fried](https://www.ohadf.com/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Ira Kemelmacher-Shlizerman](https://homes.cs.washington.edu/~kemelmi/).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.09764)] [[Github](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)] [[Project](https://grail.cs.washington.edu/projects/lifespan_age_transformation_synthesis/)] [[FFHQ-Aging-Dataset](https://github.com/royorel/FFHQ-Aging-Dataset)]
 
 **LEED: Label-Free Expression Editing via Disentanglement.**<br>
 *Rongliang Wu, Shijian Lu.*<br>
