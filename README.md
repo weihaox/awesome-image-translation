@@ -71,6 +71,10 @@ Feedback and contributions are welcome!
 **TuiGAN: Learning Versatile Image-to-Image Translation with Two Unpaired Images.**[[PDF](https://arxiv.org/abs/2004.04634)] [[Github](https://github.com/linjx-ustc1106/TuiGAN-PyTorch)]<br>
 *Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
 
+**Model-based occlusion disentanglemnt for image-to-image translation**[[PDF]](https://arxiv.org/abs/2004.01071)<br>
+*[Fabio Pizzati](https://fabvio.github.io), Pietro Cerri, Raoul de Charette.*<br>
+
+
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
 
