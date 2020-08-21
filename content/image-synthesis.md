@@ -627,13 +627,33 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1911.11544)]
 *Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/1904.03189)]
 
+**Seeing What a GAN Cannot Generate.**<br>
+*David Bau, Jun-Yan Zhu, Jonas Wulff, William Peebles, Hendrik Strobelt, Bolei Zhou, Antonio Torralba.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1910.11626)] [[PDF](http://ganseeing.csail.mit.edu/)]
+
+**GAN-based Projector for Faster Recovery with Convergence Guarantees in Linear Inverse Problems.**<br>
+*Ankit Raj, Yuqi Li, Yoram Bresler.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1902.09698)]
+
+**Task-Aware Compressed Sensing with Generative Adversarial Networks.**<br>
+*Maya Kabkab, Pouya Samangouei, Rama Chellappa.*<br>
+AAAI 2018.
+
 **Inverting The Generator Of A Generative Adversarial Network (II).**<br>
 *Antonia Creswell, Anil A Bharath.*<br>
 TNNLS 2018. [[PDF](https://arxiv.org/abs/1802.05701)] [[Github](https://github.com/ToniCreswell/InvertingGAN)]
 
+**One Network to Solve Them All --- Solving Linear Inverse Problems using Deep Projection Models.**<br>
+*J. H. Rick Chang, Chun-Liang Li, Barnabas Poczos, B. V. K. Vijaya Kumar, Aswin C. Sankaranarayanan.*<br>
+ICCV 2017. [[PDF](https://arxiv.org/abs/1703.09912)]
+
 **Inverting The Generator Of A Generative Adversarial Network.**<br>
 *Antonia Creswell, Anil Anthony Bharath.*<br>
 NIPSW 2016. [[PDF](https://arxiv.org/abs/1611.05644)]
+
+**Generative Visual Manipulation on the Natural Image Manifold.**<br>
+*Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros.*<br>
+ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ### StyleGAN-Based Method
 
