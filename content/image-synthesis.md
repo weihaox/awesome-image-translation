@@ -9,7 +9,6 @@
   * [Misc](#misc)
   * [Challenge and Survey](#challenge-and-survey)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
-  * [Interpreting the Latent Space of Pretrained Models (GAN Inversion)](#interpreting-the-latent-space-of-pretrained-models--gan-inversion-)
   * [StyleGAN-Based Method](#stylegan-based-method)
   * [Single-Image Training](#single-image-training)
   * [Misc](#misc-1)
@@ -119,6 +118,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.00267)] [[Github](https://www3.cs.s
 *Xiaohe Wu, Ming Liu, Yue Cao, Dongwei Ren, Wangmeng Zuo.*<br>
 ECCV 2020. [[PDF](https://github.com/XHWXD/DBSN)]
 
+**Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement.**<br>
+*Chunle Guo, Chongyi Li, Jichang Guo, Chen Change Loy, Junhui Hou, Sam Kwong, Runmin Cong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2001.06826)] [[Github](https://github.com/Li-Chongyi/Zero-DCE)]
+
 **Unpaired Image Super-Resolution using Pseudo-Supervision.**<br>
 *Shunta Maeda.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11397)]
@@ -192,6 +195,18 @@ arxiv, 27 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12291)] [[GitHub](https://
 arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://github.com/juglab/pn2v)]
 
 ### Misc
+
+**LIRA: Lifelong Image Restoration from Unknown Blended Distortions.**<br>
+*Jianzhao Liu, Jianxin Lin, Xin Li, Wei Zhou, Sen Liu, Zhibo Chen.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08242)]
+
+**Single Image Super-Resolution via a Holistic Attention Network.**<br>
+*Ben Niu, Weilei Wen, Wenqi Ren, Xiangde Zhang, Lianping Yang, Shuzhen Wang, Kaihao Zhang, Xiaochun Cao, Haifeng Shen.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/2008.08767)]
+
+**FourFeat: Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
+*Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)]
 
 **Can You Read Me Now? Content Aware Rectification using Angle Supervision.**<br>
 *Amir Markovitz, Inbal Lavi, Or Perel, Shai Mazor, Roee Litman.*<br>
@@ -536,124 +551,6 @@ NTIRE 2020. [[PDF](https://arxiv.org/abs/2005.03155)]
 ICCV 2019 Workshop: Advances in Image Manipulation. [[](https://arxiv.org/abs/2005.01233)]
 
 ## Diving Deep into Image Synthesis
-
-### Interpreting the Latent Space of Pretrained Models (GAN Inversion)
-
-**Face Identity Disentanglement via Latent Space Mapping.**<br>
-*Yotam Nitzan, Amit Bermano, Yangyan Li, Daniel Cohen-Or.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2005.07728)]
-
-**StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows.**<br>
-*Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02401)] [[Github](https://rameenabdal.github.io/StyleFlow)]
-
-**Rewriting a Deep Generative Model.**<br>
-*David Bau, Steven Liu, Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.15646)] [[Github](https://github.com/davidbau/rewriting)]
-
-**SeFa: Closed-Form Factorization of Latent Semantics in GANs.**<br>
-*Yujun Shen, Bolei Zhou.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.06600)] [[Github](https://github.com/genforce/sefa)] [[Project](https://genforce.github.io/sefa/)]
-
-**Collaborative Learning for Faster StyleGAN Embedding.**<br>
-*Shanyan Guan, Ying Tai, Bingbing Ni, Feida Zhu, Feiyue Huang, Xiaokang Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01758)]
-
-**When and How Can Deep Generative Models be Inverted?.**<br>
-*Aviad Aberdam, Dror Simon, Michael Elad.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15555)]
-
-**Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
-*Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10132)]
-
-**PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
-*Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.03808)]
-
-**One-Shot Domain Adaptation For Face Generation.**<br>
-*Chao Yang, Ser-Nam Lim.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12869)]
-
-**Unsupervised Discovery of Interpretable Directions in the GAN Latent Space.**<br>
-*Andrey Voynov, Artem Babenko.*<br>
-arxiv, 10 Feb 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.com/anvoynov/GANLatentDiscovery)]
-
-**Disentangling in Latent Space by Harnessing a Pretrained Generator.**<br>
-*Yotam Nitzan, Amit Bermano, Yangyan Li, Daniel Cohen-Or.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2005.07728)]
-
-**StyleGAN2 Distillation for Feed-forward Image Manipulation.**<br>
-*Yuri Viazovetskyi, Vladimir Ivashkin, Evgeny Kashin.*<br>
-arxiv, 7 Mar 2020. [[PDF](https://arxiv.org/abs/2003.03581)] [[Github](https://github.com/EvgenyKashin/stylegan2-distillation)]
-
-**Transforming and Projecting Images into Class-conditional Generative Networks.**<br>
-*[Minyoung Huh](http://minyounghuh.com/), [Richard Zhang](https://richzhang.github.io/), [Jun-Yan Zhu](https://people.csail.mit.edu/junyanz/), [Sylvain Paris](http://people.csail.mit.edu/sparis/), [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/).*<br>
-arxiv 2020. [[PDF](http://arxiv.org/abs/2005.01703)] [[Github](https://github.com/minyoungg/GAN-Transform-and-Project)] [[Project](https://minyoungg.github.io/GAN-Transform-and-Project/)]
-
-**A Disentangling Invertible Interpretation Network for Explaining Latent Representations.**<br>
-*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13166)] [[Project](https://compvis.github.io/iin/)] [[Github](https://github.com/CompVis/iin)]
-
-**Editing in Style: Uncovering the Local Semantics of GANs.**<br>
-*Edo Collins, Raja Bala, Bob Price, Sabine Süsstrunk.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.14367)] [[Github](https://github.com/IVRL/GANLocalEditing)]
-
-**Disentangled Image Generation Through Structured Noise Injection.**<br>
-*Yazeed Alharbi, Peter Wonka.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.12411)]
-
-**GANSpace: Discovering Interpretable GAN Controls.**<br>
-*Erik Härkönen, Aaron Hertzmann, Jaakko Lehtinen, Sylvain Paris.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02546)] [[Github](https://github.com/harskish/ganspace)]
-
-**Image Processing Using Multi-Code GAN Prior.**<br>
-*[Jinjin Gu](http://www.jasongt.com/), Yujun Shen, Bolei Zhou.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.07116)] [[Project](https://genforce.github.io/mganprior/)] [[Github](https://github.com/genforce/mganprior)]
-
-**Interpreting the Latent Space of GANs for Semantic Face Editing.**<br>
-*[Yujun Shen](http://shenyujun.github.io/), [Jinjin Gu](http://www.jasongt.com/), [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Bolei Zhou](http://bzhou.ie.cuhk.edu.hk/).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1907.10786)] [[Project](https://genforce.github.io/interfacegan/)] [[Github](https://github.com/genforce/interfacegan)]
-
-**In-Domain GAN Inversion for Real Image Editing.**<br>
-*Jiapeng Zhu, Yujun Shen, Deli Zhao, Bolei Zhou.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2004.00049)] [[Project](https://genforce.github.io/idinvert/)] [[Github](https://github.com/genforce/idinvert)]
-
-**Image2StyleGAN++: How to Edit the Embedded Images?**<br>
-*Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1911.11544)]
-
-**Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?**<br>
-*Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1904.03189)]
-
-**Seeing What a GAN Cannot Generate.**<br>
-*David Bau, Jun-Yan Zhu, Jonas Wulff, William Peebles, Hendrik Strobelt, Bolei Zhou, Antonio Torralba.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1910.11626)] [[PDF](http://ganseeing.csail.mit.edu/)]
-
-**GAN-based Projector for Faster Recovery with Convergence Guarantees in Linear Inverse Problems.**<br>
-*Ankit Raj, Yuqi Li, Yoram Bresler.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1902.09698)]
-
-**Task-Aware Compressed Sensing with Generative Adversarial Networks.**<br>
-*Maya Kabkab, Pouya Samangouei, Rama Chellappa.*<br>
-AAAI 2018.
-
-**Inverting The Generator Of A Generative Adversarial Network (II).**<br>
-*Antonia Creswell, Anil A Bharath.*<br>
-TNNLS 2018. [[PDF](https://arxiv.org/abs/1802.05701)] [[Github](https://github.com/ToniCreswell/InvertingGAN)]
-
-**One Network to Solve Them All --- Solving Linear Inverse Problems using Deep Projection Models.**<br>
-*J. H. Rick Chang, Chun-Liang Li, Barnabas Poczos, B. V. K. Vijaya Kumar, Aswin C. Sankaranarayanan.*<br>
-ICCV 2017. [[PDF](https://arxiv.org/abs/1703.09912)]
-
-**Inverting The Generator Of A Generative Adversarial Network.**<br>
-*Antonia Creswell, Anil Anthony Bharath.*<br>
-NIPSW 2016. [[PDF](https://arxiv.org/abs/1611.05644)]
-
-**Generative Visual Manipulation on the Natural Image Manifold.**<br>
-*Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros.*<br>
-ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
 
 ### StyleGAN-Based Method
 
@@ -1011,6 +908,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07397)] [[Dataset](http://ai.faceb
 **DeepFaceLab: A simple, flexible and extensible face swapping framework.**<br>
 *Ivan Petrov, Daiheng Gao, Nikolay Chervoniy, Kunlin Liu, Sugasa Marangonda, Chris Umé, Mr. Dpfks, Carl Shift Facenheim, Luis RP, Jian Jiang, Sheng Zhang, Pingyu Wu, Bo Zhou, Weiming Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.05535)] [[Github](https://github.com/iperov/DeepFaceLab/)]
+
+**Face Anti-Spoofing Via Disentangled Representation Learning.**<br>
+*Ke-Yue Zhang, Taiping Yao, Jian Zhang, Ying Tai, Shouhong Ding, Jilin Li, Feiyue Huang, Haichuan Song, Lizhuang Ma.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08250)]
 
 **Face Anti-Spoofing with Human Material Perception.**<br>
 *Zitong Yu, Xiaobai Li, Xuesong Niu, Jingang Shi, Guoying Zhao.*<br>

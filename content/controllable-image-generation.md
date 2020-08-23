@@ -22,6 +22,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Interactive and Controllable Image Manipulation
 
+**Deep Relighting Networks for Image Light Source Manipulation.**<br>
+*Li-Wen Wang, Wan-Chi Siu, Zhi-Song Liu, Chu-Tak Li, Daniel P.K. Lun.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08298)]
+
 **Dual In-painting Model for Unsupervised Gaze Correction and Animation in the Wild.**<br>
 *Jichao Zhang, Jingjing Chen, Hao Tang, Wei Wang, Yan Yan, Enver Sangineto, Nicu Sebe.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.03834)]
@@ -131,6 +135,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0
 SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
 
 ## Individual Object Manipulation
+
+**AssembleNet++: Assembling Modality Representations via Attention Connections.**<br>
+*Michael S. Ryoo, AJ Piergiovanni, Juhana Kangaspunta, Anelia Angelova.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08072)] [[Project](https://sites.google.com/corp/view/assemblenet/)]
+
+**Object Properties Inferring from and Transfer for Human Interaction Motions.**<br>
+*Qian Zheng, Weikai Wu, Hanting Pan, Niloy Mitra, Daniel Cohen-Or, Hui Huang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08999)] [[Project](http://vcc.szu.edu.cn/research/2020/IT)]
 
 **SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects.**<br>
 *Evangelos Ntavelis, Andrés Romero, Iason Kastanis, Luc Van Gool, Radu Timofte.*<br>

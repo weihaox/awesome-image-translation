@@ -790,6 +790,10 @@ CVPR 2018. [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Car
 
 ### Image Restoration
 
+**Slide-free MUSE Microscopy to H&E Histology Modality Conversion via Unpaired Image-to-Image Translation GAN Models.**<br>
+*Tanishq Abraham, Andrew Shaw, Daniel O'Connor, Austin Todd, Richard Levenson.*<br>
+ICMLW 2020. [[PDF](https://arxiv.org/abs/2008.08579)]
+
 **Bringing Old Photos Back to Life.**<br>
 *[Ziyu Wan](http://raywzy.com), Bo Zhang, [Dongdong Chen](http://www.dongdongchen.bid/), Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]
