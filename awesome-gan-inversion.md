@@ -9,6 +9,18 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 
 Feedback and contributions are welcome!
 
+**On the "steerability" of generative adversarial networks.**<br>
+*Ali Jahanian, Lucy Chai, Phillip Isola.*<br>
+ICLR 2020. [[PDF](https://arxiv.org/abs/1907.07171)] [[Project](https://ali-design.github.io/gan_steerability/)]
+
+**Transforming and Projecting Images into Class-conditional Generative Networks.**<br>
+*Minyoung Huh, Richard Zhang, Jun-Yan Zhu, Sylvain Paris, Aaron Hertzmann.*<br>
+[[PDF](https://arxiv.org/abs/2005.01703)]
+
+**Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models.**<br>
+*Giannis Daras, Augustus Odena, Han Zhang, Alexandros G. Dimakis.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12287)]
+
 **Face Identity Disentanglement via Latent Space Mapping.**<br>
 *Yotam Nitzan, Amit Bermano, Yangyan Li, Daniel Cohen-Or.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.07728)]
@@ -37,17 +49,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15555)]
 *Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10132)]
 
-**PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
-*Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.03808)]
-
-**One-Shot Domain Adaptation For Face Generation.**<br>
-*Chao Yang, Ser-Nam Lim.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12869)]
-
 **Unsupervised Discovery of Interpretable Directions in the GAN Latent Space.**<br>
 *Andrey Voynov, Artem Babenko.*<br>
-arxiv, 10 Feb 2020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.com/anvoynov/GANLatentDiscovery)]
+ICML 020. [[PDF](https://arxiv.org/abs/2002.03754)] [[Github](https://github.com/anvoynov/GANLatentDiscovery)]
 
 **Disentangling in Latent Space by Harnessing a Pretrained Generator.**<br>
 *Yotam Nitzan, Amit Bermano, Yangyan Li, Daniel Cohen-Or.*<br>
@@ -68,10 +72,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13166)] [[Project](https://compvis.
 **Editing in Style: Uncovering the Local Semantics of GANs.**<br>
 *Edo Collins, Raja Bala, Bob Price, Sabine Süsstrunk.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.14367)] [[Github](https://github.com/IVRL/GANLocalEditing)]
-
-**Disentangled Image Generation Through Structured Noise Injection.**<br>
-*Yazeed Alharbi, Peter Wonka.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.12411)]
 
 **GANSpace: Discovering Interpretable GAN Controls.**<br>
 *Erik Härkönen, Aaron Hertzmann, Jaakko Lehtinen, Sylvain Paris.*<br>
@@ -117,7 +117,7 @@ AAAI 2018.
 *Antonia Creswell, Anil A Bharath.*<br>
 TNNLS 2018. [[PDF](https://arxiv.org/abs/1802.05701)] [[Github](https://github.com/ToniCreswell/InvertingGAN)]
 
-**One Network to Solve Them All --- Solving Linear Inverse Problems using Deep Projection Models.**<br>
+**One Network to Solve Them All - Solving Linear Inverse Problems using Deep Projection Models.**<br>
 *J. H. Rick Chang, Chun-Liang Li, Barnabas Poczos, B. V. K. Vijaya Kumar, Aswin C. Sankaranarayanan.*<br>
 ICCV 2017. [[PDF](https://arxiv.org/abs/1703.09912)]
 
