@@ -52,7 +52,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13332)] [[Github](https://github.c
 
 **CONFIG: Controllable Neural Face Image Generation.**<br>
 *Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2005.02671)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2005.02671)] [[Github](https://github.com/microsoft/ConfigNet)]
 
 **Controlling Style and Semantics in Weakly-Supervised Image Generation.**<br>
 *Dario Pavllo, Aurelien Lucchi, and Thomas Hofmann.*<br>

@@ -196,6 +196,14 @@ arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://g
 
 ### Misc
 
+**Delving Deeper into Anti-aliasing in ConvNets.**<br>
+*Xueyan Zou, Fanyi Xiao, Zhiding Yu, Yong Jae Lee.*<br>
+BMVC 2020. [[PDF](https://arxiv.org/abs/2008.09604)] [[Github](https://maureenzou.github.io/ddac/)]
+
+**Image Stitching and Rectification for Hand-Held Cameras.**<br>
+*Bingbing Zhuang, Quoc-Huy Tran.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.09229)] [[Project](https://www.nec-labs.com/~mas/RS-APAP)]
+
 **LIRA: Lifelong Image Restoration from Unknown Blended Distortions.**<br>
 *Jianzhao Liu, Jianxin Lin, Xin Li, Wei Zhou, Sen Liu, Zhibo Chen.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08242)]
@@ -608,6 +616,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
 
+**One-Shot Domain Adaptation For Face Generation.**<br>
+*Chao Yang, Ser-Nam Lim.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12869)]
+
+**Disentangled Image Generation Through Structured Noise Injection.**<br>
+*Yazeed Alharbi, Peter Wonka.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.12411)]
+
 **FFWM: Learning Flow-based Feature Warping for Face Frontalization with Illumination Inconsistent Supervision.**<br>
 *Yuxiang Wei, Ming Liu, Haolin Wang, Ruifeng Zhu, Guosheng Hu, Wangmeng Zuo.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.06843)] [[Github](https://github.com/csyxwei/FFWM)]
@@ -834,7 +850,7 @@ SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/2005.07727)]
 
 **CONFIG: Controllable Neural Face Image Generation.**<br>
 *Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2005.02671)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.02671)] [[Github](https://github.com/microsoft/ConfigNet)]
 
 **Panoptic-based Image Synthesis.**<br>
 *Aysegul Dundar, Karan Sapra, Guilin Liu, Andrew Tao, Bryan Catanzaro.*<br>
@@ -908,6 +924,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07397)] [[Dataset](http://ai.faceb
 **DeepFaceLab: A simple, flexible and extensible face swapping framework.**<br>
 *Ivan Petrov, Daiheng Gao, Nikolay Chervoniy, Kunlin Liu, Sugasa Marangonda, Chris Umé, Mr. Dpfks, Carl Shift Facenheim, Luis RP, Jian Jiang, Sheng Zhang, Pingyu Wu, Bo Zhou, Weiming Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.05535)] [[Github](https://github.com/iperov/DeepFaceLab/)]
+
+**Not My Deepfake: Towards Plausible Deniability for Machine-Generated Media.**<br>
+*Baiwu Zhang, Jin Peng Zhou, Ilia Shumailov, Nicolas Papernot.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09194)]
 
 **Face Anti-Spoofing Via Disentangled Representation Learning.**<br>
 *Ke-Yue Zhang, Taiping Yao, Jian Zhang, Ying Tai, Shouhong Ding, Jilin Li, Feiyue Huang, Haichuan Song, Lizhuang Ma.*<br>
