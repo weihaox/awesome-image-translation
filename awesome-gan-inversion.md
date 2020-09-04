@@ -13,10 +13,6 @@ Feedback and contributions are welcome!
 *Ali Jahanian, Lucy Chai, Phillip Isola.*<br>
 ICLR 2020. [[PDF](https://arxiv.org/abs/1907.07171)] [[Project](https://ali-design.github.io/gan_steerability/)]
 
-**Transforming and Projecting Images into Class-conditional Generative Networks.**<br>
-*Minyoung Huh, Richard Zhang, Jun-Yan Zhu, Sylvain Paris, Aaron Hertzmann.*<br>
-[[PDF](https://arxiv.org/abs/2005.01703)]
-
 **Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models.**<br>
 *Giannis Daras, Augustus Odena, Han Zhang, Alexandros G. Dimakis.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12287)]

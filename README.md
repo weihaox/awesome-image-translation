@@ -200,9 +200,14 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+
 **Semantically Adaptive Image-to-image Translation for Domain Adaptation of Semantic Segmentation.**<br>
 *Luigi Musto, Andrea Zinelli.*<br>
 BMVC 2020. [[PDF](https://arxiv.org/abs/2009.01166)] 
+
+**GAIT: Gradient Adjusted Unsupervised Image-to-Image Translation.**<br>
+*Ibrahim Batuhan Akkaya, Ugur Halici.*<br>
+ICIP 2020. [[PDF](https://arxiv.org/abs/2009.00878)]
 
 **Retrieval Guided Unsupervised Multi-domain Image-to-Image Translation.**<br>
 *Raul Gomez, Yahui Liu, Marco De Nadai, Dimosthenis Karatzas, Bruno Lepri, Nicu Sebe.*<br>

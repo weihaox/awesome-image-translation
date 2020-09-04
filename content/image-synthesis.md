@@ -102,6 +102,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpaired or Misaligned Data
 
+**Unpaired Learning of Deep Image Denoising.**<br>
+*Xiaohe Wu, Ming Liu, Yue Cao, Dongwei Ren, Wangmeng Zuo.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.13711)]
+
 **Dehaze-GLCGAN: Unpaired Single Image De-hazing via Adversarial Training.**<br>
 *Zahra Anvari, Vassilis Athitsos.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.06632)]
@@ -150,10 +154,6 @@ arxiv 2020. [[PDF](https://arxiv.org/pdf/2004.01178)] [[Github](https://github.c
 *Leon Bungert, Matthias J. Ehrhardt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00589)]
 
-**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
-*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
-
 **Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution.**<br>
 *Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.07018)]
@@ -194,7 +194,77 @@ arxiv, 27 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12291)] [[GitHub](https://
 *Alexander Krull, Tomas Vicar, Florian Jug.*<br>
 arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://github.com/juglab/pn2v)]
 
+### Deep Image Prior 
+
+**The Hessian Penalty: A Weak Prior for Unsupervised Disentanglement.**<br>
+*William Peebles, John Peebles, Jun-Yan Zhu, Alexei Efros, Antonio Torralba.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10599)] [[Poject](https://www.wpeebles.com/hessian-penalty)] [[Github](https://github.com/wpeebles/hessian_penalty)]
+
+**NAS-DIP: Learning Deep Image Prior with Neural Architecture Search.**<br>
+*Yun-Chun Chen, Chen Gao, Esther Robb, Jia-Bin Huang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.11713)] [[Poject](https://yunchunchen.github.io/NAS-DIP/)] [[Github](https://github.com/YunChunChen/NAS-DIP-pytorch)]
+
+**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
+*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deepgenerative-prior)]
+
+**Semantic Photo Manipulation with a Generative Image Prior.**<br>
+*David Bau, Hendrik Strobelt, William Peebles, Jonas, Bolei Zhou, Jun-Yan Zhu, Antonio Torralba.*<br>
+SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/2005.07727)]
+
+**PriorGAN: Real Data Prior for Generative Adversarial Nets.**<br>
+*Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16990)]
+
+**CDVD-TSP: Cascaded Deep Video Deblurring Using Temporal Sharpness Prior.**<br>
+*Jinshan Pan, Haoran Bai, Jinhui Tang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.com/csbhr/CDVD-TSP)]
+
+**Attention Prior for Real Image Restoration.**<br>
+*Saeed Anwar, Nick Barnes, Lars Petersson.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
+
 ### Misc
+
+**ALANET: Adaptive Latent Attention Network forJoint Video Deblurring and Interpolation.**<br>
+*Akash Gupta, Abhishek Aich, Amit K. Roy-Chowdhury.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.01005)]
+
+**Ultra Lightweight Image Super-Resolution with Multi-Attention Layers.**<br>
+*Abdul Muqeet, Jiwon Hwang, Subin Yang, Jung Heum Kang, Yongwoo Kim, Sung-Ho Bae.*<br>
+ECCVW AIM2020. [[PDF](https://arxiv.org/abs/2008.12912)]
+
+**DALE : Dark Region-Aware Low-light Image Enhancement.**<br>
+*Dokyeong Kwon, Guisik Kim, Junseok Kwon.*<br>
+BMVC 2020. [[PDF](https://arxiv.org/abs/2008.12493)]
+
+**HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN.**<br>
+*Abhinav Sagar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
+
+**Image Colorization: A Survey and Dataset.**<br>
+*Saeed Anwar, Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan, Abdul Wahab Muzaffar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.10774)] [[Github](https://github.com/saeed-anwar/ColorSurvey)]
+
+**Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference.**<br>
+*Xiaohong Liu, Kangdi Shi, Zhe Wang, Jun Chen.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2008.10710)]
+
+**GAN Slimming: All-in-One GAN Compression by A Unified Optimization Framework.**<br>
+*Haotao Wang, Shupeng Gui, Haichuan Yang, Ji Liu, Zhangyang Wang.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490052.pdf)] [[Github](https://github.com/VITA-Group/GAN-Slimming)]
+
+**Deep Generative Model for Image Inpainting with Local Binary Pattern Learning and Spatial Attention.**<br>
+*Haiwei Wu, Jiantao Zhou, Yuanman Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.01031)] [[Project](https://github.com/HighwayWu/ImageInpainting)]
+
+**Flow-edge Guided Video Completion.**<br>
+*Chen Gao, Ayush Saraf, Jia-Bin Huang, Johannes Kopf.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.01835)] [[Project](http://chengao.vision/FGVC/)]
+
+**SRFlow: Learning the Super-Resolution Space with Normalizing Flow.**<br>
+*Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2006.14200)] [[Github](http://git.io/SRFlow)]
 
 **Delving Deeper into Anti-aliasing in ConvNets.**<br>
 *Xueyan Zou, Fanyi Xiao, Zhiding Yu, Yong Jae Lee.*<br>
@@ -420,10 +490,6 @@ arxiv 2020. [[PDF](https://arxiv.org/pdf/2004.13824.pdf)] [[Github](https://gith
 *Hang Dong, Jinshan Pan, Lei Xiang, Zhe Hu, Xinyi Zhang, Fei Wang, Ming-Hsuan Yang.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.13388)] [[Github](https://github.com/BookerDeWitt/MSBDN-DFF)]
 
-**Attention Prior for Real Image Restoration.**<br>
-*Saeed Anwar, Nick Barnes, Lars Petersson.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
-
 **Real Image Denoising with Feature Attention.**<br>
 *Saeed Anwar, Nick Barnes.*<br>
 ICCV 2019, [[PDF](https://arxiv.org/abs/1904.07396)]
@@ -499,10 +565,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02956)]
 **Self-Supervised Scene De-occlusion.**<br>
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), [Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Github](https://github.com/XiaohangZhan/deocclusion/)]
-
-**CDVD-TSP: Cascaded Deep Video Deblurring Using Temporal Sharpness Prior.**<br>
-*Jinshan Pan, Haoran Bai, Jinhui Tang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.com/csbhr/CDVD-TSP)]
 
 **Deep White-Balance Editing.**<br>
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
@@ -592,6 +654,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12861)]
 *[Zhen Zhu](https://zzhu.vision/), Zhiliang Xu, Ansheng You, [Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/).*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12697)] [[Project](http://seanseattle.github.io/SMIS)] [[Github](https://github.com/Seanseattle/SMIS)]
 
+**Hierarchical Style-based Networks for Motion Synthesis.**<br>
+*Jingwei Xu, Huazhe Xu, Bingbing Ni, Xiaokang Yang, Xiaolong Wang, Trevor Darrell.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.google.com/view/hsnms)]
+
 ### Single-Image Training 
 
 **ConSinGAN: Improved Techniques for Training Single-Image GANs.**<br>
@@ -615,6 +681,22 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**DAGAN: Dual Attention GANs for Semantic Image Synthesis.**<br>
+*Hao Tang, Song Bai, Nicu Sebe.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.13024)] [[Github](https://github.com/Ha0Tang/DAGAN)]
+
+**DeepFacePencil: Creating Face Images from Freehand Sketches.**<br>
+*Yuhang Li, Xuejin Chen, Binxin Yang, Zihan Chen, Zhihua Cheng, Zheng-Jun Zha.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.13343)]
+
+**Generative Hierarchical Features from Synthesizing Images.**<br>
+*Yinghao Xu, Yujun Shen, Jiapeng Zhu, Ceyuan Yang, Bolei Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.10379)]
+
+**A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild.**<br>
+*K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.10010)] [[Github](http://github.com/Rudrabha/Wav2Lip)] [[Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild)]
 
 **One-Shot Domain Adaptation For Face Generation.**<br>
 *Chao Yang, Ser-Nam Lim.*<br>
@@ -784,10 +866,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01272)]
 *Jacek Naruniec, Leonhard Helminger, Christopher Schroers, Romann M. Weber.*<br>
 Eurographics Symposium on Rendering 2020. [[PDF](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf)] [[Project](http://studios.disneyresearch.com/2020/06/29/high-resolution-neural-face-swapping-for-visual-effects/)]
 
-**PriorGAN: Real Data Prior for Generative Adversarial Nets.**<br>
-*Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16990)]
-
 **On Leveraging Pretrained GANs for Limited-Data Generation.**<br>
 *Miaoyun Zhao, Yulai Cong and Lawrence Carin.*<br>
 ICML 2020. [[PDF](https://arxiv.org/asb/2002.11810)] [[Github](https://github.com/MiaoyunZhao/GANTransferLimitedData)]
@@ -843,10 +921,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2005.08186)] [[Github](https://github.c
 **CIAGAN: Conditional Identity Anonymization Generative Adversarial Networks.**<br>
 *Maxim Maximov, Ismail Elezi, Laura Leal-Taixé.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2005.09544)] [[Github](https://github.com/dvl-tum/ciagan)]
-
-**Semantic Photo Manipulation with a Generative Image Prior.**<br>
-*David Bau, Hendrik Strobelt, William Peebles, Jonas, Bolei Zhou, Jun-Yan Zhu, Antonio Torralba.*<br>
-SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/2005.07727)]
 
 **CONFIG: Controllable Neural Face Image Generation.**<br>
 *Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
@@ -912,6 +986,11 @@ arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 **Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
+
+
+**What Makes Fake Images Detectable? Understanding Properties That Generalize.**<br>
+*Lucy Chai, David Bau, Ser-Nam Lim, Phillip Isola.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.10588)]  [[Github](https://chail.github.io/patch-forensics/)]
 
 **Two-branch Recurrent Network for Isolating Deepfakes in Videos.**<br>
 *Iacopo Masi, Aditya Killekar, Royston Marian Mascarenhas, Shenoy Pratik Gurudatt, Wael AbdAlmageed.*<br>
@@ -1145,6 +1224,11 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 [Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications)
 
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
+
+
+**DeepFacePencil: Creating Face Images from Freehand Sketches.**<br>
+*Yuhang Li, Xuejin Chen, Binxin Yang, Zihan Chen, Zhihua Cheng, Zheng-Jun Zha.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.13343)]
 
 **Unsupervised Sketch-to-Photo Synthesis.**<br> 
 *Runtao Liu, Qian Yu, Stella Yu.*<br>
