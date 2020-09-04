@@ -200,6 +200,10 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**Semantically Adaptive Image-to-image Translation for Domain Adaptation of Semantic Segmentation.**<br>
+*Luigi Musto, Andrea Zinelli.*<br>
+BMVC 2020. [[PDF](https://arxiv.org/abs/2009.01166)] 
+
 **Retrieval Guided Unsupervised Multi-domain Image-to-Image Translation.**<br>
 *Raul Gomez, Yahui Liu, Marco De Nadai, Dimosthenis Karatzas, Bruno Lepri, Nicu Sebe.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.04991)] 
