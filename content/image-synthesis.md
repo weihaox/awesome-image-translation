@@ -196,6 +196,10 @@ arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://g
 
 ### Deep Image Prior 
 
+**Unsupervised Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Deep Image Prior.**<br>
+*Yi-Si Luo, Xi-Le Zhao, Tai-Xiang Jiang, Yu-Bang Zheng, Yi Chang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09753)]
+
 **The Hessian Penalty: A Weak Prior for Unsupervised Disentanglement.**<br>
 *William Peebles, John Peebles, Jun-Yan Zhu, Alexei Efros, Antonio Torralba.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10599)] [[Poject](https://www.wpeebles.com/hessian-penalty)] [[Github](https://github.com/wpeebles/hessian_penalty)]
@@ -225,6 +229,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
 ### Misc
+
+**PNEN: Pyramid Non-Local Enhanced Networks.**<br>
+*Feida Zhu, Chaowei Fang, Kai-Kuang Ma.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2008.09742)]
 
 **ALANET: Adaptive Latent Attention Network forJoint Video Deblurring and Interpolation.**<br>
 *Akash Gupta, Abhishek Aich, Amit K. Roy-Chowdhury.*<br>
@@ -681,6 +689,42 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis.**<br>
+*Yiyi Liao, Katja Schwarz, Lars Mescheder, Andreas Geiger.*<br>
+CVPR 2020. [[PDF](https://avg.is.tuebingen.mpg.de/publications/liao2020cvpr)] [[Github](https://github.com/autonomousvision/controllable_image_synthesis)]
+
+**Neural Crossbreed: Neural Based Image Metamorphosis.**<br>
+*Sanghun Park, Kwanggyoon Seo, Junyong Noh.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.00905)]
+
+**Generating Handwriting via Decouple Style Descriptors.**<br>
+*Atsunobu Kotani, Stefanie Tellex, James Tompkin.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.11354)]
+
+**Person-in-Context Synthesis with Compositional Structural Space.**<br>
+*Weidong Yin, Ziwei Liu, Leonid Sigal.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.12679)]
+
+**GIF: Generative Interpretable Faces.**<br>
+*Partha Ghosh, Pravir Singh Gupta, Roy Uziel, Anurag Ranjan, Michael Black, Timo Bolkart.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.00149)] [[Github](https://github.com/ParthaEth/GIF)]
+
+**SPAN: Spatial Pyramid Attention Network forImage Manipulation Localization.**<br>
+*Xuefeng Hu, Zhihan Zhang, Zhenye Jiang, Syomantak Chaudhuri, Zhenheng Yang, Ram Nevatia.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.00726)]
+
+**OKGAN: Online Kernel based Generative Adversarial Networks.**<br>
+*Yeojoon Youn, Neil Thistlethwaite, Sang Keun Choe, Jacob Abernethy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11432v1)]
+
+**Anime-to-Real Clothing: Cosplay Costume Generation via Image-to-Image Translation.**<br>
+*Koya Tango, [Marie Katsurai](http://book.mkats.net/), Hayato Maki, Ryosuke Goto.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.11479)]
+
+**AgingMapGAN (AMGAN): High-Resolution Controllable Face Aging with Spatially-Aware Conditional GANs.**<br>
+*Julien Despois, Frederic Flament, Matthieu Perrot.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.10960)] [[Project](https://despoisj.github.io/AgingMapGAN/)]
 
 **DAGAN: Dual Attention GANs for Semantic Image Synthesis.**<br>
 *Hao Tang, Song Bai, Nicu Sebe.*<br>

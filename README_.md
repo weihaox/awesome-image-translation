@@ -536,6 +536,11 @@ MM 2018. [[PDF](https://arxiv.org/abs/1712.03474)]
 
 ### Pose and Skeleton Guided
 
+
+**Deep Spatial Transformation for Pose-Guided Person Image Generation and Animation.**<br>
+*Yurui Ren, Ge Li, Shan Liu, Thomas H. Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.12606)] [[Github](https://github.com/RenYurui/Global-Flow-Local-Attention)]
+
 **Pose Manipulation with Identity Preservation.**<br>
 *Andrei-Timotei Ardelean, Lucian Mircea Sasu.*<br>
 International Journal of Computers Communications & Control 2020. [[PDF](https://arxiv.org/abs/2004.09169)]

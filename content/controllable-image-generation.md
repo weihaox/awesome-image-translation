@@ -267,6 +267,14 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
 ### Image-to-Text
 
+**Structure-Aware Generation Network for Recipe Generation from Images.**<br>
+*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.00944)]
+
+**Identity-Aware Multi-Sentence Video Description.**<br>
+*Jae Sung Park, Trevor Darrell, Anna Rohrbach.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09791)] [[Project](https://sites.google.com/site/describingmovies/lsmdc-2019/)]
+
 **Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.**<br>
 *Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13374)]
