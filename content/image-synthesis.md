@@ -230,6 +230,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
 ### Misc
 
+**ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution.**<br>
+*Patricia Vitoria, Lara Raad, Coloma Ballester.*<br>
+WACV 2020. [[PDF](https://arxiv.org/abs/1907.09837)]
+
 **PNEN: Pyramid Non-Local Enhanced Networks.**<br>
 *Feida Zhu, Chaowei Fang, Kai-Kuang Ma.*<br>
 TIP 2020. [[PDF](https://arxiv.org/abs/2008.09742)]
@@ -630,6 +634,51 @@ ICCV 2019 Workshop: Advances in Image Manipulation. [[](https://arxiv.org/abs/20
 
 ## Diving Deep into Image Synthesis
 
+
+### Invertible Neural Network (Flow-based Generative Model)
+
+[[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
+
+**SRFlow: Learning the Super-Resolution Space with Normalizing Flow.**<br>
+*Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2006.14200)] [[Github](http://git.io/SRFlow)]
+
+**Learning Likelihoods with Conditional Normalizing Flows.**<br>
+*Christina Winkler, Daniel Worrall, Emiel Hoogeboom, Max Welling.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1912.00042)]
+
+**RealNVP: Density Estimation Using Real NVP.**<br>
+*Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio.*<br>
+ICLR 2017. [[PDF](https://arxiv.org/abs/1605.08803)]
+
+**Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification.**<br>
+*Lynton Ardizzone, Radek Mackowiak, Carsten Rother, Ullrich Köthe.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.06448)] [[Github](https://github.com/VLL-HD/exact_information_bottleneck)]
+
+**Guided Image Generation with Conditional Invertible Neural Networks.**<br>
+*Lynton Ardizzone, Carsten Lüth, Jakob Kruse, Carsten Rother, Ullrich Köthe.*<br>
+arxiv 2019. [[https://arxiv.org/abs/1907.02392]()] [[Github](https://github.com/VLL-HD/conditional_invertible_neural_networks)] [[Supplement](https://drive.google.com/file/d/1_OoiIGhLeVJGaZFeBt0OWOq8ZCtiI7li)]
+
+**Invertible Residual Networks.**<br>
+*Jens Behrmann, Will Grathwohl, Ricky T. Q. Chen, David Duvenaud, Jörn-Henrik Jacobsen.*<br>
+arxiv 2018. [[PDF](https://arxiv.org/abs/1811.00995)]
+
+**Excessive Invariance Causes Adversarial Vulnerability.**<br>
+*Jörn-Henrik Jacobsen, Jens Behrmann, Richard Zemel, Matthias Bethge.*<br>
+arxiv 2018. [[PDF](https://arxiv.org/abs/1811.00401)]
+
+**Analyzing inverse problems with invertible neural networks.**<br>
+*Lynton Ardizzone, Jakob Kruse, Sebastian Wirkert, Daniel Rahner, Eric W. Pellegrini, Ralf S. Klessen, Lena Maier-Hein, Carsten Rother, Ullrich Köthe.*<br>
+arxiv 2018. [[PDF](https://arxiv.org/abs/1808.04730)] [[Github](https://github.com/VLL-HD/analyzing_inverse_problems)]
+
+**Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models.**<br>
+*Aditya Grover, Manik Dhar, Stefano Ermon.*<br>
+AAAI 2018. [[PDF](https://arxiv.org/abs/1705.08868)]
+
+**NICE: Non-linear Independent Components Estimation.**<br>
+*Laurent Dinh, David Krueger, Yoshua Bengio.*<br>
+arxiv 2014. [[PDF](https://arxiv.org/abs/1410.8516)] [[Github](https://github.com/paultsw/nice_pytorch)]
+
 ### StyleGAN-Based Method
 
 [[awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)]
@@ -689,6 +738,30 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**Distribution Augmentation for Generative Modeling.**<br>
+*Heewoo Jun, Rewon Child, Mark Chen, John Schulman, Aditya Ramesh, Alec Radford, Ilya Sutskever.*<br>
+ICML 2020. [[PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/6095-Paper.pdf)] [[Github](https://github.com/openai/distribution_augmentation)]
+
+**Generative Pretraining from Pixels.**<br>
+*Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
+ICML 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
+
+**NVAE: A Deep Hierarchical Variational Autoencoder.**<br>
+*[Arash Vahdat](http://latentspace.cc/arash_vahdat/), [Jan Kautz](http://jankautz.com/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03898)] [[Github](https://github.com/NVlabs/NVAE)]
+
+**A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild.**<br>
+*K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.10010)] [[Github](http://github.com/Rudrabha/Wav2Lip)] [[Project](https://bhaasha.iiit.ac.in/lipsync/)] [[Demo](http://bhaasha.iiit.ac.in/lipsync)]
+
+**Real-Time Selfie Video Stabilization.**<br>
+*Jiyang Yu, Ravi Ramamoorthi, Keli Cheng, Michel Sarkis, Ning Bi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.02007)]
+
+**SketchPatch: Sketch Stylization via Seamless Patch-level Synthesis.**<br>
+*Noa Fish, Lilach Perry, Amit Bermano, Daniel Cohen-Or.*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.02216)]
 
 **Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis.**<br>
 *Yiyi Liao, Katja Schwarz, Lars Mescheder, Andreas Geiger.*<br>
@@ -1025,7 +1098,7 @@ arxiv, 9 Jan 2020.
 
 **DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection.**<br>
 *Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia.*<br>
-arxiv, 1 Jan 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
+arxiv, 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 
 **Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
@@ -1154,11 +1227,11 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.13458)]
 
 **FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping.**<br>
 *Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen.*<br>
-arxiv, 1 Dec 2019. [[PDF](https://arxiv.org/abs/1912.13457)]
+arxiv 2019. [[PDF](https://arxiv.org/abs/1912.13457)]
 
 **Scalable Fine-grained Generated Image Classification Based on Deep Metric Learning.**<br>
 *Xinsheng Xuan, Bo Peng, Wei Wang, Jing Dong.*<br>
-arxiv, 10 Dec 2019. [[PDF](https://arxiv.org/abs/1912.11082)]
+arxiv 2019. [[PDF](https://arxiv.org/abs/1912.11082)]
 
 **Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints.**<br>
 *Ning Yu, Larry Davis, [Mario Fritz](https://cispa.saarland/people/mario.fritz/).*<br>
