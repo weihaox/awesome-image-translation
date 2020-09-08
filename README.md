@@ -47,9 +47,6 @@ Feedback and contributions are welcome!
 **Unsupervised Sketch-to-Photo Synthesis.**[[PDF](https://arxiv.org/abs/1909.08313)][[Github](https://github.com/rt219/Unpaired-Sketch-to-Photo-Translation)]<br> 
 *Runtao Liu, Qian Yu, Stella Yu.*<br>
 
-**Informative Sample Mining Network for Multi-Domain Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2001.01173)]<br> 
-*Jie Cao, Huaibo Huang, Yi Li, Ran He, Zhenan Sun.*<br>
-
 **Transformation Consistency Regularization: A Semi-Supervised Paradigm for Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2007.07867)]<br>
 *Aamir Mustafa, Rafal K. Mantiuk.*<br>
 
@@ -73,6 +70,15 @@ Feedback and contributions are welcome!
 
 **Model-based Occlusion Disentanglement for Image-to-image Translation.**[[PDF]](https://arxiv.org/abs/2004.01071)<br>
 *[Fabio Pizzati](https://fabvio.github.io), Pietro Cerri, Raoul de Charette.*<br>
+
+**Semantic Relation Preserving Knowledge Distillation for Image-to-Image Translation.**[[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710647.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710647-supp.pdf)]<br>
+*Zeqi Li, Ruowei Jiang,, Parham Aarabi.*<br> 
+
+**Informative Sample Mining Network for Multi-Domain Image-to-Image Translation.**[[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640392.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640392-supp.pdf)]<br>
+*Jie Cao, Huaibo Huang, Yi Li, Ran He, Zhenan Sun.*<br> 
+
+**Neural Wireframe Renderer: Learning Wireframe to Image Translations.**[[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710273.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710273-supp.pdf)]<br>
+*Yuan Xue, Zihan Zhou, Xiaolei Huang.*<br> 
 
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
