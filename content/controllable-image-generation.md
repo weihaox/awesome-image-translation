@@ -22,6 +22,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Interactive and Controllable Image Manipulation
 
+**CooGAN: A Memory-Efficient Framework for High-Resolution Facial Attribute Editing.**<br>
+*Xuanhong Chen, Bingbing Ni, Naiyuan Liu, Ziang Liu, Yiliu Jiang, Loc Truong, Qi Tian.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560647.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560647-supp.pdf)]
+
 **Deep Relighting Networks for Image Light Source Manipulation.**<br>
 *Li-Wen Wang, Wan-Chi Siu, Zhi-Song Liu, Chu-Tak Li, Daniel P.K. Lun.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08298)]

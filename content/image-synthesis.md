@@ -102,6 +102,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpaired or Misaligned Data
 
+**Blind Face Restoration via Deep Multi-scale Component Dictionaries.**<br> 
+*Xiaoming Li, Chaofeng Chen, Shangchen Zhou, Xianhui Lin, Wangmeng Zuo, Lei Zhang.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375-supp.pdf)]
+
 **Unpaired Learning of Deep Image Denoising.**<br>
 *Xiaohe Wu, Ming Liu, Yue Cao, Dongwei Ren, Wangmeng Zuo.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.13711)]
@@ -229,6 +233,46 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
 ### Misc
+
+**Learning Flow-based Feature Warping for Face Frontalization with Illumination Inconsistent Supervision.**<br>  
+*Yuxiang Wei, Ming Liu, Haolin Wang, Ruifeng Zhu, Guosheng Hu, Wangmeng Zuo.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570545.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570545-supp.pdf)]
+
+**Face Super-Resolution Guided by 3D Facial Priors.**<br>  
+*Xiaobin Hu, Wenqi Ren, John LaMaster, Xiaochun Cao, Xiaoming Li, Zechao Li, Bjoern Menze, Wei Liu.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490732.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490732-supp.pdf)]
+
+**LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block.**<br> 
+*Xiaotong Luo, Yuan Xie, Yulun Zhang, Yanyun Qu, Cuihua Li, Yun Fu.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)]
+
+**PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br> 
+*Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, Jimmy S. Ren, Chao Dong.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560613.pdf)]
+
+**Stacking Networks Dynamically for Image Restoration Based on the Plug-and-Play Framework.**<br> 
+*Haixin Wang, Tianhao Zhang, Muzhi Yu, Jinan Sun, Wei Ye, Chen Wang , Shikun Zhang.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580443.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580443-supp.zip)]
+
+**Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration.**<br> 
+*Jingwen He, Chao Dong, Yu Qiao.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650052.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650052-supp.pdf)]
+
+**Learning Enriched Features for Real Image Restoration and Enhancement.**<br> 
+*Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang, Ling Shao.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700494.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700494-supp.pdf)]
+
+**Low light video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping.**<br>
+*Danai Triantafyllidou, Sean Moran, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103-supp.zip)]
+
+**FHDe$^2$Net: Full High Definition Demoireing Network.**<br>
+*Bin He, Ce Wang, Boxin Shi, Ling-Yu Duan.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670715.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670715-supp.pdf)]
+
+**Event Enhanced High-Quality Image Recovery.**<br>
+*Bishan Wang, Jingwei He, Lei Yu, Gui-Song Xia, Wen Yang.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154-supp.pdf)]
 
 **ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution.**<br>
 *Patricia Vitoria, Lara Raad, Coloma Ballester.*<br>
@@ -699,6 +743,10 @@ CVPR 2019.
 [[Code](https://github.com/NVlabs/stylegan)]
 [[FFHQ](https://github.com/NVlabs/ffhq-dataset)]
 
+**Hierarchical Style-based Networks for Motion Synthesis.**<br> 
+*Jingwei Xu, Huazhe Xu, Bingbing Ni, Xiaokang Yang, Xiaolong Wang, Trevor Darrell.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560171.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560171-supp.pdf)]
+
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](https://www.cse.huji.ac.il/~avivga/), [Yedid Hoshen](https://www.cse.huji.ac.il/~ydidh/).*<br>
 arxiv, 5 Jun 2019. [[PDF](https://arxiv.org/abs/1906.11880)] [[Project](http://www.vision.huji.ac.il/style-image-prior)] [[Github](https://github.com/avivga/style-image-prior)]
@@ -738,6 +786,34 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars.**<br> 
+*Egor Zakharov, Aleksei Ivakhnenko, Aliaksandra Shysheya, Victor Lempitsky.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570511.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570511-supp.pdf)]
+
+**AutoSimulate: (Quickly) Learning Synthetic Data Generation.**<br>
+*Harkirat Singh Behl, Atilim Güneş Baydin, Ran Gal, Philip H.S. Torr, Vibhav Vineet.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670256.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670256-supp.pdf)]
+
+**Structure-Aware Human-Action Generation.**<br>
+*Ping Yu, Yang Zhao, Chunyuan Li, Junsong Yuan, Changyou Chen.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750018.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750018-supp.pdf)]
+
+**Synthesis and Completion of Facades from Satellite Imagery.**<br> 
+*Xiaowei Zhang, Christopher May, Daniel Aliaga.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470562.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470562-supp.zip)]
+
+**Incorporating Reinforced Adversarial Learning in Autoregressive Image Generation.**<br>
+*Kenan E. Ak, Ning Xu, Zhe Lin, Yilin Wang.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660018.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660018-supp.pdf)]
+
+**Visual-Relation Conscious Image Generation from Structured-Text.**<br>
+*Duc Minh Vo, Akihiro Sugimoto.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730290.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730290-supp.pdf)]
+
+**Controlling Style and Semantics in Weakly-Supervised Image Generation.**<br> 
+*Dario Pavllo, Aurelien Lucchi, Thomas Hofmann.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510477.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510477-supp.zip)]
 
 **Distribution Augmentation for Generative Modeling.**<br>
 *Heewoo Jun, Rewon Child, Mark Chen, John Schulman, Aditya Ramesh, Alec Radford, Ilya Sutskever.*<br>
@@ -1104,7 +1180,6 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
 
-
 **What Makes Fake Images Detectable? Understanding Properties That Generalize.**<br>
 *Lucy Chai, David Bau, Ser-Nam Lim, Phillip Isola.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.10588)]  [[Github](https://chail.github.io/patch-forensics/)]
@@ -1288,6 +1363,14 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ST
 [[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
 
 ## Frame Interpolation, Extrapolation and Videos Generation
+
+**Boundary Content Graph Neural Network for Temporal Action Proposal Generation.**<br>
+*Yueran Bai, Yingying Wang, Yunhai Tong, Yang Yang, Qiyue Liu, Junhui Liu.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730120.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730120-supp.pdf)]
+
+**DTVNet: Dynamic Time-lapse Video Generation via Single Still Image.**<br>
+*Jiangning Zhang, Chao Xu, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, Yunliang Jiang.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500290.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500290-supp.zip)]
 
 **SiENet: Siamese Expansion Network for Image Extrapolation.**<br>
 *Xiaofeng Zhang, Feng Chen, Cailing Wang, Songsong Wu, Ming Tao, Guoping Jiang.*<br>
