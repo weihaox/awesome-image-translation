@@ -9,6 +9,11 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 
 Feedback and contributions are welcome!
 
+
+**Understanding the Role of Individual Units in a Deep Neural Network.**<br>
+*David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
+National Academy of Sciences 2020. [[PDF](https://arxiv.org/abs/2009.05041)] [[Github](https://github.com/davidbau/dissect/)] [[Project](https://dissect.csail.mit.edu/)]
+
 **On the "steerability" of generative adversarial networks.**<br>
 *Ali Jahanian, Lucy Chai, Phillip Isola.*<br>
 ICLR 2020. [[PDF](https://arxiv.org/abs/1907.07171)] [[Project](https://ali-design.github.io/gan_steerability/)]
@@ -107,11 +112,23 @@ ICCV 2019. [[PDF](https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_pap
 
 **Task-Aware Compressed Sensing with Generative Adversarial Networks.**<br>
 *Maya Kabkab, Pouya Samangouei, Rama Chellappa.*<br>
-AAAI 2018.
+AAAI 2018. [[PDF](https://arxiv.org/pdf/1802.01284.pdf)]
 
 **Inverting The Generator Of A Generative Adversarial Network (II).**<br>
 *Antonia Creswell, Anil A Bharath.*<br>
 TNNLS 2018. [[PDF](https://arxiv.org/abs/1802.05701)] [[Github](https://github.com/ToniCreswell/InvertingGAN)]
+
+**Invertibility of convolutional generative networks from partial measurements.**<br>
+*Fangchang Ma, Ulas Ayaz, Sertac Karaman.*<br>
+NeurIPS 2018. [[PDF](https://papers.nips.cc/paper/8171-invertibility-of-convolutional-generative-networks-from-partial-measurements)] [[Github](https://github.com/fangchangma/invert-generative-networks)]
+
+**Metrics for Deep Generative Models.**<br>
+*Nutan Chen, Alexej Klushyn, Richard Kurle, Xueyan Jiang, Justin Bayer, Patrick van der Smagt.*<br>
+AISTATS 2018. [[PDF](https://arxiv.org/abs/1711.01204)]
+
+**Towards Understanding the Invertibility of Convolutional Neural Networks.**<br>
+*Anna C. Gilbert, Yi Zhang, Kibok Lee, Yuting Zhang, Honglak Lee.*<br>
+IJCAI 2017.  [[PDF](https://arxiv.org/abs/1705.08664)]
 
 **One Network to Solve Them All - Solving Linear Inverse Problems using Deep Projection Models.**<br>
 *J. H. Rick Chang, Chun-Liang Li, Barnabas Poczos, B. V. K. Vijaya Kumar, Aswin C. Sankaranarayanan.*<br>
@@ -124,3 +141,5 @@ NIPSW 2016. [[PDF](https://arxiv.org/abs/1611.05644)]
 **Generative Visual Manipulation on the Natural Image Manifold.**<br>
 *Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros.*<br>
 ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
+
+
