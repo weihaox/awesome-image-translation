@@ -362,6 +362,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 
 ### Segmentation or Label Map Guided
 
+**World-Consistent Video-to-Video Synthesis.**<br> 
+*Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br> 
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08509)] [[Github](https://nvlabs.github.io/wc-vid2vid/)]
+
 **Example-Guided Image Synthesis across Arbitrary Scenes using Masked Spatial-Channel Attention and Self-Supervision.**<br>
 *Haitian Zheng, Haofu Liao, Lele Chen, Wei Xiong, Tianlang Chen, Jiebo Luo.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10024)]
@@ -536,7 +540,6 @@ MM 2018. [[PDF](https://arxiv.org/abs/1712.03474)]
 
 ### Pose and Skeleton Guided
 
-
 **Deep Spatial Transformation for Pose-Guided Person Image Generation and Animation.**<br>
 *Yurui Ren, Ge Li, Shan Liu, Thomas H. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.12606)] [[Github](https://github.com/RenYurui/Global-Flow-Local-Attention)]
@@ -568,7 +571,6 @@ ECCVW 2018. [[PDF](https://arxiv.org/abs/1808.07371)] [[Project](https://carolin
 **Disentangled Person Image Generation.**<br>
 *[Liqian Ma](https://www.esat.kuleuven.be/psi/members/00111336), [Qianru Sun](https://qianrusun.com/), Stamatios Georgoulis, Luc Van Gool, Bernt Schiele, Mario Fritz.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02621)]
-
 
 ### Mask Guided
 
@@ -607,6 +609,7 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1802.06454)]
 SIGGRAPH 2019. [[PDF](https://dcgi.fel.cvut.cz/home/sykorad/Jamriska19-SIG.pdf)]
 
 ### Attention Guided
+
 **Attention-GAN for Object Transfiguration in Wild Images.**<br>
 *Xinyuan Chen, Chang Xu, Xiaokang Yang, Dacheng Tao.*<br>
 ECCV 2018. [[PDF](https://arxiv.org/abs/1803.06798)]
@@ -707,6 +710,10 @@ CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Homom
 ECCV 2018. [[PDF](https://arxiv.org/abs/1807.09251)] [[Github](https://github.com/albertpumarola/GANimation)] 
 
 ## Video
+
+**World-Consistent Video-to-Video Synthesis.**<br> 
+*Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br> 
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08509)] [[Github](https://nvlabs.github.io/wc-vid2vid/)]
 
 **Line Art Correlation Matching Network for Automatic Animation Colorization.**<br>
 *Zhang Qian, Wang Bo, Wen Wei, Li Hai, Liu Jun Hui.*<br>

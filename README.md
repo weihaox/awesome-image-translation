@@ -32,6 +32,12 @@ Feedback and contributions are welcome!
 ### ECCV 2020
 [[accepted paper list](https://eccv2020.eu/accepted-papers/)]
 
+**Self-Supervised CycleGAN for Object-Preserving Image-to-Image Domain Adaptation.**[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650494.pdf)]<br>  
+*Xinpeng Xie, Jiawei Chen, Yuexiang Li, Linlin Shen, Kai Ma, Yefeng Zheng.*<br>  
+
+**World-Consistent Video-to-Video Synthesis.**[[PDF](https://arxiv.org/abs/2007.08509)] [[Github](https://nvlabs.github.io/wc-vid2vid/)]<br> 
+*Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br>  
+
 **Contrastive Learning for Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2007.15651)] [[Project](https://taesungp.github.io/ContrastiveUnpairedTranslation/)] [[Github](https://github.com/taesungp/contrastive-unpaired-translation)]<br>
 *[Taesung Park](https://taesungp.github.io), Alexei A. Efros, Richard Zhang, Jun-Yan Zhu.*<br> 
 
@@ -79,6 +85,9 @@ Feedback and contributions are welcome!
 
 **Neural Wireframe Renderer: Learning Wireframe to Image Translations.**[[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710273.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710273-supp.pdf)]<br>
 *Yuan Xue, Zihan Zhou, Xiaolei Huang.*<br> 
+
+**ForkGAN: Seeing into the Rainy Night.**[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf)]
+*Ziqiang Zheng, Yang Wu, Xinran Han, Jianbo Shi.*<br> 
 
 ### CVPR 2020
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]

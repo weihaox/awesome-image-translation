@@ -102,6 +102,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpaired or Misaligned Data
 
+**NTGAN: Learning Blind Image Denoising without Clean Reference.**<br> 
+*Rui Zhao, Daniel P.K. Lun, Kin-Man Lam.*<br> 
+BMVC 2020. [[PDF](https://arxiv.org/abs/2009.04286)]
+
 **Blind Face Restoration via Deep Multi-scale Component Dictionaries.**<br> 
 *Xiaoming Li, Chaofeng Chen, Shangchen Zhou, Xianhui Lin, Wangmeng Zuo, Lei Zhang.*<br> 
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375-supp.pdf)]
@@ -233,6 +237,22 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
 ### Misc
+
+**Conditional Sequential Modulation for Efficient Global Image Retouching.**<br> 
+*Jingwen He, Yihao Liu, Yu Qiao, Chao Dong.*<br> 
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580664.pdf)]
+
+**Deep Preset: Blending and Retouching Photos with Color Style Transfer.**<br>
+*Man M. Ho, Jinjia Zhou.*<br>
+arxiv 2020. [[]PDF(https://arxiv.org/abs/2007.10701)] [[Project](https://github.com/minhmanho/deep_preset)]
+
+**Rain Rendering For Evaluating and Improving Robustness to Bad Weather.**<br>
+*Maxime Tremblay, Shirsendu Sukanta Halder, Raoul de Charette, Jean-François Lalonde.*<br>
+IJCV 2020. [[PDF](https://arxiv.org/abs/2009.03683)]
+
+**Deep Cyclic Generative Adversarial Residual Convolutional Networks for Real Image Super-Resolution.**<br>
+*Rao Muhammad Umer, Christian Micheloni.*<br>
+ECCVW 2020. [[PDF](https://arxiv.org/abs/2009.03693)]
 
 **Learning Flow-based Feature Warping for Face Frontalization with Illumination Inconsistent Supervision.**<br>  
 *Yuxiang Wei, Ming Liu, Haolin Wang, Ruifeng Zhu, Guosheng Hu, Wangmeng Zuo.*<br>
@@ -678,7 +698,6 @@ ICCV 2019 Workshop: Advances in Image Manipulation. [[](https://arxiv.org/abs/20
 
 ## Diving Deep into Image Synthesis
 
-
 ### Invertible Neural Network (Flow-based Generative Model)
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
@@ -786,6 +805,30 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+
+**Learning Latent Representations Across Multiple Data Domains Using Lifelong VAEGAN.**<br> 
+*Fei Ye, Adrian G. Bors.*<br> 
+[[](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650766.pdf)]
+
+**TopoGAN: A Topology-Aware Generative Adversarial Network.**<br> 
+*Fan Wang, Huidong Liu, Dimitris Samaras, Chao Chen.*<br> 
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf)]
+
+**Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation.**<br> 
+*Mengyao Zhai, Lei Chen, Jiawei He, Megha Nawhal, Frederick Tung, Greg Mori.*<br> 
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660392.pdf)]
+
+**not-so-BigGAN: Generating High-Fidelity Images on a Small Compute Budget.**<br> 
+*Seungwook Han, Akash Srivastava, Cole Hurwitz, Prasanna Sattigeri, David D. Cox.*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.04433)]
+
+**Stability and Expressiveness of Deep Generative Models.**<br> 
+*Mescheder, Lars Morten.*<br> 
+PhD Dissertation 2020. [[PDF](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/106074)]
+
+**World-Consistent Video-to-Video Synthesis.**<br> 
+*Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br> 
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08509)] [[Github](https://nvlabs.github.io/wc-vid2vid/)]
 
 **Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars.**<br> 
 *Egor Zakharov, Aleksei Ivakhnenko, Aliaksandra Shysheya, Victor Lempitsky.*<br>
@@ -950,10 +993,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12130)]
 **AE-OT-GAN: Training GANs from Data Specific Latent Distribution.**<br>
 *Dongsheng An, Yang Guo, Min Zhang, Xin Qi, Na Lei, Shing-Tung Yau, Xianfeng Gu.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2001.03698)]
-
-**Deep Preset: Blending and Retouching Photos with Color Style Transfer.**<br>
-*Man M. Ho, Jinjia Zhou.*<br>
-arxiv 2020. [[]PDF(https://arxiv.org/abs/2007.10701)] [[Project](https://github.com/minhmanho/deep_preset)]
 
 **Visual Commonsense Graphs: Reasoning about the Dynamic Context of a Still Image.**<br>
 *Jae Sung Park, Chandra Bhagavatula, Roozbeh Mottaghi, Ali Farhadi, Yejin Choi.*<br>
@@ -1364,6 +1403,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ST
 
 ## Frame Interpolation, Extrapolation and Videos Generation
 
+**Enhanced Quadratic Video Interpolation.**<br>
+*Yihao Liu, Liangbin Xie, Li Siyao, Wenxiu Sun, Yu Qiao, Chao Dong.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.04642)]
+
 **Boundary Content Graph Neural Network for Temporal Action Proposal Generation.**<br>
 *Yueran Bai, Yingying Wang, Yunhai Tong, Yang Yang, Qiyue Liu, Junhui Liu.*<br>
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730120.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730120-supp.pdf)]
@@ -1425,6 +1468,10 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
 
+
+**SketchEmbedNet: Learning Novel Concepts by Imitating Drawings.**<br>
+*Alexander Wang, Mengye Ren, Richard Zemel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.04806)]
 
 **DeepFacePencil: Creating Face Images from Freehand Sketches.**<br>
 *Yuhang Li, Xuejin Chen, Binxin Yang, Zihan Chen, Zhihua Cheng, Zheng-Jun Zha.*<br>
