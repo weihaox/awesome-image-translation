@@ -102,6 +102,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpaired or Misaligned Data
 
+**Blind Image Restoration with Flow Based Priors.**<br> 
+*Leonhard Helminger, Michael Bernasconi, Abdelaziz Djelouah, Markus Gross, Christopher Schroers.*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.04583)]
+
 **NTGAN: Learning Blind Image Denoising without Clean Reference.**<br> 
 *Rui Zhao, Daniel P.K. Lun, Kin-Man Lam.*<br> 
 BMVC 2020. [[PDF](https://arxiv.org/abs/2009.04286)]
@@ -237,6 +241,54 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
 ### Misc
+
+**Ordered or Orderless: A Revisit for Video based Person Re-Identification.**<br>
+*[Le Zhang](https://zhangleuestc.github.io/), Joey Tianyi Zhou, Ming-Ming Cheng, Yun Liu, Jia-Wang Bian, Zeng Zeng, Chunhua Shen.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/1912.11236)] [[Github](https://github.com/ZhangLeUestc/VideoReid-TPAMI2020)]
+
+**HiFic: High-Fidelity Generative Image Compression.**<br>
+*Fabian Mentzer, George Toderici, Michael schannen, Eirikur Agustsson.*<br>
+arxiv 2020. [[Project](https://hific.github.io/)] [[Github](https://github.com/Justin-Tan/high-fidelity-generative-compression)]
+
+**STEm-Seg: Spatio-temporal Embeddings for Instance Segmentation in Videos.**<br>
+*Ali Athar, Sabarinath Mahadevan, Aljoša Ošep, Laura Leal-Taixé, Bastian Leibe.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08429)] [[Github](https://github.com/sabarim/STEm-Seg)] [[Project](https://www.vision.rwth-aachen.de/publication/00202/)]
+
+**Adversarial score matching and improved sampling for image generation.**<br>
+*Alexia Jolicoeur-Martineau, Rémi Piché-Taillefer, Rémi Tachet des Combes, Ioannis Mitliagkas.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.05475)] [[Github](https://github.com/AlexiaJM/AdversarialConsistentScoreMatching)]
+
+**High-Resolution Deep Image Matting.**<br>
+*Haichao Yu, Ning Xu, Zilong Huang, Yuqian Zhou, Humphrey Shi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.06613)]
+
+**Deep Detection for Face Manipulation.**<br>
+*Disheng Feng, Xuequan Lu, Xufeng Lin.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2009.05934)]
+
+**Short-Term and Long-Term Context Aggregation Network for Video Inpainting.**<br>
+*Ang Li, Shanshan Zhao, Xingjun Ma, Mingming Gong, Jianzhong Qi, Rui Zhang, Dacheng Tao, Ramamohanarao Kotagiri.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.05721)]
+
+**Attention Cube Network for Image Restoration.**<br>
+*Yucheng Hang, Qingmin Liao, Wenming Yang, Yupeng Chen, Jie Zhou.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.05907)]
+
+**Understanding Deformable Alignment in Video Super-Resolution.**<br> 
+*Kelvin C.K. Chan, Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy.*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.07265)]
+
+**Old Photo Restoration via Deep Latent Space Translation.**<br> 
+*Ziyu Wan, Bo Zhang, Dongdong Chen, Pan Zhang, Dong Chen, Jing Liao, Fang Wen.*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.07047)]
+
+**WDRN : A Wavelet Decomposed RelightNet for Image Relighting.**<br> 
+*Densen Puthussery, Hrishikesh P.S., Melvin Kuriakose, Jiji C.V.*<br> 
+ECCVW 2020. [[PDF](https://arxiv.org/abs/2009.06678)]
+
+**Learning a Single Model with a Wide Range of Quality Factors for JPEG Image Artifacts Removal.**<br> 
+*Jianwei Li, Yongtao Wang, Haihua Xie, Kai-Kuang Ma.*<br> 
+TIP 2020. [[PDF](https://arxiv.org/abs/2009.06912)]
 
 **Conditional Sequential Modulation for Efficient Global Image Retouching.**<br> 
 *Jingwen He, Yihao Liu, Yu Qiao, Chao Dong.*<br> 
@@ -806,9 +858,17 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
 
+**Dynamic Future Net: Diversified Human Motion Generation.**<br>
+*Wenheng Chen, He Wang, Yi Yuan, Tianjia Shao, Kun Zhou.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.05109)]
+
+**High Frequency Component Helps Explain the Generalization of Convolutional Neural Networks.**<br> 
+*Haohan Wang, Xindi Wu, Zeyi Huang, Eric P. Xing.*<br> 
+CVPR 2020. [[PDF](https://arxiv.org/abs/1905.13545)]
+
 **Learning Latent Representations Across Multiple Data Domains Using Lifelong VAEGAN.**<br> 
 *Fei Ye, Adrian G. Bors.*<br> 
-[[](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650766.pdf)]
+[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650766.pdf)]
 
 **TopoGAN: A Topology-Aware Generative Adversarial Network.**<br> 
 *Fan Wang, Huidong Liu, Dimitris Samaras, Chao Chen.*<br> 
