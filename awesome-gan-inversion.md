@@ -10,6 +10,8 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 Feedback and contributions are welcome!
 
 
+[[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
+
 **Understanding the Role of Individual Units in a Deep Neural Network.**<br>
 *David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
 National Academy of Sciences 2020. [[PDF](https://arxiv.org/abs/2009.05041)] [[Github](https://github.com/davidbau/dissect/)] [[Project](https://dissect.csail.mit.edu/)]
@@ -28,7 +30,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2005.07728)]
 
 **StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows.**<br>
 *Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02401)] [[Github](https://rameenabdal.github.io/StyleFlow)]
+Siggraph Asia 2020. [[PDF](https://arxiv.org/abs/2008.02401)] [[Github](https://rameenabdal.github.io/StyleFlow)]
 
 **Rewriting a Deep Generative Model.**<br>
 *David Bau, Steven Liu, Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba.*<br>
@@ -60,7 +62,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2005.07728)]
 
 **StyleGAN2 Distillation for Feed-forward Image Manipulation.**<br>
 *Yuri Viazovetskyi, Vladimir Ivashkin, Evgeny Kashin.*<br>
-arxiv, 7 Mar 2020. [[PDF](https://arxiv.org/abs/2003.03581)] [[Github](https://github.com/EvgenyKashin/stylegan2-distillation)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.03581)] [[Github](https://github.com/EvgenyKashin/stylegan2-distillation)]
 
 **Transforming and Projecting Images into Class-conditional Generative Networks.**<br>
 *[Minyoung Huh](http://minyounghuh.com/), [Richard Zhang](https://richzhang.github.io/), [Jun-Yan Zhu](https://people.csail.mit.edu/junyanz/), [Sylvain Paris](http://people.csail.mit.edu/sparis/), [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/).*<br>
@@ -90,9 +92,21 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1907.10786)] [[Project](https://genforce
 *Jiapeng Zhu, Yujun Shen, Deli Zhao, Bolei Zhou.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2004.00049)] [[Project](https://genforce.github.io/idinvert/)] [[Github](https://github.com/genforce/idinvert)]
 
+**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
+*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deep-generative-prior)]
+
 **Image2StyleGAN++: How to Edit the Embedded Images?**<br>
 *Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1911.11544)]
+
+**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
+*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github]](https://github.com/XingangPan/deep-generative-prior)
+
+**Semantic Photo Manipulation with a Generative Image Prior.**<br>
+*David Bau, Hendrik Strobelt, William Peebles, Jonas, Bolei Zhou, Jun-Yan Zhu, Antonio Torralba.*<br>
+SIGGRAPH 2019. [[PDF](https://arxiv.org/abs/2005.07727)]
 
 **Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?**<br>
 *Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
