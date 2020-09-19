@@ -448,9 +448,53 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03212)]
 
 #### Text-to-Image Generation
 
+**ControlGAN: Controllable Text-to-Image Generation.**<br>
+*Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H. S. Torr.*<br>
+NeurIPS 2019. [[PDF](https://papers.nips.cc/paper/8480-controllable-text-to-image-generation.pdf)] [[Github](https://github.com/mrlibw/ControlGAN)]
+
 **RiFeGAN: Rich Feature Generation for Text-to-Image Synthesis From Prior Knowledge.**<br>
 *Jun Cheng, Fuxiang Wu, Yanling Tian, Lei Wang, Dapeng Tao.*<br>
 CVPR 2020. [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_RiFeGAN_Rich_Feature_Generation_for_Text-to-Image_Synthesis_From_Prior_Knowledge_CVPR_2020_paper.pdf)]
+
+**MirrorGAN: Learning Text-to-image Generation by Redescription.**<br>
+*Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1903.05854)] [[Unofficial TensorFlow](https://github.com/taki0112/MirrorGAN-Tensorflow)]
+
+**AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks.**<br>
+*Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1711.10485)] [[Github](https://github.com/taoxugit/AttnGAN)]
+
+**DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis.**<br>
+*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.01310)] [[Github](https://github.com/MinfengZhu/DM-GAN)]
+
+**StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks.**<br>
+*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
+TPAMI 2018. [[PDF](https://arxiv.org/abs/1710.10916)] [[Github](https://github.com/hanzhanggit/StackGAN-v2)]
+
+**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks.**<br>
+*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
+ICCV 2017. [[PDF](https://arxiv.org/abs/1612.03242v2)] [[Github](https://github.com/hanzhanggit/StackGAN-Pytorch)]
+
+**CPGAN: Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis.**<br>
+*Jiadong Liang, Wenjie Pei, Feng Lu.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490477.pdf)] [[Github](https://github.com/dongdongdong666/CPGAN)]
+
+**DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis.**<br>
+*Ming Tao, Hao Tang, Songsong Wu, Nicu Sebe, Fei Wu, Xiao-Yuan Jing.*<br>
+TMM 2020. [[PDF](https://arxiv.org/pdf/2008.05865)]
+
+**GeNeVA-GAN: Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction.**<br>
+*Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W.Taylor.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/pdf/1811.09845v3.pdf)] [[Github](https://github.com/Maluuba/GeNeVA_datasets)]
+
+**LeicaGAN: Learn, Imagine and Create: Text-to-Image Generation from Prior Knowledge.**<br>
+*Tingting Qiao, [Jing Zhang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jing-zhang1.html), Duanqing Xu, Dacheng Tao.*<br>
+NeurIPS 2019. [[PDF](http://papers.nips.cc/paper/8375-learn-imagine-and-create-text-to-image-generation-from-prior-knowledge.pdf)] [[Github](https://github.com/qiaott/LeicaGAN)]
+
+**HD-GAN: Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network.**<br>
+*Zizhao Zhang, Yuanpu Xie, Lin Yang.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1802.09178)] [[Github](https://github.com/ypxie/HDGan)]
 
 **Adversarial Synthesis of Human Pose from Text.**<br>
 *Yifei Zhang, Rania Briq, Julian Tanke, Juergen Gall.*<br>
@@ -468,10 +512,6 @@ CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http:/
 *Fangda Han, Ricardo Guerrero, Vladimir Pavlovic.*<br>
 WACV 2020. [[PDF](https://arxiv.org/abs/2002.11493)]
 
-**ControlGAN: Controllable Text-to-Image Generation.**<br>
-*Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H. S. Torr.*<br>
-NeurIPS 2019. [[PDF](https://papers.nips.cc/paper/8480-controllable-text-to-image-generation.pdf)] [[Github](https://github.com/mrlibw/ControlGAN)]
-
 **Object-driven Text-to-Image Synthesis via Adversarial Training.**<br>
 *Wenbo Li, Pengchuan Zhang, Lei Zhang, Qiuyuan Huang, Xiaodong He, Siwei Lyu, Jianfeng Gao.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1902.10740)]
@@ -487,26 +527,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07514)] [[Github](https://github.co
 **Cycle Text-To-Image GAN with BERT.**<br>
 *Trevor Tsue, Samir Sen, Jason Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12137)] [Github](https://github.com/suetAndTie/cycle-image-gan)]
-
-**Controllable Text-to-Image Generation.**<br>
-*Bowen Li, [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.07083)]
-
-**MirrorGAN: Learning Text-to-image Generation by Redescription.**<br>
-*Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1903.05854)] [[Unofficial TensorFlow](https://github.com/taki0112/MirrorGAN-Tensorflow)]
-
-**AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks.**<br>
-*Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1711.10485)] [[Github](https://github.com/taoxugit/AttnGAN)]
-
-**StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks.**<br>
-*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
-TPAMI 2018. [[PDF](https://arxiv.org/abs/1710.10916)] [[Github](https://github.com/hanzhanggit/StackGAN-v2)]
-
-**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks.**<br>
-*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
-ICCV 2017. [[PDF](https://arxiv.org/abs/1612.03242v2)] [[Github](https://github.com/hanzhanggit/StackGAN-Pytorch)]
 
 **Learning Deep Representations of Fine-grained Visual Descriptions.**<br>
 *Scott Reed, Zeynep Akata, Bernt Schiele, Honglak Lee.*<br>
