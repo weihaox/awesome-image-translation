@@ -858,6 +858,29 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
 
+**VAL: Image Search with Text Feedback by Visiolinguistic Attention Learning.**<br>
+*Yanbei Chen, Shaogang Gong, Loris Bazzani.*<br>
+CVPR 2020. [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Image_Search_With_Text_Feedback_by_Visiolinguistic_Attention_Learning_CVPR_2020_paper.pdf)] [[Gtihub](https://github.com/yanbeic/VAL)]
+
+**ShapeAssembly: Learning to Generate Programs for 3D Shape Structure Synthesis.**<br>
+*R. Kenny Jones, Theresa Barton, Xianghao Xu, Kai Wang, Ellen Jiang, Paul Guerrero, Niloy J. Mitra, Daniel Ritchie.*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.08026)] [[Project](https://rkjones4.github.io/shapeAssembly.html)]
+
+**DanceIt: Music-inspired Dancing Video Synthesis.**<br>
+*Xin Guo, Jia Li, Yifan Zhao.*<br>
+
+**Crossing You in Style: Cross-modal Style Transfer from Music to Visual Arts.**<br>
+*Cheng-Che Lee, Wan-Yi Lin, Yen-Ting Shih, Pei-Yi Patricia Kuo, Li Su.*<br>
+[[PDF](https://arxiv.org/abs/2009.08083)]
+
+**Layered Neural Rendering for Retiming People in Video.**<br>
+*Erika Lu, Forrester Cole, Tali Dekel, Weidi Xie, Andrew Zisserman, David Salesin, William T. Freeman, Michael Rubinstein.*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https://retiming.github.io/)]
+
+**Semantic Pyramid for Image Generation.**<br>
+*Assaf Shocher, Yossi Gandelsman, Inbar Mosseri, Michal Yarom, Michal Irani, William T. Freeman, Tali Dekel.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.06221)] [[Github](https://github.com/rosinality/semantic-pyramid-pytorch)]
+
 **Dynamic Future Net: Diversified Human Motion Generation.**<br>
 *Wenheng Chen, He Wang, Yi Yuan, Tianjia Shao, Kun Zhou.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.05109)]
