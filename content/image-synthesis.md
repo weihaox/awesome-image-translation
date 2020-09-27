@@ -102,6 +102,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ### With Unpaired or Misaligned Data
 
+**Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time.**<br>
+*Hui Zeng, Jianrui Cai, Lida Li, Zisheng Cao, Lei Zhang.*<br>
+TPAMI 2020. [[PDF](https://www4.comp.polyu.edu.hk/~cslzhang/paper/PAMI_LUT.pdf)] [[Github](https://github.com/HuiZeng/Image-Adaptive-3DLUT)] [[Dataset](https://connectpolyu-my.sharepoint.com/:f:/g/personal/16901447r_connect_polyu_hk/EqNGuQUKZe9Cv3fPG08OmGEBbHMUXey2aU03E21dFZwJyg?e=QNCMMZ)]
+
 **Blind Image Restoration with Flow Based Priors.**<br> 
 *Leonhard Helminger, Michael Bernasconi, Abdelaziz Djelouah, Markus Gross, Christopher Schroers.*<br> 
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.04583)]
@@ -112,7 +116,7 @@ BMVC 2020. [[PDF](https://arxiv.org/abs/2009.04286)]
 
 **Blind Face Restoration via Deep Multi-scale Component Dictionaries.**<br> 
 *Xiaoming Li, Chaofeng Chen, Shangchen Zhou, Xianhui Lin, Wangmeng Zuo, Lei Zhang.*<br> 
-ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375-supp.pdf)]
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375-supp.pdf)]
 
 **Unpaired Learning of Deep Image Denoising.**<br>
 *Xiaohe Wu, Ming Liu, Yue Cao, Dongwei Ren, Wangmeng Zuo.*<br>
@@ -241,6 +245,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
 ### Misc
+
+**Progressive Semantic-Aware Style Transformation for Blind Face Restoration.**<br>
+*Chaofeng Chen, Xiaoming Li, Lingbo Yang, Xianhui Lin, Lei Zhang, Kwan-Yee K. Wong.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.08709)] [[Github](https://github.com/chaofengc/PSFRGAN)]
+
+**FGVC: Flow-edge Guided Video Completion.**<br>
+*Chen Gao, Ayush Saraf, Jia-Bin Huang, Johannes Kopf.*<br>
+ECCVv 2020. [[PDF](https://arxiv.org/abs/2009.01835)] [[Project](http://chengao.vision/FGVC/)] [[Github](https://github.com/vt-vl-lab/FGVC)]
 
 **Ordered or Orderless: A Revisit for Video based Person Re-Identification.**<br>
 *[Le Zhang](https://zhangleuestc.github.io/), Joey Tianyi Zhou, Ming-Ming Cheng, Yun Liu, Jia-Wang Bian, Zeng Zeng, Chunhua Shen.*<br>
@@ -857,6 +869,13 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Misc
+**X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers.**<br>
+*Jaemin Cho, Jiasen Lu, Dustin Schwenk, Hannaneh Hajishirzi, Aniruddha Kembhavi.*<br>
+EMNLP 2020. [[PDF](https://arxiv.org/abs/2009.11278)]
+
+**Scene Graph to Image Generation with Contextualized Object Layout Refinement.**<br>
+*Maor Ivgi, Yaniv Benny, Avichai Ben-David, Jonathan Berant, Lior Wolf.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.10939)]
 
 **VAL: Image Search with Text Feedback by Visiolinguistic Attention Learning.**<br>
 *Yanbei Chen, Shaogang Gong, Loris Bazzani.*<br>
