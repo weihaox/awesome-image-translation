@@ -11,5 +11,5 @@ include:
   - awesome-gan-inversion.md
   - content/cv-lab.md
   - content/dataset.md
-  - content/controllable-image-generation.md
-  - content/image-synthesis.md
+  - content/image-generation.md
+  - content/image-restoration.md
