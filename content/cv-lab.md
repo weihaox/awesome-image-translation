@@ -5,14 +5,34 @@ This is a list of computer vision groups and Graphic from various universities a
 ## Europe
 
 **ETH Zurich** <br>
-[D-INFK](https://inf.ethz.ch/) [[Open Positions](https://www.jobs.ethz.ch/site/index)] [[The AVETH Survival Guide](https://www.avethdev.ethz.ch/aveth-survival-guide/)] [[The Ph.D Grind](www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)]
-* [CVL: Computer Vision Laboratory](http://www.vision.ee.ethz.ch/en/) by [Prof. Luc Van Gool](https://www.vision.ee.ethz.ch/en/members/detail/1/)
-* [IVC: Institute for Visual Computing](https://ivc.ethz.ch/index.html)
-* [CVG: Computer Vision and Geometry Group](http://cvg.ethz.ch/) by Prof. Dr. Marc Pollefeys. 
-* [Computer Graphics Laboratory](graphics.ethz.ch) by Prof. Dr. Markus Gross.
-* [IGL: Interactive Geometry Lab](igl.ethz.ch) by Prof. Dr. Olga Sorkine-Hornung.
-* [AIT: Advanced Interactive Technologies](https://ait.ethz.ch/) [[PhD Position](https://ait.ethz.ch/phd/)] [[AIT Application Guidelines](https://ait.ethz.ch/jobs/apply/)]
-* [PRS: Photogrammetry and Remote Sensing](https://prs.igp.ethz.ch/). Department of Civil, Environmental and Geomatic EngineeringInstitute of Geodesy and Photogrammetry.
+
+Department of Information Technology and Electrical Engineering ([D-ITET](https://ee.ethz.ch/))
+[Laboratories and Professors](https://ee.ethz.ch/research/laboratories-and-professors.html)
+
+* [CVL: Computer Vision Laboratory](http://www.vision.ee.ethz.ch/en/), led by Prof. Dr. Luc Van Gool. 
+
+Department of Computer Science ([D-INFK](https://inf.ethz.ch/department/organisation/organization.html))
+
+[[Open Positions](https://www.jobs.ethz.ch/site/index)] [[The AVETH Survival Guide](https://www.avethdev.ethz.ch/aveth-survival-guide/)] [[The Ph.D Grind](www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)]
+
+IPC:  [Institute of Pervasive Computing](http://pc.inf.ethz.ch/)
+
+* [AIT: Advanced Interactive Technologies](https://ait.ethz.ch/), led by Prof. Dr. Otmar Hilliges. [[PhD Position](https://ait.ethz.ch/phd/)] [[AIT Application Guidelines](https://ait.ethz.ch/jobs/apply/)], also with IVC.
+* [CRL: Computational Robotics Lab,](http://crl.ethz.ch/) led by Prof. Stelian Coros.
+
+* [SIPLAB: Sensing, Interaction & Perception Lab](https://siplab.org/), led by Prof. Christian Holz.
+
+IVC: [Institute for Visual Computing](https://ivc.ethz.ch/index.html)
+
+* [CVG: Computer Vision and Geometry Group](http://cvg.ethz.ch/), led by Prof. Dr. Marc Pollefeys. 
+* [CGL: Computer Graphics Laboratory,](https://graphics.ethz.ch) led by Prof. Dr. Markus Gross.
+* [IGL: Interactive Geometry Lab](https://igl.ethz.ch), led by Prof. Dr. Olga Sorkine-Hornung.
+* [VLG: Computer Vision and Learning Group](https://vlg.inf.ethz.ch/), led by Prof. Dr. Siyu Tang. 
+
+Department of Civil, Environmental and Geomatic Engineering ([D-BAUG](https://baug.ethz.ch/index_EN))
+IGP: [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/)
+
+* [PRS: Photogrammetry and Remote Sensing](https://prs.igp.ethz.ch/), led by Prof. Dr. Schindler Konrad.
 
 **ETH Zurich and Max Plank Institute for Intelligent Systems**
 * Max Plank ETH Center For Learning Systems. by Prof. Otmar Hilliges (AIT, ETHZ) and Prof. Michael Black (MPII). [[PhD Position](learning-systems.org/phds)] [[Application](https://cls.tue.mpg.de/registration/cls_2020)]
@@ -60,7 +80,7 @@ This is a list of computer vision groups and Graphic from various universities a
 * [VIS: Vision and Imaging Science](http://vis.cs.ucl.ac.uk)
 * [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php)
 
-University of Cambridge 
+**University of Cambridge**  
 * [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/) 
 * [CPDS: Centre for Photonic Devices and Sensors](https://www.cpds.eng.cam.ac.uk/) by [Prof. Daping Chu](http://www.eng.cam.ac.uk/profiles/dpc31)
 * [CPS: Centre for Photonic Systems](http://www-g.eng.cam.ac.uk/photonic_comms/files/cps_home.php)
@@ -78,7 +98,7 @@ University of Cambridge
 * [Imperial CV and Learning Lab](http://www.iis.ee.ic.ac.uk/ComputerVision/) [[Jobs](abicvl.github.io)]
 * [IBUG: Intelligent Behavior Understanding Group](https://ibug.doc.ic.ac.uk/)
 
-KTH Royal Institute of Technology
+**KTH Royal Institute of Technology** 
 * [CVAP: Computer Vision and Active Perception Lab](https://www.kth.se/en/csc/forskning/cvap) 
 
 **KU Leuven**<br>
