@@ -6,10 +6,13 @@ This is a list of computer vision groups and Graphic from various universities a
 
 **ETH Zurich** <br>
 
-Department of Information Technology and Electrical Engineering ([D-ITET](https://ee.ethz.ch/))
-[Laboratories and Professors](https://ee.ethz.ch/research/laboratories-and-professors.html)
+Department of Information Technology and Electrical Engineering ([D-ITET](https://ee.ethz.ch/research/laboratories-and-professors.html))
 
-* [CVL: Computer Vision Laboratory](http://www.vision.ee.ethz.ch/en/), led by Prof. Dr. Luc Van Gool. 
+CVL: [Computer Vision Laboratory](http://www.vision.ee.ethz.ch/en/)   
+
+* ICU: [Image Communication and Understanding Group](https://icu.ee.ethz.ch/), led by Prof. Dr. Luc Van Gool. 
+* BMIC: [Biomedical Image Computing Group](https://bmic.ee.ethz.ch/), led by Prof. Ender Konukoglu.
+* CAIM: [Computer-assisted Applications in Medicine Group](https://caim.ee.ethz.ch/), led by Prof. Orçun Göksel 
 
 Department of Computer Science ([D-INFK](https://inf.ethz.ch/department/organisation/organization.html))
 
@@ -17,9 +20,8 @@ Department of Computer Science ([D-INFK](https://inf.ethz.ch/department/organisa
 
 IPC:  [Institute of Pervasive Computing](http://pc.inf.ethz.ch/)
 
-* [AIT: Advanced Interactive Technologies](https://ait.ethz.ch/), led by Prof. Dr. Otmar Hilliges. [[PhD Position](https://ait.ethz.ch/phd/)] [[AIT Application Guidelines](https://ait.ethz.ch/jobs/apply/)], also with IVC.
+* [AIT: Advanced Interactive Technologies](https://ait.ethz.ch/), led by Prof. Dr. Otmar Hilliges also with IVC.  [[PhD Position](https://ait.ethz.ch/phd/)] [[AIT Application Guidelines](https://ait.ethz.ch/jobs/apply/)]
 * [CRL: Computational Robotics Lab,](http://crl.ethz.ch/) led by Prof. Stelian Coros.
-
 * [SIPLAB: Sensing, Interaction & Perception Lab](https://siplab.org/), led by Prof. Christian Holz.
 
 IVC: [Institute for Visual Computing](https://ivc.ethz.ch/index.html)
@@ -30,9 +32,11 @@ IVC: [Institute for Visual Computing](https://ivc.ethz.ch/index.html)
 * [VLG: Computer Vision and Learning Group](https://vlg.inf.ethz.ch/), led by Prof. Dr. Siyu Tang. 
 
 Department of Civil, Environmental and Geomatic Engineering ([D-BAUG](https://baug.ethz.ch/index_EN))
+
 IGP: [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/)
 
 * [PRS: Photogrammetry and Remote Sensing](https://prs.igp.ethz.ch/), led by Prof. Dr. Schindler Konrad.
+
 
 **ETH Zurich and Max Plank Institute for Intelligent Systems**
 * Max Plank ETH Center For Learning Systems. by Prof. Otmar Hilliges (AIT, ETHZ) and Prof. Michael Black (MPII). [[PhD Position](learning-systems.org/phds)] [[Application](https://cls.tue.mpg.de/registration/cls_2020)]
