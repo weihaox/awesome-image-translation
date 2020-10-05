@@ -1,4 +1,3 @@
-
 # Controllable Image Generation
 
 This repository is about *Controllable and Interpretable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
@@ -54,6 +53,10 @@ SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https:/
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.02007)]
 
 ### Change Where You Want
+
+**SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning.**<br>
+*[Tsu-Jui Fu](https://tsujuifu.github.io/), [Xin Eric Wang](https://eric-xw.github.io/), Scott Grafton, Miguel Eckstein, William Yang Wang.*<br>
+EMNLP 2020. [[PDF](https://tsujuifu.github.io/pubs/emnlp20_sscr.pdf)] [[Github](https://github.com/tsujuifu/pytorch_sscr)]
 
 **Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach.**<br>
 *Yahui Liu, Marco De Nadai, Deng Cai, Huayang Li, Xavier Alameda-Pineda, Nicu Sebe, Bruno Lepri.*<br>
@@ -583,6 +586,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1905.09773)] [[project](https://speech2f
 
 ### Voice-to-Voice
 
+**Generative Modelling for Controllable Audio Synthesis of Expressive Piano Performance.**<br>
+*Hao Hao Tan, Yin-Jyun Luo, Dorien Herremans.*<br>
+ICML Workshop 2020. [[PDF](https://arxiv.org/abs/2006.09833)] [[Github](https://github.com/gudgud96/piano-synthesis)] [[MAESTRO v2.0.0](https://magenta.tensorflow.org/datasets/maestro)] [[WaveGlow](https://github.com/yjlolo/constant-memory-waveglow)]
+
 **REMI: Pop Music Transformer: Generating Music with Rhythm and Harmony.**<br>
 *Yu-Siang Huang, Yi-Hsuan Yang.*<br>
 arxiv, 1 Feb 2020. [[PDF](https://arxiv.org/abs/2002.00212)] [[Github](https://github.com/YatingMusic/remi)] [[Demo](http://vibertthio.com/transformer/)]
@@ -750,6 +757,22 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12373)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
 
 ### Misc
+
+**MaterialGAN: Reflectance Capture using a Generative SVBRDF Model.**<br>
+*Yu Guo, Cameron Smith, Miloš Hašan, Kalyan Sunkavalli, Shuang Zhao.*<br>
+Siggraph Asia 2020. [[PDF](https://arxiv.org/abs/2010.00114)]
+
+**CariMe: Unpaired Caricature Generation with Multiple Exaggerations.**<br>
+*Zheng Gu, Chuanqi Dong, Jing Huo, Wenbin Li, Yang Gao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.00246)]
+
+**Structure-Aware Human-Action Generation.**<br>
+*Ping Yu, Yang Zhao, Chunyuan Li, Junsong Yuan, Changyou Chen.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.01971)] [[Github](https://github.com/PingYu-iris/SA-GCN)]
+
+**Exposing GAN-generated Faces Using Inconsistent Corneal Specular Highlights.**<br>
+*Shu Hu, Yuezun Li, Siwei Lyu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.11924)]
 
 **X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers.**<br>
 *Jaemin Cho, Jiasen Lu, Dustin Schwenk, Hannaneh Hajishirzi, Aniruddha Kembhavi.*<br>

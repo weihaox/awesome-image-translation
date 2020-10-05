@@ -230,6 +230,25 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
 ## Misc
 
+**Efficient Image Super-Resolution Using Pixel Attention.**<br>
+*Hengyuan Zhao, Xiangtao Kong, Jingwen He, Yu Qiao, Chao Dong.*<br>
+ECCVW 2020. [[PDF]((https://arxiv.org/abs/2010.01073)]
+
+**Deformable Kernel Convolutional Network for Video Extreme Super-Resolution.**<br>
+*Xuan Xu, Xin Xiong, Jinge Wang, Xin Li.*<br>
+ECCVW 2020. [[PDF](https://arxiv.org/abs/2010.00154)]
+
+**Texture-aware Multi-resolution Image Inpainting.**<br>
+*Mohamed Abbas Hedjazi, Yakup Genc.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.14721)]
+
+**Blind Video Temporal Consistency via Deep Video Prior.**<br>
+NeurIPS 2020. [[Github](https://github.com/ChenyangLEI/deep-video-prior)]
+
+**Texture Memory-Augmented Deep Patch-Based Image Inpainting.**<br> 
+*Rui Xu, Minghao Guo, Jiaqi Wang, Xiaoxiao Li, Bolei Zhou, Chen Change Loy.*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.13240)]
+
 **Foreground-aware Semantic Representations for Image Harmonization.**<br> 
 *Konstantin Sofiiuk, Polina Popenova, Anton Konushin.*<br> 
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.00809)] [[Github](https://github.com/saic-vul/image_harmonization)]
@@ -240,7 +259,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.08709)] [[Github](https://github.c
 
 **FGVC: Flow-edge Guided Video Completion.**<br>
 *Chen Gao, Ayush Saraf, Jia-Bin Huang, Johannes Kopf.*<br>
-ECCVv 2020. [[PDF](https://arxiv.org/abs/2009.01835)] [[Project](http://chengao.vision/FGVC/)] [[Github](https://github.com/vt-vl-lab/FGVC)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.01835)] [[Project](http://chengao.vision/FGVC/)] [[Github](https://github.com/vt-vl-lab/FGVC)]
 
 **Ordered or Orderless: A Revisit for Video based Person Re-Identification.**<br>
 *[Le Zhang](https://zhangleuestc.github.io/), Joey Tianyi Zhou, Ming-Ming Cheng, Yun Liu, Jia-Wang Bian, Zeng Zeng, Chunhua Shen.*<br>
@@ -433,6 +452,10 @@ ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.01999)]
 **Recurrent Feature Reasoning for Image Inpainting.**<br>
 *Jingyuan Li, Ning Wang, Lefei Zhang, Bo Du, Dacheng Tao.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2008.03737)] [[GitHub](https://github.com/jingyuanli001/RFR-Inpainting)]
+
+**Learning When and Where to Zoom With Deep Reinforcement Learning.**<br>
+*Burak Uzkent, Stefano Ermon.*<br>
+CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Uzkent_Learning_When_and_Where_to_Zoom_With_Deep_Reinforcement_Learning_CVPR_2020_paper.pdf)] [[Github](https://github.com/ermongroup/PatchDrop)]
 
 **ESRGAN+: Further Improving Enhanced Super-Resolution Generative Adversarial Network.**<br>
 *Nathanaël Carraz Rakotonirina, Andry Rasoanaivo.*<br>
@@ -732,8 +755,12 @@ AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20L
 
 ## Challenge and Survey
 
+**AIM 2020: Scene Relighting and Illumination Estimation Challenge.**<br>
+*Majed El Helou, Ruofan Zhou, Sabine Süsstrunk, Radu Timofte, et al.*<br>
+ECCVW 2020. [[PDF](https://arxiv.org/abs/2009.12798)] [[Project](https://github.com/majedelhelou/VIDIT)]
+
 **NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results.**<br>
-*Kai Zhang, Shuhang Gu, Radu Timofte, et al..*<br>
+*Kai Zhang, Shuhang Gu, Radu Timofte, et al.*<br>
 NTIRE 2020 [Challenge](https://data.vision.ee.ethz.ch/cvl/ntire20/). [[PDF](https://arxiv.org/abs/2005.01056)]
 
 **NTIRE 2020 Challenge on Image and Video Deblurring.**<br>
@@ -741,7 +768,7 @@ NTIRE 2020 [Challenge](https://data.vision.ee.ethz.ch/cvl/ntire20/). [[PDF](http
 CVPR 2020 Workshop: New Trends in Image Restoration and Enhancement. [[PDF](https://arxiv.org/abs/2005.01244)]
 
 **NTIRE 2020 Challenge on Image Demoireing: Methods and Results.**<br>
-*Shanxin Yuan, Radu Timofte et al..*<br>
+*Shanxin Yuan, Radu Timofte et al.*<br>
 NTIRE 2020. [[PDF](https://arxiv.org/abs/2005.03155)]
 
 **AIM 2019 Challenge on Video Temporal Super-Resolution: Methods and Results.**<br>

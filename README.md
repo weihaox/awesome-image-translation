@@ -215,6 +215,9 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
+*Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00951)] [[Github](https://github.com/eladrich/pixel2style2pixel)] [[Project](eladrich.github.io/pixel2style2pixel/)]
 
 **Semantically Adaptive Image-to-image Translation for Domain Adaptation of Semantic Segmentation.**<br>
 *Luigi Musto, Andrea Zinelli.*<br>
