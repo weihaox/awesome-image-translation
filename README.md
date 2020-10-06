@@ -32,7 +32,7 @@ Feedback and contributions are welcome!
 ### ECCV 2020
 [[accepted paper list](https://eccv2020.eu/accepted-papers/)]
 
-**Self-Supervised CycleGAN for Object-Preserving Image-to-Image Domain Adaptation.**[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650494.pdf)]<br>  
+**Self-Supervised CycleGAN for Object-Preserving Image-to-Image Domain Adaptation.**[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650494.pdf)]<br>
 *Xinpeng Xie, Jiawei Chen, Yuexiang Li, Linlin Shen, Kai Ma, Yefeng Zheng.*<br>  
 
 **World-Consistent Video-to-Video Synthesis.**[[PDF](https://arxiv.org/abs/2007.08509)] [[Github](https://nvlabs.github.io/wc-vid2vid/)]<br> 
@@ -214,6 +214,10 @@ Feedback and contributions are welcome!
 *Yiming Gao, Jiangqin Wu.*<br>
 
 ### Others 2020
+
+**The Surprising Effectiveness of Linear Unsupervised Image-to-Image Translation.**<br>
+*Eitan Richardson, Yair Weiss.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.12568)] [[Github](https://github.com/eitanrich/lin-im2im)]
 
 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
 *Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
