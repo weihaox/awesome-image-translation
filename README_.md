@@ -430,6 +430,10 @@ ICCV 2017. [[PDF](https://arxiv.org/abs/1707.06873)] [[Github](https://github.co
 *[Seonghyeon Nam](http://snam.ml/), Yunji Kim, Seon Joo Kim.*<br>
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1810.11919)] [[Github](https://github.com/woozzu/tagan)]
 
+**Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation.**<br>
+*Bowen Li, Xiaojuan Qi, Philip Torr, Thomas Lukasiewicz.*<br>
+NeurIPS 2020. [[PDF]()]
+
 **ManiGAN: Text-Guided Image Manipulation.**<br>
 *[Bowen Li](https://mrlibw.github.io/), [Xiaojuan Qi](https://xjqi.github.io/), Thomas Lukasiewicz, Philip H. S. Torr.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06203)] [[Github](https://github.com/mrlibw/ManiGAN)]

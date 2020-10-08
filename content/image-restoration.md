@@ -86,6 +86,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**Unfolding the Alternating Optimization for Blind Super Resolution.**<br>
+*Zhengxiong Luo, Yan Huang, Shang Li, Liang Wang, Tieniu Tan.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.02631)] [[Github](https://github.com/greatlog/DAN.git)]
+
 **Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time.**<br>
 *Hui Zeng, Jianrui Cai, Lida Li, Zisheng Cao, Lei Zhang.*<br>
 TPAMI 2020. [[PDF](https://www4.comp.polyu.edu.hk/~cslzhang/paper/PAMI_LUT.pdf)] [[Github](https://github.com/HuiZeng/Image-Adaptive-3DLUT)] [[Dataset](https://connectpolyu-my.sharepoint.com/:f:/g/personal/16901447r_connect_polyu_hk/EqNGuQUKZe9Cv3fPG08OmGEBbHMUXey2aU03E21dFZwJyg?e=QNCMMZ)]
@@ -229,6 +233,34 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
 ## Misc
+
+**Self-Adaptively Learning to Demoiré from Focused and Defocused Image Pairs.**<br>
+*Lin Liu, Shanxin Yuan, Jianzhuang Liu, Liping Bao, Gregory Slabaugh, Qi Tian.*<br>
+NeurIPS 2020. [[PDF]()]
+
+**UnModNet: Learning to Unwrap a Modulo Image for High Dynamic Range Imaging.**<br>
+*Chu Zhou, Hang Zhao, Jin Han, Chang Xu, Chao Xu, Tiejun Huang, Boxin Shi.*<br>
+NeurIPS 2020. [[PDF]()]
+
+**CLEARER: Multi-Scale Neural Architecture Search for Image Restoration.**<br>
+*Yuanbiao Gou, Boyun Li, Zitao Liu, Songfan Yang, Xi Peng.*<br>
+NeurIPS 2020. [[PDF]()]
+
+**Cross-scale Internal Graph Convolution Network for Image Super-Resolution.**<br>
+*Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Chen Change Loy.*<br>
+NeurIPS 2020. [[PDF]()]
+
+**Noise2Same: Optimizing A Self-Supervised Bound for Image Denoising.**<br>
+*Yaochen Xie, Zhengyang Wang, Shuiwang Ji.*<br>
+NeurIPS 2020. [[PDF]()]
+
+**Neural Sparse Representation for Image Restoration.**<br>
+*Yuchen Fan, Jiahui Yu, Yiqun Mei, Yulun Zhang, Yun Fu, Ding Liu, Thomas Huang.*<br>
+NeurIPS 2020. [[PDF]()]
+
+**Deep Wiener Deconvolution: Wiener Meets Deep Learning for Image Deblurring.**<br>
+*Jiangxin Dong, Stefan Roth, Bernt Schiele.*<br>
+NeurIPS 2020. [[PDF]()]
 
 **Efficient Image Super-Resolution Using Pixel Attention.**<br>
 *Hengyuan Zhao, Xiangtao Kong, Jingwen He, Yu Qiao, Chao Dong.*<br>

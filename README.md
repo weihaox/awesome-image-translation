@@ -215,9 +215,18 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+
+**DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
+*yaxing wang, Lu Yu, Joost van de Weijer.*<br>
+NeurIPS 2020. [[PDF](https://neurips.cc/Conferences/2020/AcceptedPapersInitial)]
+
 **The Surprising Effectiveness of Linear Unsupervised Image-to-Image Translation.**<br>
 *Eitan Richardson, Yair Weiss.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.12568)] [[Github](https://github.com/eitanrich/lin-im2im)]
+
+**BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
+*Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
+arxiv 2020.[[PDF](https://arxiv.org/abs/2010.02036)]
 
 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
 *Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>

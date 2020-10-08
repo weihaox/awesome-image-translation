@@ -54,6 +54,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.02007)]
 
 ### Change Where You Want
 
+**Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation.**<br>
+*Bowen Li, Xiaojuan Qi, Philip Torr, Thomas Lukasiewicz.*<br>
+NeurIPS 2020. [[PDF]()]
+
+**A Benchmark and Baseline for Language-Driven Image Editing.**<br>
+*Jing Shi, Ning Xu, Trung Bui, Franck Dernoncourt, Zheng Wen, Chenliang Xu.*<br>
+ACCV 2020. [[PDF](https://arxiv.org/abs/2010.02330)]
+
 **SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning.**<br>
 *[Tsu-Jui Fu](https://tsujuifu.github.io/), [Xin Eric Wang](https://eric-xw.github.io/), Scott Grafton, Miguel Eckstein, William Yang Wang.*<br>
 EMNLP 2020. [[PDF](https://tsujuifu.github.io/pubs/emnlp20_sscr.pdf)] [[Github](https://github.com/tsujuifu/pytorch_sscr)]
@@ -757,6 +765,27 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12373)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
 
 ### Misc
+
+
+**Swapping Autoencoder for Deep Image Manipulation.**<br>
+*Taesung Park, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei Efros, Richard Zhang.*<br>
+NeurIPS 2020. [[PDF]()]
+
+**Differentiable Augmentation for Data-Efficient GAN Training.**<br>
+*Shengyu Zhao, Zhijian Liu, Ji Lin (MIT) · Jun-Yan Zhu, Song Han.*<br>
+NeurIPS 2020. [[PDF]()]
+
+**GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
+*Katja Schwarz, Yiyi Liao, Michael Niemeyer, Andreas Geiger.*<br>
+NeurIPS 2020. [[PDF]()]
+
+**SMILE: Semantically-guided Multi-attribute Image and Layout Editing.**<br>
+*Andrés Romero, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2020.[[PDF](https://arxiv.org/abs/2010.02315)]
+
+**Stuttering Speech Disfluency Prediction using Explainable Attribution Vectors of Facial Muscle Movements.**<br>
+*Arun Das, Jeffrey Mock, Henry Chacon, Farzan Irani, Edward Golob, Peyman Najafirad.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.01231)]
 
 **MaterialGAN: Reflectance Capture using a Generative SVBRDF Model.**<br>
 *Yu Guo, Cameron Smith, Miloš Hašan, Kalyan Sunkavalli, Shuang Zhao.*<br>
