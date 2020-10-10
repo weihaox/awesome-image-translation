@@ -421,6 +421,42 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
 [[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
 
+
+### Image-Text Matching (Visual-Semantic/Lingustic Embedding)
+
+[a collection](https: //blog. csdn. net/weixin_42/article/details/104275300)
+
+**CVSE: Consensus-Aware Visual-Semantic Embedding for Image-Text Matching.**<br>
+*Haoran Wang, Ying Zhang, Zhong Ji, Yanwei Pang, Lin Ma.*<br>
+ECCV 2020. [[PDF] (https://arxiv.org/abs/2007.08883)] [[Github](https://github.com/BruceW91/CVSE)]
+
+**Visual Semantic Reasoning for Image-Text- Matching.**<br>
+*Kunpeng Li, Yulun Zhang, Kai Li, Yuanyuan Li, Yun Fu.*<br>
+ICCV 2019. [[PDF] (arxiv.org/abs/1909.02701)] [[Github](https://github.com/KunpengLi1994/VSRN)]
+
+**Cross-modal Scene Graph Matching for Relationship-aware Image-Text Retrieval.**<br>
+*Sijin Wang, Ruiping Wang, Ziwei Yao, Shiguang Shan, xilin Chen.*<br>
+WACV 2020. [[PDF] (https://arxiv.org/abs/1910.0513)]
+
+**VL-BERT: Pre-training of Generic Visual-Linguistic Representations.**<br>
+*Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai.*<br>
+ICLR 2020. [[PDF] (https://arxiv.org/abs/190 8.08530)] [[Github](https://github.com/jackroos/VL-BERT)]
+
+**SAN: Saliency-Guided- Attention Network for Image-Sentence Matching.**<br>
+*Zhong Ji, Haoran Wang, Jungong Han, Yanwei Pang.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1904.09471v1)]
+
+**VSE++: Improving Visual-Semantic- Embeddings with Hard Negatives.**<br>
+*Fartash Faghri, David. Fleet, Jamie Ryan Kiros, Sanja Fidler.*<br>
+BMVC 2018. [[PDF] (https://arxiv.org/abs/1707.05612)] [[Github](https://github.com/fartashf/vsepp)]
+
+**Deep Fragment Embeddings for Bidirectional Image Sentence Mapping.**<br>
+*Andrej Karpathy, Armand Joulin, Li Fei-Fei.*<br>
+NeurIPS 2014. [[PDF] (https://arxiv.org/abs/1406.5679)]
+
+**DeViSE: Deep Visual/Semantic Embedding Model.**<br>
+ *Andrea Frome, Greg Corrado, Jonathon ShLens, Samy Bengio, Jeffrey Dean, Marc'Aurelio Ranzato Tomas Mikolov.*<br> NeurIPS 2013. [[PDF] (https://static.googleusercontent.com/media/researchgoogle.com/zh-CN/pubs/archive/41473.pdf)]
+
 ### Image-to-Text
 
 **Structure-Aware Generation Network for Recipe Generation from Images.**<br>
