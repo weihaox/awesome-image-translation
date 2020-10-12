@@ -699,9 +699,13 @@ arxiv 2014. [[PDF](https://arxiv.org/abs/1410.8516)] [[Github](https://github.co
 
 [[awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)]
 
+**StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
+*Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)]
+
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-arxiv, 3 Dec 2019.
+CVPR 2020.
 [[PDF](https://arxiv.org/abs/1912.04958)] 
 [[Offical TF](https://github.com/NVlabs/stylegan2)]
 [[PyTorch](https://github.com/rosinality/stylegan2-pytorch)]
@@ -712,8 +716,14 @@ arxiv, 3 Dec 2019.
 CVPR 2019. 
 [[Paper](https://arxiv.org/abs/1812.04948)]
 [[Video](https://youtu.be/kSLJriaOumA)]
-[[Code](https://github.com/NVlabs/stylegan)]
+[[Github](https://github.com/NVlabs/stylegan)]
 [[FFHQ](https://github.com/NVlabs/ffhq-dataset)]
+
+
+**PIE: Portrait Image Embedding for Semantic Control.**<br> 
+*[A. Tewari](http://people.mpi-inf.mpg.de/~atewari/), M. Elgharib, M. BR, F. Bernard, H-P. Seidel, P. P‌érez, M. Zollhöfer, C.Theobalt.*<br> 
+SIGGRAPH Asia 2020. [[PDF](http://gvv.mpi-inf.mpg.de/projects/PIE/data/paper.pdf)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PIE/)]
+
 
 **Hierarchical Style-based Networks for Motion Synthesis.**<br> 
 *Jingwei Xu, Huazhe Xu, Bingbing Ni, Xiaokang Yang, Xiaolong Wang, Trevor Darrell.*<br>
@@ -802,6 +812,17 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
 
 ### Misc
 
+**A Deep Learning Based Interactive Sketching System for Fashion Images Design.**<br>
+*Yao Li, Xianggang Yu, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu.*<br>
+Pacific Graphics 2020. [[PDF](https://arxiv.org/abs/2010.04413)]
+
+**Towards Diverse and Interactive Facial Image Manipulation.**<br>
+*Cheng-Han Lee, Ziwei Liu, Lingyun Wu, Ping Luo.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1907.11922)] [[Github](https://github.com/switchablenorms/CelebAMask-HQ)]
+
+**NCP-VAE: Variational Autoencoders with Noise Contrastive Priors.**<br>
+*Jyoti Aneja, Alexander Schwing, Jan Kautz, Arash Vahdat.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02917)]
 
 **Swapping Autoencoder for Deep Image Manipulation.**<br>
 *Taesung Park, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei Efros, Richard Zhang.*<br>
@@ -1231,6 +1252,10 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 **Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
+
+**A Survey On Anti-Spoofing Methods For Face Recognition with RGB Cameras of Generic Consumer Devices.**<br>
+*Zuheng Ming, Muriel Visani, Muhammad Muzzamil Luqman, Jean-Christophe Burie.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 
 **What Makes Fake Images Detectable? Understanding Properties That Generalize.**<br>
 *Lucy Chai, David Bau, Ser-Nam Lim, Phillip Isola.*<br>
