@@ -238,6 +238,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 *Yun-Chun Chen, Chen Gao, Esther Robb, Jia-Bin Huang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.11713)] [[Poject](https://yunchunchen.github.io/NAS-DIP/)] [[Github](https://github.com/YunChunChen/NAS-DIP-pytorch)]
 
+**Efficient Residual Dense Block Search for Image Super-Resolution.**<br>
+*Dehua Song, Chang Xu, Xu Jia, Yiyi Chen, Chunjing Xu, [Yunhe Wang](www.wangyunhe.site).*<br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/1909.11409)] [[Github](https://github.com/huawei-noah/vega)]
 
 ## Misc
 
