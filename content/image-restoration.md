@@ -5,6 +5,7 @@
 - [Exemplar-Guided](#with-exemplar)
 - [Unpaired or Misaligned Data](#with-unpaired-or-misaligned-data)
 - [Replacing ISP](#replacing-isp)
+- [NAS and AutoML](#nas-and-automl)
 - [Misc](#misc)
 - [Challenge and Survey](#challenge-and-survey)
 
@@ -242,6 +243,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.11713)] [[Poject](https://yunchunch
 *Dehua Song, Chang Xu, Xu Jia, Yiyi Chen, Chunjing Xu, [Yunhe Wang](www.wangyunhe.site).*<br>
 AAAI 2020. [[PDF](https://arxiv.org/abs/1909.11409)] [[Github](https://github.com/huawei-noah/vega)]
 
+**CLEARER: Multi-Scale Neural Architecture Search for Image Restoration.**<br>
+*Yuanbiao Gou, Boyun Li, Zitao Liu, Songfan Yang, Xi Peng.*<br>
+NeurIPS 2020. [[PDF]()]
+
 ## Misc
 
 **Self-Adaptively Learning to Demoiré from Focused and Defocused Image Pairs.**<br>
@@ -250,10 +255,6 @@ NeurIPS 2020. [[PDF]()]
 
 **UnModNet: Learning to Unwrap a Modulo Image for High Dynamic Range Imaging.**<br>
 *Chu Zhou, Hang Zhao, Jin Han, Chang Xu, Chao Xu, Tiejun Huang, Boxin Shi.*<br>
-NeurIPS 2020. [[PDF]()]
-
-**CLEARER: Multi-Scale Neural Architecture Search for Image Restoration.**<br>
-*Yuanbiao Gou, Boyun Li, Zitao Liu, Songfan Yang, Xi Peng.*<br>
 NeurIPS 2020. [[PDF]()]
 
 **Cross-scale Internal Graph Convolution Network for Image Super-Resolution.**<br>
