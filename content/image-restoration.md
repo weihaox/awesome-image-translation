@@ -232,6 +232,13 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.co
 *Saeed Anwar, Nick Barnes, Lars Petersson.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
+## NAS and AutoML
+
+**NAS-DIP: Learning Deep Image Prior with Neural Architecture Search.**<br>
+*Yun-Chun Chen, Chen Gao, Esther Robb, Jia-Bin Huang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.11713)] [[Poject](https://yunchunchen.github.io/NAS-DIP/)] [[Github](https://github.com/YunChunChen/NAS-DIP-pytorch)]
+
+
 ## Misc
 
 **Self-Adaptively Learning to Demoiré from Focused and Defocused Image Pairs.**<br>
