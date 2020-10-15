@@ -11,6 +11,9 @@ Feedback and contributions are welcome!
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
+**PIE: Portrait Image Embedding for Semantic Control.**<br> 
+*[A. Tewari](http://people.mpi-inf.mpg.de/~atewari/), M. Elgharib, M. BR, F. Bernard, H-P. Seidel, P. P‌érez, M. Zollhöfer, C.Theobalt.*<br> 
+SIGGRAPH Asia 2020. [[PDF](http://gvv.mpi-inf.mpg.de/projects/PIE/data/paper.pdf)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PIE/)]
 
 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
 *Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
@@ -19,6 +22,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00951)] [[Github](https://github.c
 **Understanding the Role of Individual Units in a Deep Neural Network.**<br>
 *David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
 National Academy of Sciences 2020. [[PDF](https://arxiv.org/abs/2009.05041)] [[Github](https://github.com/davidbau/dissect/)] [[Project](https://dissect.csail.mit.edu/)]
+
+**Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
+*Jialu Huang, Jing Liao, Sam Kwong.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
 
 **SeFa: Closed-Form Factorization of Latent Semantics in GANs.**<br>
 *Yujun Shen, Bolei Zhou.*<br>

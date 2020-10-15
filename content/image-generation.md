@@ -24,7 +24,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 - [Multi-Modality Translation](#multi-modality-translation)
   * [Image-to-Text](#image-to-text)
   * [Text-to-Image](#text-to-image)
-  * [Speech and Text](#speech-and-text)
+  * [Speech-and-Text](#speech-and-text)
   * [Image-and-Voice](#image-and-voice)
   * [Voice-to-Voice](#voice-to-voice)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
@@ -424,7 +424,7 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 
 ### Image-Text Matching (Visual-Semantic/Lingustic Embedding)
 
-[a collection](https: //blog. csdn. net/weixin_42/article/details/104275300)
+[a collection](https://blog.csdn.net/weixin_42/article/details/104275300)
 
 **CVSE: Consensus-Aware Visual-Semantic Embedding for Image-Text Matching.**<br>
 *Haoran Wang, Ying Zhang, Zhong Ji, Yanwei Pang, Lin Ma.*<br>
@@ -436,7 +436,7 @@ ICCV 2019. [[PDF] (arxiv.org/abs/1909.02701)] [[Github](https://github.com/Kunpe
 
 **Cross-modal Scene Graph Matching for Relationship-aware Image-Text Retrieval.**<br>
 *Sijin Wang, Ruiping Wang, Ziwei Yao, Shiguang Shan, xilin Chen.*<br>
-WACV 2020. [[PDF] (https://arxiv.org/abs/1910.0513)]
+WACV 2020. [[PDF](https://arxiv.org/abs/1910.0513)]
 
 **VL-BERT: Pre-training of Generic Visual-Linguistic Representations.**<br>
 *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai.*<br>
@@ -452,7 +452,7 @@ BMVC 2018. [[PDF] (https://arxiv.org/abs/1707.05612)] [[Github](https://github.c
 
 **Deep Fragment Embeddings for Bidirectional Image Sentence Mapping.**<br>
 *Andrej Karpathy, Armand Joulin, Li Fei-Fei.*<br>
-NeurIPS 2014. [[PDF] (https://arxiv.org/abs/1406.5679)]
+NeurIPS 2014. [[PDF](https://arxiv.org/abs/1406.5679)]
 
 **DeViSE: Deep Visual/Semantic Embedding Model.**<br>
  *Andrea Frome, Greg Corrado, Jonathon ShLens, Samy Bengio, Jeffrey Dean, Marc'Aurelio Ranzato Tomas Mikolov.*<br> NeurIPS 2013. [[PDF] (https://static.googleusercontent.com/media/researchgoogle.com/zh-CN/pubs/archive/41473.pdf)]
@@ -565,7 +565,7 @@ ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.co
 *Scott Reed, Zeynep Akata, Bernt Schiele, Honglak Lee.*<br>
 CVPR 2016. [[PDF](https://arxiv.org/abs/1605.05395)] [[Github](https://github.com/reedscot/cvpr2016)]
 
-### Speech and Text
+### Speech-and-Text
 
 **Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding.**<br>
 *Yuchen Liu, Jiajun Zhang, Hao Xiong, Long Zhou, Zhongjun He, Hua Wu, Haifeng Wang, Chengqing Zong.*<br>
@@ -597,28 +597,41 @@ arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)]
 
 ### Image-and-Voice
 
+**MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
+*Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2004.12992)] [[Github](https://github.com/adobe-research/MakeItTalk)]
+
+**Objects that Sound.**<br>
+*Relja Arandjelovi´c, Andrew Zisserman.*<br>
+ECCV 2018. [[PDF](https://arxiv.org/pdf/1712.06651.pdf)]
+
+**The Sound of Motions.**<br>
+*Hang Zhao, Chuang Gan, Wei-Chiu Ma, Antonio Torralba.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/pdf/1904.05979.pdf)]  [[Project]()]
+
+**The Sound of Pixels.**<br>
+*Hang Zhao, Chuang Gan, Andrew Rouditchenko, Carl Vondrick, Josh McDermott, Antonio Torralba.*<br>
+ECCV 2018. [[PDF](https://arxiv.org/abs/1804.03160)] [[Project](http://sound-of-pixels.csail.mit.edu/)] [[Github](https://github.com/hangzhaomit/Sound-of-Pixels)] [[MUSIC_dataset](https://github.com/roudimit/MUSIC_dataset)]
+
+**DanceIt: Music-inspired Dancing Video Synthesis.**<br>
+*Xin Guo, Jia Li, Yifan Zhao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.08027)]
+
 **Music Gesture for Visual Sound Separation.**<br>
 *Chuang Gan, Deng Huang, Hang Zhao, Joshua B. Tenenbaum, Antonio Torralba.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09476)] [[Project](http://music-gesture.csail.mit.edu/)]
-
-**Vector Quantized Contrastive Predictive Coding for Template-based Music Generation.**<br>
-*Gaëtan Hadjeres, Léopold Crestel.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10120)] [[Github](https://github.com/SonyCSLParis/vqcpc-bach)]
 
 **Foley Music: Learning to Generate Music from Videos.**<br>
 *Chuang Gan, Deng Huang, Peihao Chen, Joshua B. Tenenbaum, Antonio Torralba.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.10984)] [[Project](http://foley-music.csail.mit.edu/)]
 
-**Crossing You in Style: Cross-modal Style Transfer from Music to Visual Arts.**<br>
-*Cheng-Che Lee, Wan-Yi Lin, Yen-Ting Shih, Pei-Yi Patricia Kuo, Li Su.*<br>
-[[PDF](https://arxiv.org/abs/2009.08083)]
-
-**DanceIt: Music-inspired Dancing Video Synthesis.**<br>
-*Xin Guo, Jia Li, Yifan Zhao.*<br>
-
 **Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis.**<br>
 *K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2005.08209)] [[Github](https://github.com/Rudrabha/Lip2Wav)]
+
+**Crossing You in Style: Cross-modal Style Transfer from Music to Visual Arts.**<br>
+*Cheng-Che Lee, Wan-Yi Lin, Yen-Ting Shih, Pei-Yi Patricia Kuo, Li Su.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.08083)] [[Github](https://github.com/SunnerLi/Cross-you-in-style)][[project](https://sunnerli.github.io/Cross-you-in-style/)] [[Dataset](https://github.com/SunnerLi/Cross-you-in-style#)]
 
 **Attention-based Residual Speech Portrait Model for Speech to Face Generation.**<br>
 *Jianrong Wang, Xiaosheng Hu, Li Liu, Wei Liu, Mei Yu, Tianyi Xu.*<br>
@@ -627,6 +640,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.04536)]
 **Speech2Face: Learning the Face Behind a Voice.**<br>
 *Tae-Hyun Oh, Tali Dekel, Changil Kim, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Wojciech Matusik.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1905.09773)] [[project](https://speech2face.github.io/)] [[Related Work](https://speech2face.github.io/)]
+
+**Vector Quantized Contrastive Predictive Coding for Template-based Music Generation.**<br>
+*Gaëtan Hadjeres, Léopold Crestel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10120)] [[Github](https://github.com/SonyCSLParis/vqcpc-bach)]
 
 ### Voice-to-Voice
 
@@ -719,11 +736,9 @@ CVPR 2019.
 [[Github](https://github.com/NVlabs/stylegan)]
 [[FFHQ](https://github.com/NVlabs/ffhq-dataset)]
 
-
 **PIE: Portrait Image Embedding for Semantic Control.**<br> 
 *[A. Tewari](http://people.mpi-inf.mpg.de/~atewari/), M. Elgharib, M. BR, F. Bernard, H-P. Seidel, P. P‌érez, M. Zollhöfer, C.Theobalt.*<br> 
 SIGGRAPH Asia 2020. [[PDF](http://gvv.mpi-inf.mpg.de/projects/PIE/data/paper.pdf)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PIE/)]
-
 
 **Hierarchical Style-based Networks for Motion Synthesis.**<br> 
 *Jingwei Xu, Huazhe Xu, Bingbing Ni, Xiaokang Yang, Xiaolong Wang, Trevor Darrell.*<br>
@@ -811,6 +826,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12373)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
 
 ### Misc
+
+**Random Network Distillation as a Diversity Metric for Both Image and Text Generation.**<br>
+*Liam Fowl, Micah Goldblum, Arjun Gupta, Amr Sharaf, Tom Goldstein.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.06715)]
+
+**Experimental Quantum Generative Adversarial Networks for Image Generation.**<br>
+*He-Liang Huang, Yuxuan Du, Ming Gong, Youwei Zhao, Yulin Wu, Chaoyue Wang, Shaowei Li, Futian Liang, Jin Lin, Yu Xu, Rui Yang, Tongliang Liu, Min-Hsiu Hsieh, Hui Deng, Hao Rong, Cheng-Zhi Peng, Chao-Yang Lu, Yu-Ao Chen, Dacheng Tao, Xiaobo Zhu, Jian-Wei Pan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.06201)]
 
 **A Deep Learning Based Interactive Sketching System for Fashion Images Design.**<br>
 *Yao Li, Xianggang Yu, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu.*<br>

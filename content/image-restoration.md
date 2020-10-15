@@ -87,6 +87,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**Implicit Subspace Prior Learning for Dual-Blind Face Restoration.**<br>
+*Lingbo Yang, Pan Wang, Zhanning Gao, Shanshe Wang, Peiran Ren, Siwei Ma, Wen Gao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05508)]
+
 **Unfolding the Alternating Optimization for Blind Super Resolution.**<br>
 *Zhengxiong Luo, Yan Huang, Shang Li, Liang Wang, Tieniu Tan.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.02631)] [[Github](https://github.com/greatlog/DAN.git)]
@@ -137,7 +141,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11397)]
 
 **Domain Adaptation for Image Dehazing.**<br>
 *Yuanjie Shao, Lerenhan Li, Wenqi Ren, Changxin Gao, Nong Sang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04668)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04668)] [[Github](https://github.com/HUSTSYJ/DA_dahazing)]
 
 **Unsupervised Real-world Low-light Image Enhancement with Decoupled Networks.**<br>
 *Wei Xiong, Ding Liu, Xiaohui Shen, Chen Fang, Jiebo Luo.*<br>
@@ -248,6 +252,10 @@ AAAI 2020. [[PDF](https://arxiv.org/abs/1909.11409)] [[Github](https://github.co
 NeurIPS 2020. [[PDF]()]
 
 ## Misc
+
+**DMFN: Image Fine-grained Inpainting.**<br>
+*Zheng Hui, Jie Li, Xiumei Wang, Xinbo Gao.*<br>
+ECCVW 2020. [[PDF](https://arxiv.org/abs/2002.02609)]  [[Github](https://github.com/Zheng222/DMFN)]  [[Unoffical](https://github.com/HannH/DMFN)] 
 
 **Self-Adaptively Learning to Demoiré from Focused and Defocused Image Pairs.**<br>
 *Lin Liu, Shanxin Yuan, Jianzhuang Liu, Liping Bao, Gregory Slabaugh, Qi Tian.*<br>

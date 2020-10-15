@@ -216,6 +216,14 @@ Feedback and contributions are welcome!
 ### Others 2020
 
 
+**Augmented Cyclic Consistency Regularization for Unpaired Image-to-Image Translation.**<br>
+*Takehiko Ohkawa, Naoto Inoue, Hirokatsu Kataoka, Nakamasa Inoue.*<br>
+ICPR 2020. [[PDF](https://arxiv.org/abs/2003.00187)]
+
+**Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
+*Jialu Huang, Jing Liao, Sam Kwong.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
+
 **DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
 NeurIPS 2020. [[PDF](https://neurips.cc/Conferences/2020/AcceptedPapersInitial)]
