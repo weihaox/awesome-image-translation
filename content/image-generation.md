@@ -421,10 +421,21 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
 [[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
 
-
 ### Image-Text Matching (Visual-Semantic/Lingustic Embedding)
 
 [a collection](https://blog.csdn.net/weixin_42/article/details/104275300)
+
+**Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs.**<br>
+*Ana Marasović, Chandra Bhagavatula, Jae Sung Park, Ronan Le Bras, Noah A. Smith, Yejin Choi.*<br>
+EMNLP 2020. [[PDF](https://arxiv.org/abs/2010.07526)]
+
+**Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision.**<br>
+*Hao Tan, Mohit Bansal.*<br>
+EMNLP 2020. [[PDF](https://arxiv.org/abs/2010.06775)] [[Github](https://github.com/airsplay/vokenization)]
+
+**VIVO: Surpassing Human Performance in Novel Object Captioning with Visual Vocabulary Pre-Training.**<br>
+*Xiaowei Hu Xi Yin Kevin Lin Lijuan Wang Lei Zhang Jianfeng Gao Zicheng Liu.*<br>
+arxiv 2020. [[PDF](https://www.microsoft.com/en-us/research/publication/vivo-surpassing-human-performance-in-novel-object-captioning-with-visual-vocabulary-pre-training/)] [[Project](https://www.microsoft.com/en-us/research/project/azure-florence-vision-and-language/)]
 
 **CVSE: Consensus-Aware Visual-Semantic Embedding for Image-Text Matching.**<br>
 *Haoran Wang, Ying Zhang, Zhong Ji, Yanwei Pang, Lin Ma.*<br>
@@ -826,6 +837,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12373)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
 
 ### Misc
+
+**Robust Optimal Transport with Applications in Generative Modeling and Domain Adaptation.**<br>
+*Yogesh Balaji, Soheil Feizi.*<br>
+NeurIPS 2020. [[PDF](arxiv.org/abs/2010.05862)] [[Github](https://github.com/yogeshbalaji/robustOT)]
+
+**Learning from the Past: Meta-Continual Learning with Knowledge Embedding for Jointly Sketch, Cartoon, and Caricature Face Recognition.**<br>
+*Wenbo  Zheng, Lan Yan, Feiyue Wang, Chao Gou.*<br>
+ACM MM 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3394171.3413892)]
 
 **Random Network Distillation as a Diversity Metric for Both Image and Text Generation.**<br>
 *Liam Fowl, Micah Goldblum, Arjun Gupta, Amr Sharaf, Tom Goldstein.*<br>
