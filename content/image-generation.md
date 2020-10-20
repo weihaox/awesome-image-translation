@@ -321,6 +321,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 ### Video Prediction and Future Prediction
 
+**Vid-ODE: Continuous-Time Video Generation with Neural Ordinary Differential Equation.**<br>
+*Sunghyun Park, Kangyeol Kim, Junsoo Lee, Jaegul Choo, Joonseok Lee, Sookyung Kim, Edward Choi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.08188)]
+
 **DTVNet: Dynamic Time-lapse Video Generation via Single Still Image.**<br>
 *Jiangning Zhang, Chao Xu, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, Yunliang Jiang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.04776)]
@@ -608,6 +612,10 @@ arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)]
 
 ### Image-and-Voice
 
+**Latent Vector Recovery of Audio GANs.**<br>
+*Andrew Keyes, Nicky Bayat, Vahid Reza Khazaie, Yalda Mohsenzadeh.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.08534)]
+
 **MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
 *Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
 SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2004.12992)] [[Github](https://github.com/adobe-research/MakeItTalk)]
@@ -771,6 +779,13 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12697)] [[Project](http://seanseatt
 *Jingwei Xu, Huazhe Xu, Bingbing Ni, Xiaokang Yang, Xiaolong Wang, Trevor Darrell.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.google.com/view/hsnms)]
 
+**Conditional Spoken Digit Generation with StyleGAN.**<br>
+*Kasperi Palkama, Lauri Juvela, Alexander Ilin.*<br>
+Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
+
+
+
+
 ### Single-Image Training 
 
 **ConSinGAN: Improved Techniques for Training Single-Image GANs.**<br>
@@ -837,6 +852,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12373)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
 
 ### Misc
+
+**SynthCP: Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation.**<br>
+*[Yingda Xia](https://yingdaxia.xyz/), [Yi Zhang](https://edz-o.github.io/), [Fengze Liu](https://scholar.google.com/citations?user=T3EjsaAAAAAJ&hl=en), [Wei Shen](http://wei-shen.weebly.com/), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/pdf/2003.08440.pdf)] [[Github](https://github.com/YingdaXia/SynthCP)]
 
 **Robust Optimal Transport with Applications in Generative Modeling and Domain Adaptation.**<br>
 *Yogesh Balaji, Soheil Feizi.*<br>
