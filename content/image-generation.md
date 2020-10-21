@@ -22,6 +22,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
   * [Frame Interpolation, Extrapolation and Videos Generation](#frame-interpolation--extrapolation-and-videos-generation)
 - [Multi-Modality Translation](#multi-modality-translation)
+  * [Image-Text Matching (Visual-Semantic/Lingustic Embedding)](#image-text-matching--visual-semantic-lingustic-embedding-)
   * [Image-to-Text](#image-to-text)
   * [Text-to-Image](#text-to-image)
   * [Speech-and-Text](#speech-and-text)
@@ -30,6 +31,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
   * [Invertible Neural Network (Flow-based Generative Model)](#invertible-neural-network--flow-based-generative-model-)
   * [StyleGAN-Based Method](#stylegan-based-method)
+  * [Transformer-Based](#transformer-based)
   * [Single-Image Training](#single-image-training)
   * [Scene Graph Generation](#scene-graph-generation)
   * [Misc](#misc)
@@ -783,8 +785,23 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 *Kasperi Palkama, Lauri Juvela, Alexander Ilin.*<br>
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
+### Transformer-Based
 
+**Generative Pretraining from Pixels.**<br>
+*Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
+ICML 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
 
+**Vision Transformer-An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.**<br>
+*Anonymous.*<br>
+ICLR 2021 submission. [[Github](https://github.com/lucidrains/vit-pytorch)] [[Github](https://github.com/gupta-abhay/ViT)] [[Code Collection](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers)]
+
+**image-gpt: Generative Pretraining from Pixels.**<br>
+*Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
+Tech Report 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
+
+**Deformable DETR: Deformable Transformers for End-to-End Object Detection.**<br>
+*Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04159)]
 
 ### Single-Image Training 
 
@@ -1000,10 +1017,6 @@ ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12351
 **Distribution Augmentation for Generative Modeling.**<br>
 *Heewoo Jun, Rewon Child, Mark Chen, John Schulman, Aditya Ramesh, Alec Radford, Ilya Sutskever.*<br>
 ICML 2020. [[PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/6095-Paper.pdf)] [[Github](https://github.com/openai/distribution_augmentation)]
-
-**Generative Pretraining from Pixels.**<br>
-*Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
-ICML 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
 
 **NVAE: A Deep Hierarchical Variational Autoencoder.**<br>
 *[Arash Vahdat](http://latentspace.cc/arash_vahdat/), [Jan Kautz](http://jankautz.com/).*<br>
