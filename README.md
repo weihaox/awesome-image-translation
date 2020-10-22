@@ -222,7 +222,7 @@ ICPR 2020. [[PDF](https://arxiv.org/abs/2003.00187)]
 
 **Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network.**<br>
 *Jialu Huang, Jing Liao, Sam Kwong.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713) [Github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713) [[Github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2)]
 
 **DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
