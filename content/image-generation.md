@@ -870,6 +870,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
 
 ### Misc
 
+**One Model to Reconstruct Them All: A Novel Way to Use the Stochastic Noise in StyleGAN.**<br>
+*Christian Bartz, Joseph Bethge, Haojin Yang, Christoph Meinel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.11113)] [[Github](https://github.com/Bartzi/one-model-to-reconstruct-them-all)]
+
+**LT-GAN: Self-Supervised GAN with Latent Transformation Detection.**<br>
+*Parth Patel, Nupur Kumari, Mayank Singh, Balaji Krishnamurthy.*<br>
+WACV2021. [[PDF](https://arxiv.org/abs/2010.09893)]
+
 **SynthCP: Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation.**<br>
 *[Yingda Xia](https://yingdaxia.xyz/), [Yi Zhang](https://edz-o.github.io/), [Fengze Liu](https://scholar.google.com/citations?user=T3EjsaAAAAAJ&hl=en), [Wei Shen](http://wei-shen.weebly.com/), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).*<br>
 ECCV 2020. [[PDF](https://arxiv.org/pdf/2003.08440.pdf)] [[Github](https://github.com/YingdaXia/SynthCP)]

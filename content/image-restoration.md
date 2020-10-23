@@ -253,6 +253,14 @@ NeurIPS 2020. [[PDF]()]
 
 ## Misc
 
+**Explorable Tone Mapping Operators.**<br>
+*Chien-Chuan Su, Ren Wang, Hung-Jin Lin, Yu-Lun Liu, Chia-Ping Chen, Yu-Lin Chang, Soo-Chang Pei.*<br>
+ICPR 2020. [[PDF](https://arxiv.org/abs/2010.10000)]
+ 
+**Two-Stage Generative Adversarial Networks for Document Image Binarization with Color Noise and Background Removal.**<br>
+*Sungho Suh, Jihun Kim, Paul Lukowicz, Yong Oh Lee.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/2010.10103)]
+
 **DMFN: Image Fine-grained Inpainting.**<br>
 *Zheng Hui, Jie Li, Xiumei Wang, Xinbo Gao.*<br>
 ECCVW 2020. [[PDF](https://arxiv.org/abs/2002.02609)]  [[Github](https://github.com/Zheng222/DMFN)]  [[Unoffical](https://github.com/HannH/DMFN)] 

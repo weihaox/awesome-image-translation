@@ -214,7 +214,9 @@ Feedback and contributions are welcome!
 *Yiming Gao, Jiangqin Wu.*<br>
 
 ### Others 2020
-
+**Cross-Granularity Learning for Multi-Domain Image-to-Image Translation.**<br>
+*Huiyuan Fu, Ting Yu, Xin Wang, Huadong Ma.*<br>
+ACM MM 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3394171.3413656)]
 
 **Augmented Cyclic Consistency Regularization for Unpaired Image-to-Image Translation.**<br>
 *Takehiko Ohkawa, Naoto Inoue, Hirokatsu Kataoka, Nakamasa Inoue.*<br>
