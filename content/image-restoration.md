@@ -2,10 +2,12 @@
 
 ## Table of Contents
 - [Team](#team)
-- [Exemplar-Guided](#with-exemplar)
-- [Unpaired or Misaligned Data](#with-unpaired-or-misaligned-data)
 - [Replacing ISP](#replacing-isp)
+- [Exemplar-Guided](#exemplar-guided)
+- [Unpaired or Misaligned Data](#unpaired-or-misaligned-data)
+- [Deep Image Prior](#deep-image-prior)
 - [NAS and AutoML](#nas-and-automl)
+- [Image Quality Assessment](#image-quality-assessment)
 - [Misc](#misc)
 - [Challenge and Survey](#challenge-and-survey)
 
@@ -255,7 +257,7 @@ NeurIPS 2020. [[PDF]()]
 *Hao Li, Chenxin Tao, Xizhou Zhu, Xiaogang Wang, Gao Huang, Jifeng Dai.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07930)]
 
-### Image Quality Assessment
+## Image Quality Assessment
 
 **GIQA: Generated Image Quality Assessment.**<br>
 *Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>

@@ -34,6 +34,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Transformer-Based](#transformer-based)
   * [Single-Image Training](#single-image-training)
   * [Scene Graph Generation](#scene-graph-generation)
+  * [Speech Synthesis](#speech-synthesis)
   * [Misc](#misc)
 - [DeepFake and Forensic](#deepfake-and-forensic)
 - [Free-Hand Sketch](#free-hand-sketch)
