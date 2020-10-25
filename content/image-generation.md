@@ -582,6 +582,18 @@ ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.co
 *Scott Reed, Zeynep Akata, Bernt Schiele, Honglak Lee.*<br>
 CVPR 2016. [[PDF](https://arxiv.org/abs/1605.05395)] [[Github](https://github.com/reedscot/cvpr2016)]
 
+**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks.**<br>
+*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
+ICCV 2017. [[PDF](https://arxiv.org/abs/1612.03242)]
+
+**Semantic Image Synthesis via Adversarial Learning.**<br>
+*Hao Dong, Simiao Yu, Chao Wu, Yike Guo.*<br>
+ICCV 2017. [[](https://arxiv.org/abs/1707.06873)]
+
+**Generative Adversarial Text to Image Synthesis.**<br>
+*Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee.*<br>
+ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)]
+
 ### Speech-and-Text
 
 **Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding.**<br>
@@ -868,7 +880,33 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12373)]
 *[Roei Herzig](https://roeiherz.github.io/), [Amir Bar](http://www.amirbar.net/), [Huijuan Xu](https://cs-people.bu.edu/hxu/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Amir Globerson](http://www.cs.tau.ac.il/~gamir/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
 
+### Speech Synthesis
+
+**HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.**<br>
+*Jungil Kong, Jaehyeon Kim, Jaekyoung Bae.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05646)] [[Github](https://github.com/jik876/hifi-gan)]
+
+**Tacotron2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions.**<br>
+*Jonathan Shen, Ruoming Pang, Ron J. Weiss, Mike Schuster, Navdeep Jaitly, Zongheng Yang, Zhifeng Chen, Yu Zhang, Yuxuan Wang, RJ Skerry-Ryan, Rif A. Saurous, Yannis Agiomyrgiannakis, Yonghui Wu.*<br>
+ICASSP 2018. [[PDF](https://arxiv.org/abs/1712.05884)] [[Github](https://github.com/NVIDIA/tacotron2)]
+
+**WaveTransformer: A Novel Architecture for Audio Captioning Based on Learning Temporal and Time-Frequency Information.**<br>
+*An Tran, Konstantinos Drossos, Tuomas Virtanen.*<br>
+ICASSP 2021. [[PDF](https://arxiv.org/abs/2010.11098)] [[Github](https://github.com/haantran96/wavetransformer)] [[Demo](https://haantran96.github.io/wavetransformer-web-demo/)]
+
+**MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis.**<br>
+*Kundan Kumar, Rithesh Kumar, Thibault de Boissiere, Lucas Gestin, Wei Zhen Teoh, Jose Sotelo, Alexandre de Brebisson, Yoshua Bengio, Aaron Courville.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/1910.06711)] [[Github](https://github.com/descriptinc/melgan-neurips)] [[Project](https://melgan-neurips.github.io/)]
+
+**WaveGlow: a Flow-based Generative Network for Speech Synthesis.**<br>
+*Ryan Prenger, Rafael Valle, and Bryan Catanzaro.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.com/NVIDIA/waveglow)] [[Project](https://nv-adlr.github.io/WaveGlow)]
+
 ### Misc
+
+**Learning Invariances in Neural Networks.**<br>
+*Gregory Benton, Marc Finzi, Pavel Izmailov, Andrew Gordon Wilson.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.11882)] [[Github](https://github.com/g-benton/learning-invariances)]
 
 **One Model to Reconstruct Them All: A Novel Way to Use the Stochastic Noise in StyleGAN.**<br>
 *Christian Bartz, Joseph Bethge, Haojin Yang, Christoph Meinel.*<br>

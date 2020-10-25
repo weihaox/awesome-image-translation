@@ -251,6 +251,16 @@ AAAI 2020. [[PDF](https://arxiv.org/abs/1909.11409)] [[Github](https://github.co
 *Yuanbiao Gou, Boyun Li, Zitao Liu, Songfan Yang, Xi Peng.*<br>
 NeurIPS 2020. [[PDF]()]
 
+**Auto Seg-Loss: Searching Metric Surrogates for Semantic Segmentation.**<br>
+*Hao Li, Chenxin Tao, Xizhou Zhu, Xiaogang Wang, Gao Huang, Jifeng Dai.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07930)]
+
+### Image Quality Assessment
+
+**GIQA: Generated Image Quality Assessment.**<br>
+*Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08932)] [[Github](https://github.com/cientgu/GIQA)]
+
 ## Misc
 
 **Explorable Tone Mapping Operators.**<br>
