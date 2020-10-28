@@ -265,6 +265,30 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08932)] [[Github](https://github.co
 
 ## Misc
 
+**Wavelet Flow: Fast Training of High Resolution Normalizing Flows.**<br>
+*[Jason J. Yu](https://jasonjyu.com/), Konstantinos G. Derpanis](https://scs.ryerson.ca/~kosta/), [Marcus A. Brubaker](https://mbrubake.github.io/).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.13821)] [[Github](https://github.com/YorkUCVIL/Wavelet-Flow/)] [[Project](https://yorkucvil.github.io/Wavelet-Flow/)]
+
+**Towards Lighter and Faster: Learning Wavelets Progressively for Image Super-Resolution.**<br>
+*Huanrong Zhang, Zhi Jin, Xiaojun Tan, Xiying Li.*<br>
+ACM MM 2020. [[PDF](https://dl.acm.org/doi/10.1145/3394171.3413664)] [[Github](https://github.com/supercaoO/WSR)]
+
+**Flexible Piecewise Curves Estimation for Photo Enhancement.**<br>
+*Chongyi Li, Chunle Guo, Qiming Ai, Shangchen Zhou, Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.13412)]
+
+**Non-local Meets Global: An Iterative Paradigm for Hyperspectral Image Restoration.**<br>
+*Wei He, Quanming Yao, Chao Li, Naoto Yokoya, Qibin Zhao, Hongyan Zhang, Liangpei Zhang.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/2010.12921)]
+
+**Progressive Training of Multi-level Wavelet Residual Networks for Image Denoising.**<br>
+*Yali Peng, Yue Cao, Shigang Liu, Jian Yang, Wangmeng Zuo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.12422)] [[Github](https://github.com/happycaoyue/PT-MWRN)]
+
+**Noise2Same: Optimizing A Self-Supervised Bound for Image Denoising.**<br>
+*Yaochen Xie, Zhengyang Wang, Shuiwang Ji.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.11971)] [[Github](https://github.com/divelab/Noise2Same)]
+
 **Explorable Tone Mapping Operators.**<br>
 *Chien-Chuan Su, Ren Wang, Hung-Jin Lin, Yu-Lun Liu, Chia-Ping Chen, Yu-Lin Chang, Soo-Chang Pei.*<br>
 ICPR 2020. [[PDF](https://arxiv.org/abs/2010.10000)]
@@ -275,7 +299,7 @@ TPAMI 2020. [[PDF](https://arxiv.org/abs/2010.10103)]
 
 **DMFN: Image Fine-grained Inpainting.**<br>
 *Zheng Hui, Jie Li, Xiumei Wang, Xinbo Gao.*<br>
-ECCVW 2020. [[PDF](https://arxiv.org/abs/2002.02609)]  [[Github](https://github.com/Zheng222/DMFN)]  [[Unoffical](https://github.com/HannH/DMFN)] 
+ECCVW 2020. [[PDF](https://arxiv.org/abs/2002.02609)] [[Github](https://github.com/Zheng222/DMFN)] [[Unoffical](https://github.com/HannH/DMFN)] 
 
 **Self-Adaptively Learning to Demoiré from Focused and Defocused Image Pairs.**<br>
 *Lin Liu, Shanxin Yuan, Jianzhuang Liu, Liping Bao, Gregory Slabaugh, Qi Tian.*<br>
@@ -287,10 +311,6 @@ NeurIPS 2020. [[PDF]()]
 
 **Cross-scale Internal Graph Convolution Network for Image Super-Resolution.**<br>
 *Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Chen Change Loy.*<br>
-NeurIPS 2020. [[PDF]()]
-
-**Noise2Same: Optimizing A Self-Supervised Bound for Image Denoising.**<br>
-*Yaochen Xie, Zhengyang Wang, Shuiwang Ji.*<br>
 NeurIPS 2020. [[PDF]()]
 
 **Neural Sparse Representation for Image Restoration.**<br>

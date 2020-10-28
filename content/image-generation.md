@@ -59,7 +59,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.02007)]
 
 **Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation.**<br>
 *Bowen Li, Xiaojuan Qi, Philip Torr, Thomas Lukasiewicz.*<br>
-NeurIPS 2020. [[PDF]()]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12136)] [[Github](https://github.com/mrlibw/Lightweight-Manipulation)]
 
 **A Benchmark and Baseline for Language-Driven Image Editing.**<br>
 *Jing Shi, Ning Xu, Trung Bui, Franck Dernoncourt, Zheng Wen, Chenliang Xu.*<br>
@@ -96,6 +96,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01576v1)] [[Github](https://github.
 **Translate the Facial Regions You Like Using Region-Wise Normalization.**<br>
 *Wenshuang Liu, Wenting Chen, Linlin Shen.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.14615)]
+
+**Cue Me In: Content-Inducing Approaches to Interactive Story Generation.**<br>
+*Faeze Brahman, Alexandru Petrusca, Snigdha Chaturvedi.*<br>
+AACL 2020. [[PDF](https://arxiv.org/abs/2010.09935)]
 
 ### Guided Translation
 
@@ -495,6 +499,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 
 ### Text-to-Image
 
+**Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation.**<br>
+*Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12136)]
+
 **DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis.**<br>
 *Ming Tao, Hao Tang, Songsong Wu, Nicu Sebe, Fei Wu, Xiao-Yuan Jing.*<br>
 [[PDF](https://arxiv.org/abs/2008.05865)] [[Github](https://github.com/tobran/DF-GAN)]
@@ -589,13 +597,17 @@ ICCV 2017. [[PDF](https://arxiv.org/abs/1612.03242)]
 
 **Semantic Image Synthesis via Adversarial Learning.**<br>
 *Hao Dong, Simiao Yu, Chao Wu, Yike Guo.*<br>
-ICCV 2017. [[](https://arxiv.org/abs/1707.06873)]
+ICCV 2017. [[PDF](https://arxiv.org/abs/1707.06873)]
 
 **Generative Adversarial Text to Image Synthesis.**<br>
 *Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee.*<br>
 ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)]
 
 ### Speech-and-Text
+
+**End-to-End Text-to-Speech using Latent Duration based on VQ-VAE.**<br>
+*Yusuke Yasuda, Xin Wang, Junichi Yamagishi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.09602)]
 
 **Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding.**<br>
 *Yuchen Liu, Jiajun Zhang, Hao Xiong, Long Zhou, Zhongjun He, Hua Wu, Haifeng Wang, Chengqing Zong.*<br>
@@ -626,6 +638,10 @@ arxiv, 15 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.06573v1.pdf)]
 arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)] 
 
 ### Image-and-Voice
+
+**Show and Speak: Directly Synthesize Spoken Description of Images.**<br>
+*Xinsheng Wang, Siyuan Feng, Jihua Zhu, Mark Hasegawa-Johnson, Odette Scharenborg.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.12267)]
 
 **Latent Vector Recovery of Audio GANs.**<br>
 *Andrew Keyes, Nicky Bayat, Vahid Reza Khazaie, Yalda Mohsenzadeh.*<br>
@@ -800,6 +816,10 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
 
+**Rethinking Attention with Performers.**<br>
+*Krzysztof Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy Colwell, Adrian Weller.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.14794)] [[Github](https://github.com/google-research/google-research/tree/master/performer)]
+
 **Generative Pretraining from Pixels.**<br>
 *Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
 ICML 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
@@ -903,7 +923,25 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1910.06711)] [[Github](https://github
 *Ryan Prenger, Rafael Valle, and Bryan Catanzaro.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.com/NVIDIA/waveglow)] [[Project](https://nv-adlr.github.io/WaveGlow)]
 
+### Multi-modal Representation
+
+**Representation Learning via Invariant Causal Mechanisms.**<br>
+*Jovana Mitrovic, Brian McWilliams, Jacob Walker, Lars Buesing, Charles Blundell.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07922)] 
+
+**Contrastive Learning of General-Purpose Audio Representations.**<br>
+*Aaqib Saeed, David Grangier, Neil Zeghidour.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.10915)]
+
 ### Misc
+
+**Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning.**<br>
+*Huan Fu, Shunming Li, Rongfei Jia, Mingming Gong, Binqiang Zhao, Dacheng Tao.*<br>
+NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]
+
+**Contrastive Learning with Adversarial Examples.**<br>
+*Chih-Hui Ho, Nuno Vasconcelos.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12050)]
 
 **Learning Invariances in Neural Networks.**<br>
 *Gregory Benton, Marc Finzi, Pavel Izmailov, Andrew Gordon Wilson.*<br>
