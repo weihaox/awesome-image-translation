@@ -257,12 +257,6 @@ NeurIPS 2020. [[PDF]()]
 *Hao Li, Chenxin Tao, Xizhou Zhu, Xiaogang Wang, Gao Huang, Jifeng Dai.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07930)]
 
-## Image Quality Assessment
-
-**GIQA: Generated Image Quality Assessment.**<br>
-*Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08932)] [[Github](https://github.com/cientgu/GIQA)]
-
 ## Misc
 
 **Wavelet Flow: Fast Training of High Resolution Normalizing Flows.**<br>

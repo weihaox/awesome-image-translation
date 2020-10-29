@@ -39,6 +39,30 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 - [DeepFake and Forensic](#deepfake-and-forensic)
 - [Free-Hand Sketch](#free-hand-sketch)
 
+## Image Quality Assessment
+
+[[Perceptual Optimization of Image Quality Assessment (IQA) Models](https://github.com/dingkeyan93/IQA-optimization)]
+
+**GIQA: Generated Image Quality Assessment.**<br>
+*Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08932)] [[Github](https://github.com/cientgu/GIQA)]
+
+**DISTS: Image Quality Assessment: Unifying Structure and Texture Similarity.**<br>
+*Keyan Ding, Kede Ma, Shiqi Wang, Eero P. Simoncelli.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07728)] [[Github](https://github.com/dingkeyan93/DISTS)]
+
+**LPIPS: The Unreasonable Effectiveness of Deep Features as a Perceptual Metric.**<br>
+*Richard Zhang, Phillip Isola, Alexei A. Efros, Eli Shechtman, Oliver Wang.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1801.03924)] [[Project](http://richzhang.github.io/PerceptualSimilarity/)] [[Code-TF](https://github.com/richzhang/PerceptualSimilarity)] [[Code-PYT](https://github.com/S-aiueo32/lpips-pytorch)]
+
+**Inception Score: Improved Techniques for Training GANs.**<br>
+*Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen.*<br>
+arxiv 2016. [[PDF](https://arxiv.org/abs/1606.03498)] [[Github](https://github.com/tsc2017/Inception-Score)]
+
+**Fréchet Inception Distance: GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium.**<br>
+*Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, Sepp Hochreiter.*<br>
+arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.com/bioinf-jku/TTUR)]
+
 ## Interactive and Controllable Image Manipulation
 
 ### Highlight Component 
