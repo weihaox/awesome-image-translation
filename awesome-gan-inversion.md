@@ -79,10 +79,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2004.00049)] [[Project](https://genforce
 *Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deep-generative-prior)]
 
-**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
-*Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.13659)] [[Github](https://github.com/XingangPan/deep-generative-prior)]
-
 **On the "steerability" of generative adversarial networks.**<br>
 *Ali Jahanian, Lucy Chai, Phillip Isola.*<br>
 ICLR 2020. [[PDF](https://arxiv.org/abs/1907.07171)] [[Project](https://ali-design.github.io/gan_steerability/)]
