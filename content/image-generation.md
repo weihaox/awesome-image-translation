@@ -81,6 +81,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.02007)]
 
 ### Change Where You Want
 
+**SkyAR: Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos.**<br>
+*Zhengxia Zou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.11800)] [[Project](https://jiupinjia.github.io/skyar/)] [[Github](https://github.com/jiupinjia/SkyAR)]
+
 **Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation.**<br>
 *Bowen Li, Xiaojuan Qi, Philip Torr, Thomas Lukasiewicz.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12136)] [[Github](https://github.com/mrlibw/Lightweight-Manipulation)]
@@ -161,7 +165,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11989)]
 
 **MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
 *Zhentao Tan, [Menglei Chai](https://mlchai.com/), Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*
-SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
+SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)] [[Github](https://github.com/tzt101/MichiGAN)]
 
 **Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation.**<br>
 *[Arnab Ghosh](https://arnabgho.github.io/), [Richard Zhang](https://richzhang.github.io/), [Puneet K. Dokania](https://puneetkdokania.github.io/), [Oliver Wang](http://www.oliverwang.info/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~tvg/index.php), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/).*<br>
@@ -174,10 +178,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12697)] [[Project](http://seanseatt
 **SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**</br>
 *Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br> 
 CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)] [[Github](https://github.com/ZPdesu/SEAN)]
-
-**MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
-*Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*<br>
-SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)]
 
 **Describing Textures using Natural Language.**<br>
 *Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
@@ -523,6 +523,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 
 ### Text-to-Image
 
+**Leveraging Visual Question Answering to Improve Text-to-Image Synthesis.**<br>
+*Stanislav Frolov, Shailza Jolly, Jörn Hees, Andreas Dengel.*<br>
+LANTERN workshop at COLING 2020. [[PDF](https://arxiv.org/abs/2010.14953)]
+
 **Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation.**<br>
 *Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.12136)]
@@ -746,6 +750,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
 
+**Wavelet Flow: Fast Training of High Resolution Normalizing Flows.**<br>
+*[Jason J. Yu](https://jasonjyu.com/), Konstantinos G. Derpanis](https://scs.ryerson.ca/~kosta/), [Marcus A. Brubaker](https://mbrubake.github.io/).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.13821)] [[Github](https://github.com/YorkUCVIL/Wavelet-Flow/)] [[Project](https://yorkucvil.github.io/Wavelet-Flow/)]
+
 **SRFlow: Learning the Super-Resolution Space with Normalizing Flow.**<br>
 *Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2006.14200)] [[Github](http://git.io/SRFlow)]
@@ -839,6 +847,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
+
+**RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder.**<br>
+*Cheng Chi, Fangyun Wei, Han Hu.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
 
 **Rethinking Attention with Performers.**<br>
 *Krzysztof Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy Colwell, Adrian Weller.*<br>
@@ -1013,7 +1025,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02917)]
 
 **Swapping Autoencoder for Deep Image Manipulation.**<br>
 *Taesung Park, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei Efros, Richard Zhang.*<br>
-NeurIPS 2020. [[PDF]()]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.00653)] [[Github](https://github.com/zhangqianhui/Swapping-Autoencoder-tf)]
 
 **Differentiable Augmentation for Data-Efficient GAN Training.**<br>
 *Shengyu Zhao, Zhijian Liu, Ji Lin (MIT) · Jun-Yan Zhu, Song Han.*<br>

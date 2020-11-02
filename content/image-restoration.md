@@ -207,6 +207,10 @@ arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://g
 
 ## Deep Image Prior 
 
+**Blind Video Temporal Consistency viaDeep Video Prior.**<br>
+*[Chenyang Lei](https://chenyanglei.github.io/), Yazhou Xing, [Qifeng Chen](https://cqf.io/).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.11838)] [[Poject](https://chenyanglei.github.io/DVP/index.html)] [[Github](https://github.com/ChenyangLEI/deep-video-prior)]
+
 **Unsupervised Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Deep Image Prior.**<br>
 *Yi-Si Luo, Xi-Le Zhao, Tai-Xiang Jiang, Yu-Bang Zheng, Yi Chang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09753)]
@@ -259,9 +263,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07930)]
 
 ## Misc
 
+
 **Wavelet Flow: Fast Training of High Resolution Normalizing Flows.**<br>
 *[Jason J. Yu](https://jasonjyu.com/), Konstantinos G. Derpanis](https://scs.ryerson.ca/~kosta/), [Marcus A. Brubaker](https://mbrubake.github.io/).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.13821)] [[Github](https://github.com/YorkUCVIL/Wavelet-Flow/)] [[Project](https://yorkucvil.github.io/Wavelet-Flow/)]
+
+**Free-Form Image Inpainting via Contrastive Attention Network.**<br>
+*Xin Ma, Xiaoqiang Zhou, Huaibo Huang, Zhenhua Chai, Xiaolin Wei, Ran He.*<br>
+ICPR 2020. [[PDF](https://arxiv.org/abs/2010.15643)]
 
 **Towards Lighter and Faster: Learning Wavelets Progressively for Image Super-Resolution.**<br>
 *Huanrong Zhang, Zhi Jin, Xiaojun Tan, Xiying Li.*<br>

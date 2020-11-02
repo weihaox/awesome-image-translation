@@ -214,6 +214,11 @@ Feedback and contributions are welcome!
 *Yiming Gao, Jiangqin Wu.*<br>
 
 ### Others 2020
+
+**Exploring Generative Adversarial Networks for Image-to-Image Translation in STEM Simulation.**<br>
+*Nick Lawrence, Mingren Shen, Ruiqi Yin, Cloris Feng, Dane Morgan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.15315)] [[Github](https://github.com/uw-cmg/GAN-STEM-Conv2MultiSlice)]
+
 **Cross-Granularity Learning for Multi-Domain Image-to-Image Translation.**<br>
 *Huiyuan Fu, Ting Yu, Xin Wang, Huadong Ma.*<br>
 ACM MM 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3394171.3413656)]
