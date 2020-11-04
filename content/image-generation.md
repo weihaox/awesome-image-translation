@@ -81,6 +81,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.02007)]
 
 ### Change Where You Want
 
+**Shapes and Context: In-the-Wild Image Synthesis & Manipulation.**<br>
+*[Aayush Bansal](http://www.cs.cmu.edu/~aayushb/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), [Deva Ramanan](http://www.cs.cmu.edu/~deva/).*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1906.04728)] [[Project](http://www.cs.cmu.edu/~aayushb/OpenShapes/)] [[Github](https://github.com/aayushbansal/OpenShapes)]
+
 **SkyAR: Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos.**<br>
 *Zhengxia Zou.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.11800)] [[Project](https://jiupinjia.github.io/skyar/)] [[Github](https://github.com/jiupinjia/SkyAR)]
@@ -505,6 +509,10 @@ NeurIPS 2014. [[PDF](https://arxiv.org/abs/1406.5679)]
 
 ### Image-to-Text
 
+**Diverse Image Captioning with Context-Object Split Latent Spaces.**<br>
+*Shweta Mahajan, Stefan Roth.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00966)]
+
 **Structure-Aware Generation Network for Recipe Generation from Images.**<br>
 *Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2009.00944)]
@@ -848,9 +856,17 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
 
+**COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning.**<br>
+*Simon Ging, Mohammadreza Zolfaghari, Hamed Pirsiavash, Thomas Brox.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github.com/gingsi/coot-videotext)]
+
 **RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder.**<br>
 *Cheng Chi, Fangyun Wei, Han Hu.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
+
+**Point Transformer.**<br>
+*Nico Engel, Vasileios Belagiannis, Klaus Dietmayer.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00931)]
 
 **Rethinking Attention with Performers.**<br>
 *Krzysztof Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy Colwell, Adrian Weller.*<br>
@@ -894,6 +910,42 @@ ICCV 2019 (Best Paper).
 *Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
+### Hard Example
+
+**Enhanced Balancing GAN: Minority-class Image Generation.**<br>
+*Gaofeng Huang, Amir H. Jafari.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00189)]
+
+**Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies.**<br>
+*Yuehua Zhu, Muli Yang, Cheng Deng, Wei Liu.*<br>
+NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.13636)] [[Github](https://github.com/YuehuaZhu/ProxyGML)]
+
+**Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning.**<br>
+*Huan Fu, Shunming Li, Rongfei Jia, Mingming Gong, Binqiang Zhao, Dacheng Tao.*<br>
+NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]
+
+
+### Spatio-Temporal
+
+**ESTRNN: Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring.**<br>
+*Zhihang Zhong, Ye Gao, Yinqiang Zheng, Bo Zheng.*<br>
+ECCV 2020. [[PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)] [[Github](https://github.com/zzh-tech/ESTRNN)]
+
+**Blind Video Temporal Consistency via Deep Video Prior.**<br>
+*[Chenyang Lei](https://chenyanglei.github.io/), Yazhou Xing, [Qifeng Chen](https://cqf.io/).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.11838)] [[Poject](https://chenyanglei.github.io/DVP/index.html)] [[Github](https://github.com/ChenyangLEI/deep-video-prior)]
+
+**CDVD-TSP: Cascaded Deep Video Deblurring Using Temporal Sharpness Prior.**<br>
+*Jinshan Pan, Haoran Bai, Jinhui Tang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.com/csbhr/CDVD-TSP)]
+
+**STEm-Seg: Spatio-temporal Embeddings for Instance Segmentation in Videos.**<br>
+*Ali Athar, Sabarinath Mahadevan, Aljoša Ošep, Laura Leal-Taixé, Bastian Leibe.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08429)] [[Github](https://github.com/sabarim/STEm-Seg)] [[Project](https://www.vision.rwth-aachen.de/publication/00202/)]
+
+**HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN.**<br>
+*Abhinav Sagar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 
 ### Scene Graph Generation
 
@@ -971,9 +1023,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.10915)]
 
 ### Misc
 
-**Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning.**<br>
-*Huan Fu, Shunming Li, Rongfei Jia, Mingming Gong, Binqiang Zhao, Dacheng Tao.*<br>
-NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]
+**Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
+*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
 
 **Contrastive Learning with Adversarial Examples.**<br>
 *Chih-Hui Ho, Nuno Vasconcelos.*<br>
@@ -1675,7 +1727,7 @@ arxiv, 26 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12888)]
 
 **Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches.**<br>
 *Shuai Yang, Zhangyang Wang, Jiaying Liu, Zongming Guo.*<br>
-arxiv, 9 Jan 2020. [[PDF](https://arxiv.org/abs/2001.02890)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2001.02890)] [[Github](https://github.com/VITA-Group/DeepPS)]
 
 **Deep Learning for Free-Hand Sketch: A Survey.**<br>
 *Peng Xu.*<br>

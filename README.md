@@ -215,6 +215,10 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**SAVI2I: Continuous and Diverse Image-to-Image Translation via Signed Attribute Vectors.**<br>
+*Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Jia-Bin Huang, Siwei Ma, Ming-Hsuan Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01215)] [[Project](https://helenmao.github.io/SAVI2I/)] [[Github](https://github.com/HelenMao/SAVI2I)]
+
 **Exploring Generative Adversarial Networks for Image-to-Image Translation in STEM Simulation.**<br>
 *Nick Lawrence, Mingren Shen, Ruiqi Yin, Cloris Feng, Dane Morgan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.15315)] [[Github](https://github.com/uw-cmg/GAN-STEM-Conv2MultiSlice)]
