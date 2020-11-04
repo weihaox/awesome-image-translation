@@ -531,6 +531,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 
 ### Text-to-Image
 
+**SD-GAN: Semantics Disentangling for Text-to-Image Generation.**<br>
+*Guojun Yin, Bin Liu, Lu Sheng, Nenghai Yu, Xiaogang Wang, Jing Shao.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.01480v1)]
+
 **Leveraging Visual Question Answering to Improve Text-to-Image Synthesis.**<br>
 *Stanislav Frolov, Shailza Jolly, Jörn Hees, Andreas Dengel.*<br>
 LANTERN workshop at COLING 2020. [[PDF](https://arxiv.org/abs/2010.14953)]
@@ -856,6 +860,19 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
 
+
+**Vision Transformer-An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.**<br>
+*Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby.*<br>
+ICLR 2021 submission. [[PDF](https://arxiv.org/abs/2010.11929)] [[Official](https://github.com/google-research/vision_transformer)] [[Github](https://github.com/lukemelas/PyTorch-Pretrained-ViT)] [[Github](https://github.com/lucidrains/vit-pytorch)] [[Github](https://github.com/gupta-abhay/ViT)] [[Code Collection](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers)]
+
+**image-gpt: Generative Pretraining from Pixels.**<br>
+*Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
+Tech Report 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
+
+**Generative Pretraining from Pixels.**<br>
+*Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
+ICML 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
+
 **COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning.**<br>
 *Simon Ging, Mohammadreza Zolfaghari, Hamed Pirsiavash, Thomas Brox.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github.com/gingsi/coot-videotext)]
@@ -871,18 +888,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00931)]
 **Rethinking Attention with Performers.**<br>
 *Krzysztof Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy Colwell, Adrian Weller.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.14794)] [[Github](https://github.com/google-research/google-research/tree/master/performer)]
-
-**Generative Pretraining from Pixels.**<br>
-*Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
-ICML 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
-
-**Vision Transformer-An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.**<br>
-*Anonymous.*<br>
-ICLR 2021 submission. [[Github](https://github.com/lucidrains/vit-pytorch)] [[Github](https://github.com/gupta-abhay/ViT)] [[Code Collection](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers)]
-
-**image-gpt: Generative Pretraining from Pixels.**<br>
-*Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
-Tech Report 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
 
 **Deformable DETR: Deformable Transformers for End-to-End Object Detection.**<br>
 *Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.*<br>
@@ -1012,6 +1017,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1910.06711)] [[Github](https://github
 arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.com/NVIDIA/waveglow)] [[Project](https://nv-adlr.github.io/WaveGlow)]
 
 ### Multi-modal Representation
+
+**Learning Representations from Audio-Visual Spatial Alignment.**<br>
+*Pedro Morgado, Yi Li, Nuno Vasconcelos.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.01819)]
 
 **Representation Learning via Invariant Causal Mechanisms.**<br>
 *Jovana Mitrovic, Brian McWilliams, Jacob Walker, Lars Buesing, Charles Blundell.*<br>
