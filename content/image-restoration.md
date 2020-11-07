@@ -268,6 +268,18 @@ CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blin
 
 ## Misc
 
+**Deep Image Compositing.**<br>
+*He Zhang, Jianming Zhang, Federico Perazzi, Zhe Lin, Vishal M. Patel.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.02146)] [[Video](https://www.youtube.com/watch?v=v_kitSYKr3s&t=138s)]
+
+**Self-Adaptively Learning to Demoire from Focused and Defocused Image Pairs.**<br>
+*Lin Liu, Shanxin Yuan, Jianzhuang Liu, Liping Bao, Gregory Slabaugh, Qi Tian.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02055)]
+
+**Pixel-wise Dense Detector for Image Inpainting.**<br>
+*Ruisong Zhang, Weize Quan, Baoyuan Wu, Zhifeng Li, Dong-Ming Yan.*<br>
+Computer Graphics Forum 2020. [[PDF](https://arxiv.org/abs/2011.02293)] [[Github](https://github.com/Evergrow/GDN_Inpainting)]
+
 **ESTRNN: Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring.**<br>
 *Zhihang Zhong, Ye Gao, Yinqiang Zheng, Bo Zheng.*<br>
 ECCV 2020. [[PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)] [[Github](https://github.com/zzh-tech/ESTRNN)]

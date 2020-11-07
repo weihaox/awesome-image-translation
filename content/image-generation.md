@@ -4,6 +4,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Table of Contents
 
+- [Image Quality Assessment](#image-quality-assessment)
 - [Interactive and Controllable Image Manipulation](#interactive-and-controllable-image-manipulation)
   * [Highlight Component](#highlight-component)
   * [Change Where You Want](#change-where-you-want)
@@ -33,11 +34,17 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [StyleGAN-Based Method](#stylegan-based-method)
   * [Transformer-Based](#transformer-based)
   * [Single-Image Training](#single-image-training)
+  * [Hard Example](#hard-example)
+  * [Spatio-Temporal](#spatio-temporal)
   * [Scene Graph Generation](#scene-graph-generation)
   * [Speech Synthesis](#speech-synthesis)
+  * [Multi-modal Representation](#multi-modal-representation)
   * [Misc](#misc)
 - [DeepFake and Forensic](#deepfake-and-forensic)
+- [2D to 3D Convertion](#2d-to-3d-convertion)
 - [Free-Hand Sketch](#free-hand-sketch)
+  * [2D Sketch to 3D Model](#2d-sketch-to-3d-model)
+  * [2D Sketch to 2D Image](#2d-sketch-to-2d-image)
 
 ## Image Quality Assessment
 
@@ -679,6 +686,10 @@ arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)]
 
 ### Image-and-Voice
 
+**Lets Play Music: Audio-driven Performance Video Generation.**<br>
+*Hao Zhu, Yi Li, Feixia Zhu, Aihua Zheng, Ran He.*<br>
+ICPR 2020. [[PDF](https://arxiv.org/abs/2011.02631)]
+
 **Show and Speak: Directly Synthesize Spoken Description of Images.**<br>
 *Xinsheng Wang, Siyuan Feng, Jihua Zhu, Mark Hasegawa-Johnson, Odette Scharenborg.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.12267)]
@@ -822,6 +833,10 @@ CVPR 2020.
 [[PyTorch](https://github.com/rosinality/stylegan2-pytorch)]
 [[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0)]
 
+**Transforming Facial Weight of Real Images by Editing Latent Space of StyleGAN.**<br>
+*V N S Rama Krishna Pinnimty, Matt Zhao, Palakorn Achananuparp, Ee-Peng Lim.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02606)]
+
 **A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
 CVPR 2019. 
@@ -860,6 +875,9 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
 
+**Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers.**<br>
+*Zhaoshuo Li, Xingtong Liu, Francis X. Creighton, Russell H. Taylor, Mathias Unberath.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02910)] [[Github](https://github.com/mli0603/stereo-transformer)]
 
 **Vision Transformer-An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.**<br>
 *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby.*<br>
@@ -1018,6 +1036,26 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.c
 
 ### Multi-modal Representation
 
+**VILLA: Large-Scale Adversarial Training for Vision-and-Language Representation Learning.**<br>
+*Zhe Gan, Yen-Chun Chen, Linjie Li, Chen Zhu, Yu Cheng, Jingjing Liu.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06195)] [[Github](https://github.com/zhegan27/LXMERT-AdvTrain)]
+
+**LXMERT: Learning Cross-Modality Encoder Representations from Transformers.**<br>
+*Hao Tan, Mohit Bansal.*<br>
+EMNLP 2019. [[PDF](https://arxiv.org/abs/1908.07490)] [[Github](https://github.com/airsplay/lxmert)]
+
+**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.**<br>
+*Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1908.02265)] [[Github](https://github.com/jiasenlu/vilbert_beta)]
+
+**12-in-1: Multi-Task Vision and Language Representation Learning.**<br>
+*Jiasen Lu, Vedanuj Goswami, Marcus Rohrbach, Devi Parikh, Stefan Lee.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02315)] [[Github](https://github.com/facebookresearch/vilbert-multi-task)]
+
+**VisualBERT: A Simple and Performant Baseline for Vision and Language.**<br>
+*Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh, Kai-Wei Chang.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/1908.03557)] [[Github](https://github.com/uclanlp/visualbert)]
+
 **Learning Representations from Audio-Visual Spatial Alignment.**<br>
 *Pedro Morgado, Yi Li, Nuno Vasconcelos.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.01819)]
@@ -1030,7 +1068,15 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07922)]
 *Aaqib Saeed, David Grangier, Neil Zeghidour.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.10915)]
 
+**Learning Visual Representations for Transfer Learning by Suppressing Texture.**<br>
+*Shlok Mishra, Anshul Shah, Ankan Bansal, Jonghyun Choi, Abhinav Shrivastava, Abhishek Sharma, David Jacobs.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
+
 ### Misc
+
+**Disentangling Latent Space for Unsupervised Semantic Face Editing.**<br>
+*Kanglin Liu, Gaofeng Cao, Fei Zhou, Bozhi Liu, Jiang Duan, Guoping Qiu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02638)] [[Github](https://github.com/max-liu-112/STGAN-WO)]
 
 **Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
 *Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
@@ -1505,6 +1551,10 @@ arxiv, 9 Jan 2020.
 *Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia.*<br>
 arxiv, 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 
+**NAS-FAS: Static-Dynamic Central Difference Network Search for Face Anti-Spoofing.**<br>
+*Zitong Yu, Jun Wan, Yunxiao Qin, Xiaobai Li, Stan Z. Li, Guoying Zhao.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/2011.02062)] [[CASIA-SURF 3DMask Dataset](http://www.cbsr.ia.ac.cn/users/jwan/database/3DMask.pdf)]
+
 **Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
@@ -1660,11 +1710,75 @@ ICCV, 2019.
 *Minyoung Huh, Andrew Liu, Andrew Owens, Alexei A. Efros.*<br>
 ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
 
+## 2D to 3D Convertion
+
+**One Shot 3D Photography.**<br>
+*Johannes Kopf, Kevin Matzen, Suhib Alsisan, Ocean Quigley, Francis Ge, Yangming Chong, Josh Patterson, Jan-Michael Frahm, Shu Wu, Matthew Yu, Peizhao Zhang, Zijian He, Peter Vajda, Ayush Saraf, Michael Cohen.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2008.12298)] [[Github](https://github.com/facebookresearch/one_shot_3d_photography)] [[Project](https://facebookresearch.github.io/one_shot_3d_photography/)]
+
+**Deep 3D Portrait from a Single Image.**<br>
+*Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11598)] [[Github](https://github.com/sicxu/Deep3dPortrait)]
+
+**3D-CariGAN: An End-to-End Solution to 3D Caricature Generation from Face Photos.**<br>
+*Zipeng Ye, Ran Yi, Minjing Yu, Juyong Zhang, Yu-Kun Lai, Yong-jin Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.06841)]
+
+**3D Photography using Context-aware Layered Depth Inpainting.**<br>
+*[Meng-Li Shih](https://shihmengli.github.io/), [Shih-Yang Su](https://lemonatsu.github.io/), [Johannes Kopf](https://johanneskopf.de/), and [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
+CVPR 2020. [[PDF](https://drive.google.com/file/d/17ki_YAL1k5CaHHP3pIBFWvw-ztF4CCPP/view?usp=sharing)] [[Project](https://shihmengli.github.io/3D-Photo-Inpainting/)] [[Github](https://github.com/vt-vl-lab/3d-photo-inpainting)]
+
+**Self-Supervised 2D Image to 3D Shape Translation with Disentangled Representations.**<br>
+*Berk Kaya, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2003.10016)]
+
+**Deep 3D-Zoom Net: Unsupervised Learning of Photo-Realistic 3D-Zoom.**<br>
+*Juan Luis Gonzalez Bello, Munchurl Kim.*<br>
+ICLR 2020. [[PDF](https://arxiv.org/abs/1909.09349)] [[Video](https://www.youtube.com/watch?v=Gz76VYwUzZ8)]
+
+**SynSin: End-to-end View Synthesis from a Single Image.**<br>
+*Olivia Wiles, Georgia Gkioxari, Richard Szeliski, Justin Johnson.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.08804)] [[Github](http://www.robots.ox.ac.uk/~ow/synsin.html)]
+
+**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.**<br>
+*Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng.*<br>
+arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Github](https://github.com/bmild/nerf)]
+
+**View Independent Generative Adversarial Network for Novel View Synthesis.**<br>
+*Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
+
+**Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling.**<br>
+*Changjian Li, Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
+SIGGRAPH Asia 2018.
+[[Project](http://haopan.github.io/sketchCNN.html)] [[PDF](https://enigma-li.github.io/projects/sketchcnn/SketchCNN_SIGA_2018.pdf)] [[Code,Data - GitHub](https://github.com/Enigma-li/SketchCNN/)]
+
+**BendSketch: Modeling Freeform Surfaces Through 2D Sketching.**<br>
+*[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
+SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
+
+
 ## Free-Hand Sketch
 
 [Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications)
 
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
+
+### 2D Sketch to 3D Model
+
+**3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks.**<br> 
+*Zhaoliang Lun, Matheus Gadelha, Evangelos Kalogerakis, Subhransu Maji, Rui Wang.*<br> 
+3DV 2017. [[PDF](https://arxiv.org/abs/1707.06375)] [[Github](https://github.com/happylun/SketchModeling)] [[Project](http://people.cs.umass.edu/~zlun/papers/SketchModeling/)]
+
+**3D Shape Reconstruction from Free-Hand Sketches.**<br> 
+*[Jiayun Wang](http://pwang.pw/), Jierui Lin, [Qian Yu](https://yuqian1023.github.io//), Runtao Liu, [Yubei Chen](https://redwood.berkeley.edu/people/yubei-chen/), [Stella X. Yu](https://www1.icsi.berkeley.edu/~stellayu/).*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09694)] [[Project](http://pwang.pw/3dsketch.html)] [[Github](https://github.com/samaonline/3D-Shape-Reconstruction-from-Free-Hand-Sketches)]
+
+**SketchCNN: Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling.**<br> 
+*[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br> 
+SIGGRAPH Asia 2018. [[PDF](https://dl.acm.org/doi/10.1145/3272127.3275051)] [[Project](http://haopan.github.io/sketchCNN.html)] [[Github](https://github.com/Enigma-li/SketchCNN)]
+
+### 2D Sketch to 2D Image
 
 **SketchEmbedNet: Learning Novel Concepts by Imitating Drawings.**<br>
 *Alexander Wang, Mengye Ren, Richard Zemel.*<br>
@@ -1705,10 +1819,6 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1909.11081v2)] [[Project](https://arnabg
 **Sketch-Guided Scenery Image Outpainting.**<br> 
 *Yaxiong Wang, Yunchao Wei, Xueming Qian, Li Zhu, Yi Yang.*<br> 
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09788)]
-
-**3D Shape Reconstruction from Free-Hand Sketches.**<br> 
-*Jiayun Wang, Jierui Lin, Qian Yu, Runtao Liu, Yubei Chen, Stella X. Yu.*<br> 
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09694)]
 
 **Synthesizing Human-Like Sketches From Natural Images Using A Conditional Convolutional Decoder.**<br> 
 *Moritz Kampelmühler, Axel Pinz.*<br> 
