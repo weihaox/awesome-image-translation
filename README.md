@@ -215,6 +215,11 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**Pixel-based Facial Expression Synthesis.**<br>
+*Arbish Akram and Nazar Khan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2010.14397)].
+
+
 **SAVI2I: Continuous and Diverse Image-to-Image Translation via Signed Attribute Vectors.**<br>
 *Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Jia-Bin Huang, Siwei Ma, Ming-Hsuan Yang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01215)] [[Project](https://helenmao.github.io/SAVI2I/)] [[Github](https://github.com/HelenMao/SAVI2I)]
