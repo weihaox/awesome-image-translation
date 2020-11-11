@@ -1,5 +1,9 @@
 
-# awesome gan-inversion papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome gan-inversion papers 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
 A collection of resources on GAN Inversion: Interpreting the Latent Space of Pretrained Models. 
 
@@ -10,6 +14,14 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 Feedback and contributions are welcome!
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
+
+**GAN "Steerability" without Optimization.**<br>
+*Anonymous.*<br>
+ICLR 2021. [[PDF](https://openreview.net/forum?id=zDy_nQCXiIj)]
+
+**On The Inversion Of Deep Generative Models (When and How Can Deep Generative Models be Inverted?).**<br>
+*Aviad Aberdam, Dror Simon, Michael Elad.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2006.15555)] [[OpenReview](https://openreview.net/pdf?id=TSrvUnWkjGR)]
 
 **PIE: Portrait Image Embedding for Semantic Control.**<br> 
 *[A. Tewari](http://people.mpi-inf.mpg.de/~atewari/), M. Elgharib, M. BR, F. Bernard, H-P. Seidel, P. P‌érez, M. Zollhöfer, C.Theobalt.*<br> 
@@ -46,10 +58,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2005.07728)]
 **Transforming and Projecting Images into Class-conditional Generative Networks.**<br>
 *[Minyoung Huh](http://minyounghuh.com/), [Richard Zhang](https://richzhang.github.io/), [Jun-Yan Zhu](https://people.csail.mit.edu/junyanz/), [Sylvain Paris](http://people.csail.mit.edu/sparis/), [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/).*<br>
 arxiv 2020. [[PDF](http://arxiv.org/abs/2005.01703)] [[Github](https://github.com/minyoungg/GAN-Transform-and-Project)] [[Project](https://minyoungg.github.io/GAN-Transform-and-Project/)]
-
-**When and How Can Deep Generative Models be Inverted?.**<br>
-*Aviad Aberdam, Dror Simon, Michael Elad.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15555)]
 
 **Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation.**<br>
 *Ziqiang Li, Rentuo Tao, Hongjing Niu, Bin Li.*<br>

@@ -260,6 +260,7 @@ NeurIPS 2020. [[PDF]()]
 **Auto Seg-Loss: Searching Metric Surrogates for Semantic Segmentation.**<br>
 *Hao Li, Chenxin Tao, Xizhou Zhu, Xiaogang Wang, Gao Huang, Jifeng Dai.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07930)]
+
 ## Image Quality Assessment
 
 **Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network**<br>
@@ -267,6 +268,22 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07930)]
 CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf)] [[Github](https://github.com/SSL92/hyperIQA)]
 
 ## Misc
+
+**DynaVSR: Dynamic Adaptive Blind Video Super-Resolution.**<br>
+*Suyoung Lee, Myungsub Choi, Kyoung Mu Lee.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.04482)]
+
+**Illumination Normalization by Partially Impossible Encoder-Decoder Cost Function.**<br>
+*Steve Dias Da Cruz, Bertram Taetz, Thomas Stifter, Didier Stricker.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03428)] [[Project](https://sviro.kl.dfki.de/)]
+
+**MPRNet: Multi-Path Residual Network for Lightweight Image Super Resolution.**<br>
+*Armin Mehri, Parichehr B.Ardakani, Angel D.Sappa.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.04566)]
+
+**iPASSR: Symmetric Parallax Attention for Stereo Image Super-Resolution.**<br>
+*Yingqian Wang, Xinyi Ying, Longguang Wang, Jungang Yang, Wei An, Yulan Guo.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2011.03802)] [[Github](https://github.com/YingqianWang/iPASSR)]
 
 **Deep Image Compositing.**<br>
 *He Zhang, Jianming Zhang, Federico Perazzi, Zhe Lin, Vishal M. Patel.*<br>

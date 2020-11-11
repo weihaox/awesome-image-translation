@@ -512,9 +512,18 @@ BMVC 2018. [[PDF] (https://arxiv.org/abs/1707.05612)] [[Github](https://github.c
 NeurIPS 2014. [[PDF](https://arxiv.org/abs/1406.5679)]
 
 **DeViSE: Deep Visual/Semantic Embedding Model.**<br>
- *Andrea Frome, Greg Corrado, Jonathon ShLens, Samy Bengio, Jeffrey Dean, Marc'Aurelio Ranzato Tomas Mikolov.*<br> NeurIPS 2013. [[PDF] (https://static.googleusercontent.com/media/researchgoogle.com/zh-CN/pubs/archive/41473.pdf)]
+*Andrea Frome, Greg Corrado, Jonathon ShLens, Samy Bengio, Jeffrey Dean, Marc'Aurelio Ranzato Tomas Mikolov.*<br> 
+NeurIPS 2013. [[PDF](https://static.googleusercontent.com/media/researchgoogle.com/zh-CN/pubs/archive/41473.pdf)]
 
 ### Image-to-Text
+
+**Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze.**<br>
+*Ece Takmaz, Sandro Pezzelle, Lisa Beinborn, Raquel Fernández.*<br>
+EMNLP 2020. [[PDF](https://arxiv.org/abs/2011.04592)]
+
+**CapWAP: Captioning with a Purpose.**<br>
+*Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan H. Clark, Regina Barzilay.*<br>
+EMNLP 2020. [[PDF](https://arxiv.org/abs/2011.04264)]
 
 **Diverse Image Captioning with Context-Object Split Latent Spaces.**<br>
 *Shweta Mahajan, Stefan Roth.*<br>
@@ -537,6 +546,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13374)]
 CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 
 ### Text-to-Image
+
+**Text-to-Image Generation Grounded by Fine-Grained User Attention.**<br>
+*Jing Yu Koh, Jason Baldridge, Honglak Lee, Yinfei Yang.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.03775)]
 
 **SD-GAN: Semantics Disentangling for Text-to-Image Generation.**<br>
 *Guojun Yin, Bin Liu, Lu Sheng, Nenghai Yu, Xiaogang Wang, Jing Shao.*<br>
@@ -913,6 +926,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04159)]
 
 ### Single-Image Training 
 
+**Blind Motion Deblurring through SinGAN Architecture.**<br>
+*Harshil Jain, Rohit Patil, Indra Deep Mastan, Shanmuganathan Raman.*<br>
+ECCV 2020 Workshop. [[PDF](https://arxiv.org/abs/2011.03705)]
+
 **ConSinGAN: Improved Techniques for Training Single-Image GANs.**<br>
 *Tobias Hinz, Matthew Fisher, Oliver Wang, Stefan Wermter.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.11512)]  [[Github](https://github.com/tohinz/ConSinGAN)]
@@ -947,6 +964,9 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.13636)] [[Github](https://github
 *Huan Fu, Shunming Li, Rongfei Jia, Mingming Gong, Binqiang Zhao, Dacheng Tao.*<br>
 NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]
 
+**Rethinking the Value of Labels for Improving Class-Imbalanced Learning.**<br>
+*Yuzhe Yang, Zhi Xu.*<br>
+NeurlPS 2020. [[PDF](https://arxiv.org/abs/2006.07529)] [[Github](https://github.com/YyzHarry/imbalanced-semi-self)]
 
 ### Spatio-Temporal
 
@@ -1073,6 +1093,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.10915)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
 
 ### Misc
+
+**Latent Neural Differential Equations for Video Generation.**<br>
+*Cade Gordon, Natalie Parde.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03864)]
 
 **Disentangling Latent Space for Unsupervised Semantic Face Editing.**<br>
 *Kanglin Liu, Gaofeng Cao, Fei Zhou, Bozhi Liu, Jiang Duan, Guoping Qiu.*<br>
@@ -1534,6 +1558,7 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
+[[Awesome-GANS-and-Deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes)]
 
 **DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.**<br>
 *[Liming Jiang](https://liming-jiang.com/), [Wayne Wu](https://wywu.github.io/), [Ren Li](https://liren2515.github.io/page/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
