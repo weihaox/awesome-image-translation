@@ -223,7 +223,6 @@ Feedback and contributions are welcome!
 *Arbish Akram and Nazar Khan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/pdf/2010.14397)].
 
-
 **SAVI2I: Continuous and Diverse Image-to-Image Translation via Signed Attribute Vectors.**<br>
 *Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Jia-Bin Huang, Siwei Ma, Ming-Hsuan Yang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01215)] [[Project](https://helenmao.github.io/SAVI2I/)] [[Github](https://github.com/HelenMao/SAVI2I)]
@@ -246,7 +245,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)] [[Github](https://github.c
 
 **DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
-NeurIPS 2020. [[PDF](https://neurips.cc/Conferences/2020/AcceptedPapersInitial)]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
 
 **The Surprising Effectiveness of Linear Unsupervised Image-to-Image Translation.**<br>
 *Eitan Richardson, Yair Weiss.*<br>
