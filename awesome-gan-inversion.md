@@ -15,6 +15,10 @@ Feedback and contributions are welcome!
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
+**DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
+*yaxing wang, Lu Yu, Joost van de Weijer.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
+
 **GAN "Steerability" without Optimization.**<br>
 *Anonymous.*<br>
 ICLR 2021. [[PDF](https://openreview.net/forum?id=zDy_nQCXiIj)]
