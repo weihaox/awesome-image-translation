@@ -12,7 +12,8 @@ See the [scripts](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/m
    * Rendering Natural Camera Bokeh Effect with Deep Learning. [[PDF](https://arxiv.org/abs/2006.05698)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet-bokeh.html)] Andrey Ignatov, Jagruti Patel, Radu Timofte.
 
 ### Image Harmonization
-* IDH [[Homepage](https://github.com/bcmi/Image_Harmonization_Datasets)] [[PDF](https://arxiv.org/pdf/1911.13239.pdf)]
+* iHarmony4 [[Homepage](https://github.com/bcmi/Image_Harmonization_Datasets)] 
+   * DoveNet: Deep Image Harmonization via Domain Verification. [[PDF](https://arxiv.org/pdf/1911.13239.pdf)] Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li, Liqing Zhang.
 * [DeepHarmonization](http://vllab.ucmerced.edu/ytsai/CVPR17/real_data.zip)
 * [colorRealism](http://balaton.graphics.cs.cmu.edu/jlalonde/colorStatistics/db.zip)
 * [Dataset](http://efrosprojects.eecs.berkeley.edu/realism/human_evaluation.zip) for Realism Prediction.

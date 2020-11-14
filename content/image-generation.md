@@ -1094,6 +1094,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
 
 ### Misc
 
+**Few-shot Image Generation with Elastic Weight Consolidation.**<br>
+*Yijun Li, Richard Zhang, Jingwan (Cynthia) Lu, Eli Shechtman.*<br>
+NeurIPS 2020. [[PDF](https://papers.nips.cc/paper/2020/hash/b6d767d2f8ed5d21a44b0e5886680cb9-Abstract.html)]
+
+**Neural FFTs for Universal Texture Image Synthesis.**<br>
+*Morteza Mardani, Guilin Liu, Aysegul Dundar, Shiqiu Liu, Andrew Tao, Bryan Catanzaro.*<br>
+NeurIPS 2020. [[PDF](https://papers.nips.cc/paper/2020/hash/a23156abfd4a114c35b930b836064e8b-Abstract.html)]
+
 **Latent Neural Differential Equations for Video Generation.**<br>
 *Cade Gordon, Natalie Parde.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03864)]
