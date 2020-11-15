@@ -1094,6 +1094,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
 
 ### Misc
 
+**CEN: Deep Multimodal Fusion by Channel Exchanging.**<br>
+*Yikai Wang, Wenbing Huang, Fuchun Sun, Tingyang Xu, Yu Rong, Junzhou Huang.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05005)] [[Github](https://github.com/yikaiw/CEN)]
+
 **Few-shot Image Generation with Elastic Weight Consolidation.**<br>
 *Yijun Li, Richard Zhang, Jingwan (Cynthia) Lu, Eli Shechtman.*<br>
 NeurIPS 2020. [[PDF](https://papers.nips.cc/paper/2020/hash/b6d767d2f8ed5d21a44b0e5886680cb9-Abstract.html)]
@@ -1798,6 +1802,14 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
 
 ### 2D Sketch to 3D Model
+
+**Towards 3D VR-Sketch to 3D Shape Retrieval.**<br>
+*Ling Luo, Yulia Gryaditskaya, Yongxin Yang, Tao Xiang, Yi-Zhe Song.*<br> 
+3DV 2020. [[PDF](https://rowl1ng.com/projects/3DSketch3DV/)]
+
+**Deep Sketch-Based Modelling: Tips and Tricks.**<br> 
+*Yue Zhong, Yulia Gryaditskaya, Honggang Zhang, Yi-Zhe Song.*<br> 
+3DV 2020. [[PDF](https://arxiv.org/pdf/2011.06133.pdf)]
 
 **3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks.**<br> 
 *Zhaoliang Lun, Matheus Gadelha, Evangelos Kalogerakis, Subhransu Maji, Rui Wang.*<br> 
