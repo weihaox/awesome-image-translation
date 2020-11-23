@@ -129,7 +129,7 @@ Feedback and contributions are welcome!
 **Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Arar_Unsupervised_Multi-Modal_Image_Registration_via_Geometry_Preserving_Image-to-Image_Translation_CVPR_2020_paper.pdf)] <br>
 *Moab Arar, Yiftach Ginger, Dov Danon, Amit H. Bermano, Daniel Cohen-Or.*<br>
 
-**Bringing Old Photos Back to Life.**[[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]<br>
+**Bringing Old Photos Back to Life.**[[PDF](https://arxiv.org/abs/2004.09484)] [[Github](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)] [[Project](http://raywzy.com/Old_Photo/)]<br>
 *[Ziyu Wan](http://raywzy.com), Bo Zhang, [Dongdong Chen](http://www.dongdongchen.bid/), Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
 
 **Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence.**[[PDF](https://arxiv.org/abs/2005.05207)]<br>
@@ -218,6 +218,22 @@ Feedback and contributions are welcome!
 *Yiming Gao, Jiangqin Wu.*<br>
 
 ### Others 2020
+
+**Network-to-Network Translation with Conditional Invertible Neural Networks.**<br>
+*[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2005.13580)] [[Github](https://github.com/CompVis/net2net)] [[Project](https://compvis.github.io/net2net/)]
+
+**Online Exemplar Fine-Tuning for Image-to-Image Translation.**<br>
+*Taewon Kang, Soohyun Kim, Sunwoo Kim, Seungryong Kim.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09330)]
+
+**Stylized Neural Painting.**<br>
+*[Zhengxia Zou](http://www-personal.umich.edu/~zzhengxi/), [Tianyang Shi](https://www.shitianyang.tech/), Shuang Qiu, [Yi Yuan](https://yiyuan1991.github.io/), [Zhenwei Shi](http://levir.buaa.edu.cn/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.08114)] [[Project](https://jiupinjia.github.io/neuralpainter/)] [[Github](https://github.com/jiupinjia/stylized-neural-painting)]
+
+**Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis.**<br>
+*Wen Liu, Zhixin Piao, Zhi Tu, Wenhan Luo, Lin Ma, Shenghua Gao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09055)]
 
 **Zero-Pair Image to Image Translation using Domain Conditional Normalization.**<br>
 *Samarth Shukla, Andrés Romero, Luc Van Gool, Radu Timofte.*<br>

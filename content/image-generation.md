@@ -44,9 +44,19 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [2D Sketch to 3D Model](#2d-sketch-to-3d-model)
   * [2D Sketch to 2D Image](#2d-sketch-to-2d-image)
 
+## Industry Demo or Product
+
+Google [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html)
+
+Adobe Sensei: Material World, Scantastic, Sharp Shot, Super Dancing Queen/King, 2D Plus, Comic Blast, AR Together
+
 ## Image Quality Assessment
 
 [[Perceptual Optimization of Image Quality Assessment (IQA) Models](https://github.com/dingkeyan93/IQA-optimization)]
+
+**A Loss Function for Generative Neural Networks Based on Watson’s Perceptual Model.**<br>
+*Steffen Czolbe, Oswin Krause, Igemar Cox, Christian Igel.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.15057)] [[Github](https://github.com/SteffenCzolbe/PerceptualSimilarity)] [[Video](https://youtu.be/qPmHQbR4DeI)] [[Poster](https://github.com/SteffenCzolbe/PerceptualSimilarity/blob/master/img/WatsonPoster.pdf)]
 
 **GIQA: Generated Image Quality Assessment.**<br>
 *Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
@@ -304,6 +314,10 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1812.02350v1)] [[Project](https://res
 
 ### Generating Accurate Descriptions
 
+**Describing Textures using Natural Language.**<br>
+*Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01180)] [[Project](https://people.cs.umass.edu/~chenyun/texture)]
+
 **Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards.**<br>
 *Xuewen Yang, Heming Zhang, Di Jin, Yingru Liu, Chi-Hao Wu, Jianchao Tan, Dongliang Xie, Jue Wang, Xin Wang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02693)]
@@ -399,6 +413,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ST
 [[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
 
 ### Frame Interpolation, Extrapolation and Videos Generation
+
+**RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation.**<br>
+*Zhewei Huang, Tianyuan Zhang, Wen Heng, Boxin Shi, Shuchang Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.06294)] [[Github](https://github.com/hzwer/arXiv2020-RIFE)]
 
 **Enhanced Quadratic Video Interpolation.**<br>
 *Yihao Liu, Liangbin Xie, Li Siyao, Wenxiu Sun, Yu Qiao, Chao Dong.*<br>
@@ -529,10 +547,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.08562)]
 *Bingchen Liu, Kunpeng Song, Yizhe Zhu, Gerard de Melo, Ahmed Elgammal.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.13192)]
 
-**S2IGAN: Speech-to-Image Generation via Adversarial Learning.**<br>
-*Xinsheng Wang, Tingting Qiao, Jihua Zhu, Alan Hanjalic, Odette Scharenborg.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2005.06968)]
-
 **3DLSN: End-to-End Optimization of Scene Layout.**<br>
 *Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
 CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
@@ -649,6 +663,18 @@ arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)]
 
 ### Image-and-Voice
 
+**Universal MelGAN: A Robust Neural Vocoder for High-Fidelity Waveform Generation in Multiple Domains.**<br>
+*Won Jang, Dan Lim, Jaesam Yoon.*<br>
+ICASSP 2021. [[PDF](https://arxiv.org/abs/2011.09631)]
+
+**Everybody Sign Now: Translating Spoken Language to Photo Realistic Sign Language Video.**<br>
+*Ben Saunders, Necati Cihan Camgoz, Richard Bowden.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09846)]
+
+**S2IGAN: Speech-to-Image Generation via Adversarial Learning.**<br>
+*Xinsheng Wang, Tingting Qiao, Jihua Zhu, Alan Hanjalic, Odette Scharenborg.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.06968)]
+
 **Lets Play Music: Audio-driven Performance Video Generation.**<br>
 *Hao Zhu, Yi Li, Feixia Zhu, Aihua Zheng, Ran He.*<br>
 ICPR 2020. [[PDF](https://arxiv.org/abs/2011.02631)]
@@ -730,11 +756,37 @@ ICASSP 2020.
 *Mikołaj Bińkowski, Jeff Donahue, Sander Dieleman, Aidan Clark, Erich Elsen, Norman Casagrande, Luis C. Cobo, Karen Simonyan.*<br>
 ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
+## GAN Improvement
+
+**VDVAE: Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images.**<br>
+*Anonymous authors.*<br>
+ICLR 2021. [[PDF](https://openreview.net/forum?id=RLRXCV6DbEJ)] [[Github](https://github.com/openai/vdvae)]
+
+**Self Normalizing Flows.**<br>
+*T. Anderson Keller, [Jorn W.T. Peters](http://jornpeters.nl/), [Priyank Jaini](https://cs.uwaterloo.ca/~pjaini/home/), Emiel Hoogeboom, Patrick Forré, [Max Welling](https://staff.fnwi.uva.nl/m.welling/).*<br>
+Beyond Backpropagation workshop at NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.07248)] [[Github](https://github.com/akandykeller/SelfNormalizingFlows)]
+
+**Self-Gradient Networks.**<br>
+*Hossein Aboutalebi, Mohammad Javad Shafiee Alexander Wong.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09364)]
+
 ## Diving Deep into Image Synthesis
+
+[[Image Generation SOTA](https://paperswithcode.com/task/image-generation)] 
+
+[[Video Generation SOTA](https://paperswithcode.com/task/video-generation)]
 
 ### Invertible Neural Network (Flow-based Generative Model)
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
+
+**Network-to-Network Translation with Conditional Invertible Neural Networks.**<br>
+*[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2005.13580)] [[Github](https://github.com/CompVis/net2net)] [[Project](https://compvis.github.io/net2net/)]
+
+**VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation.**<br>
+*Manoj Kumar, Mohammad Babaeizadeh, Dumitru Erhan, Chelsea Finn, Sergey Levine, Laurent Dinh, Durk Kingma.*<br>
+ICLR 2020. [[PDF](https://arxiv.org/abs/1903.01434v3)]
 
 **Wavelet Flow: Fast Training of High Resolution Normalizing Flows.**<br>
 *[Jason J. Yu](https://jasonjyu.com/), Konstantinos G. Derpanis](https://scs.ryerson.ca/~kosta/), [Marcus A. Brubaker](https://mbrubake.github.io/).*<br>
@@ -783,6 +835,10 @@ arxiv 2014. [[PDF](https://arxiv.org/abs/1410.8516)] [[Github](https://github.co
 ### StyleGAN-Based Method
 
 [[awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)]
+
+**StyleGAN2vp: Learning Disentangled Representations with Latent Variation Predictability.**<br>
+*Xinqi Zhu and Chang Xu and Dacheng Tao.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12885)] [[Github](https://github.com/zhuxinqimac/)]
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
@@ -837,6 +893,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
+
+**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.**<br>
+*Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09094)]
 
 **Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers.**<br>
 *Zhaoshuo Li, Xingtong Liu, Francis X. Creighton, Russell H. Taylor, Mathias Unberath.*<br>
@@ -1083,12 +1143,12 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02917)]
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.00653)] [[Github](https://github.com/zhangqianhui/Swapping-Autoencoder-tf)]
 
 **Differentiable Augmentation for Data-Efficient GAN Training.**<br>
-*Shengyu Zhao, Zhijian Liu, Ji Lin (MIT) · Jun-Yan Zhu, Song Han.*<br>
-NeurIPS 2020. [[PDF]()]
-
+*Shengyu Zhao, Zhijian Liu, Ji Lin, Jun-Yan Zhu, Song Han.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://hanlab.mit.edu/projects/data-efficient-gans/)] [[Github](https://github.com/mit-han-lab/data-efficient-gans)]
+ 
 **GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
 *Katja Schwarz, Yiyi Liao, Michael Niemeyer, Andreas Geiger.*<br>
-NeurIPS 2020. [[PDF]()]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github.com/autonomousvision/graf)]
 
 **SMILE: Semantically-guided Multi-attribute Image and Layout Editing.**<br>
 *Andrés Romero, Luc Van Gool, Radu Timofte.*<br>
@@ -1507,6 +1567,10 @@ TPAMI 2020. [[PDF](https://arxiv.org/abs/2011.02062)] [[CASIA-SURF 3DMask Datase
 **Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
+
+**Face Forgery Detection by 3D Decomposition.**<br>
+*Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09737)]
 
 **A Survey On Anti-Spoofing Methods For Face Recognition with RGB Cameras of Generic Consumer Devices.**<br>
 *Zuheng Ming, Muriel Visani, Muhammad Muzzamil Luqman, Jean-Christophe Burie.*<br>
