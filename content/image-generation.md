@@ -4,9 +4,11 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Table of Contents
 
+- [Industry Demo or Product](#industry-demo-or-product)
 - [Image Quality Assessment](#image-quality-assessment)
 - [Interactive and Controllable Image Manipulation](#interactive-and-controllable-image-manipulation)
   * [Highlight Component](#highlight-component)
+  * [Rearrange and Retiming](#rearrange-and-retiming)
   * [Change Where You Want](#change-where-you-want)
   * [Guided Translation](#guided-translation)
   * [Individual Object Manipulation](#individual-object-manipulation)
@@ -23,11 +25,14 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
   * [Frame Interpolation, Extrapolation and Videos Generation](#frame-interpolation--extrapolation-and-videos-generation)
 - [Multi-Modality Translation](#multi-modality-translation)
+  * [Image-to-Video](#image-to-video)
+  * [Text-to-Video](#text-to-video)
   * [Image-to-Text](#image-to-text)
   * [Text-to-Image](#text-to-image)
   * [Speech-and-Text](#speech-and-text)
   * [Image-and-Voice](#image-and-voice)
   * [Voice-to-Voice](#voice-to-voice)
+- [GAN Improvement](#gan-improvement)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
   * [Invertible Neural Network (Flow-based Generative Model)](#invertible-neural-network--flow-based-generative-model-)
   * [StyleGAN-Based Method](#stylegan-based-method)
@@ -82,7 +87,7 @@ arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.c
 
 ### Highlight Component 
 
-**Zoom-in to the details of human-centric videos.**<br>
+**Zoom-in to the Details of Human-Centric Videos.**<br>
 *Guanghan Li, Yaping Zhao, Mengqi Ji, Xiaoyun Yuan, Lu Fang.*<br>
 ICIP 2020. [[PDF](https://arxiv.org/abs/2005.13222)]
 
@@ -93,6 +98,20 @@ SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https:/
 **Real-Time Selfie Video Stabilization.**<br>
 *Jiyang Yu, Ravi Ramamoorthi, Keli Cheng, Michel Sarkis, Ning Bi.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.02007)]
+
+### Rearrange and Retiming
+
+**Layered Neural Rendering for Retiming People in Video.**<br>
+*Erika Lu, Forrester Cole, Tali Dekel, Weidi Xie, Andrew Zisserman, David Salesin, William T. Freeman, Michael Rubinstein.*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https://retiming.github.io/)]
+
+**Neural Scene Graphs for Dynamic Scenes.**<br>
+*Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
+
+**Self-Supervised Scene De-occlusion.**<br>
+*[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
 
 ### Change Where You Want
 
@@ -268,6 +287,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
 
 ### Individual Object Manipulation
 
+**Neural Scene Graphs for Dynamic Scenes.**<br>
+*Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
+
+**Self-Supervised Scene De-occlusion.**<br>
+*[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
+
 **Learning to Manipulate Individual Objects in an Image.**<br>
 *Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
@@ -283,10 +310,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08999)] [[Project](http://vcc.szu.
 **SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects.**<br>
 *Evangelos Ntavelis, Andrés Romero, Iason Kastanis, Luc Van Gool, Radu Timofte.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04977)]
-
-**Self-Supervised Scene De-occlusion.**<br>
-*[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
 
 **3DLSN: End-to-End Optimization of Scene Layout.**<br>
 *Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
@@ -414,6 +437,8 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ST
 
 ### Frame Interpolation, Extrapolation and Videos Generation
 
+Video from a single image or text can be found at [here]()
+
 **RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation.**<br>
 *Zhewei Huang, Tianyuan Zhang, Wen Heng, Boxin Shi, Shuchang Zhou.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.06294)] [[Github](https://github.com/hzwer/arXiv2020-RIFE)]
@@ -425,14 +450,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2009.04642)]
 **Boundary Content Graph Neural Network for Temporal Action Proposal Generation.**<br>
 *Yueran Bai, Yingying Wang, Yunhai Tong, Yang Yang, Qiyue Liu, Junhui Liu.*<br>
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730120.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730120-supp.pdf)]
-
-**DTVNet: Dynamic Time-lapse Video Generation via Single Still Image.**<br>
-*Jiangning Zhang, Chao Xu, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, Yunliang Jiang.*<br>
-ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500290.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500290-supp.zip)]
-
-**SiENet: Siamese Expansion Network for Image Extrapolation.**<br>
-*Xiaofeng Zhang, Feng Chen, Cailing Wang, Songsong Wu, Ming Tao, Guoping Jiang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03851)]
 
 **Extrapolative-Interpolative Cycle-Consistency Learning for Video Frame Extrapolation.**<br>
 *Sangjin Lee, Hyeongmin Lee, Taeoh Kim, Sangyoun Lee.*<br>
@@ -459,10 +476,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.01971)]
 *Jingwei Xu, Huazhe Xu, Bingbing Ni, Xiaokang Yang, Trevor Darrell.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01738)] [[Project](https://sites.google.com/view/vpeg-supp/home)]
 
-**Hierarchical Patch VAE-GAN: Generating Diverse Videos from a Single Sample.**<br>
-*Shir Gur, Sagie Benaim, Lior Wolf.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)]
-
 **Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution.**<br>
 *Xiaoyu Xiang, Yapeng Tian, Yulun Zhang, Yun Fu, Jan P. Allebach, Chenliang Xu.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11616)]
@@ -482,6 +495,38 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
 [[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
+
+### Image-to-Video
+
+**Lifespan Age Transformation Synthesis.**<br>
+*Roy Or-El, Soumyadip Sengupta, Ohad Fried, Eli Shechtman, Ira Kemelmacher-Shlizerman.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.09764)] [[Project](https://grail.cs.washington.edu/projects/lifespan_age_transformation_synthesis/)] [[Github](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)] [[FFHQ-Aging Dataset](https://github.com/royorel/FFHQ-Aging-Dataset)]
+
+**DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
+*E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
+
+**DTVNet: Dynamic Time-lapse Video Generation via Single Still Image.**<br>
+*Jiangning Zhang, Chao Xu, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, Yunliang Jiang.*<br>
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500290.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500290-supp.zip)]
+
+**SiENet: Siamese Expansion Network for Image Extrapolation.**<br>
+*Xiaofeng Zhang, Feng Chen, Cailing Wang, Songsong Wu, Ming Tao, Guoping Jiang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03851)]
+
+**Hierarchical Patch VAE-GAN: Generating Diverse Videos from a Single Sample.**<br>
+*Shir Gur, Sagie Benaim, Lior Wolf.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)]
+
+### Text-to-Video
+
+**Video Generation From Text.**<br>
+*Yitong Li, Martin Renqiang Min, Dinghan Shen, David Carlson, Lawrence Carin.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1710.00421)]
+
+**TiVGAN: Text to Image to Video Generation with Step-by-Step Evolutionary Generator.**<br>
+*Doyeon Kim, Donggyu Joo, Junmo Kim.*<br>
+IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 
 ### Image-to-Text
 
@@ -780,6 +825,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09364)]
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
 
+**Decoupling Global and Local Representations via Invertible Generative Flows.**<br>
+*Anonymous.*<br>
+ICLR 2021 Submission. [[PDF](https://openreview.net/forum?id=iWLByfvUhN)]
+
 **Network-to-Network Translation with Conditional Invertible Neural Networks.**<br>
 *[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2005.13580)] [[Github](https://github.com/CompVis/net2net)] [[Project](https://compvis.github.io/net2net/)]
@@ -836,6 +885,10 @@ arxiv 2014. [[PDF](https://arxiv.org/abs/1410.8516)] [[Github](https://github.co
 
 [[awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)]
 
+**Adversarial Generation of Continuous Images.**<br>
+*Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.com/universome/inr-gan)]
+
 **StyleGAN2vp: Learning Disentangled Representations with Latent Variation Predictability.**<br>
 *Xinqi Zhu and Chang Xu and Dacheng Tao.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12885)] [[Github](https://github.com/zhuxinqimac/)]
@@ -863,6 +916,10 @@ CVPR 2019.
 [[Video](https://youtu.be/kSLJriaOumA)]
 [[Github](https://github.com/NVlabs/stylegan)]
 [[FFHQ](https://github.com/NVlabs/ffhq-dataset)]
+
+**DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
+*E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
 
 **PIE: Portrait Image Embedding for Semantic Control.**<br> 
 *[A. Tewari](http://people.mpi-inf.mpg.de/~atewari/), M. Elgharib, M. BR, F. Bernard, H-P. Seidel, P. P‌érez, M. Zollhöfer, C.Theobalt.*<br> 
@@ -961,6 +1018,10 @@ ICCV 2019 (Best Paper).
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Hard Example
+
+**Learning to Sample the Most Useful Training Patches from Images.**<br>
+*Shuyang Sun, Liang Chen, Gregory Slabaugh, Philip Torr.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12097)]
 
 **Enhanced Balancing GAN: Minority-class Image Generation.**<br>
 *Gaofeng Huang, Amir H. Jafari.*<br>
@@ -1065,6 +1126,14 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1910.06711)] [[Github](https://github
 arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.com/NVIDIA/waveglow)] [[Project](https://nv-adlr.github.io/WaveGlow)]
 
 ### Misc
+
+**Generative Adversarial Stacked Autoencoders.**<br>
+*Ariel Ruiz-Garcia, Ibrahim Almakky, Vasile Palade, Luke Hicks.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12236)]
+
+**Legacy Photo Editing with Learned Noise Prior.**<br>
+*Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Kangcheng Liu, Yujia Zhang, Wing-Yin Yu, Pengfei Xian, Jingjing Xiong.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.11309)] [[Github](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior)]
 
 **CEN: Deep Multimodal Fusion by Channel Exchanging.**<br>
 *Yikai Wang, Wenbing Huang, Fuchun Sun, Tingyang Xu, Yu Rong, Junzhou Huang.*<br>

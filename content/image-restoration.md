@@ -269,6 +269,14 @@ CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blin
 
 ## Misc
 
+**Single-Image Lens Flare Removal.**<br>
+*Yicheng Wu, Qiurui He, Tianfan Xue, Rahul Garg, Jiawen Chen, Ashok Veeraraghavan, Jonathan Barron.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12485)]
+
+**Reference-Based Video Colorization with Spatiotemporal Correspondence.**<br>
+*Naofumi Akimoto, Akio Hayakawa, Andrew Shin, Takuya Narihira.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12528)]
+
 **DynaVSR: Dynamic Adaptive Blind Video Super-Resolution.**<br>
 *Suyoung Lee, Myungsub Choi, Kyoung Mu Lee.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.04482)]

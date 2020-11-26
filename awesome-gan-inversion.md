@@ -15,6 +15,22 @@ Feedback and contributions are welcome!
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
+**Unsupervised Discovery of Disentangled Manifolds in GANs.**<br>
+*Yu-Ding Lu, Hsin-Ying Lee, Hung-Yu Tseng, Ming-Hsuan Yang.*<br>
+arxiv 2020. [[PDF]](https://arxiv.org/abs/2011.11842)]
+
+**StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation.**<br>
+*Zongze Wu, Dani Lischinski, Eli Shechtman.*<br>
+arxiv 2020. [[PDF]](https://arxiv.org/abs/2011.12799)
+
+**DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
+*E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
+
+**Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
+*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
+
 **DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
