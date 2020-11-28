@@ -1127,6 +1127,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.c
 
 ### Misc
 
+**Creative Sketch Generation.**<br>
+*Songwei Ge, Vedanuj Goswami, C. Lawrence Zitnick, Devi Parikh.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10039)] [[Github](https://github.com/facebookresearch/DoodlerGAN)] [[Project](http://doodlergan.cloudcv.org/)]
+
+**CircleGAN: Generative Adversarial Learning across Spherical Circles.**<br>
+*Woohyeon Shim, Minsu Cho.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12486)]
+
+**HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms.**<br>
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi), Marcus A. Brubaker, Michael S. Brown.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11731)] [[Github](https://github.com/mahmoudnafifi/HistoGAN)] [[4K Landscape](https://ln2.sync.com/dl/1891becc0/uhsxtprq-33wfwmyq-dhhqeb3s-mtstuqw7/view/default/11118541390008)]
+
 **Generative Adversarial Stacked Autoencoders.**<br>
 *Ariel Ruiz-Garcia, Ibrahim Almakky, Vasile Palade, Luke Hicks.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12236)]
@@ -1793,6 +1805,10 @@ ICCV, 2019.
 ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
 
 ## 2D to 3D Convertion
+
+**Cycle-Consistent Generative Rendering for 2D-3D Modality Translation
+Tristan Aumentado-Armstrong, Alex Levinshtein, Stavros Tsogkas, Konstantinos G. Derpanis, Allan D. Jepson
+3DV 2020. [[PDF](https://arxiv.org/abs/2011.08026)] [[Project](https://ttaa9.github.io/genren/)]
 
 **One Shot 3D Photography.**<br>
 *Johannes Kopf, Kevin Matzen, Suhib Alsisan, Ocean Quigley, Francis Ge, Yangming Chong, Josh Patterson, Jan-Michael Frahm, Shu Wu, Matthew Yu, Peizhao Zhang, Zijian He, Peter Vajda, Ayush Saraf, Michael Cohen.*<br>
