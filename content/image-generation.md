@@ -3,9 +3,7 @@
 This repository is about *Controllable and Interpretable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
 
 ## Table of Contents
-
 - [Industry Demo or Product](#industry-demo-or-product)
-- [Image Quality Assessment](#image-quality-assessment)
 - [Interactive and Controllable Image Manipulation](#interactive-and-controllable-image-manipulation)
   * [Highlight Component](#highlight-component)
   * [Rearrange and Retiming](#rearrange-and-retiming)
@@ -18,7 +16,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Attribute Editing and Makeup Transfer](#attribute-editing-and-makeup-transfer)
   * [Texture and Surface Mapping](#texture-and-surface-mapping)
   * [Novel-View Synthesis](#novel-view-synthesis)
-  * [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
+  * [Retargeting, Reenactment, and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
   * [3D Pose Transfer](#3d-pose-transfer)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
@@ -32,7 +30,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Speech-and-Text](#speech-and-text)
   * [Image-and-Voice](#image-and-voice)
   * [Voice-to-Voice](#voice-to-voice)
+- [2D to 3D Convertion](#2d-to-3d-convertion)
+- [3D Shape Generation and Manipulation](#3d-shape-generation-and-manipulation)
 - [GAN Improvement](#gan-improvement)
+- [Image Quality Assessment](#image-quality-assessment)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
   * [Invertible Neural Network (Flow-based Generative Model)](#invertible-neural-network--flow-based-generative-model-)
   * [StyleGAN-Based Method](#stylegan-based-method)
@@ -44,7 +45,6 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Speech Synthesis](#speech-synthesis)
   * [Misc](#misc)
 - [DeepFake and Forensic](#deepfake-and-forensic)
-- [2D to 3D Convertion](#2d-to-3d-convertion)
 - [Free-Hand Sketch](#free-hand-sketch)
   * [2D Sketch to 3D Model](#2d-sketch-to-3d-model)
   * [2D Sketch to 2D Image](#2d-sketch-to-2d-image)
@@ -54,34 +54,6 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 Google [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html)
 
 Adobe Sensei: Material World, Scantastic, Sharp Shot, Super Dancing Queen/King, 2D Plus, Comic Blast, AR Together
-
-## Image Quality Assessment
-
-[[Perceptual Optimization of Image Quality Assessment (IQA) Models](https://github.com/dingkeyan93/IQA-optimization)]
-
-**A Loss Function for Generative Neural Networks Based on Watson’s Perceptual Model.**<br>
-*Steffen Czolbe, Oswin Krause, Igemar Cox, Christian Igel.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.15057)] [[Github](https://github.com/SteffenCzolbe/PerceptualSimilarity)] [[Video](https://youtu.be/qPmHQbR4DeI)] [[Poster](https://github.com/SteffenCzolbe/PerceptualSimilarity/blob/master/img/WatsonPoster.pdf)]
-
-**GIQA: Generated Image Quality Assessment.**<br>
-*Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08932)] [[Github](https://github.com/cientgu/GIQA)]
-
-**DISTS: Image Quality Assessment: Unifying Structure and Texture Similarity.**<br>
-*Keyan Ding, Kede Ma, Shiqi Wang, Eero P. Simoncelli.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07728)] [[Github](https://github.com/dingkeyan93/DISTS)]
-
-**LPIPS: The Unreasonable Effectiveness of Deep Features as a Perceptual Metric.**<br>
-*Richard Zhang, Phillip Isola, Alexei A. Efros, Eli Shechtman, Oliver Wang.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1801.03924)] [[Project](http://richzhang.github.io/PerceptualSimilarity/)] [[Code-TF](https://github.com/richzhang/PerceptualSimilarity)] [[Code-PYT](https://github.com/S-aiueo32/lpips-pytorch)]
-
-**Inception Score: Improved Techniques for Training GANs.**<br>
-*Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen.*<br>
-arxiv 2016. [[PDF](https://arxiv.org/abs/1606.03498)] [[Github](https://github.com/tsc2017/Inception-Score)]
-
-**Fréchet Inception Distance: GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium.**<br>
-*Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, Sepp Hochreiter.*<br>
-arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.com/bioinf-jku/TTUR)]
 
 ## Interactive and Controllable Image Manipulation
 
@@ -652,25 +624,21 @@ TPAMI 2018. [[PDF](https://arxiv.org/abs/1710.10916)] [[Github](https://github.c
 *Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
 ICCV 2017. [[PDF](https://arxiv.org/abs/1612.03242v2)] [[Github](https://github.com/hanzhanggit/StackGAN-Pytorch)]
 
-**Generative Adversarial Text to Image Synthesis.**<br>
-*Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee.*<br>
-ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.com/reedscot/icml2016)]
-
 **Learning Deep Representations of Fine-grained Visual Descriptions.**<br>
 *Scott Reed, Zeynep Akata, Bernt Schiele, Honglak Lee.*<br>
 CVPR 2016. [[PDF](https://arxiv.org/abs/1605.05395)] [[Github](https://github.com/reedscot/cvpr2016)]
 
-**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks.**<br>
-*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.*<br>
-ICCV 2017. [[PDF](https://arxiv.org/abs/1612.03242)]
+**Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language.**<br>
+*Seonghyeon Nam, Yunji Kim, Seon Joo Kim.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1810.11919)] [[Github](https://github.com/xiaweihao/awesome-image-translation)]
 
 **Semantic Image Synthesis via Adversarial Learning.**<br>
 *Hao Dong, Simiao Yu, Chao Wu, Yike Guo.*<br>
-ICCV 2017. [[PDF](https://arxiv.org/abs/1707.06873)]
+ICCV 2017. [[PDF](https://arxiv.org/abs/1707.06873)] [[Github](https://github.com/woozzu/dong_iccv_2017)]
 
 **Generative Adversarial Text to Image Synthesis.**<br>
 *Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee.*<br>
-ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)]
+ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.com/reedscot/icml2016)]
 
 ### Speech-and-Text
 
@@ -801,6 +769,22 @@ ICASSP 2020.
 *Mikołaj Bińkowski, Jeff Donahue, Sander Dieleman, Aidan Clark, Erich Elsen, Norman Casagrande, Luis C. Cobo, Karen Simonyan.*<br>
 ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
+
+## 3D Shape Generation and Manipulation
+
+**Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence.**<br>
+*Yu Deng, Jiaolong Yang, Xin Tong.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13650)] [[Github](https://github.com/microsoft/DIF-Net)]
+
+**3DSNet: Unsupervised Shape-to-Shape 3D Style Transfer.**<br>
+*Mattia Segu, Margarita Grinvald, Roland Siegwart, Federico Tombari.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13388)]
+
+**ShapeFlow: Learnable Deformations Among 3D Shapes.**<br>
+*Chiyu "Max" Jiang, Jingwei Huang, Andrea Tagliasacchi, Leonidas Guibas.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07982)]
+
+
 ## GAN Improvement
 
 **VDVAE: Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images.**<br>
@@ -814,6 +798,34 @@ Beyond Backpropagation workshop at NeurIPS 2020. [[PDF](https://arxiv.org/abs/20
 **Self-Gradient Networks.**<br>
 *Hossein Aboutalebi, Mohammad Javad Shafiee Alexander Wong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09364)]
+
+## Image Quality Assessment
+
+[[Perceptual Optimization of Image Quality Assessment (IQA) Models](https://github.com/dingkeyan93/IQA-optimization)]
+
+**A Loss Function for Generative Neural Networks Based on Watson’s Perceptual Model.**<br>
+*Steffen Czolbe, Oswin Krause, Igemar Cox, Christian Igel.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.15057)] [[Github](https://github.com/SteffenCzolbe/PerceptualSimilarity)] [[Video](https://youtu.be/qPmHQbR4DeI)] [[Poster](https://github.com/SteffenCzolbe/PerceptualSimilarity/blob/master/img/WatsonPoster.pdf)]
+
+**GIQA: Generated Image Quality Assessment.**<br>
+*Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08932)] [[Github](https://github.com/cientgu/GIQA)]
+
+**DISTS: Image Quality Assessment: Unifying Structure and Texture Similarity.**<br>
+*Keyan Ding, Kede Ma, Shiqi Wang, Eero P. Simoncelli.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07728)] [[Github](https://github.com/dingkeyan93/DISTS)]
+
+**LPIPS: The Unreasonable Effectiveness of Deep Features as a Perceptual Metric.**<br>
+*Richard Zhang, Phillip Isola, Alexei A. Efros, Eli Shechtman, Oliver Wang.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1801.03924)] [[Project](http://richzhang.github.io/PerceptualSimilarity/)] [[Code-TF](https://github.com/richzhang/PerceptualSimilarity)] [[Code-PYT](https://github.com/S-aiueo32/lpips-pytorch)]
+
+**Inception Score: Improved Techniques for Training GANs.**<br>
+*Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen.*<br>
+arxiv 2016. [[PDF](https://arxiv.org/abs/1606.03498)] [[Github](https://github.com/tsc2017/Inception-Score)]
+
+**Fréchet Inception Distance: GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium.**<br>
+*Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, Sepp Hochreiter.*<br>
+arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.com/bioinf-jku/TTUR)]
 
 ## Diving Deep into Image Synthesis
 
@@ -950,6 +962,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
+
+**R-Transformer: Recurrent Neural Network Enhanced Transformer.**<br>
+*Zhiwei Wang, Yao Ma, Zitao Liu, Jiliang Tang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1907.05572)] [[Github](https://github.com/DSE-MSU/R-transformer)]
+
+**LSTR: End-to-end Lane Shape Prediction with Transformers.**<br>
+*Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.04233)] [[Github](https://github.com/liuruijin17/LSTR)]
 
 **UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.**<br>
 *Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.*<br>
