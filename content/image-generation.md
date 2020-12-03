@@ -51,9 +51,13 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Industry Demo or Product
 
-Google [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html)
+Google [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html).
 
-Adobe Sensei: Material World, Scantastic, Sharp Shot, Super Dancing Queen/King, 2D Plus, Comic Blast, AR Together
+Adobe Sensei: Material World, Scantastic, Sharp Shot, Super Dancing Queen/King, 2D Plus, Comic Blast, AR Together.
+
+Nvidia Maxine: Nvidia’s AI-powered video-conferencing technology.
+
+Nvidia Imaginaire: [Imaginaire](https://github.com/NVlabs/imaginaire) is a pytorch library that contains optimized implementation of several image and video synthesis methods developed at NVIDIA.
 
 ## Interactive and Controllable Image Manipulation
 
@@ -787,6 +791,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07982)]
 
 ## GAN Improvement
 
+**Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis.**<br>
+*Anonymous authors.*<br>
+ICLR 2021. [[PDF](https://openreview.net/forum?id=1Fqg133qRaI)]
+
 **VDVAE: Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images.**<br>
 *Anonymous authors.*<br>
 ICLR 2021. [[PDF](https://openreview.net/forum?id=RLRXCV6DbEJ)] [[Github](https://github.com/openai/vdvae)]
@@ -962,6 +970,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
+
+**General Invertible Transformations for Flow-based Generative Modeling.**<br>
+*Jakub M. Tomczak.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15056v1)] [[Github](https://github.com/jmtomczak/git_flow)]
+
+**End-to-End Video Instance Segmentation with Transformers.**<br>
+*Yuqing Wang, Zhaoliang Xu, Xinlong Wang, Chunhua Shen, Baoshan Cheng, Hao Shen, Huaxia Xia.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14503)]
 
 **R-Transformer: Recurrent Neural Network Enhanced Transformer.**<br>
 *Zhiwei Wang, Yao Ma, Zitao Liu, Jiliang Tang.*<br>
@@ -1826,8 +1842,8 @@ ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](h
 
 ## 2D to 3D Convertion
 
-**Cycle-Consistent Generative Rendering for 2D-3D Modality Translation
-Tristan Aumentado-Armstrong, Alex Levinshtein, Stavros Tsogkas, Konstantinos G. Derpanis, Allan D. Jepson
+**Cycle-Consistent Generative Rendering for 2D-3D Modality Translation.**<br>
+*Tristan Aumentado-Armstrong, Alex Levinshtein, Stavros Tsogkas, Konstantinos G. Derpanis, Allan D. Jepson.*<br>
 3DV 2020. [[PDF](https://arxiv.org/abs/2011.08026)] [[Project](https://ttaa9.github.io/genren/)]
 
 **One Shot 3D Photography.**<br>
@@ -1862,14 +1878,17 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1912.08804)] [[Github](http://www.robots
 *Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng.*<br>
 arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08934)] [[Project](http://tancik.com/nerf)] [[Github](https://github.com/bmild/nerf)]
 
+**Photo Wake-Up: 3D Character Animation from a Single Photo.**<br>
+*Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.02246)] [[Project](https://grail.cs.washington.edu/projects/wakeup/)]
+
 **View Independent Generative Adversarial Network for Novel View Synthesis.**<br>
 *Xiaogang Xu, Ying-Cong Chen, Jiaya Jia.*<br>
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]
 
 **Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling.**<br>
 *Changjian Li, Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
-SIGGRAPH Asia 2018.
-[[Project](http://haopan.github.io/sketchCNN.html)] [[PDF](https://enigma-li.github.io/projects/sketchcnn/SketchCNN_SIGA_2018.pdf)] [[Code,Data - GitHub](https://github.com/Enigma-li/SketchCNN/)]
+SIGGRAPH Asia 2018. [[Project](http://haopan.github.io/sketchCNN.html)] [[PDF](https://enigma-li.github.io/projects/sketchcnn/SketchCNN_SIGA_2018.pdf)] [[Code,Data - GitHub](https://github.com/Enigma-li/SketchCNN/)]
 
 **BendSketch: Modeling Freeform Surfaces Through 2D Sketching.**<br>
 *[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
