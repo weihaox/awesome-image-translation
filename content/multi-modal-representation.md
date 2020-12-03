@@ -8,6 +8,18 @@ This repository is about Multi-modal Representation Learning and Application
 
 ## Visual Representation Learning with Transformers
 
+**HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training.**<br>
+*Linjie Li, Yen-Chun Chen, Yu Cheng, Zhe Gan, Licheng Yu, Jingjing Liu.*<br>
+EMNLP 2020. [[PDF](https://arxiv.org/abs/2005.00200)] [[Github](https://github.com/linjieli222/HERO_Video_Feature_Extractor)]
+
+**Multimodal Pretraining Unmasked: Unifying the Vision and Language BERTs.**<br>
+*Emanuele Bugliarello, Ryan Cotterell, Naoaki Okazaki, Desmond Elliott.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15124)]
+
+**MAG: Integrating Multimodal Information in Large Pretrained Transformers.**<br>
+*Wasifur Rahman, Md. Kamrul Hasan, Sangwu Lee, Amir Zadeh, Chengfeng Mao, Louis-Philippe Morency, Ehsan Hoque.*<br>
+ACL 2020. [[PDF](https://arxiv.org/abs/1908.05787)] [[Github](https://github.com/WasifurRahman/BERT_multimodal_transformer)]
+
 **UNITER: UNiversal Image-TExt Representation Learning.**<br> 
 *Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, Jingjing Liu.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/1909.11740)] [[Github](https://github.com/ChenRocks/UNITER)]

@@ -219,6 +219,14 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**Unpaired Image-to-Image Translation via Latent Energy Transport.**<br>
+*Yang Zhao, Changyou Chen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00649)]
+
+**fairfaceGAN: Fairness-aware Facial Image-to-Image Translation.**<br>
+*Sunhee Hwang, Sungho Park, Dohyung Kim, Mirae Do, Hyeran Byun.*<br>
+BMVC 2020. [[PDF](https://arxiv.org/abs/2012.00282)]
+
 **Network-to-Network Translation with Conditional Invertible Neural Networks.**<br>
 *[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2005.13580)] [[Github](https://github.com/CompVis/net2net)] [[Project](https://compvis.github.io/net2net/)]

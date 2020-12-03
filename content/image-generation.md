@@ -411,9 +411,15 @@ ICLR 2019. [[PDF](https://openreview.net/forum?id=B1lKS2AqtX)] [[GitHub](https:/
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)]
 [[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
 
-### Frame Interpolation, Extrapolation and Videos Generation
+### Videos Generation
 
-Video from a single image or text can be found at [here]()
+Video from a single image or text can be found at [here]().
+
+**NSFF: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
+*Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13084)] [[Github](http://www.cs.cornell.edu/~zl548/NSFF/)]
+
+### Frame Interpolation and Extrapolation
 
 **RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation.**<br>
 *Zhewei Huang, Tianyuan Zhang, Wen Heng, Boxin Shi, Shuchang Zhou.*<br>
@@ -788,8 +794,23 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13388)]
 *Chiyu "Max" Jiang, Jingwei Huang, Andrea Tagliasacchi, Leonidas Guibas.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07982)]
 
-
 ## GAN Improvement
+
+**Image Generators with Conditionally-Independent Pixel Synthesis.**<br>
+*Ivan Anokhin, Kirill Demochkin, Taras Khakhulin, Gleb Sterkin, Victor Lempitsky, Denis Korzhenkov.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13775)]
+
+**PriorGAN: Real Data Prior for Generative Adversarial Nets.**<br>
+*Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16990)]
+
+**Omni-GAN: On the Secrets of cGANs and Beyond.**<br>
+*Peng Zhou, Lingxi Xie, Bingbing Ni, Qi Tian.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13074)] [[Github](https://github.com/PeterouZh/Omni-GAN-PyTorch)]
+
+**Association: Remind Your GAN not to Forget.**<br>
+*Yi Gu, Yuting Gao, Ruoxin Chen, Feiyang Cai, Jie Li, Chentao Wu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13553)]
 
 **Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis.**<br>
 *Anonymous authors.*<br>
@@ -970,6 +991,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
+
+**MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers.**<br>
+*Huiyu Wang, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00759)]
 
 **General Invertible Transformations for Flow-based Generative Modeling.**<br>
 *Jakub M. Tomczak.*<br>

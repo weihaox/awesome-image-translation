@@ -89,6 +89,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**Unsupervised Deep Video Denoising.**<br>
+*Dev Yashpal Sheth, Sreyas Mohan, Joshua L. Vincent, Ramon Manzorro, Peter A. Crozier, Mitesh M. Khapra, Eero P. Simoncelli, Carlos Fernandez-Granda.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15045)] [[Github](https://sreyas-mohan.github.io/udvd/)]
+
 **Implicit Subspace Prior Learning for Dual-Blind Face Restoration.**<br>
 *Lingbo Yang, Pan Wang, Zhanning Gao, Shanshe Wang, Peiran Ren, Siwei Ma, Wen Gao.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05508)]
@@ -268,6 +272,30 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07930)]
 CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf)] [[Github](https://github.com/SSL92/hyperIQA)]
 
 ## Misc
+
+**Image Inpainting with Contextual Reconstruction Loss.**<br>
+*Yu Zeng, Zhe Lin, Huchuan Lu, Vishal M. Patel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12836)] [[Github](https://github.com/zengxianyu/crfill)]
+
+**Learning Spatial Attention for Face Super-Resolution.**<br>
+*Chaofeng Chen, Dihong Gong, Hao Wang, Zhifeng Li, Kwan-Yee K. Wong.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2012.01211)] [[Github](https://github.com/chaofengc/Face-SPARNet)]
+
+**Reference-Based Video Colorization with Spatiotemporal Correspondence.**<br>
+*Naofumi Akimoto, Akio Hayakawa, Andrew Shin, Takuya Narihira.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12528)]
+
+**GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.**<br>
+*[Kelvin C.K. Chan](https://ckkelvinchan.github.io/), Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00739)] [[Project](https://ckkelvinchan.github.io/)]
+
+**DeFMO: Deblurring and Shape Recovery of Fast Moving Objects.**<br>
+*Denys Rozumnyi, Martin R. Oswald, Vittorio Ferrari, Jiri Matas, Marc Pollefeys.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00595)]
+
+**Pre-Trained Image Processing Transformer.**<br>
+*Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
 
 **Single-Image Lens Flare Removal.**<br>
 *Yicheng Wu, Qiurui He, Tianfan Xue, Rahul Garg, Jiawen Chen, Ashok Veeraraghavan, Jonathan Barron.*<br>

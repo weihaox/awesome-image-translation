@@ -15,6 +15,14 @@ Feedback and contributions are welcome!
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
+**Navigating the GAN Parameter Space for Semantic Image Editing.**<br>
+*Anton Cherepkov, Andrey Voynov, Artem Babenko.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13786)] [[Github](https://github.com/yandex-research/navigan)]
+
+**Augmentation-Interpolative AutoEncoders for Unsupervised Few-Shot Image Generation.**<br>
+*Davis Wertheimer, Omid Poursaeed, Bharath Hariharan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13026)]
+
 **Mask-Guided Discovery of Semantic Manifolds in Generative Models.**<br>
 *[Mengyu Yang](https://mengyu.page/), [David Rokeby](https://www.cdtps.utoronto.ca/people/directories/all-faculty/david-rokeby), [Xavier Snelgrove](https://wxs.ca/).*<br>
 Workshop on Machine Learning for Creativity and Design (NeurIPS) 2020. [[PDF](https://github.com/bmolab/masked-gan-manifold/blob/main/masked-gan-manifold.pdf)] [[Github](https://github.com/bmolab/masked-gan-manifold)]
