@@ -273,33 +273,31 @@ CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blin
 
 ## Misc
 
-**Image Inpainting with Contextual Reconstruction Loss.**<br>
-*Yu Zeng, Zhe Lin, Huchuan Lu, Vishal M. Patel.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12836)] [[Github](https://github.com/zengxianyu/crfill)]
+### Video Restoration
 
-**Learning Spatial Attention for Face Super-Resolution.**<br>
-*Chaofeng Chen, Dihong Gong, Hao Wang, Zhifeng Li, Kwan-Yee K. Wong.*<br>
-TIP 2020. [[PDF](https://arxiv.org/abs/2012.01211)] [[Github](https://github.com/chaofengc/Face-SPARNet)]
+**EVRNet: Efficient Video Restoration on Edge Devices.**<br>
+*Sachin Mehta, Amit Kumar, Fitsum Reda, Varun Nasery, Vikram Mulukutla, Rakesh Ranjan, Vikas Chandra.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02228)]
+
+**MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution.**<br>
+*Wenbo Li, Xin Tao, Taian Guo, Lu Qi, Jiangbo Lu, Jiaya Jia.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11803)]
+
+**BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond.**<br>
+*Kelvin C.K. Chan, Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02181)]
+
+**DUT: Learning Video Stabilization by Simply Watching Unstable Videos.**<br>
+*Yufei Xu, Jing Zhang, Stephen J. Maybank, Dacheng Tao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14574)] [[Github](https://github.com/Annbless/DUTCode)]
 
 **Reference-Based Video Colorization with Spatiotemporal Correspondence.**<br>
 *Naofumi Akimoto, Akio Hayakawa, Andrew Shin, Takuya Narihira.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12528)]
 
-**GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.**<br>
-*[Kelvin C.K. Chan](https://ckkelvinchan.github.io/), Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00739)] [[Project](https://ckkelvinchan.github.io/)]
-
 **DeFMO: Deblurring and Shape Recovery of Fast Moving Objects.**<br>
 *Denys Rozumnyi, Martin R. Oswald, Vittorio Ferrari, Jiri Matas, Marc Pollefeys.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00595)]
-
-**Pre-Trained Image Processing Transformer.**<br>
-*Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
-
-**Single-Image Lens Flare Removal.**<br>
-*Yicheng Wu, Qiurui He, Tianfan Xue, Rahul Garg, Jiawen Chen, Ashok Veeraraghavan, Jonathan Barron.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12485)]
 
 **Reference-Based Video Colorization with Spatiotemporal Correspondence.**<br>
 *Naofumi Akimoto, Akio Hayakawa, Andrew Shin, Takuya Narihira.*<br>
@@ -308,6 +306,92 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12528)]
 **DynaVSR: Dynamic Adaptive Blind Video Super-Resolution.**<br>
 *Suyoung Lee, Myungsub Choi, Kyoung Mu Lee.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.04482)]
+
+**Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference.**<br>
+*[Xiaohong Liu](https://xiaohongliu.ca), Kangdi Shi, Zhe Wang, Jun Chen.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2008.10710)]
+
+**Low light video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping.**<br>
+*Danai Triantafyllidou, Sean Moran, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br> 
+ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103-supp.zip)]
+
+**Hierarchical Patch VAE-GAN (HP-VAE-GAN): Generating Diverse Videos from a Single Sample.**<br>
+*[Shir Gur](http://www.gurshir.com/), [Sagie Benaim](https://sagiebenaim.github.io/), [Lior Wolf](http://www.cs.tau.ac.il/~wolf/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)] [[Project](https://shirgur.github.io/hp-vae-gan/)] [[Github](https://github.com/shirgur/hp-vae-gan)]
+
+**Flow-edge Guided Video Completion.**<br>
+*Chen Gao, Ayush Saraf, Jia-Bin Huang, Johannes Kopf.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.01835)] [[Project](http://chengao.vision/FGVC/)]
+
+**ESTRNN: Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring.**<br>
+*Zhihang Zhong, Ye Gao, Yinqiang Zheng, Bo Zheng.*<br>
+ECCV 2020. [[PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)] [[Github](https://github.com/zzh-tech/ESTRNN)]
+
+**Deformable Kernel Convolutional Network for Video Extreme Super-Resolution.**<br>
+*Xuan Xu, Xin Xiong, Jinge Wang, Xin Li.*<br>
+ECCVW 2020. [[PDF](https://arxiv.org/abs/2010.00154)]
+
+**Blind Video Temporal Consistency via Deep Video Prior.**<br>
+*Chenyang Lei, Yazhou Xing, Qifeng Chen.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.11838)] [[Github](https://github.com/ChenyangLEI/deep-video-prior)]
+
+**FGVC: Flow-edge Guided Video Completion.**<br>
+*Chen Gao, Ayush Saraf, Jia-Bin Huang, Johannes Kopf.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.01835)] [[Project](http://chengao.vision/FGVC/)] [[Github](https://github.com/vt-vl-lab/FGVC)]
+
+**Ordered or Orderless: A Revisit for Video based Person Re-Identification.**<br>
+*[Le Zhang](https://zhangleuestc.github.io/), Joey Tianyi Zhou, Ming-Ming Cheng, Yun Liu, Jia-Wang Bian, Zeng Zeng, Chunhua Shen.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/1912.11236)] [[Github](https://github.com/ZhangLeUestc/VideoReid-TPAMI2020)]
+
+**STEm-Seg: Spatio-temporal Embeddings for Instance Segmentation in Videos.**<br>
+*Ali Athar, Sabarinath Mahadevan, Aljoša Ošep, Laura Leal-Taixé, Bastian Leibe.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08429)] [[Github](https://github.com/sabarim/STEm-Seg)] [[Project](https://www.vision.rwth-aachen.de/publication/00202/)]
+
+**Short-Term and Long-Term Context Aggregation Network for Video Inpainting.**<br>
+*Ang Li, Shanshan Zhao, Xingjun Ma, Mingming Gong, Jianzhong Qi, Rui Zhang, Dacheng Tao, Ramamohanarao Kotagiri.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.05721)]
+
+**Understanding Deformable Alignment in Video Super-Resolution.**<br> 
+*Kelvin C.K. Chan, Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy.*<br> 
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.07265)]
+
+**ALANET: Adaptive Latent Attention Network forJoint Video Deblurring and Interpolation.**<br>
+*Akash Gupta, Abhishek Aich, Amit K. Roy-Chowdhury.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.01005)]
+
+**HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN.**<br>
+*Abhinav Sagar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
+
+**ADEFAN: Divergence-Based Adaptive Extreme Video Completion.**<br>
+*[Majed El Helou](http://majedelhelou.github.io/), Ruofan Zhou, Frank Schmutz, Fabrice Guibert, Sabine Süsstrunk.*<br>
+ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
+
+### Image Restoration
+
+**Generator Pyramid for High-Resolution Image Inpainting.**<br>
+*Leilei Cao, Tong Yang, Yixu Wang, Bo Yan, Yandong Guo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02381)]
+
+**Image Inpainting with Contextual Reconstruction Loss.**<br>
+*Yu Zeng, Zhe Lin, Huchuan Lu, Vishal M. Patel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12836)] [[Github](https://github.com/zengxianyu/crfill)]
+
+**Learning Spatial Attention for Face Super-Resolution.**<br>
+*Chaofeng Chen, Dihong Gong, Hao Wang, Zhifeng Li, Kwan-Yee K. Wong.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2012.01211)] [[Github](https://github.com/chaofengc/Face-SPARNet)]
+
+**GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.**<br>
+*[Kelvin C.K. Chan](https://ckkelvinchan.github.io/), Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00739)] [[Project](https://ckkelvinchan.github.io/)]
+
+**Pre-Trained Image Processing Transformer.**<br>
+*Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
+
+**Single-Image Lens Flare Removal.**<br>
+*Yicheng Wu, Qiurui He, Tianfan Xue, Rahul Garg, Jiawen Chen, Ashok Veeraraghavan, Jonathan Barron.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12485)]
 
 **Illumination Normalization by Partially Impossible Encoder-Decoder Cost Function.**<br>
 *Steve Dias Da Cruz, Bertram Taetz, Thomas Stifter, Didier Stricker.*<br>
@@ -327,15 +411,11 @@ WACV 2021. [[PDF](https://arxiv.org/abs/2011.02146)] [[Video](https://www.youtub
 
 **Self-Adaptively Learning to Demoire from Focused and Defocused Image Pairs.**<br>
 *Lin Liu, Shanxin Yuan, Jianzhuang Liu, Liping Bao, Gregory Slabaugh, Qi Tian.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02055)]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.02055)]
 
 **Pixel-wise Dense Detector for Image Inpainting.**<br>
 *Ruisong Zhang, Weize Quan, Baoyuan Wu, Zhifeng Li, Dong-Ming Yan.*<br>
 Computer Graphics Forum 2020. [[PDF](https://arxiv.org/abs/2011.02293)] [[Github](https://github.com/Evergrow/GDN_Inpainting)]
-
-**ESTRNN: Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring.**<br>
-*Zhihang Zhong, Ye Gao, Yinqiang Zheng, Bo Zheng.*<br>
-ECCV 2020. [[PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)] [[Github](https://github.com/zzh-tech/ESTRNN)]
 
 **Wavelet Flow: Fast Training of High Resolution Normalizing Flows.**<br>
 *[Jason J. Yu](https://jasonjyu.com/), Konstantinos G. Derpanis](https://scs.ryerson.ca/~kosta/), [Marcus A. Brubaker](https://mbrubake.github.io/).*<br>
@@ -368,7 +448,7 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.11971)] [[Github](https://github
 **Explorable Tone Mapping Operators.**<br>
 *Chien-Chuan Su, Ren Wang, Hung-Jin Lin, Yu-Lun Liu, Chia-Ping Chen, Yu-Lin Chang, Soo-Chang Pei.*<br>
 ICPR 2020. [[PDF](https://arxiv.org/abs/2010.10000)]
- 
+
 **Two-Stage Generative Adversarial Networks for Document Image Binarization with Color Noise and Background Removal.**<br>
 *Sungho Suh, Jihun Kim, Paul Lukowicz, Yong Oh Lee.*<br>
 TPAMI 2020. [[PDF](https://arxiv.org/abs/2010.10103)]
@@ -377,40 +457,29 @@ TPAMI 2020. [[PDF](https://arxiv.org/abs/2010.10103)]
 *Zheng Hui, Jie Li, Xiumei Wang, Xinbo Gao.*<br>
 ECCVW 2020. [[PDF](https://arxiv.org/abs/2002.02609)] [[Github](https://github.com/Zheng222/DMFN)] [[Unoffical](https://github.com/HannH/DMFN)] 
 
-**Self-Adaptively Learning to Demoiré from Focused and Defocused Image Pairs.**<br>
-*Lin Liu, Shanxin Yuan, Jianzhuang Liu, Liping Bao, Gregory Slabaugh, Qi Tian.*<br>
-NeurIPS 2020. [[PDF]()]
-
 **UnModNet: Learning to Unwrap a Modulo Image for High Dynamic Range Imaging.**<br>
 *Chu Zhou, Hang Zhao, Jin Han, Chang Xu, Chao Xu, Tiejun Huang, Boxin Shi.*<br>
-NeurIPS 2020. [[PDF]()]
+NeurIPS 2020. [[PDF](https://proceedings.neurips.cc/paper/2020/file/1102a326d5f7c9e04fc3c89d0ede88c9-Paper.pdf)]
 
 **Cross-scale Internal Graph Convolution Network for Image Super-Resolution.**<br>
 *Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Chen Change Loy.*<br>
-NeurIPS 2020. [[PDF]()]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.16673)]
 
-**Neural Sparse Representation for Image Restoration.**<br>
+**NSR: Neural Sparse Representation for Image Restoration.**<br>
 *Yuchen Fan, Jiahui Yu, Yiqun Mei, Yulun Zhang, Yun Fu, Ding Liu, Thomas Huang.*<br>
-NeurIPS 2020. [[PDF]()]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.04357)] [[Github]](https://github.com/ychfan/nsr)
 
 **Deep Wiener Deconvolution: Wiener Meets Deep Learning for Image Deblurring.**<br>
 *Jiangxin Dong, Stefan Roth, Bernt Schiele.*<br>
-NeurIPS 2020. [[PDF]()]
+NeurIPS 2020. [[PDF](https://proceedings.neurips.cc/paper/2020/file/0b8aff0438617c055eb55f0ba5d226fa-Paper.pdf)] [[Gitlab](https://gitlab.mpi-klsb.mpg.de/jdong/dwdn)]
 
 **Efficient Image Super-Resolution Using Pixel Attention.**<br>
 *Hengyuan Zhao, Xiangtao Kong, Jingwen He, Yu Qiao, Chao Dong.*<br>
 ECCVW 2020. [[PDF]((https://arxiv.org/abs/2010.01073)]
 
-**Deformable Kernel Convolutional Network for Video Extreme Super-Resolution.**<br>
-*Xuan Xu, Xin Xiong, Jinge Wang, Xin Li.*<br>
-ECCVW 2020. [[PDF](https://arxiv.org/abs/2010.00154)]
-
 **Texture-aware Multi-resolution Image Inpainting.**<br>
 *Mohamed Abbas Hedjazi, Yakup Genc.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.14721)]
-
-**Blind Video Temporal Consistency via Deep Video Prior.**<br>
-NeurIPS 2020. [[Github](https://github.com/ChenyangLEI/deep-video-prior)]
 
 **Texture Memory-Augmented Deep Patch-Based Image Inpainting.**<br> 
 *Rui Xu, Minghao Guo, Jiaqi Wang, Xiaoxiao Li, Bolei Zhou, Chen Change Loy.*<br> 
@@ -424,21 +493,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.00809)] [[Github](https://github.c
 *Chaofeng Chen, Xiaoming Li, Lingbo Yang, Xianhui Lin, Lei Zhang, Kwan-Yee K. Wong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.08709)] [[Github](https://github.com/chaofengc/PSFRGAN)]
 
-**FGVC: Flow-edge Guided Video Completion.**<br>
-*Chen Gao, Ayush Saraf, Jia-Bin Huang, Johannes Kopf.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2009.01835)] [[Project](http://chengao.vision/FGVC/)] [[Github](https://github.com/vt-vl-lab/FGVC)]
-
-**Ordered or Orderless: A Revisit for Video based Person Re-Identification.**<br>
-*[Le Zhang](https://zhangleuestc.github.io/), Joey Tianyi Zhou, Ming-Ming Cheng, Yun Liu, Jia-Wang Bian, Zeng Zeng, Chunhua Shen.*<br>
-TPAMI 2020. [[PDF](https://arxiv.org/abs/1912.11236)] [[Github](https://github.com/ZhangLeUestc/VideoReid-TPAMI2020)]
-
 **HiFic: High-Fidelity Generative Image Compression.**<br>
 *Fabian Mentzer, George Toderici, Michael schannen, Eirikur Agustsson.*<br>
 arxiv 2020. [[Project](https://hific.github.io/)] [[Github](https://github.com/Justin-Tan/high-fidelity-generative-compression)]
-
-**STEm-Seg: Spatio-temporal Embeddings for Instance Segmentation in Videos.**<br>
-*Ali Athar, Sabarinath Mahadevan, Aljoša Ošep, Laura Leal-Taixé, Bastian Leibe.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08429)] [[Github](https://github.com/sabarim/STEm-Seg)] [[Project](https://www.vision.rwth-aachen.de/publication/00202/)]
 
 **Adversarial score matching and improved sampling for image generation.**<br>
 *Alexia Jolicoeur-Martineau, Rémi Piché-Taillefer, Rémi Tachet des Combes, Ioannis Mitliagkas.*<br>
@@ -452,23 +509,15 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.06613)]
 *Disheng Feng, Xuequan Lu, Xufeng Lin.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2009.05934)]
 
-**Short-Term and Long-Term Context Aggregation Network for Video Inpainting.**<br>
-*Ang Li, Shanshan Zhao, Xingjun Ma, Mingming Gong, Jianzhong Qi, Rui Zhang, Dacheng Tao, Ramamohanarao Kotagiri.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2009.05721)]
-
 **Attention Cube Network for Image Restoration.**<br>
 *Yucheng Hang, Qingmin Liao, Wenming Yang, Yupeng Chen, Jie Zhou.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.05907)]
-
-**Understanding Deformable Alignment in Video Super-Resolution.**<br> 
-*Kelvin C.K. Chan, Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy.*<br> 
-arxiv 2020. [[PDF](https://arxiv.org/abs/2009.07265)]
 
 **Old Photo Restoration via Deep Latent Space Translation.**<br> 
 *Ziyu Wan, Bo Zhang, Dongdong Chen, Pan Zhang, Dong Chen, Jing Liao, Fang Wen.*<br> 
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.07047)]
 
-**WDRN : A Wavelet Decomposed RelightNet for Image Relighting.**<br> 
+**WDRN: A Wavelet Decomposed RelightNet for Image Relighting.**<br> 
 *Densen Puthussery, Hrishikesh P.S., Melvin Kuriakose, Jiji C.V.*<br> 
 ECCVW 2020. [[PDF](https://arxiv.org/abs/2009.06678)]
 
@@ -504,10 +553,6 @@ ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12349
 *Xiaotong Luo, Yuan Xie, Yulun Zhang, Yanyun Qu, Cuihua Li, Yun Fu.*<br> 
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)]
 
-**PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br> 
-*Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, Jimmy S. Ren, Chao Dong.*<br> 
-ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560613.pdf)]
-
 **Stacking Networks Dynamically for Image Restoration Based on the Plug-and-Play Framework.**<br> 
 *Haixin Wang, Tianhao Zhang, Muzhi Yu, Jinan Sun, Wei Ye, Chen Wang , Shikun Zhang.*<br> 
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580443.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580443-supp.zip)]
@@ -519,10 +564,6 @@ ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12365
 **Learning Enriched Features for Real Image Restoration and Enhancement.**<br> 
 *Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang, Ling Shao.*<br> 
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700494.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700494-supp.pdf)]
-
-**Low light video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping.**<br>
-*Danai Triantafyllidou, Sean Moran, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br> 
-ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103-supp.zip)]
 
 **FHDe$^2$Net: Full High Definition Demoireing Network.**<br>
 *Bin He, Ce Wang, Boxin Shi, Ling-Yu Duan.*<br> 
@@ -540,10 +581,6 @@ WACV 2020. [[PDF](https://arxiv.org/abs/1907.09837)]
 *Feida Zhu, Chaowei Fang, Kai-Kuang Ma.*<br>
 TIP 2020. [[PDF](https://arxiv.org/abs/2008.09742)]
 
-**ALANET: Adaptive Latent Attention Network forJoint Video Deblurring and Interpolation.**<br>
-*Akash Gupta, Abhishek Aich, Amit K. Roy-Chowdhury.*<br>
-ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.01005)]
-
 **Ultra Lightweight Image Super-Resolution with Multi-Attention Layers.**<br>
 *Abdul Muqeet, Jiwon Hwang, Subin Yang, Jung Heum Kang, Yongwoo Kim, Sung-Ho Bae.*<br>
 ECCVW AIM2020. [[PDF](https://arxiv.org/abs/2008.12912)]
@@ -552,201 +589,49 @@ ECCVW AIM2020. [[PDF](https://arxiv.org/abs/2008.12912)]
 *Dokyeong Kwon, Guisik Kim, Junseok Kwon.*<br>
 BMVC 2020. [[PDF](https://arxiv.org/abs/2008.12493)]
 
-**HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN.**<br>
-*Abhinav Sagar.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
+**Structure-Preserving Super Resolution with Gradient Guidance.**<br>
+*Cheng Ma, Yongming Rao, Yean Cheng, Ce Chen, Jiwen Lu, Jie Zhou.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13081)] [[Github](https://github.com/Maclory/SPSR)]
 
-**Image Colorization: A Survey and Dataset.**<br>
-*Saeed Anwar, Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan, Abdul Wahab Muzaffar.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.10774)] [[Github](https://github.com/saeed-anwar/ColorSurvey)]
+**DeepSEE: Deep Disentangled Semantic Explorative Extreme Super-Resolution.**<br>
+*Marcel Christoph Bühler, Andrés Romero, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04433)] [[Project](https://mcbuehler.github.io/DeepSEE/)] [[Github](github.com/mcbuehler/DeepSEE)]
 
-**Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference.**<br>
-*Xiaohong Liu, Kangdi Shi, Zhe Wang, Jun Chen.*<br>
-TIP 2020. [[PDF](https://arxiv.org/abs/2008.10710)]
+**Deblurring using Analysis-Synthesis Networks Pair.**<br>
+*Adam Kaufman, Raanan Fattal.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02956)]
 
-**GAN Slimming: All-in-One GAN Compression by A Unified Optimization Framework.**<br>
-*Haotao Wang, Shupeng Gui, Haichuan Yang, Ji Liu, Zhangyang Wang.*<br>
-ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490052.pdf)] [[Github](https://github.com/VITA-Group/GAN-Slimming)]
+**Self-Supervised Scene De-occlusion.**<br>
+*[Xiaohang Zhan](https://xiaohangzhan.github.io/), [Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Github](https://github.com/XiaohangZhan/deocclusion/)]
 
-**Deep Generative Model for Image Inpainting with Local Binary Pattern Learning and Spatial Attention.**<br>
-*Haiwei Wu, Jiantao Zhou, Yuanman Li.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2009.01031)] [[Project](https://github.com/HighwayWu/ImageInpainting)]
+**Deep White-Balance Editing.**<br>
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)]
 
-**Flow-edge Guided Video Completion.**<br>
-*Chen Gao, Ayush Saraf, Jia-Bin Huang, Johannes Kopf.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2009.01835)] [[Project](http://chengao.vision/FGVC/)]
+**What Else Can Fool Deep Learning? Addressing Color Constancy Errors on Deep Neural Network Performance.**<br>
+*[Mahmoud Afifi](http://www.cse.yorku.ca/~mafifi/), Michael S. Brown.*<br>
+ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Afifi_What_Else_Can_Fool_Deep_Learning_Addressing_Color_Constancy_Errors_ICCV_2019_paper.pdf)] [[Project](http://cvil.eecs.yorku.ca/projects/public_html/wb_emulation/index.html)] [[Github](https://github.com/mahmoudnafifi/WB_color_augmenter)]
 
-**SRFlow: Learning the Super-Resolution Space with Normalizing Flow.**<br>
-*Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2006.14200)] [[Github](http://git.io/SRFlow)]
+**When Color Constancy Goes Wrong: Correcting Improperly White-Balanced Images.**<br>
+*Mahmoud Afifi, Brian Price, Scott Cohen, and Michael S. Brown.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Afifi_When_Color_Constancy_Goes_Wrong_Correcting_Improperly_White-Balanced_Images_CVPR_2019_paper.pdf)] [[Github](https://github.com/mahmoudnafifi/WB_sRGB)] 
 
-**Delving Deeper into Anti-aliasing in ConvNets.**<br>
-*Xueyan Zou, Fanyi Xiao, Zhiding Yu, Yong Jae Lee.*<br>
-BMVC 2020. [[PDF](https://arxiv.org/abs/2008.09604)] [[Github](https://maureenzou.github.io/ddac/)]
+**Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy.**<br>
+*Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00448)] [[Github](https://github.com/clovaai/cutblur)]
 
-**Image Stitching and Rectification for Hand-Held Cameras.**<br>
-*Bingbing Zhuang, Quoc-Huy Tran.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.09229)] [[Project](https://www.nec-labs.com/~mas/RS-APAP)]
+**Learning to See Through Obstructions.**<br>
+*Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang.*<br>
+CVPR 2020. [[PDF](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval_/02197.pdf)] [[Github](https://github.com/alex04072000/ObstructionRemoval)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval)]
 
-**LIRA: Lifelong Image Restoration from Unknown Blended Distortions.**<br>
-*Jianzhao Liu, Jianxin Lin, Xin Li, Wei Zhou, Sen Liu, Zhibo Chen.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08242)]
+**DeepLPF: Deep Local Parametric Filters for Image Enhancement.**<br>
+*Sean Moran, Pierre Marza, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
 
-**Single Image Super-Resolution via a Holistic Attention Network.**<br>
-*Ben Niu, Weilei Wen, Wenqi Ren, Xiangde Zhang, Lianping Yang, Shuzhen Wang, Kaihao Zhang, Xiaochun Cao, Haifeng Shen.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/2008.08767)]
-
-**FourFeat: Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
-*Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)]
-
-**Can You Read Me Now? Content Aware Rectification using Angle Supervision.**<br>
-*Amir Markovitz, Inbal Lavi, Or Perel, Shai Mazor, Roee Litman.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02231)]
-
-**DeepGIN: Deep Generative Inpainting Network for Extreme Image Inpainting.**<br>
-*Chu-Tak Li, Wan-Chi Siu, Zhi-Song Liu, Li-Wen Wang, Daniel Pak-Kong Lun.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.07173)]
-
-**SRFlow: Learning the Super-Resolution Space with Normalizing Flow.**<br>
-*Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
-ECCV 2020. [[PDF](http://de.arxiv.org/abs/2006.14200)] [[Github](https://github.com/andreas128/SRFlow)]
-
-**F2GAN: Fusing-and-Filling GAN for Few-shot Image Generation.**<br>
-*Yan Hong, Li Niu, Jianfu Zhang, Weijie Zhao, Chen Fu, Liqing Zhang.*<br>
-ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.01999)]
-
-**Recurrent Feature Reasoning for Image Inpainting.**<br>
-*Jingyuan Li, Ning Wang, Lefei Zhang, Bo Du, Dacheng Tao.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2008.03737)] [[GitHub](https://github.com/jingyuanli001/RFR-Inpainting)]
-
-**Learning When and Where to Zoom With Deep Reinforcement Learning.**<br>
-*Burak Uzkent, Stefano Ermon.*<br>
-CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Uzkent_Learning_When_and_Where_to_Zoom_With_Deep_Reinforcement_Learning_CVPR_2020_paper.pdf)] [[Github](https://github.com/ermongroup/PatchDrop)]
-
-**ESRGAN+: Further Improving Enhanced Super-Resolution Generative Adversarial Network.**<br>
-*Nathanaël Carraz Rakotonirina, Andry Rasoanaivo.*<br>
-ICASSP 2020. [[PDF](https://arxiv.org/abs/2001.08073)] [[GitHub](https://github.com/ncarraz/ESRGANplus)]
-
-**Rethinking Image Deraining via Rain Streaks and Vapors.**<br>
-*Yinglong Wang, Yibing Song, Chao Ma, Bing Zeng.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.00823)]
-
-**Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing.**<br>
-*Aupendu Kar, Sobhan Kanti Dhara, Debashis Sen, Prabir Kumar Biswas.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.01701)] [[Project](https://aupendu.github.io/iterative-dehaze)]
-
-**Implicit Euler ODE Networks for Single-Image Dehazing.**<br>
-*Jiawei Shen, Zhuoyan Li, Lei Yu, Gui-Song Xia, Wen Yang.*<br>
-CVPRW 2020. [[PDF](https://arxiv.org/abs/2007.06443)] [[Project](https://github.com/Jiawei-Shen)]
-
-**Wavelet-Based Dual-Branch Network for Image Demoireing.**<br>
-*Lin Liu, Jianzhuang Liu, Shanxin Yuan, Gregory Slabaugh, Ales Leonardis, Wengang Zhou, Qi Tian.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.07173)]
-
-**Exploring Multi-Scale Feature Propagation and Communication for Image Super Resolution.**<br>
-*Ruicheng Feng, Weipeng Guan, Yu qiao, Chao Dong.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00239)]
-
-**Deep Photo Cropper and Enhancer.**<br>
-*Aaron Ott, Amir Mazaheri, Niels D. Lobo, Mubarak Shah.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00634)]
-
-**DCSFN: Deep Cross-scale Fusion Network for Single Image Rain Removal.**<br>
-*Cong Wang, Xiaoying Xing, Zhixun Su, Junyang Chen.*<br>
-ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.00767)] [[Github](https://supercong94.wixsite.com/supercong94)]
-
-**Exploring Image Enhancement for Salient Object Detection in Low Light Images.**<br>
-*Xin Xu, Shiqin Wang, Zheng Wang, Xiaolong Zhang, Ruimin Hu.*<br>
-ACM Transactions on Multimedia Computing, Communications, and Applications 2020. [[PDF](https://arxiv.org/abs/2007.16124)]
-
-**Cross-Scale Internal Graph Neural Network for Image Super-Resolution.**<br>
-*Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Chen Change Loy.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16673)]
-
-**Polarized Reflection Removal with Perfect Alignment in the Wild.**<br>
-*Chenyang Lei, Xuhua Huang, Mengdi Zhang, Qiong Yan, [Wenxiu Sun](http://wenxiusun.com/), and [Qifeng Chen](https://cqf.io/publication).*</br>
-CVPR 2020. [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lei_Polarized_Reflection_Removal_With_Perfect_Alignment_in_the_Wild_CVPR_2020_paper.pdf)] [[Project](https://leichenyang.weebly.com/project-polarized.html)] [[Github](https://github.com/ChenyangLEI/CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment)]
-
-**MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution.**<br>
-*Wenbo Li, Xin Tao, Taian Guo, Lu Qi, Jiangbo Lu, Jiaya Jia.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11803)]
-
-**PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br>
-*Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, Jimmy Ren, Chao Dong.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12142)]
-
-**Guided Deep Decoder: Unsupervised Image Pair Fusion.**<br>
-*Tatsumi Uezato, Danfeng Hong, Naoto Yokoya, Wei He.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11766)]
-
-**Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration.**<br>
-*Xin Li, Xin Jin, Jianxin Lin, Tao Yu, Sen Liu, Yaojun Wu, Wei Zhou, Zhibo Chen.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11430)]
-
-**Texture Hallucination for Large-Factor Painting Super-Resolution.**<br>
-*Yulun Zhang, Zhifei Zhang, Stephen DiVerdi, Zhaowen Wang, Jose Echevarria, Yun Fu.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/1912.00515)] [[Github](http://yulunzhang.com/papers/PaintingSR_supp_arXiv.pdf)]
-
-**Microscopy Image Restoration with Deep Wiener-Kolmogorov filters.**<br>
-*Valeriya Pronina, Filippos Kokkinos, Dmitry V. Dylov, Stamatios Lefkimmiatis.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/1911.10989)]
-
-**Fully Trainable and Interpretable Non-Local Sparse Models for Image Restoration.**<br>
-*Bruno Lecouat, Jean Ponce, Julien Mairal.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02456)]
-
-**Learning Enriched Features for Real Image Restoration and Enhancement.**<br>
-*Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang, Ling Shao.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.06792)] [[Github](https://github.com/swz30/MIRNet)]
-
-**Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration.**<br>
-*Xin Li, Xin Jin, Jianxin Lin, Sen Liu, Yaojun Wu, Tao Yu, Wei Zhou, [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/publi.html).*<br>
-ECCV 2020.
-
-**LIRA: Lifelong Image Restoration from Unknown Blended Distortions.**<br>
-*Jianzhao Liu, Jianxin Lin, Xin Li, Wei Zhou, Sen Liu, Zhibo Chen.*<br>
-ECCV 2020.
-
-**Journey Towards Tiny Perceptual Super-Resolution.**<br>
-*Royson Lee, Łukasz Dudziak, Mohamed Abdelfattah, Stylianos I. Venieris, Hyeji Kim, Hongkai Wen, Nicholas D. Lane.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.04356)]
-
-**Lightweight Image Super-Resolution with Enhanced CNN.**<br>
-*Chunwei Tian, Ruibin Zhuge, Zhihao Wu, Yong Xu, Wangmeng Zuo, Chen Chen, Chia-Wen Li.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.04344)]
-
-**HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions.**<br>
-*Yuzhen Niu, Jianbin Wu, Wenxi Liu, Wenzhong Guo, Rynson W.H. Lau.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01628)]
-
-**End-to-end Interpretable Learning of Non-blind Image Deblurring.**<br>
-*Thomas Eboli, Jian Sun, Jean Ponce.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.01769)]
-
-**LF-InterNet: Spatial-Angular Interaction for Light Field Image Super-Resolution.**<br>
-*Yingqian Wang, Longguang Wang, Jungang Yang, Wei An, Jingyi Yu, Yulan Guo.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.07849)] [[Github](https://github.com/YingqianWang/LF-InterNet)]
-
-**Invertible Image Rescaling.**<br>
-*Mingqing Xiao, Shuxin Zheng, Chang Liu, Yaolong Wang, Di He, Guolin Ke, Jiang Bian, Zhouchen Lin, Tie-Yan Liu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2005.05650)] [[Github](https://github.com/pkuxmq/Invertible-Image-Rescaling)]
-
-**You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network.**<br>
-*Boyun Li, Yuanbiao Gou, Shuhang Gu, Jerry Zitao Liu, Joey Tianyi Zhou, Xi Peng.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16829)]
-
-**Cross-Scale Internal Graph Neural Network for Image Super-Resolution.**<br>
-*Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Chen Change Loy.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16673)]
-
-**End-to-End Differentiable Learning to HDR Image Synthesis for Multi-exposure Images.**<br>
-*Jung Hee Kim, Siyeong Lee, Soyeon Jo, Suk-Ju Kang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15833)]
-
-**Hierarchical Patch VAE-GAN (HP-VAE-GAN): Generating Diverse Videos from a Single Sample.**<br>
-*[Shir Gur](http://www.gurshir.com/), [Sagie Benaim](https://sagiebenaim.github.io/), [Lior Wolf](http://www.cs.tau.ac.il/~wolf/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)] [[Project](https://shirgur.github.io/hp-vae-gan/)] [[Github](https://github.com/shirgur/hp-vae-gan)]
+**EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
+*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
+AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)] [[Project](https://zjuvag.org/publications/eemefn/)]
 
 **Sigma-VAE: Simple and Effective VAE Training with Calibrated Decoders.**<br>
 *[Oleh Rybkin](https://www.seas.upenn.edu/~oleh/), [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/), [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/).*<br>
@@ -840,10 +725,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.06965)]
 *Ke Yu, Xintao Wang, Chao Dong, Xiaoou Tang, Chen Change Loy.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1904.10343)] [[Project](https://yuke93.github.io/Path-Restore/)]
 
-**ADEFAN: Divergence-Based Adaptive Extreme Video Completion.**<br>
-*[Majed El Helou](http://majedelhelou.github.io/), Ruofan Zhou, Frank Schmutz, Fabrice Guibert, Sabine Süsstrunk.*<br>
-ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
-
 **Bringing Old Photos Back to Life.**<br>
 *[Ziyu Wan](http://raywzy.com), Bo Zhang, [Dongdong Chen](http://www.dongdongchen.bid/), Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]
@@ -868,57 +749,169 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.05343)]
 *Zhe Jiang, Yu Zhang, Dongqing Zou, Jimmy Ren, Jiancheng Lv, Yebin Liu.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.05794)]
 
-**Structure-Preserving Super Resolution with Gradient Guidance.**<br>
-*Cheng Ma, Yongming Rao, Yean Cheng, Ce Chen, Jiwen Lu, Jie Zhou.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13081)] [[Github](https://github.com/Maclory/SPSR)]
+**Image Colorization: A Survey and Dataset.**<br>
+*Saeed Anwar, Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan, Abdul Wahab Muzaffar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.10774)] [[Github](https://github.com/saeed-anwar/ColorSurvey)]
 
-**DeepSEE: Deep Disentangled Semantic Explorative Extreme Super-Resolution.**<br>
-*Marcel Christoph Bühler, Andrés Romero, Radu Timofte.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04433)] [[Project](https://mcbuehler.github.io/DeepSEE/)] [[Github](github.com/mcbuehler/DeepSEE)]
+**GAN Slimming: All-in-One GAN Compression by A Unified Optimization Framework.**<br>
+*Haotao Wang, Shupeng Gui, Haichuan Yang, Ji Liu, Zhangyang Wang.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490052.pdf)] [[Github](https://github.com/VITA-Group/GAN-Slimming)]
 
-**Deblurring using Analysis-Synthesis Networks Pair.**<br>
-*Adam Kaufman, Raanan Fattal.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02956)]
+**Deep Generative Model for Image Inpainting with Local Binary Pattern Learning and Spatial Attention.**<br>
+*Haiwei Wu, Jiantao Zhou, Yuanman Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.01031)] [[Project](https://github.com/HighwayWu/ImageInpainting)]
 
-**Self-Supervised Scene De-occlusion.**<br>
-*[Xiaohang Zhan](https://xiaohangzhan.github.io/), [Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Github](https://github.com/XiaohangZhan/deocclusion/)]
+**SRFlow: Learning the Super-Resolution Space with Normalizing Flow.**<br>
+*Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2006.14200)] [[Github](http://git.io/SRFlow)]
 
-**Deep White-Balance Editing.**<br>
-*[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01354)]
+**Delving Deeper into Anti-aliasing in ConvNets.**<br>
+*Xueyan Zou, Fanyi Xiao, Zhiding Yu, Yong Jae Lee.*<br>
+BMVC 2020. [[PDF](https://arxiv.org/abs/2008.09604)] [[Github](https://maureenzou.github.io/ddac/)]
 
-**What Else Can Fool Deep Learning? Addressing Color Constancy Errors on Deep Neural Network Performance.**<br>
-*[Mahmoud Afifi](http://www.cse.yorku.ca/~mafifi/), Michael S. Brown.*<br>
-ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Afifi_What_Else_Can_Fool_Deep_Learning_Addressing_Color_Constancy_Errors_ICCV_2019_paper.pdf)] [[Project](http://cvil.eecs.yorku.ca/projects/public_html/wb_emulation/index.html)] [[Github](https://github.com/mahmoudnafifi/WB_color_augmenter)]
+**Image Stitching and Rectification for Hand-Held Cameras.**<br>
+*Bingbing Zhuang, Quoc-Huy Tran.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.09229)] [[Project](https://www.nec-labs.com/~mas/RS-APAP)]
 
-**When Color Constancy Goes Wrong: Correcting Improperly White-Balanced Images.**<br>
-*Mahmoud Afifi, Brian Price, Scott Cohen, and Michael S. Brown.*<br>
-CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Afifi_When_Color_Constancy_Goes_Wrong_Correcting_Improperly_White-Balanced_Images_CVPR_2019_paper.pdf)] [[Github](https://github.com/mahmoudnafifi/WB_sRGB)] 
+**Single Image Super-Resolution via a Holistic Attention Network.**<br>
+*Ben Niu, Weilei Wen, Wenqi Ren, Xiangde Zhang, Lianping Yang, Shuzhen Wang, Kaihao Zhang, Xiaochun Cao, Haifeng Shen.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/2008.08767)]
 
-**Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy.**<br>
-*Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00448)] [[Github](https://github.com/clovaai/cutblur)]
+**FourFeat: Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
+*Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)]
 
-**Learning to See Through Obstructions.**<br>
-*Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang.*<br>
-CVPR 2020. [[PDF](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval_/02197.pdf)] [[Github](https://github.com/alex04072000/ObstructionRemoval)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval)]
+**Can You Read Me Now? Content Aware Rectification using Angle Supervision.**<br>
+*Amir Markovitz, Inbal Lavi, Or Perel, Shai Mazor, Roee Litman.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02231)]
 
-**Learning to See Through Obstructions with Layered Decomposition.**<br>
-*Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang, Jia-Bin Huang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.04902)]
+**DeepGIN: Deep Generative Inpainting Network for Extreme Image Inpainting.**<br>
+*Chu-Tak Li, Wan-Chi Siu, Zhi-Song Liu, Li-Wen Wang, Daniel Pak-Kong Lun.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.07173)]
 
-**DeepLPF: Deep Local Parametric Filters for Image Enhancement.**<br>
-*Sean Moran, Pierre Marza, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
+**SRFlow: Learning the Super-Resolution Space with Normalizing Flow.**<br>
+*Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
+ECCV 2020. [[PDF](http://de.arxiv.org/abs/2006.14200)] [[Github](https://github.com/andreas128/SRFlow)]
 
-**Replacing Mobile Camera ISP with a Single Deep Learning Model.**<br>
-*Andrey Ignatov, Luc Van Gool, Radu Timofte.* <br>
-arxiv, 13 Feb 2020. [[PDF](https://arxiv.org/abs/2002.05509)] [[Github](https://github.com/aiff22/PyNET)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet.html)]
+**F2GAN: Fusing-and-Filling GAN for Few-shot Image Generation.**<br>
+*Yan Hong, Li Niu, Jianfu Zhang, Weijie Zhao, Chen Fu, Liqing Zhang.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.01999)]
 
-**EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
-*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
-AAAI 2020. [[PDF](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/EEMEFN-Low%20Light%20Image%20Enhancement%20via%20Edge%20Enhanced%20MultiExposure%20Fusion%20Network.pdf)] [[Project](https://zjuvag.org/publications/eemefn/)]
+**Recurrent Feature Reasoning for Image Inpainting.**<br>
+*Jingyuan Li, Ning Wang, Lefei Zhang, Bo Du, Dacheng Tao.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2008.03737)] [[GitHub](https://github.com/jingyuanli001/RFR-Inpainting)]
+
+**Learning When and Where to Zoom With Deep Reinforcement Learning.**<br>
+*Burak Uzkent, Stefano Ermon.*<br>
+CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Uzkent_Learning_When_and_Where_to_Zoom_With_Deep_Reinforcement_Learning_CVPR_2020_paper.pdf)] [[Github](https://github.com/ermongroup/PatchDrop)]
+
+**ESRGAN+: Further Improving Enhanced Super-Resolution Generative Adversarial Network.**<br>
+*Nathanaël Carraz Rakotonirina, Andry Rasoanaivo.*<br>
+ICASSP 2020. [[PDF](https://arxiv.org/abs/2001.08073)] [[GitHub](https://github.com/ncarraz/ESRGANplus)]
+
+**Rethinking Image Deraining via Rain Streaks and Vapors.**<br>
+*Yinglong Wang, Yibing Song, Chao Ma, Bing Zeng.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.00823)]
+
+**Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing.**<br>
+*Aupendu Kar, Sobhan Kanti Dhara, Debashis Sen, Prabir Kumar Biswas.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.01701)] [[Project](https://aupendu.github.io/iterative-dehaze)]
+
+**Implicit Euler ODE Networks for Single-Image Dehazing.**<br>
+*Jiawei Shen, Zhuoyan Li, Lei Yu, Gui-Song Xia, Wen Yang.*<br>
+CVPRW 2020. [[PDF](https://arxiv.org/abs/2007.06443)] [[Project](https://github.com/Jiawei-Shen)]
+
+**Wavelet-Based Dual-Branch Network for Image Demoireing.**<br>
+*Lin Liu, Jianzhuang Liu, Shanxin Yuan, Gregory Slabaugh, Ales Leonardis, Wengang Zhou, Qi Tian.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.07173)]
+
+**Exploring Multi-Scale Feature Propagation and Communication for Image Super Resolution.**<br>
+*Ruicheng Feng, Weipeng Guan, Yu qiao, Chao Dong.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00239)]
+
+**Deep Photo Cropper and Enhancer.**<br>
+*Aaron Ott, Amir Mazaheri, Niels D. Lobo, Mubarak Shah.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00634)]
+
+**DCSFN: Deep Cross-scale Fusion Network for Single Image Rain Removal.**<br>
+*Cong Wang, Xiaoying Xing, Zhixun Su, Junyang Chen.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.00767)] [[Github](https://supercong94.wixsite.com/supercong94)]
+
+**Exploring Image Enhancement for Salient Object Detection in Low Light Images.**<br>
+*Xin Xu, Shiqin Wang, Zheng Wang, Xiaolong Zhang, Ruimin Hu.*<br>
+ACM Transactions on Multimedia Computing, Communications, and Applications 2020. [[PDF](https://arxiv.org/abs/2007.16124)]
+
+**Polarized Reflection Removal with Perfect Alignment in the Wild.**<br>
+*Chenyang Lei, Xuhua Huang, Mengdi Zhang, Qiong Yan, [Wenxiu Sun](http://wenxiusun.com/), and [Qifeng Chen](https://cqf.io/publication).*</br>
+CVPR 2020. [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lei_Polarized_Reflection_Removal_With_Perfect_Alignment_in_the_Wild_CVPR_2020_paper.pdf)] [[Project](https://leichenyang.weebly.com/project-polarized.html)] [[Github](https://github.com/ChenyangLEI/CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment)]
+
+**PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br>
+*Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, Jimmy Ren, Chao Dong.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12142)]
+
+**Guided Deep Decoder: Unsupervised Image Pair Fusion.**<br>
+*Tatsumi Uezato, Danfeng Hong, Naoto Yokoya, Wei He.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11766)]
+
+**Texture Hallucination for Large-Factor Painting Super-Resolution.**<br>
+*Yulun Zhang, Zhifei Zhang, Stephen DiVerdi, Zhaowen Wang, Jose Echevarria, Yun Fu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.00515)] [[Github](http://yulunzhang.com/papers/PaintingSR_supp_arXiv.pdf)]
+
+**Microscopy Image Restoration with Deep Wiener-Kolmogorov filters.**<br>
+*Valeriya Pronina, Filippos Kokkinos, Dmitry V. Dylov, Stamatios Lefkimmiatis.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1911.10989)]
+
+**Fully Trainable and Interpretable Non-Local Sparse Models for Image Restoration.**<br>
+*Bruno Lecouat, Jean Ponce, Julien Mairal.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02456)]
+
+**Learning Enriched Features for Real Image Restoration and Enhancement.**<br>
+*Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang, Ling Shao.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.06792)] [[Github](https://github.com/swz30/MIRNet)]
+
+**Learning Disentangled Feature Representation for Hybrid-distorted Image Restoration.**<br>
+*Xin Li, Xin Jin, Jianxin Lin, Sen Liu, Yaojun Wu, Tao Yu, Wei Zhou, [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/publi.html).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11430)]
+
+**LIRA: Lifelong Image Restoration from Unknown Blended Distortions.**<br>
+*Jianzhao Liu, Jianxin Lin, Xin Li, Wei Zhou, Sen Liu, [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/publi_conf.html).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08242)]
+
+**Journey Towards Tiny Perceptual Super-Resolution.**<br>
+*Royson Lee, Łukasz Dudziak, Mohamed Abdelfattah, Stylianos I. Venieris, Hyeji Kim, Hongkai Wen, Nicholas D. Lane.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.04356)]
+
+**Lightweight Image Super-Resolution with Enhanced CNN.**<br>
+*Chunwei Tian, Ruibin Zhuge, Zhihao Wu, Yong Xu, Wangmeng Zuo, Chen Chen, Chia-Wen Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.04344)]
+
+**HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions.**<br>
+*Yuzhen Niu, Jianbin Wu, Wenxi Liu, Wenzhong Guo, Rynson W.H. Lau.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01628)]
+
+**End-to-end Interpretable Learning of Non-blind Image Deblurring.**<br>
+*Thomas Eboli, Jian Sun, Jean Ponce.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.01769)]
+
+**LF-InterNet: Spatial-Angular Interaction for Light Field Image Super-Resolution.**<br>
+*Yingqian Wang, Longguang Wang, Jungang Yang, Wei An, Jingyi Yu, Yulan Guo.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.07849)] [[Github](https://github.com/YingqianWang/LF-InterNet)]
+
+**Invertible Image Rescaling.**<br>
+*Mingqing Xiao, Shuxin Zheng, Chang Liu, Yaolong Wang, Di He, Guolin Ke, Jiang Bian, Zhouchen Lin, Tie-Yan Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.05650)] [[Github](https://github.com/pkuxmq/Invertible-Image-Rescaling)]
+
+**You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network.**<br>
+*Boyun Li, Yuanbiao Gou, Shuhang Gu, Jerry Zitao Liu, Joey Tianyi Zhou, Xi Peng.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16829)]
+
+**Cross-Scale Internal Graph Neural Network for Image Super-Resolution.**<br>
+*Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16673)]
+
+**End-to-End Differentiable Learning to HDR Image Synthesis for Multi-Exposure Images.**<br>
+*Jung Hee Kim, Siyeong Lee, Soyeon Jo, Suk-Ju Kang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15833)]
 
 ## Challenge and Survey
 
