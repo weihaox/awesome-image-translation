@@ -16,12 +16,13 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Attribute Editing and Makeup Transfer](#attribute-editing-and-makeup-transfer)
   * [Texture and Surface Mapping](#texture-and-surface-mapping)
   * [Novel-View Synthesis](#novel-view-synthesis)
-  * [Retargeting, Reenactment, and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
+  * [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
   * [3D Pose Transfer](#3d-pose-transfer)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
   * [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
-  * [Frame Interpolation, Extrapolation and Videos Generation](#frame-interpolation--extrapolation-and-videos-generation)
+  * [Videos Generation](#videos-generation)
+  * [Frame Interpolation and Extrapolation](#frame-interpolation-and-extrapolation)
 - [Multi-Modality Translation](#multi-modality-translation)
   * [Image-to-Video](#image-to-video)
   * [Text-to-Video](#text-to-video)
@@ -30,7 +31,6 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Speech-and-Text](#speech-and-text)
   * [Image-and-Voice](#image-and-voice)
   * [Voice-to-Voice](#voice-to-voice)
-- [2D to 3D Convertion](#2d-to-3d-convertion)
 - [3D Shape Generation and Manipulation](#3d-shape-generation-and-manipulation)
 - [GAN Improvement](#gan-improvement)
 - [Image Quality Assessment](#image-quality-assessment)
@@ -40,11 +40,13 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Transformer-Based](#transformer-based)
   * [Single-Image Training](#single-image-training)
   * [Hard Example](#hard-example)
+  * [Fairness of Deep Generative Models](#fairness-of-deep-generative-models)
   * [Spatio-Temporal](#spatio-temporal)
   * [Scene Graph Generation](#scene-graph-generation)
   * [Speech Synthesis](#speech-synthesis)
   * [Misc](#misc)
 - [DeepFake and Forensic](#deepfake-and-forensic)
+- [2D to 3D Convertion](#2d-to-3d-convertion)
 - [Free-Hand Sketch](#free-hand-sketch)
   * [2D Sketch to 3D Model](#2d-sketch-to-3d-model)
   * [2D Sketch to 2D Image](#2d-sketch-to-2d-image)
@@ -480,6 +482,10 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 
 ### Image-to-Video
 
+**Pose-Guided Human Animation from a Single Image in the Wild.**<br>
+*Jae Shin Yoon, Lingjie Liu, Vladislav Golyanik, Kripasindhu Sarkar, Hyun Soo Park, Christian Theobalt.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03796)]
+
 **Lifespan Age Transformation Synthesis.**<br>
 *Roy Or-El, Soumyadip Sengupta, Ohad Fried, Eli Shechtman, Ira Kemelmacher-Shlizerman.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2003.09764)] [[Project](https://grail.cs.washington.edu/projects/lifespan_age_transformation_synthesis/)] [[Github](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis)] [[FFHQ-Aging Dataset](https://github.com/royorel/FFHQ-Aging-Dataset)]
@@ -541,6 +547,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13374)]
 CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 
 ### Text-to-Image
+
+**TediGAN: Text-Guided Diverse Image Generation and Manipulation.**<br>
+*Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ)] [[Github](https://github.com/weihaox/TediGAN)]
+
+**MPG: A Multi-ingredient Pizza Image Generator with Conditional StyleGANs.**<br>
+*Fangda Han, Guoyao Hao, Ricardo Guerrero, Vladimir Pavlovic.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02821)]
 
 **Text-to-Image Generation Grounded by Fine-Grained User Attention.**<br>
 *Jing Yu Koh, Jason Baldridge, Honglak Lee, Yinfei Yang.*<br>
@@ -779,7 +793,6 @@ ICASSP 2020.
 *Mikołaj Bińkowski, Jeff Donahue, Sander Dieleman, Aidan Clark, Erich Elsen, Norman Casagrande, Luis C. Cobo, Karen Simonyan.*<br>
 ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
-
 ## 3D Shape Generation and Manipulation
 
 **Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence.**<br>
@@ -795,6 +808,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13388)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07982)]
 
 ## GAN Improvement
+
+**Positional Encoding as Spatial Inductive Bias in GANs.**<br>
+*Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
+
+**MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting?**<br>
+*Zhanghan Ke, Kaican Li, Yurou Zhou, Qiuhua Wu, Xiangyu Mao, Qiong Yan, Rynson W.H. Lau.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11961)] [[Github](https://github.com/ZHKKKe/MODNet)]
+
+**Score-Based Generative Modeling through Stochastic Differential Equations.**<br>
+*Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13456)]
 
 **Image Generators with Conditionally-Independent Pixel Synthesis.**<br>
 *Ivan Anokhin, Kirill Demochkin, Taras Khakhulin, Gleb Sterkin, Victor Lempitsky, Denis Korzhenkov.*<br>
@@ -865,6 +890,10 @@ arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.c
 ### Invertible Neural Network (Flow-based Generative Model)
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
+
+**Full-Glow: Fully conditional Glow for more realistic image generation.**<br>
+*Moein Sorkhei, Gustav Eje Henter, Hedvig Kjellström.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05846)]
 
 **Decoupling Global and Local Representations via Invertible Generative Flows.**<br>
 *Anonymous.*<br>
@@ -992,6 +1021,18 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
 
+**Topological Planning with Transformers for Vision-and-Language Navigation.**<br>
+*Kevin Chen, Junshen K. Chen, Jo Chuang, Marynel Vázquez, Silvio Savarese.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05292)]
+
+**Synthesizer: Rethinking Self-Attention in Transformer Models.**<br>
+*Yi Tay, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.00743)] [[Github](https://github.com/10-zin/Synthesizer)]
+
+**Pre-Trained Image Processing Transformer.**<br>
+*Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
+
 **MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers.**<br>
 *Huiyu Wang, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00759)]
@@ -1080,6 +1121,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Hard Example
 
+**MetaInfoNet: Learning Task-Guided Information for Sample Reweighting.**<br>
+*Hongxin Wei, Lei Feng, Rundong Wang, Bo An.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05273)]
+
 **Learning to Sample the Most Useful Training Patches from Images.**<br>
 *Shuyang Sun, Liang Chen, Gregory Slabaugh, Philip Torr.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12097)]
@@ -1099,6 +1144,24 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github
 **Rethinking the Value of Labels for Improving Class-Imbalanced Learning.**<br>
 *Yuzhe Yang, Zhi Xu.*<br>
 NeurlPS 2020. [[PDF](https://arxiv.org/abs/2006.07529)] [[Github](https://github.com/YyzHarry/imbalanced-semi-self)]
+
+### Fairness of Deep Generative Models
+
+**FairGen: Improving the Fairness of Deep Generative Models without Retraining.**<br>
+*[Shuhan Tan](https://ariostgx.github.io/), Yujun Shen, Bolei Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04842)] [[Project](https://genforce.github.io/fairgen/)] [[Github](https://github.com/genforce/fairgen)]
+
+**Fair Generative Modeling via Weak Supervision.**<br>
+*Kristy Choi, Aditya Grover, Trisha Singh, Rui Shu, Stefano Ermon.*<br>
+ICML 2020. [[PDF](http://proceedings.mlr.press/v119/choi20a.html)] [[Github](https://github.com/ermongroup/fairgen)]
+
+**Inclusive GAN: Improving Data and Minority Coverage in Generative Models.**<br>
+*Ning Yu, Ke Li, Peng Zhou, Jitendra Malik, Larry Davis, Mario Fritz.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2004.03355)]
+
+**Bias and Generalization in Deep Generative Models: An Empirical Study.**<br>
+*Shengjia Zhao, Hongyu Ren, Arianna Yuan, Jiaming Song, Noah Goodman, Stefano Ermon.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)]
 
 ### Spatio-Temporal
 
@@ -1188,6 +1251,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.c
 
 ### Misc
 
+**Semantic Image Synthesis via Efficient Class-Adaptive Normalization.**<br>
+*Zhentao Tan, Dongdong Chen, Qi Chu, Menglei Chai, Jing Liao, Mingming He, Lu Yuan, Gang Hua, Nenghai Yu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04644)] [[Github](https://github.com/tzt101/CLADE.git)]
+
+**Spectral Distribution aware Image Generation.**<br>
+*Steffen Jung, Margret Keuper.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2012.03110)]
+
+**A Note on Data Biases in Generative Models.**<br>
+*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
+NeurIPS 2020 Workshop on Machine Learning for Creativity and Design. [[PDF](https://arxiv.org/abs/2012.02516)] [[Github](https://github.com/CompVis/net2net)]
+
 **Creative Sketch Generation.**<br>
 *Songwei Ge, Vedanuj Goswami, C. Lawrence Zitnick, Devi Parikh.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10039)] [[Github](https://github.com/facebookresearch/DoodlerGAN)] [[Project](http://doodlergan.cloudcv.org/)]
@@ -1214,7 +1289,7 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05005)] [[Github](https://github
 
 **Few-shot Image Generation with Elastic Weight Consolidation.**<br>
 *Yijun Li, Richard Zhang, Jingwan (Cynthia) Lu, Eli Shechtman.*<br>
-NeurIPS 2020. [[PDF](https://papers.nips.cc/paper/2020/hash/b6d767d2f8ed5d21a44b0e5886680cb9-Abstract.html)]
+NeurIPS 2020. [[PDF](https://papers.nips.cc/paper/2020/hash/b6d767d2f8ed5d21a44b0e5886680cb9-Abstract.html)] [[Project](https://yijunmaverick.github.io/publications/ewc/)]
 
 **Neural FFTs for Universal Texture Image Synthesis.**<br>
 *Morteza Mardani, Guilin Liu, Aysegul Dundar, Shiqiu Liu, Andrew Tao, Bryan Catanzaro.*<br>
