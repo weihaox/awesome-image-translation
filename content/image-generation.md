@@ -412,16 +412,18 @@ ICLR 2019. [[PDF](https://openreview.net/forum?id=B1lKS2AqtX)] [[GitHub](https:/
 *Yingfan Huang, HuiKun Bi, Zhaoxin Li, Tianlu Mao, Zhaoqi Wang.*<br> 
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)]
 [[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
+ 
 
-### Videos Generation
+### Videos Generation, Frame Interpolation and Extrapolation
 
-Video from a single image or text can be found at [here]().
+Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/image-generation.md#image-to-video).
 
 **NSFF: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
 *Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13084)] [[Github](http://www.cs.cornell.edu/~zl548/NSFF/)]
 
-### Frame Interpolation and Extrapolation
+ConvTransformer: A Convolutional Transformer Network for Video Frame Synthesis
+Zhouyong Liu, Shun Luo, Wubin Li, Jingben Lu, Yufan Wu, Chunguo Li, Luxi Yang
 
 **RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation.**<br>
 *Zhewei Huang, Tianyuan Zhang, Wen Heng, Boxin Shi, Shuchang Zhou.*<br>
@@ -517,6 +519,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1710.00421)]
 IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 
 ### Image-to-Text
+
+**Image Captioning with Context-Aware Auxiliary Guidance.**<br>
+*Zeliang Song, Xiaofei Zhou, Zhendong Mao, Jianlong Tan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05545)]
+
+**LaBERT: Length-Controllable Image Captioning.**<br>
+*Chaorui Deng, Ning Ding, Mingkui Tan, Qi Wu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09580)] [[Github](https://github.com/bearcatt/LaBERT)]
 
 **Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze.**<br>
 *Ece Takmaz, Sandro Pezzelle, Lisa Beinborn, Raquel Fernández.*<br>
@@ -1021,6 +1031,14 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
 
+**TTSR: Learning Texture Transformer Network for Image Super-Resolution.**<br>
+*Fuzhi Yang, Huan Yang, Jianlong Fu, Hongtao Lu, Baining Guo.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.com/researchmm/TTSR)]
+
+**ConvTransformer: A Convolutional Transformer Network for Video Frame Synthesis.**<br>
+*Zhouyong Liu, Shun Luo, Wubin Li, Jingben Lu, Yufan Wu, Chunguo Li, Luxi Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10185)]
+
 **Topological Planning with Transformers for Vision-and-Language Navigation.**<br>
 *Kevin Chen, Junshen K. Chen, Jo Chuang, Marynel Vázquez, Silvio Savarese.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05292)]
@@ -1065,7 +1083,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02910)] [[Github](https://github.c
 *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby.*<br>
 ICLR 2021 submission. [[PDF](https://arxiv.org/abs/2010.11929)] [[Official](https://github.com/google-research/vision_transformer)] [[Github](https://github.com/lukemelas/PyTorch-Pretrained-ViT)] [[Github](https://github.com/lucidrains/vit-pytorch)] [[Github](https://github.com/gupta-abhay/ViT)] [[Code Collection](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers)]
 
-**image-gpt: Generative Pretraining from Pixels.**<br>
+**Image-GPT: Generative Pretraining from Pixels.**<br>
 *Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
 Tech Report 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
 
@@ -1119,7 +1137,12 @@ ICCV 2019 (Best Paper).
 *Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
-### Hard Example
+### Hard or Unfamiliar Example
+
+**Improving Confidence Estimates for Unfamiliar Examples.**<br>
+*[Zhizhong Li](https://zhizhongli.vision/), [Derek Hoiem](https://dhoiem.cs.illinois.edu/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1804.03166)] [[Github](https://github.com/lizhitwo/ConfidenceEstimates)] [[Project](https://zhizhongli.vision/projects/improving-confidence-estimates/)]
+
 
 **MetaInfoNet: Learning Task-Guided Information for Sample Reweighting.**<br>
 *Hongxin Wei, Lei Feng, Rundong Wang, Bo An.*<br>
@@ -1145,7 +1168,7 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github
 *Yuzhe Yang, Zhi Xu.*<br>
 NeurlPS 2020. [[PDF](https://arxiv.org/abs/2006.07529)] [[Github](https://github.com/YyzHarry/imbalanced-semi-self)]
 
-### Fairness of Deep Generative Models
+### Dataset Biases and AI Fairness
 
 **FairGen: Improving the Fairness of Deep Generative Models without Retraining.**<br>
 *[Shuhan Tan](https://ariostgx.github.io/), Yujun Shen, Bolei Zhou.*<br>

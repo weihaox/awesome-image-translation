@@ -82,7 +82,7 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1904.09471v1)]
 
 **VSE++: Improving Visual-Semantic- Embeddings with Hard Negatives.**<br>
 *Fartash Faghri, David. Fleet, Jamie Ryan Kiros, Sanja Fidler.*<br>
-BMVC 2018. [[PDF] (https://arxiv.org/abs/1707.05612)] [[Github](https://github.com/fartashf/vsepp)]
+BMVC 2018. [[PDF](https://arxiv.org/abs/1707.05612)] [[Github](https://github.com/fartashf/vsepp)]
 
 **Deep Fragment Embeddings for Bidirectional Image Sentence Mapping.**<br>
 *Andrej Karpathy, Armand Joulin, Li Fei-Fei.*<br>

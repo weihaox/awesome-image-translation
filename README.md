@@ -219,6 +219,22 @@ Feedback and contributions are welcome!
 
 ### Others 2020
 
+**Lipschitz Regularized CycleGAN for Improving Semantic Robustness in Unpaired Image-to-image Translation.**<br>
+*Zhiwei Jia, Bodi Yuan, Kangkang Wang, Hong Wu, David Clifford, Zhiqiang Yuan, Hao Su.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04932)]
+
+**Full-Resolution Correspondence Learning for Image Translation.**<br>
+*Xingran Zhou, Bo Zhang, Ting Zhang, Pan Zhang, Jianmin Bao, Dong Chen, Zhongfei Zhang, Fang Wen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02047)]
+
+**RF-GAN: A Light and Reconfigurable Network for Unpaired Image-to-Image Translation.**<br>
+*Ali Koksal, Shijian Lu.*<br>
+ACCV 2020. [[PDF](https://openaccess.thecvf.com/content/ACCV2020/papers/Koksal_RF-GAN_A_Light_and_Reconfigurable_Network_for_Unpaired_Image-to-Image_Translation_ACCV_2020_paper.pdf)]
+
+**Frequency Domain Image Translation: More Photo-realistic, Better Identity-preserving.**<br>
+*Mu Cai, Hong Zhang, Huijuan Huang, Qichuan Geng, Gao Huang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13611)]
+
 **Unpaired Image-to-Image Translation via Latent Energy Transport.**<br>
 *Yang Zhao, Changyou Chen.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00649)]

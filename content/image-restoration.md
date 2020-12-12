@@ -275,6 +275,10 @@ CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blin
 
 ### Video Restoration
 
+**Video Deblurring by Fitting to Test Data.**<br>
+*Xuanchi Ren, Zian Qian, Qifeng Chen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05228)] [[Github](https://github.com/xrenaa/Deblur-by-Fitting)]
+
 **EVRNet: Efficient Video Restoration on Edge Devices.**<br>
 *Sachin Mehta, Amit Kumar, Fitsum Reda, Varun Nasery, Vikram Mulukutla, Rakesh Ranjan, Vikas Chandra.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02228)]
@@ -368,6 +372,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Full Matching on Low Resolution for Disparity Estimation.**<br>
+*Hong Zhang, Shenglun Chen, Zhihui Wang, Haojie Li, Wanli Ouyang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05586)]
+
+**Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement.**<br>
+*Risheng Liu, Long Ma, Jiaao Zhang, Xin Fan, Zhongxuan Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05609)]
+
+**Deep Denoising of Flash and No-Flash Pairs for Photography in Low-Light Environments.**<br>
+*Zhihao Xia, Michaël Gharbi, Federico Perazzi, Kalyan Sunkavalli, Ayan Chakrabarti.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05116)] [[Project](https://www.cse.wustl.edu/~zhihao.xia/deepfnf/)]
 
 **Generator Pyramid for High-Resolution Image Inpainting.**<br>
 *Leilei Cao, Tong Yang, Yixu Wang, Bo Yan, Yandong Guo.*<br>

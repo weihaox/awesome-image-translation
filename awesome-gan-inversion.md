@@ -47,9 +47,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05867)] [[Github](https://github.com/yaxingwang/DeepI2I)]
 
-**GAN "Steerability" without Optimization.**<br>
-*Anonymous.*<br>
-ICLR 2021. [[PDF](https://openreview.net/forum?id=zDy_nQCXiIj)]
+**GAN Steerability without optimization.**<br>
+*Nurit Spingarn-Eliezer, Ron Banner, Tomer Michaeli.*<br>
+arxiv 2020. [[OpenReview](https://openreview.net/forum?id=zDy_nQCXiIj)] [[PDF](https://arxiv.org/abs/2012.05328)]
 
 **On The Inversion Of Deep Generative Models (When and How Can Deep Generative Models be Inverted?).**<br>
 *Aviad Aberdam, Dror Simon, Michael Elad.*<br>
