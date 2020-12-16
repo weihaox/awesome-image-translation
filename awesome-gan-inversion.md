@@ -15,6 +15,14 @@ Feedback and contributions are welcome!
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
+**Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
+*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
+
+**Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
+*Yichun Shi, Divyansh Aggarwal, Anil K. Jain.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
+
 **Navigating the GAN Parameter Space for Semantic Image Editing.**<br>
 *Anton Cherepkov, Andrey Voynov, Artem Babenko.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13786)] [[Github](https://github.com/yandex-research/navigan)]

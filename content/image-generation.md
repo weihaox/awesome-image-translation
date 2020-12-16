@@ -21,8 +21,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
   * [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
-  * [Videos Generation](#videos-generation)
-  * [Frame Interpolation and Extrapolation](#frame-interpolation-and-extrapolation)
+  * [Videos Generation, Frame Interpolation and Extrapolation](#videos-generation--frame-interpolation-and-extrapolation)
 - [Multi-Modality Translation](#multi-modality-translation)
   * [Image-to-Video](#image-to-video)
   * [Text-to-Video](#text-to-video)
@@ -39,8 +38,8 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [StyleGAN-Based Method](#stylegan-based-method)
   * [Transformer-Based](#transformer-based)
   * [Single-Image Training](#single-image-training)
-  * [Hard Example](#hard-example)
-  * [Fairness of Deep Generative Models](#fairness-of-deep-generative-models)
+  * [Hard or Unfamiliar Example](#hard-or-unfamiliar-example)
+  * [Dataset Biases and AI Fairness](#dataset-biases-and-ai-fairness)
   * [Spatio-Temporal](#spatio-temporal)
   * [Scene Graph Generation](#scene-graph-generation)
   * [Speech Synthesis](#speech-synthesis)
@@ -805,6 +804,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
 ## 3D Shape Generation and Manipulation
 
+**3DSNet: Unsupervised Shape-to-Shape 3D Style Transfer.**<br>
+*Mattia Segu, Margarita Grinvald, Roland Siegwart, Federico Tombari.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13388)]
+
 **Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence.**<br>
 *Yu Deng, Jiaolong Yang, Xin Tong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13650)] [[Github](https://github.com/microsoft/DIF-Net)]
@@ -1031,6 +1034,10 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
 
+**RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder.**<br>
+*Cheng Chi, Fangyun Wei, Han Hu.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
+
 **TTSR: Learning Texture Transformer Network for Image Super-Resolution.**<br>
 *Fuzhi Yang, Huan Yang, Jianlong Fu, Hongtao Lu, Baining Guo.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.com/researchmm/TTSR)]
@@ -1054,6 +1061,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
 **MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers.**<br>
 *Huiyu Wang, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00759)]
+
+**FPT: Feature Pyramid Transformer.**<br>
+*Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09451)] [[Github](https://github.com/ZHANGDONG-NJUST/FPT)]
 
 **General Invertible Transformations for Flow-based Generative Modeling.**<br>
 *Jakub M. Tomczak.*<br>
@@ -1142,7 +1153,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 **Improving Confidence Estimates for Unfamiliar Examples.**<br>
 *[Zhizhong Li](https://zhizhongli.vision/), [Derek Hoiem](https://dhoiem.cs.illinois.edu/).*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1804.03166)] [[Github](https://github.com/lizhitwo/ConfidenceEstimates)] [[Project](https://zhizhongli.vision/projects/improving-confidence-estimates/)]
-
 
 **MetaInfoNet: Learning Task-Guided Information for Sample Reweighting.**<br>
 *Hongxin Wei, Lei Feng, Rundong Wang, Bo An.*<br>
@@ -1273,6 +1283,14 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1910.06711)] [[Github](https://github
 arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.com/NVIDIA/waveglow)] [[Project](https://nv-adlr.github.io/WaveGlow)]
 
 ### Misc
+
+**MorphNet: One-Shot Face Synthesis GAN for Detecting Recognition Bias.**<br>
+*Nataniel Ruiz, Barry-John Theobald, Anurag Ranjan, Ahmed Hussein Abdelaziz, Nicholas Apostoloff.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05225)]
+
+**You Only Need Adversarial Supervision for Semantic Image Synthesis.**<br>
+*Vadim Sushko, Edgar Schönfeld, Dan Zhang, Juergen Gall, Bernt Schiele, Anna Khoreva.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04781)]
 
 **Semantic Image Synthesis via Efficient Class-Adaptive Normalization.**<br>
 *Zhentao Tan, Dongdong Chen, Qi Chu, Menglei Chai, Jing Liao, Mingming He, Lu Yuan, Gang Hua, Nenghai Yu.*<br>
@@ -2025,6 +2043,10 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
 
 ### 2D Sketch to 3D Model
+
+**A Single-View Approach to Casual 3D Modeling and Animation.**<br>
+*[Marek Dvorožňák](http://dcgi.fel.cvut.cz/people/dvoromar/), [Daniel Sýkora](https://dcgi.felk.cvut.cz/~sykorad/), [Cassidy Curtis](http://otherthings.com/), [Brian Curless](https://homes.cs.washington.edu/~curless/), [Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/), [David Salesin](http://salesin.cs.washington.edu/).*<br>
+SIGGRAPH Asia 2020. [[PDF](https://dcgi.fel.cvut.cz/home/sykorad/Dvoroznak20-SA.pdf)] [[Project](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash)] [[Demo](http://monstermash.zone/)]
 
 **Towards 3D VR-Sketch to 3D Shape Retrieval.**<br>
 *Ling Luo, Yulia Gryaditskaya, Yongxin Yang, Tao Xiang, Yi-Zhe Song.*<br> 

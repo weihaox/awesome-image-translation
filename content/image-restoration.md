@@ -1,7 +1,6 @@
 # Image Restoration and Enhancement
 
 ## Table of Contents
-- [Team](#team)
 - [Replacing ISP](#replacing-isp)
 - [Exemplar-Guided](#exemplar-guided)
 - [Unpaired or Misaligned Data](#unpaired-or-misaligned-data)
@@ -9,11 +8,9 @@
 - [NAS and AutoML](#nas-and-automl)
 - [Image Quality Assessment](#image-quality-assessment)
 - [Misc](#misc)
+  * [Video Restoration](#video-restoration)
+  * [Image Restoration](#image-restoration)
 - [Challenge and Survey](#challenge-and-survey)
-
-## Team
-
-[GenForce](https://genforce.github.io): Research Initiative on Generative Modeling at CUHK.
 
 ## Replacing ISP
 
@@ -372,6 +369,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**DILIE: Deep Internal Learning for Image Enhancement.**<br>
+*Indra Deep Mastan, Shanmuganathan Raman.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06469)]
 
 **Full Matching on Low Resolution for Disparity Estimation.**<br>
 *Hong Zhang, Shenglun Chen, Zhihui Wang, Haojie Li, Wanli Ouyang.*<br>

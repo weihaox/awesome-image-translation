@@ -259,9 +259,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.08114)] [[Project](https://jiupinj
 *Wen Liu, Zhixin Piao, Zhi Tu, Wenhan Luo, Lin Ma, Shenghua Gao.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09055)]
 
-**Zero-Pair Image to Image Translation using Domain Conditional Normalization.**<br>
+**DCN: Zero-Pair Image to Image Translation using Domain Conditional Normalization.**<br>
 *Samarth Shukla, Andrés Romero, Luc Van Gool, Radu Timofte.*<br>
-wacv 2021. [[PDF](https://arxiv.org/abs/2011.05680)]
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.05680)] [[Project](https://github.com/samarthshukla/dcn)]
 
 **Pixel-based Facial Expression Synthesis.**<br>
 *Arbish Akram and Nazar Khan.*<br>
