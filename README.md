@@ -16,6 +16,8 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 Feedback and contributions are welcome!
 
 ## Table of Contents
+- [2021](#year-2021)
+  * [AAAI 2021](#aaai-2021)
 - [2020](#year-2020)
   * [ECCV 2020](#eccv-2020)
   * [CVPR 2020](#cvpr-2020)
@@ -30,6 +32,15 @@ Feedback and contributions are welcome!
   * [Journal 2019](#journal-2019)
   * [Others 2019](#others-2019)
 - [Before 2018](#before-2018)
+
+## 2021
+
+### AAAI 20201
+[[accepted paper list](https://aaai.org/Conferences/AAAI-21)]
+
+**Slimmable Generative Adversarial Networks.** [[PDF](https://arxiv.org/abs/2012.05660)] <br>
+*Liang Hou, Zehuan Yuan, Lei Huang, Huawei Shen, Xueqi Cheng, ChanghuWang.*<br>
+
 
 ## 2020
 
