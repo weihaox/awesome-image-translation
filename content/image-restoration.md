@@ -86,6 +86,14 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**DETR for Pedestrian Detection.**<br>
+*Matthieu Lin, Chuming Li, Xingyuan Bu, Ming Sun, Chen Lin, Junjie Yan, Wanli Ouyang, Zhidong Deng.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06785)]
+
+**Split then Refine: Stacked Attention-guided ResUNets for Blind Single Image Visible Watermark Removal.**<br>
+*Xiaodong Cun, Chi-Man Pun.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.07007)] [[Github](http://github.com/vinthony/deep-blind-watermark-removal)]
+
 **Unsupervised Deep Video Denoising.**<br>
 *Dev Yashpal Sheth, Sreyas Mohan, Joshua L. Vincent, Ramon Manzorro, Peter A. Crozier, Mitesh M. Khapra, Eero P. Simoncelli, Carlos Fernandez-Granda.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15045)] [[Github](https://sreyas-mohan.github.io/udvd/)]
@@ -246,6 +254,22 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
 ## NAS and AutoML
 
+**Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement.**<br>
+*Risheng Liu, Long Ma, Jiaao Zhang, Xin Fan, Zhongxuan Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05609)]
+
+**BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond.**<br>
+*Kelvin C.K. Chan, Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02181)]
+
+**DAQ: Distribution-Aware Quantization for Deep Image Super-Resolution Networks.**<br>
+*Cheeun Hong, Heewon Kim, Junghun Oh, Kyoung Mu Lee.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11230)]
+
+**Searching for Controllable Image Restoration Networks.**<br>
+*Heewon Kim, Sungyong Baik, Myungsub Choi, Janghoon Choi, Kyoung Mu Lee.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11225)]
+
 **NAS-DIP: Learning Deep Image Prior with Neural Architecture Search.**<br>
 *Yun-Chun Chen, Chen Gao, Esther Robb, Jia-Bin Huang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.11713)] [[Poject](https://yunchunchen.github.io/NAS-DIP/)] [[Github](https://github.com/YunChunChen/NAS-DIP-pytorch)]
@@ -262,11 +286,33 @@ NeurIPS 2020. [[PDF]()]
 *Hao Li, Chenxin Tao, Xizhou Zhu, Xiaogang Wang, Gao Huang, Jifeng Dai.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07930)]
 
+## Niche Tasks
+
+**Geometric Scene Refocusing.**<br>
+*Parikshit Sakurikar, P. J. Narayanan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10856)]
+
+**Field of Junctions.**<br>
+*Dor Verbin, Todd Zickler.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13866)]
+
+**Dissecting Image Crops.**<br>
+*Basile Van Hoorick, Carl Vondrick.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11831)] [[Github](https://github.com/basilevh/dissecting-image-crops)]
+
 ## Image Quality Assessment
+
+**Consolidated Dataset and Metrics for High-Dynamic-Range Image Quality.**<br>
+*Aliaksei Mikhailiuk, Maria Perez-Ortiz, Dingcheng Yue, Wilson Suen, Rafal K. Mantiuk.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10758)]
 
 **Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network**<br>
 *Shaolin Su, Qingsen Yan, Yu Zhu, Cheng Zhang, Xin Ge, Jinqiu Sun, Yanning Zhang.*<br>
 CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf)] [[Github](https://github.com/SSL92/hyperIQA)]
+
+**Learning-Based Quality Assessment for Image Super-Resolution.**<br>
+*Tiesong Zhao, Yuting Lin, Yiwen Xu, Weiling Chen, Zhou Wang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ## Misc
 
@@ -370,6 +416,22 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**High-Resolution Deep Image Matting.**<br>
+*Haichao Yu, Ning Xu, Zilong Huang, Yuqian Zhou, Humphrey Shi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2009.06613)]
+
+**Real-Time High-Resolution Background Matting.**<br>
+*Shanchuan Lin, Andrey Ryabtsev, Soumyadip Sengupta, Brian Curless, Steve Seitz, Ira Kemelmacher-Shlizerman.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.07810)]
+
+**Attention-based Image Upsampling.**<br>
+*Souvik Kundu, Hesham Mostafa, Sharath Nittur Sridhar, Sairam Sundaresan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09904)]
+
+**Learning Continuous Image Representation with Local Implicit Image Function.**<br>
+*[Yinbo Chen](https://yinboc.github.io/), [Sifei Liu](https://www.sifeiliu.net/), [Xiaolong Wang](https://xiaolonw.github.io/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09161)] [[Github](https://github.com/yinboc/liif)] [[Project](https://yinboc.github.io/liif/)]
+
 **DILIE: Deep Internal Learning for Image Enhancement.**<br>
 *Indra Deep Mastan, Shanmuganathan Raman.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06469)]
@@ -377,10 +439,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06469)]
 **Full Matching on Low Resolution for Disparity Estimation.**<br>
 *Hong Zhang, Shenglun Chen, Zhihui Wang, Haojie Li, Wanli Ouyang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05586)]
-
-**Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement.**<br>
-*Risheng Liu, Long Ma, Jiaao Zhang, Xin Fan, Zhongxuan Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05609)]
 
 **Deep Denoising of Flash and No-Flash Pairs for Photography in Low-Light Environments.**<br>
 *Zhihao Xia, Michaël Gharbi, Federico Perazzi, Kalyan Sunkavalli, Ayan Chakrabarti.*<br>
@@ -517,10 +575,6 @@ arxiv 2020. [[Project](https://hific.github.io/)] [[Github](https://github.com/J
 **Adversarial score matching and improved sampling for image generation.**<br>
 *Alexia Jolicoeur-Martineau, Rémi Piché-Taillefer, Rémi Tachet des Combes, Ioannis Mitliagkas.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.05475)] [[Github](https://github.com/AlexiaJM/AdversarialConsistentScoreMatching)]
-
-**High-Resolution Deep Image Matting.**<br>
-*Haichao Yu, Ning Xu, Zilong Huang, Yuqian Zhou, Humphrey Shi.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2009.06613)]
 
 **Deep Detection for Face Manipulation.**<br>
 *Disheng Feng, Xuequan Lu, Xufeng Lin.*<br>

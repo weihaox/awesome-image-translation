@@ -107,3 +107,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.10915)]
 **Learning Visual Representations for Transfer Learning by Suppressing Texture.**<br>
 *Shlok Mishra, Anshul Shah, Ankan Bansal, Jonghyun Choi, Abhinav Shrivastava, Abhishek Sharma, David Jacobs.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
+
+
+## Unsupervised Visual Representation Learning
+
+**Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning.**<br>
+*Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, Han Hu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.com/lucidrains/pixel-level-contrastive-learning)]

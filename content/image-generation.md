@@ -39,6 +39,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Transformer-Based](#transformer-based)
   * [Single-Image Training](#single-image-training)
   * [Hard or Unfamiliar Example](#hard-or-unfamiliar-example)
+  * [Data or Distribution Augmentation](#data-or-distribution-augmentation)
   * [Dataset Biases and AI Fairness](#dataset-biases-and-ai-fairness)
   * [Spatio-Temporal](#spatio-temporal)
   * [Scene Graph Generation](#scene-graph-generation)
@@ -417,6 +418,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ST
 
 Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/image-generation.md#image-to-video).
 
+**FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation.**<br>
+*Tarun Kalluri, Deepak Pathak, Manmohan Chandraker, Du Tran.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08512)] [[Project](https://tarun005.github.io/FLAVR/)]
+
 **NSFF: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
 *Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13084)] [[Github](http://www.cs.cornell.edu/~zl548/NSFF/)]
@@ -483,6 +488,10 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 
 ### Image-to-Video
 
+**Animating Pictures with Eulerian Motion Fields.**<br>
+*Aleksander Holynski, Brian Curless, Steven M. Seitz, Richard Szeliski.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15128)]
+
 **Pose-Guided Human Animation from a Single Image in the Wild.**<br>
 *Jae Shin Yoon, Lingjie Liu, Vladislav Golyanik, Kripasindhu Sarkar, Hyun Soo Park, Christian Theobalt.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03796)]
@@ -518,6 +527,22 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1710.00421)]
 IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 
 ### Image-to-Text
+
+**RecipeNLG: A Cooking Recipes Dataset for Semi-Structured Text Generation.**<br>
+*Michał Bień, Michał Gilski, Martyna Maciejewska, Wojciech Taisner, Dawid Wiśniewski, Agnieszka Ławrynowicz.*<br>
+arxiv 2020. [[PDF](https://www.aclweb.org/anthology/2020.inlg-1.4.pdf)] [[Github](https://github.com/Glorf/recipenlg)] [[Project](https://recipenlg.cs.put.poznan.pl/)] [[RecipeNLG dataset](https://recipenlg.cs.put.poznan.pl/dataset)] [[RecipeNLG's Recipe Generator](https://recipenlg.cs.put.poznan.pl/generator)]
+
+**AutoCaption: Image Captioning with Neural Architecture Search.**<br>
+*Xinxin Zhu, Weining Wang, Longteng Guo, Jing Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09742)]
+
+**Simple is not Easy: A Simple Strong Baseline for TextVQA and TextCaps.**<br>
+*Qi Zhu, Chenyu Gao, Peng Wang, Qi Wu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05153)] [[Github](https://github.com/ZephyrZhuQi/ssbaseline)]
+
+**TAP: Text-Aware Pre-training for Text-VQA and Text-Caption.**<br>
+*Zhengyuan Yang, Yijuan Lu, Jianfeng Wang, Xi Yin, Dinei Florencio, Lijuan Wang, Cha Zhang, Lei Zhang, Jiebo Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04638)]
 
 **Image Captioning with Context-Aware Auxiliary Guidance.**<br>
 *Zeliang Song, Xiaofei Zhou, Zhendong Mao, Jianlong Tan.*<br>
@@ -709,6 +734,10 @@ arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)]
 
 ### Image-and-Voice
 
+**Multi-Instrumentalist Net: Unsupervised Generation of Music from Body Movements.**<br>
+*Kun Su, Xiulong Liu, Eli Shlizerman.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03478)] [[Video](https://www.youtube.com/watch?v=yo5OZKBbBh4)]
+
 **Universal MelGAN: A Robust Neural Vocoder for High-Fidelity Waveform Generation in Multiple Domains.**<br>
 *Won Jang, Dan Lim, Jaesam Yoon.*<br>
 ICASSP 2021. [[PDF](https://arxiv.org/abs/2011.09631)]
@@ -804,6 +833,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
 
 ## 3D Shape Generation and Manipulation
 
+**Learning to Infer Semantic Parameters for 3D Shape Editing.**<br>
+*Fangyin Wei, Elena Sizikova, Avneesh Sud, Szymon Rusinkiewicz, Thomas Funkhouser.*<br>
+3DV 2020. [[PDF](https://arxiv.org/abs/2011.04755)]
+
 **3DSNet: Unsupervised Shape-to-Shape 3D Style Transfer.**<br>
 *Mattia Segu, Margarita Grinvald, Roland Siegwart, Federico Tombari.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13388)]
@@ -822,9 +855,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07982)]
 
 ## GAN Improvement
 
-**Positional Encoding as Spatial Inductive Bias in GANs.**<br>
-*Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
+**SariGAN: Learning Semantic-aware Normalization for Generative Adversarial Networks.**<br>
+*Heliang Zheng1, Jianlong Fu, Yanhong Zeng, Jiebo Luo, Zheng-Jun Zha.*<br>
+NeurIPS 2020. [[PDF](https://proceedings.neurips.cc/paper/2020/file/f885a14eaf260d7d9f93c750e1174228-Paper.pdf)] [[Github](https://github.com/researchmm/SariGAN)]
 
 **MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting?**<br>
 *Zhanghan Ke, Kaican Li, Yurou Zhou, Qiuhua Wu, Xiangyu Mao, Qiong Yan, Rynson W.H. Lau.*<br>
@@ -894,6 +927,10 @@ arxiv 2016. [[PDF](https://arxiv.org/abs/1606.03498)] [[Github](https://github.c
 *Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, Sepp Hochreiter.*<br>
 arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.com/bioinf-jku/TTUR)]
 
+**DeepSim: Generating Images with Perceptual Similarity Metrics based on Deep Networks.**<br>
+*Alexey Dosovitskiy, Thomas Brox.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/1602.02644)] [[Github](https://github.com/shijx12/DeepSim)] [[Project](https://lijiancheng0614.github.io/2016/12/13/2016_12_13_DeePSiM/)]
+
 ## Diving Deep into Image Synthesis
 
 [[Image Generation SOTA](https://paperswithcode.com/task/image-generation)] 
@@ -903,6 +940,10 @@ arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.c
 ### Invertible Neural Network (Flow-based Generative Model)
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
+
+**Flow-based Generative Models for Learning Manifold to Manifold Mappings.**<br>
+*Xingjian Zhen, Rudrasis Chakraborty, Liu Yang, Vikas Singh.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2012.10013)]
 
 **Full-Glow: Fully conditional Glow for more realistic image generation.**<br>
 *Moein Sorkhei, Gustav Eje Henter, Hedvig Kjellström.*<br>
@@ -978,7 +1019,8 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12885)] [[Github](https://github.co
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA
+](https://github.com/woctezuma/steam-stylegan2-ada)]
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
@@ -1033,6 +1075,34 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
+
+**PCT: PCT: Point Cloud Transformer.**<br>
+*Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09688)] [[Github](https://github.com/MenghaoGuo/PCT)]
+
+**End-to-End Human Pose and Mesh Reconstruction with Transformers.**<br>
+*Kevin Lin, Lijuan Wang, Zicheng Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
+
+**Taming Transformers for High-Resolution Image Synthesis.**<br>
+*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)]
+
+**Transformer Interpretability Beyond Attention Visualization.**<br>
+*Hila Chefer, Shir Gur, Lior Wolf.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09838)]
+
+**TSceneFormer: Indoor Scene Generation with Transformers.**<br>
+*Xinpeng Wang, Chandan Yeshwanth, Matthias Nießner.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09793)]
+
+**Point Transformer.**<br>
+*Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09164)]
+
+**Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network.**<br>
+*Jiayi Ji, Yunpeng Luo, Xiaoshuai Sun, Fuhai Chen, Gen Luo, Yongjian Wu, Yue Gao, Rongrong Ji.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2012.07061)]
 
 **RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder.**<br>
 *Cheng Chi, Fangyun Wei, Han Hu.*<br>
@@ -1150,6 +1220,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ### Hard or Unfamiliar Example
 
+**Flexible Few-Shot Learning with Contextual Similarity.**<br>
+*Mengye Ren, Eleni Triantafillou, Kuan-Chieh Wang, James Lucas, Jake Snell, Xaq Pitkow, Andreas S. Tolias, Richard Zemel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05895)]
+
 **Improving Confidence Estimates for Unfamiliar Examples.**<br>
 *[Zhizhong Li](https://zhizhongli.vision/), [Derek Hoiem](https://dhoiem.cs.illinois.edu/).*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1804.03166)] [[Github](https://github.com/lizhitwo/ConfidenceEstimates)] [[Project](https://zhizhongli.vision/projects/improving-confidence-estimates/)]
@@ -1178,11 +1252,54 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github
 *Yuzhe Yang, Zhi Xu.*<br>
 NeurlPS 2020. [[PDF](https://arxiv.org/abs/2006.07529)] [[Github](https://github.com/YyzHarry/imbalanced-semi-self)]
 
+### Data or Distribution Augmentation
+
+**StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
+*Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA
+](https://github.com/woctezuma/steam-stylegan2-ada)]
+
+**SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data.**<br>
+*Shaoli Huang, Xinchao Wang, Dacheng Tao.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2012.04846)] [[Github](https://github.com/Shaoli-Huang/SnapMix.git)]
+
+**Augmentation Inside the Network.**<br>
+*Maciej Sypetkowski, Jakub Jasiulewicz, Zbigniew Wojna.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10769)]
+
+**Joint Search of Data Augmentation Policies and Network Architectures.**<br>
+*Taiga Kashima, Yoshihiro Yamada, Shunta Saito.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09407)]
+
+**Augmentation Inside the Network.**<br>
+*Maciej Sypetkowski, Jakub Jasiulewicz, Zbigniew Wojna.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10769)]
+
+**Distribution Augmentation for Generative Modeling.**<br>
+*Heewoo Jun, Rewon Child, Mark Chen, John Schulman, Aditya Ramesh, Alec Radford, Ilya Sutskever.*<br>
+ICML 2020. [[PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/6095-Paper.pdf)] [[Github](https://github.com/openai/distribution_augmentation)]
+
+**Differentiable Augmentation for Data-Efficient GAN Training.**<br>
+*Shengyu Zhao, Zhijian Liu, Ji Lin, Jun-Yan Zhu, Song Han.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://hanlab.mit.edu/projects/data-efficient-gans/)] [[Github](https://github.com/mit-han-lab/data-efficient-gans)]
+
 ### Dataset Biases and AI Fairness
 
 **FairGen: Improving the Fairness of Deep Generative Models without Retraining.**<br>
 *[Shuhan Tan](https://ariostgx.github.io/), Yujun Shen, Bolei Zhou.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04842)] [[Project](https://genforce.github.io/fairgen/)] [[Github](https://github.com/genforce/fairgen)]
+
+**Positional Encoding as Spatial Inductive Bias in GANs.**<br>
+*Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
+
+**Permuted AdaIN: Reducing the Bias Towards Global Statistics in Image Classification.**<br>
+*Oren Nuriel, Sagie Benaim, Lior Wolf.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05785)] [[Github](https://github.com/onuriel/PermutedAdaIN)]
+
+**A Note on Data Biases in Generative Models.**<br>
+*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
+NeurIPS 2020 Workshop on Machine Learning for Creativity and Design. [[PDF](https://arxiv.org/abs/2012.02516)] [[Github](https://github.com/CompVis/net2net)]
 
 **Fair Generative Modeling via Weak Supervision.**<br>
 *Kristy Choi, Aditya Grover, Trisha Singh, Rui Shu, Stefano Ermon.*<br>
@@ -1284,6 +1401,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.c
 
 ### Misc
 
+**Intrinsic Temporal Regularization for High-resolution Human Video Synthesis.**<br>
+*Lingbo Yang, Zhanning Gao, Peiran Ren, Siwei Ma, Wen Gao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06134)]
+
+**End-to-End Chinese Landscape Painting Creation Using Generative Adversarial Networks.**<br>
+*Alice Xue.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.05552)] [[Chinese-Landscape-Painting-Dataset](https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset)]
+
+**Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
+*Yichun Shi, Divyansh Aggarwal, Anil K. Jain.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
+
 **MorphNet: One-Shot Face Synthesis GAN for Detecting Recognition Bias.**<br>
 *Nataniel Ruiz, Barry-John Theobald, Anurag Ranjan, Ahmed Hussein Abdelaziz, Nicholas Apostoloff.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05225)]
@@ -1299,10 +1428,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04644)] [[Github](https://github.c
 **Spectral Distribution aware Image Generation.**<br>
 *Steffen Jung, Margret Keuper.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2012.03110)]
-
-**A Note on Data Biases in Generative Models.**<br>
-*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
-NeurIPS 2020 Workshop on Machine Learning for Creativity and Design. [[PDF](https://arxiv.org/abs/2012.02516)] [[Github](https://github.com/CompVis/net2net)]
 
 **Creative Sketch Generation.**<br>
 *Songwei Ge, Vedanuj Goswami, C. Lawrence Zitnick, Devi Parikh.*<br>
@@ -1400,10 +1525,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02917)]
 *Taesung Park, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei Efros, Richard Zhang.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.00653)] [[Github](https://github.com/zhangqianhui/Swapping-Autoencoder-tf)]
 
-**Differentiable Augmentation for Data-Efficient GAN Training.**<br>
-*Shengyu Zhao, Zhijian Liu, Ji Lin, Jun-Yan Zhu, Song Han.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://hanlab.mit.edu/projects/data-efficient-gans/)] [[Github](https://github.com/mit-han-lab/data-efficient-gans)]
- 
 **GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
 *Katja Schwarz, Yiyi Liao, Michael Niemeyer, Andreas Geiger.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github.com/autonomousvision/graf)]
@@ -1507,10 +1628,6 @@ ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12373
 **Controlling Style and Semantics in Weakly-Supervised Image Generation.**<br> 
 *Dario Pavllo, Aurelien Lucchi, Thomas Hofmann.*<br>
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510477.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510477-supp.zip)]
-
-**Distribution Augmentation for Generative Modeling.**<br>
-*Heewoo Jun, Rewon Child, Mark Chen, John Schulman, Aditya Ramesh, Alec Radford, Ilya Sutskever.*<br>
-ICML 2020. [[PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/6095-Paper.pdf)] [[Github](https://github.com/openai/distribution_augmentation)]
 
 **NVAE: A Deep Hierarchical Variational Autoencoder.**<br>
 *[Arash Vahdat](http://latentspace.cc/arash_vahdat/), [Jan Kautz](http://jankautz.com/).*<br>
@@ -1826,6 +1943,10 @@ TPAMI 2020. [[PDF](https://arxiv.org/abs/2011.02062)] [[CASIA-SURF 3DMask Datase
 *Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
 
+**Lips Don't Lie: A Generalisable and Robust Approach to Face Forgery Detection.**<br>
+*Alexandros Haliassos, Konstantinos Vougioukas, Stavros Petridis, Maja Pantic.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.07657)]
+
 **Face Forgery Detection by 3D Decomposition.**<br>
 *Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09737)]
@@ -2044,6 +2165,14 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 
 ### 2D Sketch to 3D Model
 
+**Sketch2CAD: Sequential CAD Modeling by Sketching in Context.**<br>
+*[Changjian Li](https://enigma-li.github.io/), [Hao Pan](http://haopan.github.io/), [Adrien Bousseau](http://www-sop.inria.fr/members/Adrien.Bousseau/), [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.04927)] [[Github](https://github.com/Enigma-li/Sketch2CAD)] [[Project](http://geometry.cs.ucl.ac.uk/projects/2020/sketch2cad/)]
+
+**Vid2CAD: CAD Model Alignment using Multi-View Constraints from Videos.**<br>
+*Kevis-Kokitsi Maninis, Stefan Popov, Matthias Nießner, Vittorio Ferrari.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04641)] [[Project](https://www.kmaninis.com/vid2cad/)] [[Video](https://www.youtube.com/watch?v=R1cXg0vpwe4)]
+
 **A Single-View Approach to Casual 3D Modeling and Animation.**<br>
 *[Marek Dvorožňák](http://dcgi.fel.cvut.cz/people/dvoromar/), [Daniel Sýkora](https://dcgi.felk.cvut.cz/~sykorad/), [Cassidy Curtis](http://otherthings.com/), [Brian Curless](https://homes.cs.washington.edu/~curless/), [Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/), [David Salesin](http://salesin.cs.washington.edu/).*<br>
 SIGGRAPH Asia 2020. [[PDF](https://dcgi.fel.cvut.cz/home/sykorad/Dvoroznak20-SA.pdf)] [[Project](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash)] [[Demo](http://monstermash.zone/)]
@@ -2069,6 +2198,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09694)] [[Project](http://pwang.pw
 SIGGRAPH Asia 2018. [[PDF](https://dl.acm.org/doi/10.1145/3272127.3275051)] [[Project](http://haopan.github.io/sketchCNN.html)] [[Github](https://github.com/Enigma-li/SketchCNN)]
 
 ### 2D Sketch to 2D Image
+
+**Self-Supervised Sketch-to-Image Synthesis.**<br>
+*Bingchen Liu, Yizhe Zhu, Kunpeng Song, Ahmed Elgammal.*<br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/2012.09290)]
 
 **SketchEmbedNet: Learning Novel Concepts by Imitating Drawings.**<br>
 *Alexander Wang, Mengye Ren, Richard Zemel.*<br>

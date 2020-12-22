@@ -15,6 +15,10 @@ Feedback and contributions are welcome!
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
+**Improved StyleGAN Embedding: Where are the Good Latents?**<br>
+*Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09036)]
+
 **Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
 *Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
@@ -93,7 +97,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2005.07728)]
 
 **Face Identity Disentanglement via Latent Space Mapping.**<br>
 *Yotam Nitzan, Amit Bermano, Yangyan Li, Daniel Cohen-Or.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2005.07728)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.07728)] [[Github](https://github.com/YotamNitzan/ID-disentanglement)]
 
 **Transforming and Projecting Images into Class-conditional Generative Networks.**<br>
 *[Minyoung Huh](http://minyounghuh.com/), [Richard Zhang](https://richzhang.github.io/), [Jun-Yan Zhu](https://people.csail.mit.edu/junyanz/), [Sylvain Paris](http://people.csail.mit.edu/sparis/), [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/).*<br>
