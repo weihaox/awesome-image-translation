@@ -734,6 +734,10 @@ arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)]
 
 ### Image-and-Voice
 
+**AudioViewer: Learning to Visualize Sound.**<br>
+*Yuchi Zhang, Willis Peng, Bastian Wandt, Helge Rhodin.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13341)]
+
 **Multi-Instrumentalist Net: Unsupervised Generation of Music from Body Movements.**<br>
 *Kun Su, Xiulong Liu, Eli Shlizerman.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03478)] [[Video](https://www.youtube.com/watch?v=yo5OZKBbBh4)]
@@ -854,6 +858,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13388)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07982)]
 
 ## GAN Improvement
+
+**Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder.**<br>
+*Tal Daniel, Aviv Tamar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13253)] [[Project](https://taldatech.github.io/soft-intro-vae-web)]
+
+**Private-Shared Disentangled Multimodal VAE for Learning of Hybrid Latent Representations.**<br>
+*Mihee Lee, Vladimir Pavlovic.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13024)]
 
 **SariGAN: Learning Semantic-aware Normalization for Generative Adversarial Networks.**<br>
 *Heliang Zheng1, Jianlong Fu, Yanhong Zeng, Jiebo Luo, Zheng-Jun Zha.*<br>

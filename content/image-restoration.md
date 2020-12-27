@@ -318,6 +318,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ### Video Restoration
 
+**An Efficient Recurrent Adversarial Framework for Unsupervised Real-Time Video Enhancement.**<br>
+*Dario Fuoli, Zhiwu Huang, Danda Pani Paudel, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13033)]
+
 **Video Deblurring by Fitting to Test Data.**<br>
 *Xuanchi Ren, Zian Qian, Qifeng Chen.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05228)] [[Github](https://github.com/xrenaa/Deblur-by-Fitting)]
@@ -415,6 +419,26 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Time-Travel Rephotography.**<br>
+*Xuan Luo, Xuaner Zhang, Paul Yoo, Ricardo Martin-Brualla, Jason Lawrence, Steven M. Seitz.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12261)] [[Project](https://time-travel-rephotography.github.io/)] [[Video](https://youtu.be/eNOGqNCbcV8)]
+
+**Bringing Old Photos Back to Life.**<br>
+*[Ziyu Wan](http://raywzy.com), Bo Zhang, [Dongdong Chen](http://www.dongdongchen.bid/), Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]
+
+**Physics-based Shadow Image Decomposition for Shadow Removal.**<br>
+*Hieu Le, Dimitris Samaras.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13018)]
+
+**Projected Distribution Loss for Image Enhancement.**<br>
+*Mauricio Delbracio, Hossein Talebi, Peyman Milanfar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09289)]
+
+**Polyblur: Removing Mild Blur by Polynomial Reblurring.**<br>
+*Mauricio Delbracio, Ignacio Garcia-Dorado, Sungjoon Choi, Damien Kelly, Peyman Milanfar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09322)]
 
 **High-Resolution Deep Image Matting.**<br>
 *Haichao Yu, Ning Xu, Zilong Huang, Yuqian Zhou, Humphrey Shi.*<br>
@@ -795,10 +819,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.06965)]
 **Path-Restore: Learning Network Path Selection for Image Restoration.**<br>
 *Ke Yu, Xintao Wang, Chao Dong, Xiaoou Tang, Chen Change Loy.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1904.10343)] [[Project](https://yuke93.github.io/Path-Restore/)]
-
-**Bringing Old Photos Back to Life.**<br>
-*[Ziyu Wan](http://raywzy.com), Bo Zhang, [Dongdong Chen](http://www.dongdongchen.bid/), Pan Zhang, Dong Chen, Jing Liao, Fan Wen.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.09484)] [[Project](http://raywzy.com/Old_Photo/)]
 
 **A General Decoupled Learning Framework for Parameterized Image Operators.**<br>
 *Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen.*<br>
