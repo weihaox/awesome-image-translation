@@ -93,6 +93,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 
 ### Change Where You Want
 
+**HOI Analysis: Integrating and Decomposing Human-Object Interaction.**<br>
+*[Yong-Lu Li](https://dirtyharrylyl.github.io/), Xinpeng Liu, Xiaoqian Wu, Yizhuo Li, [Cewu Lu](http://mvig.sjtu.edu.cn/).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://github.com/DirtyHarryLYL/HAKE-Action-Torch)] [[Github](http://github.com/DirtyHarryLYL/HAKE-Action-Torch/tree/IDN-(Integrating-Decomposing-Network))]
+
+**SymNet: Symmetry and Group in Attribute-Object Compositions.**<br>
+*Yong-Lu Li, [Yue Xu](https://silicx.github.io/), Xiaohan Mao, Cewu Lu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00587)] [[Github](https://github.com/DirtyHarryLYL/SymNet)]
+
 **Shapes and Context: In-the-Wild Image Synthesis & Manipulation.**<br>
 *[Aayush Bansal](http://www.cs.cmu.edu/~aayushb/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), [Deva Ramanan](http://www.cs.cmu.edu/~deva/).*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1906.04728)] [[Project](http://www.cs.cmu.edu/~aayushb/OpenShapes/)] [[Github](https://github.com/aayushbansal/OpenShapes)]
@@ -376,6 +384,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 ### Video Prediction and Future Prediction
 
+**Animating Pictures with Eulerian Motion Fields.**<br>
+*Aleksander Holynski, Brian Curless, Steven M. Seitz, Richard Szeliski.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15128)]
+
 **Vid-ODE: Continuous-Time Video Generation with Neural Ordinary Differential Equation.**<br>
 *Sunghyun Park, Kangyeol Kim, Junsoo Lee, Jaegul Choo, Joonseok Lee, Sookyung Kim, Edward Choi.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.08188)]
@@ -417,6 +429,10 @@ ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ST
 ### Videos Generation, Frame Interpolation and Extrapolation
 
 Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/image-generation.md#image-to-video).
+
+**Softmax Splatting for Video Frame Interpolation.**<br>
+*Simon Niklaus, Feng Liu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.05534)] [[Github](http://sniklaus.com/softsplat)]
 
 **FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation.**<br>
 *Tarun Kalluri, Deepak Pathak, Manmohan Chandraker, Du Tran.*<br>
@@ -480,7 +496,6 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00830)]
 *[Huaizu Jiang](http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)] [[Github](https://github.com/avinashpaliwal/Super-SloMo)]
 
-
 ## Multi-Modality Translation
 
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
@@ -489,8 +504,8 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 ### Image-to-Video
 
 **Animating Pictures with Eulerian Motion Fields.**<br>
-*Aleksander Holynski, Brian Curless, Steven M. Seitz, Richard Szeliski.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15128)]
+*[Aleksander Holynski](http://www.holynski.org/), [Brian Curless](https://homes.cs.washington.edu/~curless/), [Steven M. Seitz](https://homes.cs.washington.edu/~seitz/), [Richard Szeliski](http://szeliski.org/RichardSzeliski.htm).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15128)] [[Project](https://eulerian.cs.washington.edu/)] [[Video](https://www.youtube.com/watch?v=4zKliOMilGY)]
 
 **Pose-Guided Human Animation from a Single Image in the Wild.**<br>
 *Jae Shin Yoon, Lingjie Liu, Vladislav Golyanik, Kripasindhu Sarkar, Hyun Soo Park, Christian Theobalt.*<br>
@@ -859,6 +874,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07982)]
 
 ## GAN Improvement
 
+**Exemplar VAE: Linking Generative Models, Nearest Neighbor Retrieval, and Data Augmentation.**<br>
+*Sajad Norouzi, David J. Fleet, Mohammad Norouzi.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2004.04795)] [[Github](https://github.com/sajadn/Exemplar-VAE)]
+
 **Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder.**<br>
 *Tal Daniel, Aviv Tamar.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13253)] [[Project](https://taldatech.github.io/soft-intro-vae-web)]
@@ -1087,6 +1106,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
+
+**TransPose: Towards Explainable Human Pose Estimation by Transformer.**<br>
+*Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
 
 **PCT: PCT: Point Cloud Transformer.**<br>
 *Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu.*<br>
@@ -2115,6 +2138,10 @@ ICCV, 2019.
 ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
 
 ## 2D to 3D Convertion
+
+**Unveiling Real-Life Effects of Online Photo Sharing.**<br>
+*Van-Khoa Nguyen, Adrian Popescu, Jerome Deshayes-Chossart.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13180)]
 
 **Cycle-Consistent Generative Rendering for 2D-3D Modality Translation.**<br>
 *Tristan Aumentado-Armstrong, Alex Levinshtein, Stavros Tsogkas, Konstantinos G. Derpanis, Allan D. Jepson.*<br>

@@ -86,6 +86,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**UMLE: Unsupervised Multi-discriminator Network for Low Light Enhancement.**<br>
+*Yangyang Qu, Kai Chen, Yongsheng Ou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13177)]
+
 **DETR for Pedestrian Detection.**<br>
 *Matthieu Lin, Chuming Li, Xingyuan Bu, Ming Sun, Chen Lin, Junjie Yan, Wanli Ouyang, Zhidong Deng.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06785)]
@@ -253,6 +257,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
 ## NAS and AutoML
+
+**Memory-Efficient Hierarchical Neural Architecture Search for Image Restoration.**<br>
+*Haokui Zhang, Ying Li, Chengrong Gong, Hao Chen, Zongwen Bai, Chunhua Shen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13212)]
 
 **Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement.**<br>
 *Risheng Liu, Long Ma, Jiaao Zhang, Xin Fan, Zhongxuan Luo.*<br>
