@@ -22,6 +22,10 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Occlusion Reasoning](#occlusion-reasoning)
   * [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
   * [Videos Generation, Frame Interpolation and Extrapolation](#videos-generation--frame-interpolation-and-extrapolation)
+- [Multi-modal Representation Learning and Application](#multi-modal-representation-learning-and-application)
+  * [Visual Representation Learning with Transformers](#visual-representation-learning-with-transformers)
+  * [Image-Text Matching (Visual-Semantic/Lingustic Embedding)](#image-text-matching--visual-semantic-lingustic-embedding-)
+  * [Unsupervised Visual Representation Learning](#unsupervised-visual-representation-learning)
 - [Multi-Modality Translation](#multi-modality-translation)
   * [Image-to-Video](#image-to-video)
   * [Text-to-Video](#text-to-video)
@@ -38,9 +42,11 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [StyleGAN-Based Method](#stylegan-based-method)
   * [Transformer-Based](#transformer-based)
   * [Single-Image Training](#single-image-training)
+  * [Data Efficiency](#data-efficiency)
+  * [Dataset Biases and AI Fairness](#dataset-biases-and-ai-fairness)
   * [Hard or Unfamiliar Example](#hard-or-unfamiliar-example)
   * [Data or Distribution Augmentation](#data-or-distribution-augmentation)
-  * [Dataset Biases and AI Fairness](#dataset-biases-and-ai-fairness)
+  * [Long-Tailed, Open Set, and Class-Imbalanced Dataset](#long-tailed--open-set--and-class-imbalanced-dataset)
   * [Spatio-Temporal](#spatio-temporal)
   * [Scene Graph Generation](#scene-graph-generation)
   * [Speech Synthesis](#speech-synthesis)
@@ -496,6 +502,116 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00830)]
 *[Huaizu Jiang](http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)] [[Github](https://github.com/avinashpaliwal/Super-SloMo)]
 
+## Multi-modal Representation Learning and Application
+
+### Visual Representation Learning with Transformers
+
+**HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training.**<br>
+*Linjie Li, Yen-Chun Chen, Yu Cheng, Zhe Gan, Licheng Yu, Jingjing Liu.*<br>
+EMNLP 2020. [[PDF](https://arxiv.org/abs/2005.00200)] [[Github](https://github.com/linjieli222/HERO_Video_Feature_Extractor)]
+
+**Multimodal Pretraining Unmasked: Unifying the Vision and Language BERTs.**<br>
+*Emanuele Bugliarello, Ryan Cotterell, Naoaki Okazaki, Desmond Elliott.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15124)]
+
+**MAG: Integrating Multimodal Information in Large Pretrained Transformers.**<br>
+*Wasifur Rahman, Md. Kamrul Hasan, Sangwu Lee, Amir Zadeh, Chengfeng Mao, Louis-Philippe Morency, Ehsan Hoque.*<br>
+ACL 2020. [[PDF](https://arxiv.org/abs/1908.05787)] [[Github](https://github.com/WasifurRahman/BERT_multimodal_transformer)]
+
+**UNITER: UNiversal Image-TExt Representation Learning.**<br> 
+*Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, Jingjing Liu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1909.11740)] [[Github](https://github.com/ChenRocks/UNITER)]
+
+**VL-BERT: Pre-training of Generic Visual-Linguistic Representations.**<br>
+*Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai.*<br>
+ICLR 2020. [[PDF] (https://arxiv.org/abs/190 8.08530)] [[Github](https://github.com/jackroos/VL-BERT)]
+
+**VILLA: Large-Scale Adversarial Training for Vision-and-Language Representation Learning.**<br>
+*Zhe Gan, Yen-Chun Chen, Linjie Li, Chen Zhu, Yu Cheng, Jingjing Liu.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06195)] [[Github](https://github.com/zhegan27/LXMERT-AdvTrain)]
+
+**LXMERT: Learning Cross-Modality Encoder Representations from Transformers.**<br>
+*Hao Tan, Mohit Bansal.*<br>
+EMNLP 2019. [[PDF](https://arxiv.org/abs/1908.07490)] [[Github](https://github.com/airsplay/lxmert)]
+
+**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.**<br>
+*Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1908.02265)] [[Github](https://github.com/jiasenlu/vilbert_beta)]
+
+**12-in-1: Multi-Task Vision and Language Representation Learning.**<br>
+*Jiasen Lu, Vedanuj Goswami, Marcus Rohrbach, Devi Parikh, Stefan Lee.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02315)] [[Github](https://github.com/facebookresearch/vilbert-multi-task)]
+
+**VisualBERT: A Simple and Performant Baseline for Vision and Language.**<br>
+*Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh, Kai-Wei Chang.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/1908.03557)] [[Github](https://github.com/uclanlp/visualbert)]
+
+### Image-Text Matching (Visual-Semantic/Lingustic Embedding)
+
+[a collection of Image-Text Matching (Visual-Semantic/Lingustic Embedding)](https://blog.csdn.net/weixin_42/article/details/104275300)
+
+**Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs.**<br>
+*Ana Marasović, Chandra Bhagavatula, Jae Sung Park, Ronan Le Bras, Noah A. Smith, Yejin Choi.*<br>
+EMNLP 2020. [[PDF](https://arxiv.org/abs/2010.07526)]
+
+**Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision.**<br>
+*Hao Tan, Mohit Bansal.*<br>
+EMNLP 2020. [[PDF](https://arxiv.org/abs/2010.06775)] [[Github](https://github.com/airsplay/vokenization)]
+
+**VIVO: Surpassing Human Performance in Novel Object Captioning with Visual Vocabulary Pre-Training.**<br>
+*Xiaowei Hu Xi Yin Kevin Lin Lijuan Wang Lei Zhang Jianfeng Gao Zicheng Liu.*<br>
+arxiv 2020. [[PDF](https://www.microsoft.com/en-us/research/publication/vivo-surpassing-human-performance-in-novel-object-captioning-with-visual-vocabulary-pre-training/)] [[Project](https://www.microsoft.com/en-us/research/project/azure-florence-vision-and-language/)]
+
+**CVSE: Consensus-Aware Visual-Semantic Embedding for Image-Text Matching.**<br>
+*Haoran Wang, Ying Zhang, Zhong Ji, Yanwei Pang, Lin Ma.*<br>
+ECCV 2020. [[PDF] (https://arxiv.org/abs/2007.08883)] [[Github](https://github.com/BruceW91/CVSE)]
+
+**Visual Semantic Reasoning for Image-Text Matching.**<br>
+*Kunpeng Li, Yulun Zhang, Kai Li, Yuanyuan Li, Yun Fu.*<br>
+ICCV 2019. [[PDF] (arxiv.org/abs/1909.02701)] [[Github](https://github.com/KunpengLi1994/VSRN)]
+
+**Cross-modal Scene Graph Matching for Relationship-aware Image-Text Retrieval.**<br>
+*Sijin Wang, Ruiping Wang, Ziwei Yao, Shiguang Shan, xilin Chen.*<br>
+WACV 2020. [[PDF](https://arxiv.org/abs/1910.0513)]
+
+**SAN: Saliency-Guided- Attention Network for Image-Sentence Matching.**<br>
+*Zhong Ji, Haoran Wang, Jungong Han, Yanwei Pang.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1904.09471v1)]
+
+**VSE++: Improving Visual-Semantic- Embeddings with Hard Negatives.**<br>
+*Fartash Faghri, David. Fleet, Jamie Ryan Kiros, Sanja Fidler.*<br>
+BMVC 2018. [[PDF](https://arxiv.org/abs/1707.05612)] [[Github](https://github.com/fartashf/vsepp)]
+
+**Deep Fragment Embeddings for Bidirectional Image Sentence Mapping.**<br>
+*Andrej Karpathy, Armand Joulin, Li Fei-Fei.*<br>
+NeurIPS 2014. [[PDF](https://arxiv.org/abs/1406.5679)]
+
+**DeViSE: Deep Visual/Semantic Embedding Model.**<br>
+*Andrea Frome, Greg Corrado, Jonathon ShLens, Samy Bengio, Jeffrey Dean, Marc'Aurelio Ranzato Tomas Mikolov.*<br> 
+NeurIPS 2013. [[PDF](https://static.googleusercontent.com/media/researchgoogle.com/zh-CN/pubs/archive/41473.pdf)]
+
+**Learning Representations from Audio-Visual Spatial Alignment.**<br>
+*Pedro Morgado, Yi Li, Nuno Vasconcelos.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.01819)]
+
+**Representation Learning via Invariant Causal Mechanisms.**<br>
+*Jovana Mitrovic, Brian McWilliams, Jacob Walker, Lars Buesing, Charles Blundell.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07922)] 
+
+**Contrastive Learning of General-Purpose Audio Representations.**<br>
+*Aaqib Saeed, David Grangier, Neil Zeghidour.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.10915)]
+
+**Learning Visual Representations for Transfer Learning by Suppressing Texture.**<br>
+*Shlok Mishra, Anshul Shah, Ankan Bansal, Jonghyun Choi, Abhinav Shrivastava, Abhishek Sharma, David Jacobs.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
+
+### Unsupervised Visual Representation Learning
+
+**Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning.**<br>
+*Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, Han Hu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.com/lucidrains/pixel-level-contrastive-learning)]
+
 ## Multi-Modality Translation
 
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
@@ -748,6 +864,10 @@ arxiv, 15 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.06573v1.pdf)]
 arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)] 
 
 ### Image-and-Voice
+
+**Visual Speech Enhancement Without A Real Visual Stream.**<br>
+*Sindhu B Hegde, K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C.V. Jawahar.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2012.10852)] [[Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/visual-speech-enhancement-without-a-real-visual-stream)] [[Github](https://github.com/Sindhu-Hegde/pseudo-visual-speech-denoising)]
 
 **AudioViewer: Learning to Visualize Sound.**<br>
 *Yuchi Zhang, Willis Peng, Bastian Wandt, Helge Rhodin.*<br>
@@ -1107,6 +1227,22 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
 
+**TransTrack: Multiple-Object Tracking with Transformer.**<br>
+*Peize Sun, Yi Jiang, Rufeng Zhang, Enze Xie, Jinkun Cao, Xinting Hu, Tao Kong, Zehuan Yuan, Changhu Wang, Ping Luo.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15460)]
+
+**Taming Transformers for High-Resolution Image Synthesis.**<br>
+*[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
+
+**SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers.**<br>
+*Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip H.S. Torr, Li Zhang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15840)] [[Project](https://fudan-zvg.github.io/SETR/)]
+
+**DeiT: Training data-efficient image transformers & distillation through attention.**<br>
+*Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12877)] [[Github](https://github.com/facebookresearch/deit)]
+
 **TransPose: Towards Explainable Human Pose Estimation by Transformer.**<br>
 *Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
@@ -1118,10 +1254,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09688)] [[Github](https://github.c
 **End-to-End Human Pose and Mesh Reconstruction with Transformers.**<br>
 *Kevin Lin, Lijuan Wang, Zicheng Liu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
-
-**Taming Transformers for High-Resolution Image Synthesis.**<br>
-*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)]
 
 **Transformer Interpretability Beyond Attention Visualization.**<br>
 *Hila Chefer, Shir Gur, Lior Wolf.*<br>
@@ -1253,6 +1385,51 @@ ICCV 2019 (Best Paper).
 *Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
+### Data Efficiency
+
+**StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
+*Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA
+](https://github.com/woctezuma/steam-stylegan2-ada)]
+
+**DeiT: Training Data-Efficient Image Transformers & Distillation Through Attention.**<br>
+*Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12877)] [[Github](https://github.com/facebookresearch/deit)]
+
+**YuruGAN: Yuru-Chara Mascot Generator Using Generative Adversarial Networks With Clustering Small Dataset.**<br>
+*Yuki Hagiwara, Toshihisa Tanaka.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.08066)]
+
+### Dataset Biases and AI Fairness
+
+**FairGen: Improving the Fairness of Deep Generative Models without Retraining.**<br>
+*[Shuhan Tan](https://ariostgx.github.io/), Yujun Shen, Bolei Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04842)] [[Project](https://genforce.github.io/fairgen/)] [[Github](https://github.com/genforce/fairgen)]
+
+**Positional Encoding as Spatial Inductive Bias in GANs.**<br>
+*Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
+
+**Permuted AdaIN: Reducing the Bias Towards Global Statistics in Image Classification.**<br>
+*Oren Nuriel, Sagie Benaim, Lior Wolf.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05785)] [[Github](https://github.com/onuriel/PermutedAdaIN)]
+
+**A Note on Data Biases in Generative Models.**<br>
+*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
+NeurIPS 2020 Workshop on Machine Learning for Creativity and Design. [[PDF](https://arxiv.org/abs/2012.02516)] [[Github](https://github.com/CompVis/net2net)]
+
+**Fair Generative Modeling via Weak Supervision.**<br>
+*Kristy Choi, Aditya Grover, Trisha Singh, Rui Shu, Stefano Ermon.*<br>
+ICML 2020. [[PDF](http://proceedings.mlr.press/v119/choi20a.html)] [[Github](https://github.com/ermongroup/fairgen)]
+
+**Inclusive GAN: Improving Data and Minority Coverage in Generative Models.**<br>
+*Ning Yu, Ke Li, Peng Zhou, Jitendra Malik, Larry Davis, Mario Fritz.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2004.03355)]
+
+**Bias and Generalization in Deep Generative Models: An Empirical Study.**<br>
+*Shengjia Zhao, Hongyu Ren, Arianna Yuan, Jiaming Song, Noah Goodman, Stefano Ermon.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)]
+
 ### Hard or Unfamiliar Example
 
 **Flexible Few-Shot Learning with Contextual Similarity.**<br>
@@ -1318,35 +1495,80 @@ ICML 2020. [[PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/6095-
 *Shengyu Zhao, Zhijian Liu, Ji Lin, Jun-Yan Zhu, Song Han.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://hanlab.mit.edu/projects/data-efficient-gans/)] [[Github](https://github.com/mit-han-lab/data-efficient-gans)]
 
-### Dataset Biases and AI Fairness
+### Long-Tailed, Open Set, and Class-Imbalanced Dataset
 
-**FairGen: Improving the Fairness of Deep Generative Models without Retraining.**<br>
-*[Shuhan Tan](https://ariostgx.github.io/), Yujun Shen, Bolei Zhou.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04842)] [[Project](https://genforce.github.io/fairgen/)] [[Github](https://github.com/genforce/fairgen)]
+**Feature Space Augmentation for Long-Tailed Data.**<br>
+*Peng Chu, Xiao Bian, Shaopeng Liu, Haibin Ling.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.03673)]
 
-**Positional Encoding as Spatial Inductive Bias in GANs.**<br>
-*Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
+**Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax.**<br>
+*Yu Li, Tao Wang, Bingyi Kang, Sheng Tang, Chunfeng Wang, Jintao Li, Jiashi Feng.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.10408)] [[Github](https://github.com/FishYuLi/BalancedGroupSoftmax)]
 
-**Permuted AdaIN: Reducing the Bias Towards Global Statistics in Image Classification.**<br>
-*Oren Nuriel, Sagie Benaim, Lior Wolf.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05785)] [[Github](https://github.com/onuriel/PermutedAdaIN)]
+**Decoupling Representation and Classifier for Long-Tailed Recognition.**<br>
+*Bingyi Kang, Saining Xie,Marcus Rohrbach, Zhicheng Yan, Albert Gordo, Jiashi Feng, Yannis Kalantidis.*<br>
+ICLR 2020. [[PDF](https://arxiv.org/abs/1910.09217)] [[Github](https://github.com/facebookresearch/classifier-balancing)]
 
-**A Note on Data Biases in Generative Models.**<br>
-*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
-NeurIPS 2020 Workshop on Machine Learning for Creativity and Design. [[PDF](https://arxiv.org/abs/2012.02516)] [[Github](https://github.com/CompVis/net2net)]
+**Open-World Learning Without Labels.**<br>
+*Mohsen Jafarzadeh, Akshay Raj Dhamija, Steve Cruz, Chunchun Li, Touqeer Ahmad, Terrance E. Boult.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 
-**Fair Generative Modeling via Weak Supervision.**<br>
-*Kristy Choi, Aditya Grover, Trisha Singh, Rui Shu, Stefano Ermon.*<br>
-ICML 2020. [[PDF](http://proceedings.mlr.press/v119/choi20a.html)] [[Github](https://github.com/ermongroup/fairgen)]
+**M2M: Imbalanced Classification via Major-to-Minor Translation.**<br>
+*Jaehyung Kim, Jongheon Jeong, Jinwoo Shin.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
 
-**Inclusive GAN: Improving Data and Minority Coverage in Generative Models.**<br>
-*Ning Yu, Ke Li, Peng Zhou, Jitendra Malik, Larry Davis, Mario Fritz.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2004.03355)]
+**Rethinking the Value of Labels for Improving Class-Imbalanced Learning.**<br>
+*Yuzhe Yang, Zhi Xu.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.07529)] [[Github](https://github.com/YyzHarry/imbalanced-semi-self)]
 
-**Bias and Generalization in Deep Generative Models: An Empirical Study.**<br>
-*Shengjia Zhao, Hongyu Ren, Arianna Yuan, Jiaming Song, Noah Goodman, Stefano Ermon.*<br>
-NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)]
+**OSLNet: Deep Small-Sample Classification with an Orthogonal Softmax Layer.**<br>
+*Xiaoxu Li, Dongliang Chang, Zhanyu Ma, Zheng-Hua Tan, Jing-Hao Xue, Jie Cao, Jingyi Yu, Jun Guo.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2004.09033)] [[Github](https://github.com/dongliangchang/OSLNet)] 
+
+**Towards Inheritable Models for Open-Set Domain Adaptation.**<br>
+*Jogendra Nath Kundu, Naveen Venkat, Ambareesh Revanur, Rahul M V, R. Venkatesh Babu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.com/val-iisc/inheritune)]
+
+**BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.**<br>
+*Boyan Zhou, Quan Cui, Xiu-Shen Wei, Zhao-Min Chen.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1912.02413)] [[Github](https://github.com/Megvii-Nanjing/BBN)]
+
+**Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective.**<br>
+*Muhammad Abdullah Jamal, Matthew Brown, Ming-Hsuan Yang, Liqiang Wang, Boqing Gong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.10780)]
+
+**Domain Balancing: Face Recognition on Long-Tailed Domains.**<br>
+*Dong Cao, Xiangyu Zhu, Xingyu Huang, Jianzhu Guo, Zhen Lei.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13791)]
+
+<details>
+  <summary> Datasets </summary> 
+<li><a href="https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/">MS-Celeb-1M</a>. Challenge of Recognizing One Million Celebrities in the Real World.</li>
+<li><a href="https://pgram.com/dataset/casia-webface/">CASIA-WebFace</a>. The CASIA WebFace Facial Dataset consists of 453,453 images over 10,575 identities after face detection. This dataset can be download from <a href="https://pan.baidu.com/s/1hQCOD4Kr66MOW0_PE8bL0w">Baidu Cloud</a> with password y3wj or <a href="https://drive.google.com/open?id=1Of_EVz-yHV7QVWQGihYfvtny9Ne8qXVz">Google Drive</a>. The original <a href="http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html">CASIA-webface Dataset</a> is very dirty and requires some filtering for quality. <a href="https://github.com/happynear/FaceVerification">Some</a> have washed the CASIA-webface database manually. After washing, 27703 wrong images are deleted. The washed list can be downloaded from <a href="http://pan.baidu.com/s/1hrKpbm8">Baidu Cloud</a>. There is also a <a href="https://1drv.ms/u/s!AjMP8wpvXdkfhMhnmNDEdj5oor7M_A">CASIA-maxpy-clean.zip</a> that kindly shared by <a href="https://github.com/cmusatyalab/openface/issues/119">OpenFace</a> Community.</li>
+</details>
+
+**DRAGON: Long-tail learning with attributes.**<br>
+*Dvir Samuel, Yuval Atzmon, Gal Chechik.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02235)] [[Github](https://github.com/dvirsamuel/DRAGON)]
+
+<details>
+  <summary> Datasets </summary>
+<li><a href="http://www.vision.caltech.edu/visipedia/CUB-200-2011.html">CUB-200-2011</a>. The Caltech-UCSD Birds-200-2011 contains 11,788 visual images of 200 bird species for fine-grained classification. Each species is described by 312 binary attributes (like tail-pattern:solid, wing-color:black).</li>
+<li><a href="http://groups.csail.mit.edu/vision/SUN/">SUN</a>. The SUN Attribute Database contains 14,340 complex visual scenes, from 717 scene types and 102 attributes (like material:rock, function:eating, surface:glossy).</li>
+<li><a href="http://attributes.kyb.tuebingen.mpg.de/">AWA</a>. The Animals with Attributes consists of 30,475 images of 50 animal classes and 85 attributes(like texture: furry, or color: black).</li>
+</details>
+
+**OLTR: Large-Scale Long-Tailed Recognition in an Open World.**<br>
+*[Ziwei Liu](https://liuziwei7.github.io/), [Zhongqi Miao](https://github.com/zhmiao), [Xiaohang Zhan](https://xiaohangzhan.github.io/), [Jiayun Wang](http://pwang.pw/), [Boqing Gong](http://boqinggong.info/), [Stella X. Yu](https://www1.icsi.berkeley.edu/~stellayu/).*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1904.05160)] [[Github](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)] [[Project](https://liuziwei7.github.io/projects/LongTail.html)]
+
+**Long-Tailed Recognition Using Class-Balanced Experts.**<br>
+*Saurabh Sharma, Ning Yu, Mario Fritz, Bernt Schiele.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03706)]
+
+**Learning to Segment the Tail.**<br>
+*Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
 
 ### Spatio-Temporal
 

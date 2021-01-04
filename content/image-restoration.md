@@ -14,6 +14,10 @@
 
 ## Replacing ISP
 
+**Learning Multi-Scale Photo Exposure Correction.**<br>
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Konstantinos G. Derpanis](https://www.cs.ryerson.ca/kosta/), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.11596)] [[Github](https://github.com/mahmoudnafifi/Exposure_Correction)] [[Exposure Errors Dataset]()]
+
 **Rendering Natural Camera Bokeh Effect with Deep Learning.**<br>
 *Andrey Ignatov, Jagruti Patel, Radu Timofte.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.05698)] [[Project](http://people.ee.ethz.ch/~ihnatova/pynet-bokeh.html)] [[Everything is Better with Bokeh!  Dataset](https://competitions.codalab.org/competitions/24716)]
@@ -85,6 +89,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 3DV 2019. [[PDF](https://arxiv.org/abs/2001.04775)]
 
 ## Unpaired or Misaligned Data
+
+**Unpaired Image Enhancement with Quality-Attention Generative Adversarial Network.**<br>
+*Zhangkai Ni, Wenhan Yang, Shiqi Wang, Lin Ma, Sam Kwong.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15052)]
 
 **UMLE: Unsupervised Multi-discriminator Network for Low Light Enhancement.**<br>
 *Yangyang Qu, Kai Chen, Yongsheng Ou.*<br>
@@ -427,6 +435,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**SharpGAN: Receptive Field Block Net for Dynamic Scene Deblurring.**<br>
+*Hui Feng, Jundong Guo, Sam Shuzhi Ge.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15432)]
 
 **Time-Travel Rephotography.**<br>
 *Xuan Luo, Xuaner Zhang, Paul Yoo, Ricardo Martin-Brualla, Jason Lawrence, Steven M. Seitz.*<br>
