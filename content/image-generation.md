@@ -550,6 +550,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1908.03557)] [[Github](https://github
 
 [a collection of Image-Text Matching (Visual-Semantic/Lingustic Embedding)](https://blog.csdn.net/weixin_42/article/details/104275300)
 
+**Similarity Reasoning and Filtration for Image-Text Matching.**<br>
+*Haiwen Diao, Ying Zhang, Lin Ma, Huchuan Lu.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2101.01368)]
+
 **Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs.**<br>
 *Ana Marasović, Chandra Bhagavatula, Jae Sung Park, Ronan Le Bras, Noah A. Smith, Yejin Choi.*<br>
 EMNLP 2020. [[PDF](https://arxiv.org/abs/2010.07526)]
@@ -612,6 +616,11 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
 *Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, Han Hu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.com/lucidrains/pixel-level-contrastive-learning)]
 
+**VinVL: Making Visual Representations Matter in Vision-Language Models.**<br>
+*Pengchuan Zhang, Xiujun Li, Xiaowei Hu, Jianwei Yang, Lei Zhang, Lijuan Wang, Yejin Choi, Jianfeng Gao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00529)]
+
+
 ## Multi-Modality Translation
 
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
@@ -658,6 +667,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1710.00421)]
 IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 
 ### Image-to-Text
+
+**End-to-End Video Question-Answer Generation with Generator-Pretester Network.**<br>
+*Hung-Ting Su, Chen-Hsi Chang, Po-Wei Shen, Yu-Siang Wang, Ya-Liang Chang, Yu-Cheng Chang, Pu-Jen Cheng, Winston H. Hsu.*<br>
+TCSVT 2020. [[PDF](https://arxiv.org/abs/2101.01447)]
 
 **RecipeNLG: A Cooking Recipes Dataset for Semi-Structured Text Generation.**<br>
 *Michał Bień, Michał Gilski, Martyna Maciejewska, Wojciech Taisner, Dawid Wiśniewski, Agnieszka Ławrynowicz.*<br>
@@ -1227,6 +1240,25 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
 
+**A Survey on Visual Transformer.**<br>
+*Kai Han, Yunhe Wang, Hanting Chen, Xinghao Chen, Jianyuan Guo, Zhenhua Liu, Yehui Tang, An Xiao, Chunjing Xu, Yixing Xu, Zhaohui Yang, Yiman Zhang, Dacheng Tao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12556)]
+
+**Transformers in Vision: A Survey.**<br>
+*Salman Khan, Muzammal Naseer, Munawar Hayat, Syed Waqas Zamir, Fahad Shahbaz Khan, Mubarak Shah.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
+
+**DALL·E: Creating Images from Text.**<br>
+*OpenAI.*<br> [[Blog](https://openai.com/blog/dall-e/#fn1)]
+
+**CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
+*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
+2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)]
+
+**Transformer for Image Quality Assessment.**<br>
+*Junyong You, Jari Korhonen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01097)]
+
 **TransTrack: Multiple-Object Tracking with Transformer.**<br>
 *Peize Sun, Yi Jiang, Rufeng Zhang, Enze Xie, Jinkun Cao, Xinting Hu, Tao Kong, Zehuan Yuan, Changhu Wang, Ping Luo.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15460)]
@@ -1657,6 +1689,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1910.06711)] [[Github](https://github
 arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.com/NVIDIA/waveglow)] [[Project](https://nv-adlr.github.io/WaveGlow)]
 
 ### Misc
+
+**Generative Max-Mahalanobis Classifiers for Image Classification, Generation and More.**<br>
+*Xiulong Yang, Hui Ye, Yang Ye, Xiang Li, Shihao Ji.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00122)]
 
 **Intrinsic Temporal Regularization for High-resolution Human Video Synthesis.**<br>
 *Lingbo Yang, Zhanning Gao, Peiran Ren, Siwei Ma, Wen Gao.*<br>
@@ -2176,9 +2212,13 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
 [[Awesome-GANS-and-Deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes)]
 
+**WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection.**<br>
+*Bojia Zi, Minghao Chang, Jingjing Chen, Xingjun Ma, Yu-Gang Jiang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01456)]
+
 **DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.**<br>
 *[Liming Jiang](https://liming-jiang.com/), [Wayne Wu](https://wywu.github.io/), [Ren Li](https://liren2515.github.io/page/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
-arxiv, 9 Jan 2020.
+arxiv 2020.
 [[PDF](https://arxiv.org/abs/2001.03024)] 
 [[Project](https://liming-jiang.com/projects/DrF1/DrF1.html)]
 [[DeeperForensics-1.0 Dataset](https://github.com/EndlessSora/DeeperForensics-1.0)]

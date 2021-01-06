@@ -16,6 +16,10 @@ Feedback and contributions are welcome!
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
+**OSTeC: One-Shot Texture Completion.**<br>
+*Baris Gecer, Jiankang Deng, Stefanos Zafeiriou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15370)] [[Github](https://github.com/barisgecer/OSTeC)]
+
 **Improved StyleGAN Embedding: Where are the Good Latents?**<br>
 *Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09036)]

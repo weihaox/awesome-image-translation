@@ -436,6 +436,18 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**ForkGAN: Seeing into the Rainy Night.**<br>
+*Zheng Ziqiang, Wu Yang, Han Xinran, Shi Jianbo.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf)] [[Github](https://github.com/zhengziqiang/ForkGAN)]
+
+**Learning from Synthetic Shadows for Shadow Detection and Removal.**<br>
+*Naoto Inoue, Toshihiko Yamasaki.*<br>
+TCSVT 2021. [[PDF](https://arxiv.org/abs/2101.01713)]
+
+**Consensus-Guided Correspondence Denoising.**<br>
+*Chen Zhao, Yixiao Ge, Jiaqi Yang, Feng Zhu, Rui Zhao, Hongsheng Li.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00591)]
+
 **SharpGAN: Receptive Field Block Net for Dynamic Scene Deblurring.**<br>
 *Hui Feng, Jundong Guo, Sam Shuzhi Ge.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15432)]
