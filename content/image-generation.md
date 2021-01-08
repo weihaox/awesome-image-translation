@@ -99,6 +99,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 
 ### Change Where You Want
 
+**GAN-Control: Explicitly Controllable GANs.**<br>
+*Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2101.02477)]
+
 **HOI Analysis: Integrating and Decomposing Human-Object Interaction.**<br>
 *[Yong-Lu Li](https://dirtyharrylyl.github.io/), Xinpeng Liu, Xiaoqian Wu, Yizhuo Li, [Cewu Lu](http://mvig.sjtu.edu.cn/).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://github.com/DirtyHarryLYL/HAKE-Action-Torch)] [[Github](http://github.com/DirtyHarryLYL/HAKE-Action-Torch/tree/IDN-(Integrating-Decomposing-Network))]
@@ -504,7 +508,15 @@ CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.c
 
 ## Multi-modal Representation Learning and Application
 
-### Visual Representation Learning with Transformers
+### Visual Representation Learning (with Transformers)
+
+**CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
+*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
+2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)]
+
+**VirTex: Learning Visual Representations from Textual Annotations.**<br>
+*Karan Desai, Justin Johnson.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06666)] [[Github](https://github.com/kdexd/virtex)]
 
 **HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training.**<br>
 *Linjie Li, Yen-Chun Chen, Yu Cheng, Zhe Gan, Licheng Yu, Jingjing Liu.*<br>
@@ -1007,6 +1019,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07982)]
 
 ## GAN Improvement
 
+**Focal Frequency Loss for Generative Models.**<br>
+*[Liming Jiang](https://liming-jiang.com/), [Bo Dai](http://daibo.info/), [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
+arXiv 2020. [[PDF](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
+
 **Exemplar VAE: Linking Generative Models, Nearest Neighbor Retrieval, and Data Augmentation.**<br>
 *Sajad Norouzi, David J. Fleet, Mohammad Norouzi.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2004.04795)] [[Github](https://github.com/sajadn/Exemplar-VAE)]
@@ -1240,6 +1256,8 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
 
+#### Survey
+
 **A Survey on Visual Transformer.**<br>
 *Kai Han, Yunhe Wang, Hanting Chen, Xinghao Chen, Jianyuan Guo, Zhenhua Liu, Yehui Tang, An Xiao, Chunjing Xu, Yixing Xu, Zhaohui Yang, Yiman Zhang, Dacheng Tao.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12556)]
@@ -1248,44 +1266,116 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12556)]
 *Salman Khan, Muzammal Naseer, Munawar Hayat, Syed Waqas Zamir, Fahad Shahbaz Khan, Mubarak Shah.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
-**DALL·E: Creating Images from Text.**<br>
-*OpenAI.*<br> [[Blog](https://openai.com/blog/dall-e/#fn1)]
+#### 3D 
 
-**CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
-*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
-2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)]
-
-**Transformer for Image Quality Assessment.**<br>
-*Junyong You, Jari Korhonen.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01097)]
-
-**TransTrack: Multiple-Object Tracking with Transformer.**<br>
-*Peize Sun, Yi Jiang, Rufeng Zhang, Enze Xie, Jinkun Cao, Xinting Hu, Tao Kong, Zehuan Yuan, Changhu Wang, Ping Luo.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15460)]
-
-**Taming Transformers for High-Resolution Image Synthesis.**<br>
-*[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
-
-**SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers.**<br>
-*Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip H.S. Torr, Li Zhang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15840)] [[Project](https://fudan-zvg.github.io/SETR/)]
-
-**DeiT: Training data-efficient image transformers & distillation through attention.**<br>
-*Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12877)] [[Github](https://github.com/facebookresearch/deit)]
-
-**TransPose: Towards Explainable Human Pose Estimation by Transformer.**<br>
-*Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
+**Human Mesh Recovery from Multiple Shots.**<br>
+*Georgios Pavlakos, Jitendra Malik, Angjoo Kanazawa.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2012.09843.pdf)] [[Github](https://geopavlakos.github.io/multishot)]
 
 **PCT: PCT: Point Cloud Transformer.**<br>
 *Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09688)] [[Github](https://github.com/MenghaoGuo/PCT)]
 
+**Point Transformer.**<br>
+*Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09164)]
+
+**Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers.**<br>
+*Zhaoshuo Li, Xingtong Liu, Francis X. Creighton, Russell H. Taylor, Mathias Unberath.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02910)] [[Github](https://github.com/mli0603/stereo-transformer)]
+
+**TransPose: Towards Explainable Human Pose Estimation by Transformer.**<br>
+*Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
+
 **End-to-End Human Pose and Mesh Reconstruction with Transformers.**<br>
 *Kevin Lin, Lijuan Wang, Zicheng Liu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
+
+#### Multi-modality
+
+**DALL·E: Creating Images from Text.**<br>
+*OpenAI.*<br> [[Blog](https://openai.com/blog/dall-e/#fn1)] [[Github](https://github.com/lucidrains/DALLE-pytorch)]
+
+**CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
+*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
+2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)]
+
+**COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning.**<br>
+*Simon Ging, Mohammadreza Zolfaghari, Hamed Pirsiavash, Thomas Brox.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github.com/gingsi/coot-videotext)]
+
+#### Tracking, Detection and Segmentation
+
+**LSTR: End-to-end Lane Shape Prediction with Transformers.**<br>
+*Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.04233)] [[Github](https://github.com/liuruijin17/LSTR)]
+
+**Line Segment Detection Using Transformers without Edges.**<br>
+*Yifan Xu, Weijian Xu, David Cheung, Zhuowen Tu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01909)]
+
+**SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers.**<br>
+*Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip H.S. Torr, Li Zhang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15840)] [[Project](https://fudan-zvg.github.io/SETR/)]
+
+**TrackFormer: Multi-Object Tracking with Transformers.**<br>
+*Tim Meinhardt, Alexander Kirillov, Laura Leal-Taixe, Christoph Feichtenhofer.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02702)]
+
+**TransTrack: Multiple-Object Tracking with Transformer.**<br>
+*Peize Sun, Yi Jiang, Rufeng Zhang, Enze Xie, Jinkun Cao, Xinting Hu, Tao Kong, Zehuan Yuan, Changhu Wang, Ping Luo.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15460)]
+
+**MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers.**<br>
+*Huiyu Wang, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00759)]
+
+**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.**<br>
+*Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09094)]
+
+**End-to-End Video Instance Segmentation with Transformers.**<br>
+*Yuqing Wang, Zhaoliang Xu, Xinlong Wang, Chunhua Shen, Baoshan Cheng, Hao Shen, Huaxia Xia.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14503)]
+
+**Visual Transformers: Token-based Image Representation and Processing for Computer Vision.**<br>
+*Bichen Wu, Chenfeng Xu, Xiaoliang Dai, Alvin Wan, Peizhao Zhang, Zhicheng Yan, Masayoshi Tomizuka, Joseph Gonzalez, Kurt Keutzer, Peter Vajda.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.03677)] [[Github](https://github.com/tahmid0007/VisualTransformers)]
+
+**Deformable DETR: Deformable Transformers for End-to-End Object Detection.**<br>
+*Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04159)]
+
+**Topological Planning with Transformers for Vision-and-Language Navigation.**<br>
+*Kevin Chen, Junshen K. Chen, Jo Chuang, Marynel Vázquez, Silvio Savarese.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05292)]
+
+**RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder.**<br>
+*Cheng Chi, Fangyun Wei, Han Hu.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
+
+#### Generation
+
+**Transformer for Image Quality Assessment.**<br>
+*Junyong You, Jari Korhonen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01097)]
+
+**ConvTransformer: A Convolutional Transformer Network for Video Frame Synthesis.**<br>
+*Zhouyong Liu, Shun Luo, Wubin Li, Jingben Lu, Yufan Wu, Chunguo Li, Luxi Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10185)]
+
+**General Invertible Transformations for Flow-based Generative Modeling.**<br>
+*Jakub M. Tomczak.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15056v1)] [[Github](https://github.com/jmtomczak/git_flow)]
+
+**Taming Transformers for High-Resolution Image Synthesis.**<br>
+*[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
+
+**DeiT: Training data-efficient image transformers & distillation through attention.**<br>
+*Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12877)] [[Github](https://github.com/facebookresearch/deit)]
 
 **Transformer Interpretability Beyond Attention Visualization.**<br>
 *Hila Chefer, Shir Gur, Lior Wolf.*<br>
@@ -1295,73 +1385,17 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09838)]
 *Xinpeng Wang, Chandan Yeshwanth, Matthias Nießner.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09793)]
 
-**Point Transformer.**<br>
-*Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09164)]
+**Synthesizer: Rethinking Self-Attention in Transformer Models.**<br>
+*Yi Tay, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2005.00743)] [[Github](https://github.com/10-zin/Synthesizer)]
 
 **Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network.**<br>
 *Jiayi Ji, Yunpeng Luo, Xiaoshuai Sun, Fuhai Chen, Gen Luo, Yongjian Wu, Yue Gao, Rongrong Ji.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2012.07061)]
 
-**RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder.**<br>
-*Cheng Chi, Fangyun Wei, Han Hu.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
-
-**TTSR: Learning Texture Transformer Network for Image Super-Resolution.**<br>
-*Fuzhi Yang, Huan Yang, Jianlong Fu, Hongtao Lu, Baining Guo.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.com/researchmm/TTSR)]
-
-**ConvTransformer: A Convolutional Transformer Network for Video Frame Synthesis.**<br>
-*Zhouyong Liu, Shun Luo, Wubin Li, Jingben Lu, Yufan Wu, Chunguo Li, Luxi Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10185)]
-
-**Topological Planning with Transformers for Vision-and-Language Navigation.**<br>
-*Kevin Chen, Junshen K. Chen, Jo Chuang, Marynel Vázquez, Silvio Savarese.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05292)]
-
-**Synthesizer: Rethinking Self-Attention in Transformer Models.**<br>
-*Yi Tay, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2005.00743)] [[Github](https://github.com/10-zin/Synthesizer)]
-
-**Pre-Trained Image Processing Transformer.**<br>
-*Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
-
-**MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers.**<br>
-*Huiyu Wang, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00759)]
-
-**FPT: Feature Pyramid Transformer.**<br>
-*Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09451)] [[Github](https://github.com/ZHANGDONG-NJUST/FPT)]
-
-**General Invertible Transformations for Flow-based Generative Modeling.**<br>
-*Jakub M. Tomczak.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15056v1)] [[Github](https://github.com/jmtomczak/git_flow)]
-
-**End-to-End Video Instance Segmentation with Transformers.**<br>
-*Yuqing Wang, Zhaoliang Xu, Xinlong Wang, Chunhua Shen, Baoshan Cheng, Hao Shen, Huaxia Xia.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14503)]
-
-**R-Transformer: Recurrent Neural Network Enhanced Transformer.**<br>
-*Zhiwei Wang, Yao Ma, Zitao Liu, Jiliang Tang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/1907.05572)] [[Github](https://github.com/DSE-MSU/R-transformer)]
-
-**LSTR: End-to-end Lane Shape Prediction with Transformers.**<br>
-*Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong.*<br>
-WACV 2021. [[PDF](https://arxiv.org/abs/2011.04233)] [[Github](https://github.com/liuruijin17/LSTR)]
-
-**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.**<br>
-*Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09094)]
-
-**Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers.**<br>
-*Zhaoshuo Li, Xingtong Liu, Francis X. Creighton, Russell H. Taylor, Mathias Unberath.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02910)] [[Github](https://github.com/mli0603/stereo-transformer)]
-
 **Vision Transformer-An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.**<br>
 *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby.*<br>
-ICLR 2021 submission. [[PDF](https://arxiv.org/abs/2010.11929)] [[Official](https://github.com/google-research/vision_transformer)] [[Github](https://github.com/lukemelas/PyTorch-Pretrained-ViT)] [[Github](https://github.com/lucidrains/vit-pytorch)] [[Github](https://github.com/gupta-abhay/ViT)] [[Code Collection](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers)]
+ICLR 2021. [[PDF](https://arxiv.org/abs/2010.11929)] [[Official](https://github.com/google-research/vision_transformer)] [[Github](https://github.com/lukemelas/PyTorch-Pretrained-ViT)] [[Github](https://github.com/lucidrains/vit-pytorch)] [[Github](https://github.com/gupta-abhay/ViT)] [[Code Collection](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers)]
 
 **Image-GPT: Generative Pretraining from Pixels.**<br>
 *Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
@@ -1371,25 +1405,29 @@ Tech Report 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_fr
 *Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
 ICML 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
 
-**COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning.**<br>
-*Simon Ging, Mohammadreza Zolfaghari, Hamed Pirsiavash, Thomas Brox.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github.com/gingsi/coot-videotext)]
+#### Restoration
 
-**RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder.**<br>
-*Cheng Chi, Fangyun Wei, Han Hu.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
+**TTSR: Learning Texture Transformer Network for Image Super-Resolution.**<br>
+*Fuzhi Yang, Huan Yang, Jianlong Fu, Hongtao Lu, Baining Guo.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.com/researchmm/TTSR)]
 
-**Point Transformer.**<br>
-*Nico Engel, Vasileios Belagiannis, Klaus Dietmayer.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00931)]
+**Pre-Trained Image Processing Transformer.**<br>
+*Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
+
+#### Misc
+
+**FPT: Feature Pyramid Transformer.**<br>
+*Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09451)] [[Github](https://github.com/ZHANGDONG-NJUST/FPT)]
+
+**R-Transformer: Recurrent Neural Network Enhanced Transformer.**<br>
+*Zhiwei Wang, Yao Ma, Zitao Liu, Jiliang Tang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1907.05572)] [[Github](https://github.com/DSE-MSU/R-transformer)]
 
 **Rethinking Attention with Performers.**<br>
 *Krzysztof Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy Colwell, Adrian Weller.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.14794)] [[Github](https://github.com/google-research/google-research/tree/master/performer)]
-
-**Deformable DETR: Deformable Transformers for End-to-End Object Detection.**<br>
-*Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04159)]
 
 ### Single-Image Training 
 
@@ -1423,6 +1461,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA
 ](https://github.com/woctezuma/steam-stylegan2-ada)]
+
+**VirTex: Learning Visual Representations from Textual Annotations.**<br>
+*Karan Desai, Justin Johnson.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06666)] [[Github](https://github.com/kdexd/virtex)]
 
 **DeiT: Training Data-Efficient Image Transformers & Distillation Through Attention.**<br>
 *Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>
@@ -1528,6 +1570,10 @@ ICML 2020. [[PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/6095-
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://hanlab.mit.edu/projects/data-efficient-gans/)] [[Github](https://github.com/mit-han-lab/data-efficient-gans)]
 
 ### Long-Tailed, Open Set, and Class-Imbalanced Dataset
+
+**Few-Shot Learning with Class Imbalance.**<br>
+*Mateusz Ochal, Massimiliano Patacchiola, Amos Storkey, Jose Vazquez, Sen Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02523)]
 
 **Feature Space Augmentation for Long-Tailed Data.**<br>
 *Peng Chu, Xiao Bian, Shaopeng Liu, Haibin Ling.*<br>

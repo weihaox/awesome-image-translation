@@ -318,6 +318,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11831)] [[Github](https://github.c
 
 ## Image Quality Assessment
 
+**Image Quality Assessment for Perceptual Image Restoration: A New Dataset, Benchmark and Metric.**<br>
+*Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, Jimmy Ren, Chao Dong.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2011.15002)] [[Project](https://www.jasongt.com/projectpages/pipal.html)]
+
 **Consolidated Dataset and Metrics for High-Dynamic-Range Image Quality.**<br>
 *Aliaksei Mikhailiuk, Maria Perez-Ortiz, Dingcheng Yue, Wilson Suen, Rafal K. Mantiuk.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10758)]
