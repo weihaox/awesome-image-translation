@@ -23,7 +23,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
   * [Videos Generation, Frame Interpolation and Extrapolation](#videos-generation--frame-interpolation-and-extrapolation)
 - [Multi-modal Representation Learning and Application](#multi-modal-representation-learning-and-application)
-  * [Visual Representation Learning with Transformers](#visual-representation-learning-with-transformers)
+  * [Visual Representation Learning (with Transformers)](#visual-representation-learning--with-transformers-)
   * [Image-Text Matching (Visual-Semantic/Lingustic Embedding)](#image-text-matching--visual-semantic-lingustic-embedding-)
   * [Unsupervised Visual Representation Learning](#unsupervised-visual-representation-learning)
 - [Multi-Modality Translation](#multi-modality-translation)
@@ -41,6 +41,13 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Invertible Neural Network (Flow-based Generative Model)](#invertible-neural-network--flow-based-generative-model-)
   * [StyleGAN-Based Method](#stylegan-based-method)
   * [Transformer-Based](#transformer-based)
+    + [Survey](#survey)
+    + [3D](#3d)
+    + [Multi-modality](#multi-modality)
+    + [Tracking, Detection and Segmentation](#tracking--detection-and-segmentation)
+    + [Generation](#generation)
+    + [Restoration](#restoration)
+    + [Misc](#misc)
   * [Single-Image Training](#single-image-training)
   * [Data Efficiency](#data-efficiency)
   * [Dataset Biases and AI Fairness](#dataset-biases-and-ai-fairness)
@@ -48,9 +55,11 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Data or Distribution Augmentation](#data-or-distribution-augmentation)
   * [Long-Tailed, Open Set, and Class-Imbalanced Dataset](#long-tailed--open-set--and-class-imbalanced-dataset)
   * [Spatio-Temporal](#spatio-temporal)
-  * [Scene Graph Generation](#scene-graph-generation)
-  * [Speech Synthesis](#speech-synthesis)
-  * [Misc](#misc)
+  * [Neural Network Interpretability](#neural-network-interpretability)
+  * [Others](#others)
+    + [Scene Graph Generation](#scene-graph-generation)
+    + [Speech Synthesis](#speech-synthesis)
+    + [misc](#misc)
 - [DeepFake and Forensic](#deepfake-and-forensic)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
 - [Free-Hand Sketch](#free-hand-sketch)
@@ -59,13 +68,13 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 ## Industry Demo or Product
 
-Google [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html).
+**Google**: [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html).
 
-Adobe Sensei: Material World, Scantastic, Sharp Shot, Super Dancing Queen/King, 2D Plus, Comic Blast, AR Together.
+**Adobe Sensei**: Material World, Scantastic, Sharp Shot, Super Dancing Queen/King, 2D Plus, Comic Blast, AR Together.
 
-Nvidia Maxine: Nvidia’s AI-powered video-conferencing technology.
+**Nvidia Maxine**: Nvidia’s AI-powered video-conferencing technology.
 
-Nvidia Imaginaire: [Imaginaire](https://github.com/NVlabs/imaginaire) is a pytorch library that contains optimized implementation of several image and video synthesis methods developed at NVIDIA.
+**Nvidia Imaginaire**: [Imaginaire](https://github.com/NVlabs/imaginaire) is a pytorch library that contains optimized implementation of several image and video synthesis methods developed at NVIDIA.
 
 ## Interactive and Controllable Image Manipulation
 
@@ -392,7 +401,11 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohang
 *Mariko Isogawa, Dorian Chan, Ye Yuan, Kris Kitani, Matthew O'Toole.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
-### Video Prediction and Future Prediction
+### Video Generation and Future Prediction
+
+**InMoDeGAN: Interpretable Motion Decomposition Generative Adversarial Network for Video Generation.**<br>
+*Yaohui Wang, Francois Bremond, Antitza Dantcheva.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03049)] [[Project](https://wyhsirius.github.io/InMoDeGAN/)]
 
 **Animating Pictures with Eulerian Motion Fields.**<br>
 *Aleksander Holynski, Brian Curless, Steven M. Seitz, Richard Szeliski.*<br>
@@ -890,6 +903,10 @@ arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)]
 
 ### Image-and-Voice
 
+**VisualVoice: Audio-Visual Speech Separation with Cross-Modal Consistency.**<br>
+*Ruohan Gao, Kristen Grauman.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2101.03149)] [[Project](http://vision.cs.utexas.edu/projects/VisualVoice/)]
+
 **Visual Speech Enhancement Without A Real Visual Stream.**<br>
 *Sindhu B Hegde, K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C.V. Jawahar.*<br>
 WACV 2021. [[PDF](https://arxiv.org/abs/2012.10852)] [[Project](http://cvit.iiit.ac.in/research/projects/cvit-projects/visual-speech-enhancement-without-a-real-visual-stream)] [[Github](https://github.com/Sindhu-Hegde/pseudo-visual-speech-denoising)]
@@ -1301,6 +1318,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
 2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)]
 
+**VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search.**<br>
+*Xiaopeng Lu, Tiancheng Zhao, Kyusong Lee.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00265)]
+
 **COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning.**<br>
 *Simon Ging, Mohammadreza Zolfaghari, Hamed Pirsiavash, Thomas Brox.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github.com/gingsi/coot-videotext)]
@@ -1670,7 +1691,15 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08429)] [[Github](https://github.co
 *Abhinav Sagar.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 
-### Scene Graph Generation
+### Neural Network Interpretability
+
+**A Survey on Neural Network Interpretability.**<br>
+*Yu Zhang, Peter Tiňo, Aleš Leonardis, Ke Tang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.14261)]
+
+### Others
+
+#### Scene Graph Generation
 
 **Scene Graph to Image Generation with Contextualized Object Layout Refinement.**<br>
 *Maor Ivgi, Yaniv Benny, Avichai Ben-David, Jonathan Berant, Lior Wolf.*<br>
@@ -1712,7 +1741,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12373)]
 *[Roei Herzig](https://roeiherz.github.io/), [Amir Bar](http://www.amirbar.net/), [Huijuan Xu](https://cs-people.bu.edu/hxu/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Amir Globerson](http://www.cs.tau.ac.il/~gamir/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
 
-### Speech Synthesis
+#### Speech Synthesis
 
 **HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.**<br>
 *Jungil Kong, Jaehyeon Kim, Jaekyoung Bae.*<br>
@@ -1734,7 +1763,7 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1910.06711)] [[Github](https://github
 *Ryan Prenger, Rafael Valle, and Bryan Catanzaro.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.com/NVIDIA/waveglow)] [[Project](https://nv-adlr.github.io/WaveGlow)]
 
-### Misc
+#### misc
 
 **Generative Max-Mahalanobis Classifiers for Image Classification, Generation and More.**<br>
 *Xiulong Yang, Hui Ye, Yang Ye, Xiang Li, Shihao Ji.*<br>
