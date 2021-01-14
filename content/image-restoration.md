@@ -6,7 +6,10 @@
 - [Unpaired or Misaligned Data](#unpaired-or-misaligned-data)
 - [Deep Image Prior](#deep-image-prior)
 - [NAS and AutoML](#nas-and-automl)
+- [Niche Tasks](#niche-tasks)
 - [Image Quality Assessment](#image-quality-assessment)
+  * [Perceptual Quality](#perceptual-quality)
+  * [IQA for IR](#iqa-for-ir)
 - [Misc](#misc)
   * [Video Restoration](#video-restoration)
   * [Image Restoration](#image-restoration)
@@ -89,6 +92,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 3DV 2019. [[PDF](https://arxiv.org/abs/2001.04775)]
 
 ## Unpaired or Misaligned Data
+
+**Towards Real-World Blind Face Restoration with Generative Facial Prior.**<br>
+*Xintao Wang, Yu Li, Honglun Zhang, Ying Shan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04061)]
 
 **Unpaired Image Enhancement with Quality-Attention Generative Adversarial Network.**<br>
 *Zhangkai Ni, Wenhan Yang, Shiqi Wang, Lin Ma, Sam Kwong.*<br>
@@ -318,9 +325,37 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11831)] [[Github](https://github.c
 
 ## Image Quality Assessment
 
-**Image Quality Assessment for Perceptual Image Restoration: A New Dataset, Benchmark and Metric.**<br>
-*Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, Jimmy Ren, Chao Dong.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2011.15002)] [[Project](https://www.jasongt.com/projectpages/pipal.html)]
+[[Perceptual Optimization of Image Quality Assessment (IQA) Models](https://github.com/dingkeyan93/IQA-optimization)]
+
+### Perceptual Quality
+
+**A Loss Function for Generative Neural Networks Based on Watson’s Perceptual Model.**<br>
+*Steffen Czolbe, Oswin Krause, Igemar Cox, Christian Igel.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.15057)] [[Github](https://github.com/SteffenCzolbe/PerceptualSimilarity)] [[Video](https://youtu.be/qPmHQbR4DeI)] [[Poster](https://github.com/SteffenCzolbe/PerceptualSimilarity/blob/master/img/WatsonPoster.pdf)]
+
+**GIQA: Generated Image Quality Assessment.**<br>
+*Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08932)] [[Github](https://github.com/cientgu/GIQA)]
+
+**DISTS: Image Quality Assessment: Unifying Structure and Texture Similarity.**<br>
+*Keyan Ding, Kede Ma, Shiqi Wang, Eero P. Simoncelli.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07728)] [[Github](https://github.com/dingkeyan93/DISTS)]
+
+**LPIPS: The Unreasonable Effectiveness of Deep Features as a Perceptual Metric.**<br>
+*Richard Zhang, Phillip Isola, Alexei A. Efros, Eli Shechtman, Oliver Wang.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1801.03924)] [[Project](http://richzhang.github.io/PerceptualSimilarity/)] [[Code-TF](https://github.com/richzhang/PerceptualSimilarity)] [[Code-PYT](https://github.com/S-aiueo32/lpips-pytorch)]
+
+**Inception Score: Improved Techniques for Training GANs.**<br>
+*Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen.*<br>
+arxiv 2016. [[PDF](https://arxiv.org/abs/1606.03498)] [[Github](https://github.com/tsc2017/Inception-Score)]
+
+**Fréchet Inception Distance: GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium.**<br>
+*Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, Sepp Hochreiter.*<br>
+arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.com/bioinf-jku/TTUR)]
+
+**DeepSim: Generating Images with Perceptual Similarity Metrics based on Deep Networks.**<br>
+*Alexey Dosovitskiy, Thomas Brox.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/1602.02644)] [[Github](https://github.com/shijx12/DeepSim)] [[Project](https://lijiancheng0614.github.io/2016/12/13/2016_12_13_DeePSiM/)]
 
 **Consolidated Dataset and Metrics for High-Dynamic-Range Image Quality.**<br>
 *Aliaksei Mikhailiuk, Maria Perez-Ortiz, Dingcheng Yue, Wilson Suen, Rafal K. Mantiuk.*<br>
@@ -329,6 +364,12 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10758)]
 **Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network**<br>
 *Shaolin Su, Qingsen Yan, Yu Zhu, Cheng Zhang, Xin Ge, Jinqiu Sun, Yanning Zhang.*<br>
 CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf)] [[Github](https://github.com/SSL92/hyperIQA)]
+
+### IQA for IR
+
+**Image Quality Assessment for Perceptual Image Restoration: A New Dataset, Benchmark and Metric.**<br>
+*Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, Jimmy Ren, Chao Dong.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2011.15002)] [[Project](https://www.jasongt.com/projectpages/pipal.html)]
 
 **Learning-Based Quality Assessment for Image Super-Resolution.**<br>
 *Tiesong Zhao, Yuting Lin, Yiwen Xu, Weiling Chen, Zhou Wang.*<br>
@@ -439,6 +480,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Horizontal-to-Vertical Video Conversion.**<br>
+*Tun Zhu, Daoxin Zhang, Tianran Wang, Xiaolong Jiang, Jiawei Li, Yao Hu, Jianke Zhu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04051)]
 
 **ForkGAN: Seeing into the Rainy Night.**<br>
 *Zheng Ziqiang, Wu Yang, Han Xinran, Shi Jianbo.*<br>

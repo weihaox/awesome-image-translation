@@ -18,6 +18,7 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 Feedback and contributions are welcome!
 
 ## Table of Contents
+- [2021](#year-2021)
 - [2020](#year-2020)
   * [ECCV 2020](#eccv-2020)
   * [CVPR 2020](#cvpr-2020)
@@ -32,6 +33,16 @@ Feedback and contributions are welcome!
   * [Journal 2019](#journal-2019)
   * [Others 2019](#others-2019)
 - [Before 2018](#before-2018)
+
+## 2021
+
+**Multi-Domain Image-to-Image Translation with Adaptive Inference Graph.**<br>
+*The-Phuc Nguyen, Stéphane Lathuilière, Elisa Ricci.*<br>
+ICPR 2021. [[PDF](https://arxiv.org/abs/2101.03806)]
+
+**Attention-Based Spatial Guidance for Image-to-Image Translation.**<br>
+*Yu Lin, Yigong Wang, Yifan Li, Yang Gao, Zhuoyi Wang, Latifur Khan.*<br>
+WACV 2021. [[PDF](https://openaccess.thecvf.com/content/WACV2021/html/Lin_Attention-Based_Spatial_Guidance_for_Image-to-Image_Translation_WACV_2021_paper.html)]
 
 ## 2020
 

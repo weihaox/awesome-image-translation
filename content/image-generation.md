@@ -20,7 +20,7 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [3D Pose Transfer](#3d-pose-transfer)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
-  * [Video Prediction and Future Prediction](#video-prediction-and-future-prediction)
+  * [Video Generation and Future Prediction](#video-generation-and-future-prediction)
   * [Videos Generation, Frame Interpolation and Extrapolation](#videos-generation--frame-interpolation-and-extrapolation)
 - [Multi-modal Representation Learning and Application](#multi-modal-representation-learning-and-application)
   * [Visual Representation Learning (with Transformers)](#visual-representation-learning--with-transformers-)
@@ -41,25 +41,16 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Invertible Neural Network (Flow-based Generative Model)](#invertible-neural-network--flow-based-generative-model-)
   * [StyleGAN-Based Method](#stylegan-based-method)
   * [Transformer-Based](#transformer-based)
-    + [Survey](#survey)
-    + [3D](#3d)
-    + [Multi-modality](#multi-modality)
-    + [Tracking, Detection and Segmentation](#tracking--detection-and-segmentation)
-    + [Generation](#generation)
-    + [Restoration](#restoration)
-    + [Misc](#misc)
   * [Single-Image Training](#single-image-training)
+  * [Fairness, Accountability, Privacy, Transparency and Ethics](#fairness--accountability--privacy--transparency-and-ethics)
   * [Data Efficiency](#data-efficiency)
-  * [Dataset Biases and AI Fairness](#dataset-biases-and-ai-fairness)
+  * [Dataset Biases](#dataset-biases)
   * [Hard or Unfamiliar Example](#hard-or-unfamiliar-example)
   * [Data or Distribution Augmentation](#data-or-distribution-augmentation)
   * [Long-Tailed, Open Set, and Class-Imbalanced Dataset](#long-tailed--open-set--and-class-imbalanced-dataset)
   * [Spatio-Temporal](#spatio-temporal)
   * [Neural Network Interpretability](#neural-network-interpretability)
   * [Others](#others)
-    + [Scene Graph Generation](#scene-graph-generation)
-    + [Speech Synthesis](#speech-synthesis)
-    + [misc](#misc)
 - [DeepFake and Forensic](#deepfake-and-forensic)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
 - [Free-Hand Sketch](#free-hand-sketch)
@@ -402,6 +393,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohang
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 ### Video Generation and Future Prediction
+
+**Learning to Anticipate Egocentric Actions by Imagination.**<br>
+*Yu Wu, Linchao Zhu, Xiaohan Wang, Yi Yang, Fei Wu.*<br>
+TIP 2021. [[PDF](https://arxiv.org/abs/2101.04924)]
+
+**ArrowGAN: Learning to Generate Videos by Learning Arrow of Time.**<br>
+*Kibeom Hong, Youngjung Uh, Hyeran Byun.*<br>
+Neurocomputing 2021. [[PDF](https://arxiv.org/abs/2101.03710)]
 
 **InMoDeGAN: Interpretable Motion Decomposition Generative Adversarial Network for Video Generation.**<br>
 *Yaohui Wang, Francois Bremond, Antitza Dantcheva.*<br>
@@ -751,6 +750,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 
 ### Text-to-Image
 
+**Cross-Modal Contrastive Learning for Text-to-Image Generation.**<br>
+*Han Zhang, Jing Yu Koh, Jason Baldridge, Honglak Lee, Yinfei Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04702)]
+
 **TediGAN: Text-Guided Diverse Image Generation and Manipulation.**<br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ)] [[Github](https://github.com/weihaox/TediGAN)]
@@ -1096,38 +1099,6 @@ Beyond Backpropagation workshop at NeurIPS 2020. [[PDF](https://arxiv.org/abs/20
 *Hossein Aboutalebi, Mohammad Javad Shafiee Alexander Wong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09364)]
 
-## Image Quality Assessment
-
-[[Perceptual Optimization of Image Quality Assessment (IQA) Models](https://github.com/dingkeyan93/IQA-optimization)]
-
-**A Loss Function for Generative Neural Networks Based on Watson’s Perceptual Model.**<br>
-*Steffen Czolbe, Oswin Krause, Igemar Cox, Christian Igel.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.15057)] [[Github](https://github.com/SteffenCzolbe/PerceptualSimilarity)] [[Video](https://youtu.be/qPmHQbR4DeI)] [[Poster](https://github.com/SteffenCzolbe/PerceptualSimilarity/blob/master/img/WatsonPoster.pdf)]
-
-**GIQA: Generated Image Quality Assessment.**<br>
-*Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08932)] [[Github](https://github.com/cientgu/GIQA)]
-
-**DISTS: Image Quality Assessment: Unifying Structure and Texture Similarity.**<br>
-*Keyan Ding, Kede Ma, Shiqi Wang, Eero P. Simoncelli.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07728)] [[Github](https://github.com/dingkeyan93/DISTS)]
-
-**LPIPS: The Unreasonable Effectiveness of Deep Features as a Perceptual Metric.**<br>
-*Richard Zhang, Phillip Isola, Alexei A. Efros, Eli Shechtman, Oliver Wang.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1801.03924)] [[Project](http://richzhang.github.io/PerceptualSimilarity/)] [[Code-TF](https://github.com/richzhang/PerceptualSimilarity)] [[Code-PYT](https://github.com/S-aiueo32/lpips-pytorch)]
-
-**Inception Score: Improved Techniques for Training GANs.**<br>
-*Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen.*<br>
-arxiv 2016. [[PDF](https://arxiv.org/abs/1606.03498)] [[Github](https://github.com/tsc2017/Inception-Score)]
-
-**Fréchet Inception Distance: GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium.**<br>
-*Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, Sepp Hochreiter.*<br>
-arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.com/bioinf-jku/TTUR)]
-
-**DeepSim: Generating Images with Perceptual Similarity Metrics based on Deep Networks.**<br>
-*Alexey Dosovitskiy, Thomas Brox.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/1602.02644)] [[Github](https://github.com/shijx12/DeepSim)] [[Project](https://lijiancheng0614.github.io/2016/12/13/2016_12_13_DeePSiM/)]
-
 ## Diving Deep into Image Synthesis
 
 [[Image Generation SOTA](https://paperswithcode.com/task/image-generation)] 
@@ -1285,6 +1256,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 #### 3D 
 
+**Spherical Transformer: Adapting Spherical Signal to Convolutional Networks.**<br>
+*Haikuan Du, Hui Cao, Shen Cai, Junchi Yan, Siyu Zhang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03848)]
+
 **Human Mesh Recovery from Multiple Shots.**<br>
 *Georgios Pavlakos, Jitendra Malik, Angjoo Kanazawa.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2012.09843.pdf)] [[Github](https://geopavlakos.github.io/multishot)]
@@ -1438,6 +1413,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
 
 #### Misc
 
+**AttentionLite: Towards Efficient Self-Attention Models for Vision.**<br>
+*Souvik Kundu, Sairam Sundaresan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2101.05216)]
+
+**Transformer Interpretability Beyond Attention Visualization.**<br>
+*Hila Chefer, Shir Gur, Lior Wolf.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09838)] [[Github](https://github.com/hila-chefer/Transformer-Explainability)]
+
 **FPT: Feature Pyramid Transformer.**<br>
 *Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09451)] [[Github](https://github.com/ZHANGDONG-NJUST/FPT)]
@@ -1476,6 +1459,16 @@ ICCV 2019 (Best Paper).
 *Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
+### Fairness, Accountability, Privacy, Transparency and Ethics
+
+**Unlearnable Examples: Making Personal Data Unexploitable.**<br>
+*Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, Yisen Wang.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04898)]
+
+**This Face Does Not Exist ... But It Might Be Yours! Identity Leakage in Generative Models.**<br>
+*Patrick Tinsley, Adam Czajka, Patrick Flynn.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2101.05084)]
+
 ### Data Efficiency
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
@@ -1495,7 +1488,11 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12877)] [[Github](https://github.c
 *Yuki Hagiwara, Toshihisa Tanaka.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.08066)]
 
-### Dataset Biases and AI Fairness
+### Dataset Biases
+
+**EEC: Learning to Encode and Regenerate Images for Continual Learning.**<br>
+*Ali Ayub, Alan R. Wagner.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04904)]
 
 **FairGen: Improving the Fairness of Deep Generative Models without Retraining.**<br>
 *[Shuhan Tan](https://ariostgx.github.io/), Yujun Shen, Bolei Zhou.*<br>
@@ -2502,7 +2499,7 @@ CVPR 2020. [[PDF](https://drive.google.com/file/d/17ki_YAL1k5CaHHP3pIBFWvw-ztF4C
 
 **Self-Supervised 2D Image to 3D Shape Translation with Disentangled Representations.**<br>
 *Berk Kaya, Radu Timofte.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/pdf/2003.10016)]
+3DV 2020. [[PDF](https://arxiv.org/pdf/2003.10016)]
 
 **Deep 3D-Zoom Net: Unsupervised Learning of Photo-Realistic 3D-Zoom.**<br>
 *Juan Luis Gonzalez Bello, Munchurl Kim.*<br>
