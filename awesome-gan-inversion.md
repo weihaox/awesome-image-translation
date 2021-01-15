@@ -16,6 +16,14 @@ Feedback and contributions are welcome!
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
+**GAN Inversion: A Survey.**<br>
+*Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
+
+**Exploring Adversarial Fake Images on Face Manifold.**<br>
+*Dongze Li, Wei Wang, Hongxing Fan, Jing Dong.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03272)]
+
 **OSTeC: One-Shot Texture Completion.**<br>
 *Baris Gecer, Jiankang Deng, Stefanos Zafeiriou.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15370)] [[Github](https://github.com/barisgecer/OSTeC)]
@@ -219,5 +227,3 @@ NIPSW 2016. [[PDF](https://arxiv.org/abs/1611.05644)]
 **Generative Visual Manipulation on the Natural Image Manifold.**<br>
 *Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros.*<br>
 ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
-
-
