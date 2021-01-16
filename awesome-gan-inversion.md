@@ -1,24 +1,50 @@
-
-# awesome gan-inversion papers 
+# <p align=center>`awesome gan-inversion papers`</p>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-<!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) -->
-<!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
 A collection of resources on GAN Inversion: Interpreting the Latent Space of Pretrained Models. 
 
 ## Contributing
 
-If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls)
-
 Feedback and contributions are welcome!
+
+If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls).
+
+I have released the [latex files](https://github.com/weihaox/documents/tree/main/gan-inversion). Please [pull a request](https://github.com/weihaox/documents/pulls), open an issue, or send me an email if you find any inappropriate expressions of the survey.
+
+## Survey
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
 
 **GAN Inversion: A Survey.**<br>
 *Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
+
+## inverted pretrained model
+
+**StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
+*Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA
+](https://github.com/woctezuma/steam-stylegan2-ada)]
+
+**StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
+*[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
+CVPR 2020.
+[[PDF](https://arxiv.org/abs/1912.04958)] 
+[[Offical TF](https://github.com/NVlabs/stylegan2)]
+[[PyTorch](https://github.com/rosinality/stylegan2-pytorch)]
+[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0)]
+
+**A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
+*Tero Karras, Samuli Laine, Timo Aila.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.04948)] [[Offical TF](https://github.com/NVlabs/stylegan)]
+
+**Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
+*Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
+ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://github.com/tkarras/progressive_growing_of_gans)]
+
+## inversion paper
 
 **Exploring Adversarial Fake Images on Face Manifold.**<br>
 *Dongze Li, Wei Wang, Hongxing Fan, Jing Dong.*<br>
