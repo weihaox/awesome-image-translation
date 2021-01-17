@@ -13,6 +13,12 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 
 I have released the [latex files](https://github.com/weihaox/documents/tree/main/gan-inversion). Please [pull a request](https://github.com/weihaox/documents/pulls), open an issue, or send me an email if you find any inappropriate expressions of the survey.
 
+markdown format:
+``` markdown
+**Here is the Paper Name.**<br>
+*[Author 1](homepage), Author 2, and Author 3.*<br>
+Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
+```
 ## Survey
 
 [[Papers on Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)]
