@@ -93,6 +93,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**DeFlow: Learning Complex Image Degradations from Unpaired Data with Conditional Flows.**<br>
+*Valentin Wolf, Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05796)]
+
 **Towards Real-World Blind Face Restoration with Generative Facial Prior.**<br>
 *Xintao Wang, Yu Li, Honglun Zhang, Ying Shan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04061)]
@@ -341,18 +345,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08932)] [[Github](https://github.co
 *Keyan Ding, Kede Ma, Shiqi Wang, Eero P. Simoncelli.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07728)] [[Github](https://github.com/dingkeyan93/DISTS)]
 
-**LPIPS: The Unreasonable Effectiveness of Deep Features as a Perceptual Metric.**<br>
-*Richard Zhang, Phillip Isola, Alexei A. Efros, Eli Shechtman, Oliver Wang.*<br>
-CVPR 2018. [[PDF](https://arxiv.org/abs/1801.03924)] [[Project](http://richzhang.github.io/PerceptualSimilarity/)] [[Code-TF](https://github.com/richzhang/PerceptualSimilarity)] [[Code-PYT](https://github.com/S-aiueo32/lpips-pytorch)]
-
-**Inception Score: Improved Techniques for Training GANs.**<br>
-*Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen.*<br>
-arxiv 2016. [[PDF](https://arxiv.org/abs/1606.03498)] [[Github](https://github.com/tsc2017/Inception-Score)]
-
-**Fréchet Inception Distance: GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium.**<br>
-*Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, Sepp Hochreiter.*<br>
-arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.com/bioinf-jku/TTUR)]
-
 **DeepSim: Generating Images with Perceptual Similarity Metrics based on Deep Networks.**<br>
 *Alexey Dosovitskiy, Thomas Brox.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/1602.02644)] [[Github](https://github.com/shijx12/DeepSim)] [[Project](https://lijiancheng0614.github.io/2016/12/13/2016_12_13_DeePSiM/)]
@@ -361,9 +353,25 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1602.02644)] [[Github](https://github
 *Aliaksei Mikhailiuk, Maria Perez-Ortiz, Dingcheng Yue, Wilson Suen, Rafal K. Mantiuk.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10758)]
 
-**Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network**<br>
+**Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network.**<br>
 *Shaolin Su, Qingsen Yan, Yu Zhu, Cheng Zhang, Xin Ge, Jinqiu Sun, Yanning Zhang.*<br>
 CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf)] [[Github](https://github.com/SSL92/hyperIQA)]
+
+**PieAPP: Perceptual Image-Error Assessment through Pairwise Preference.**<br>
+*[Ekta Prashnani](https://prashnani.github.io/), [Hong Cai](https://www.ece.ucsb.edu/~hcai/), [Yasamin Mostofi](https://www.ece.ucsb.edu/~ymostofi/), [Pradeep Sen](https://www.ece.ucsb.edu/~psen/).*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1806.02067)] [[Project](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/)] [[Github](https://github.com/prashnani/PerceptualImageError)] 
+
+**LPIPS: The Unreasonable Effectiveness of Deep Features as a Perceptual Metric.**<br>
+*Richard Zhang, Phillip Isola, Alexei A. Efros, Eli Shechtman, Oliver Wang.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1801.03924)] [[Project](http://richzhang.github.io/PerceptualSimilarity/)] [[Code-TF](https://github.com/richzhang/PerceptualSimilarity)] [[Code-PYT](https://github.com/S-aiueo32/lpips-pytorch)]
+
+**Fréchet Inception Distance: GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium.**<br>
+*Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, Sepp Hochreiter.*<br>
+arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.com/bioinf-jku/TTUR)]
+
+**Inception Score: Improved Techniques for Training GANs.**<br>
+*Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen.*<br>
+arxiv 2016. [[PDF](https://arxiv.org/abs/1606.03498)] [[Github](https://github.com/tsc2017/Inception-Score)]
 
 ### IQA for IR
 
@@ -480,6 +488,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**EfficientDeRain: Learning Pixel-wise Dilation Filtering for High-Efficiency Single-Image Deraining.**<br>
+*Qing Guo, Jingyang Sun, [Felix Juefei-Xu](http://xujuefei.com/), Lei Ma, Xiaofei Xie, Wei Feng, Yang Liu.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2009.09238)] [[Github](https://github.com/tsingqguo/efficientderain.git)]
 
 **Horizontal-to-Vertical Video Conversion.**<br>
 *Tun Zhu, Daoxin Zhang, Tianran Wang, Xiaolong Jiang, Jiawei Li, Yao Hu, Jianke Zhu.*<br>
