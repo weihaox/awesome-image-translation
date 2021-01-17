@@ -13,7 +13,33 @@ Fewer Data for Better Results: Robustness, Fairness, and Generalization.
 - [Hard or Unfamiliar Example](#hard-or-unfamiliar-example)
 - [Long-Tailed, Open Set, and Class-Imbalanced Dataset](#long-tailed--open-set--and-class-imbalanced-dataset)
 
-## Fairness, Accountability, Privacy, Transparency and Ethics
+## Fairness, Accountability, Privacy, Transparency, and Ethics
+
+### Fairness
+
+**FairGen: Improving the Fairness of Deep Generative Models without Retraining.**<br>
+*[Shuhan Tan](https://ariostgx.github.io/), Yujun Shen, Bolei Zhou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04842)] [[Project](https://genforce.github.io/fairgen/)] [[Github](https://github.com/genforce/fairgen)]
+
+**Inclusive GAN: Improving Data and Minority Coverage in Generative Models.**<br>
+*Ning Yu, Ke Li, Peng Zhou, Jitendra Malik, Larry Davis, Mario Fritz.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2004.03355)] [[Github](https://github.com/ningyu1991/InclusiveGAN)]
+
+**FairGen: Fair Generative Modeling via Weak Supervision.**<br>
+*Kristy Choi, Aditya Grover, Trisha Singh, Rui Shu, Stefano Ermon.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/1910.12008)] [[Github](https://github.com/ermongroup/fairgen)]
+
+**Bias and Generalization in Deep Generative Models: An Empirical Study.**<br>
+*Shengjia Zhao, Hongyu Ren, Arianna Yuan, Jiaming Song, Noah Goodman, [Stefano Ermon](https://cs.stanford.edu/~ermon/).*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)] [[Github](https://github.com/ermongroup/BiasAndGeneralization)]
+
+### Privacy
+
+Federated Learning, Differential Privacy, Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense.
+
+**Intriguing Properties of Neural Networks.**<br>
+*Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus.*<br>
+ICLR 2014. [[PDF](https://arxiv.org/pdf/1312.6199.pdf)]
 
 **Unlearnable Examples: Making Personal Data Unexploitable.**<br>
 *Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, Yisen Wang.*<br>
@@ -22,6 +48,18 @@ ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04898)]
 **This Face Does Not Exist ... But It Might Be Yours! Identity Leakage in Generative Models.**<br>
 *Patrick Tinsley, Adam Czajka, Patrick Flynn.*<br>
 WACV 2021. [[PDF](https://arxiv.org/abs/2101.05084)]
+
+**DataMix: Efficient Privacy-Preserving Edge-Cloud Inference.**<br>
+*[Zhijian Liu](http://zhijianliu.com/), [Zhanghao Wu](https://zhanghaowu.me/), Chuang Gan, Ligeng Zhu, and Song Han.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560562.pdf)]
+
+**Deep Leakage from Gradients**<br>
+*Ligeng Zhu, Zhijian Liu, Song Han.*<br>
+NeurIPS 2019. [[PDF](https://arxiv.org/pdf/1906.08935.pdf)]
+
+**Defensive Quantization: When Efficiency Meets Robustness**<br>
+*Ji Lin, Chuang Gan, [Song Han](http://songhan.mit.edu/).*<br>
+ICLR 2019. [[PDF](https://arxiv.org/pdf/1904.08444.pdf)] [[Poster](https://www.dropbox.com/s/ugpcz41z8eosbd8/ICLR%20poster.pdf?dl=0)]
 
 ## Neural Network Interpretability
 
@@ -35,8 +73,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2012.14261)]
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA
-](https://github.com/woctezuma/steam-stylegan2-ada)]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada)]
 
 **Free Lunch for Few-shot Learning:  Distribution Calibration.**<br>
 *Shuo Yang, Lu Liu, Min Xu.*<br>
@@ -72,7 +109,7 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://hanla
 
 ### Knowledge Transfer
 
-transfer learning, domain adaptation.
+transfer learning, domain adaptation, *etc*.
 
 **DeiT: Training Data-Efficient Image Transformers & Distillation Through Attention.**<br>
 *Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>
@@ -188,11 +225,11 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.13636)] [[Github](https://github
 *Huan Fu, Shunming Li, Rongfei Jia, Mingming Gong, Binqiang Zhao, Dacheng Tao.*<br>
 NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]
 
-**Rethinking the Value of Labels for Improving Class-Imbalanced Learning.**<br>
-*Yuzhe Yang, Zhi Xu.*<br>
-NeurlPS 2020. [[PDF](https://arxiv.org/abs/2006.07529)] [[Github](https://github.com/YyzHarry/imbalanced-semi-self)]
-
 ## Long-Tailed, Open Set, and Class-Imbalanced Dataset
+
+**Class-imbalanced Domain Adaptation: An Empirical Odyssey.**<br>
+*Shuhan Tan, Xingchao Peng, Kate Saenko.*<br>
+ECCV TASK-CV Workshop 2020. [[PDF](https://arxiv.org/pdf/1910.10320.pdf)]
 
 **Few-Shot Learning with Class Imbalance.**<br>
 *Mateusz Ochal, Massimiliano Patacchiola, Amos Storkey, Jose Vazquez, Sen Wang.*<br>
@@ -209,6 +246,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2006.10408)] [[Github](https://github.co
 **Decoupling Representation and Classifier for Long-Tailed Recognition.**<br>
 *Bingyi Kang, Saining Xie,Marcus Rohrbach, Zhicheng Yan, Albert Gordo, Jiashi Feng, Yannis Kalantidis.*<br>
 ICLR 2020. [[PDF](https://arxiv.org/abs/1910.09217)] [[Github](https://github.com/facebookresearch/classifier-balancing)]
+
+**Rethinking the Value of Labels for Improving Class-Imbalanced Learning.**<br>
+*Yuzhe Yang, Zhi Xu.*<br>
+NeurlPS 2020. [[PDF](https://arxiv.org/abs/2006.07529)] [[Github](https://github.com/YyzHarry/imbalanced-semi-self)]
 
 **Open-World Learning Without Labels.**<br>
 *Mohsen Jafarzadeh, Akshay Raj Dhamija, Steve Cruz, Chunchun Li, Touqeer Ahmad, Terrance E. Boult.*<br>
