@@ -27,6 +27,15 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05278)]
 
+```bibtex
+@article{xia2021survey,
+  author    = {Xia, Weihao and Zhang, Yulun and Yang, Yujiu and Xue, Jing-Hao and Zhou, Bolei and Yang, Ming-Hsuan},
+  title     = {GAN Inversion: A Survey},
+  journal={arXiv preprint arXiv: 2101.05278},
+  year={2021}
+}
+```
+
 ## inverted pretrained model
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
