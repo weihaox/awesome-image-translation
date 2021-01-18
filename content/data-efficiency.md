@@ -1,6 +1,6 @@
 # Data Bias and Efficiency
 
-Fewer Data for Better Results: Robustness, Fairness, and Generalization.
+Fewer Data for Better Results: improve Robustness, Transferability, Fairness, and Generalization from the lab to real-world applications.
 
 ## Table of Contents
 - [Fairness, Accountability, Privacy, Transparency and Ethics](#fairness--accountability--privacy--transparency-and-ethics)
@@ -37,6 +37,10 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongro
 
 Federated Learning, Differential Privacy, Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense.
 
+**Data Impressions: Mining Deep Models to Extract Samples for Data-free Applications.**<br>
+*Gaurav Kumar Nayak, Konda Reddy Mopuri, Saksham Jain, Anirban Chakraborty.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06069)]
+
 **Intriguing Properties of Neural Networks.**<br>
 *Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus.*<br>
 ICLR 2014. [[PDF](https://arxiv.org/pdf/1312.6199.pdf)]
@@ -61,31 +65,49 @@ NeurIPS 2019. [[PDF](https://arxiv.org/pdf/1906.08935.pdf)]
 *Ji Lin, Chuang Gan, [Song Han](http://songhan.mit.edu/).*<br>
 ICLR 2019. [[PDF](https://arxiv.org/pdf/1904.08444.pdf)] [[Poster](https://www.dropbox.com/s/ugpcz41z8eosbd8/ICLR%20poster.pdf?dl=0)]
 
+### Ethics
+
+**Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims.**
+*Miles Brundage et al.*
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07213)]
+
 ## Neural Network Interpretability
 
 **A Survey on Neural Network Interpretability.**<br>
 *Yu Zhang, Peter Tiňo, Aleš Leonardis, Ke Tang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2012.14261)]
 
+**Deep Learning and the Global Workspace Theory.**<br>
+*Rufin VanRullen, Ryota Kanai.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
+
 ## Data Efficiency
 
 ### Data or Distribution Augmentation
-
-**StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
-*Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada)]
 
 **Free Lunch for Few-shot Learning:  Distribution Calibration.**<br>
 *Shuo Yang, Lu Liu, Min Xu.*<br>
 ICLR 2021. [[PDF](https://openreview.net/forum?id=JWOiYxMG92s)] [[Github](https://github.com/ShuoYang-1998/ICLR2021-Oral_Distribution_Calibration)]
 
+**SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data.**<br>
+*Shaoli Huang, Xinchao Wang, Dacheng Tao.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2012.04846)] [[Github](https://github.com/Shaoli-Huang/SnapMix.git)]
+
+**StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
+*Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada)]
+
 **Differentiable Augmentation for Data-Efficient GAN Training.**<br>
 *[Shengyu Zhao](https://scholar.google.com/citations?user=gLCdw70AAAAJ), [Zhijian Liu](http://zhijianliu.com/), [Ji Lin](http://linji.me/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Song Han](https://songhan.mit.edu/).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://data-efficient-gans.mit.edu/)] [[Github](https://github.com/mit-han-lab/data-efficient-gans)] [[Video](https://www.youtube.com/watch?v=SsqcjS6SVM0)]
 
-**SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data.**<br>
-*Shaoli Huang, Xinchao Wang, Dacheng Tao.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2012.04846)] [[Github](https://github.com/Shaoli-Huang/SnapMix.git)]
+**Differentiable Augmentation for Data-Efficient GAN Training.**<br>
+*Shengyu Zhao, Zhijian Liu, Ji Lin, Jun-Yan Zhu, Song Han.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://hanlab.mit.edu/projects/data-efficient-gans/)] [[Github](https://github.com/mit-han-lab/data-efficient-gans)]
+
+**Representation Learning via Invariant Causal Mechanisms.**<br>
+*Jovana Mitrovic, Brian McWilliams, Jacob Walker, Lars Buesing, Charles Blundell.*<br>
+NeurIPS 2020 [Workshop](https://sslneuips20.github.io/pages/Accepted%20Paper.html): Self-Supervised Learning - Theory and Practice. [[PDF](https://arxiv.org/abs/2010.07922)]
 
 **Augmentation Inside the Network.**<br>
 *Maciej Sypetkowski, Jakub Jasiulewicz, Zbigniew Wojna.*<br>
@@ -102,10 +124,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10769)]
 **Distribution Augmentation for Generative Modeling.**<br>
 *Heewoo Jun, Rewon Child, Mark Chen, John Schulman, Aditya Ramesh, Alec Radford, Ilya Sutskever.*<br>
 ICML 2020. [[PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/6095-Paper.pdf)] [[Github](https://github.com/openai/distribution_augmentation)]
-
-**Differentiable Augmentation for Data-Efficient GAN Training.**<br>
-*Shengyu Zhao, Zhijian Liu, Ji Lin, Jun-Yan Zhu, Song Han.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://hanlab.mit.edu/projects/data-efficient-gans/)] [[Github](https://github.com/mit-han-lab/data-efficient-gans)]
 
 ### Knowledge Transfer
 
@@ -163,6 +181,16 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ## Dataset Bias
 
+active learning, metric learning, contrastive learning, label learning, *etc*.
+
+**Shortcut Learning in Deep Neural Networks.**<br>
+*Robert Geirhos, Jörn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, Felix A. Wichmann.*<br>
+Nature Machine Intelligence 2020. [[PDF](https://arxiv.org/abs/2004.07780)] [[Github](https://github.com/rgeirhos/shortcut-perspective)]
+
+**CGN: Counterfactual Generative Networks.**<br>
+*[Axel Sauer](https://axelsauer.com/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2101.06046)] [[Github](https://github.com/autonomousvision/counterfactual_generative_networks)]
+
 **EEC: Learning to Encode and Regenerate Images for Continual Learning.**<br>
 *Ali Ayub, Alan R. Wagner.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04904)]
@@ -194,6 +222,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2004.03355)]
 **Bias and Generalization in Deep Generative Models: An Empirical Study.**<br>
 *Shengjia Zhao, Hongyu Ren, Arianna Yuan, Jiaming Song, Noah Goodman, Stefano Ermon.*<br>
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)]
+
+**Unbiased Look at Dataset Bias.**<br>
+*Antonio Torralba, Alexei A. Efros.*<br>
+CVPR 2011. [[PDF](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)]
 
 ## Hard or Unfamiliar Example
 
