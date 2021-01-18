@@ -1,6 +1,6 @@
 # Controllable Image Generation
 
-This repository is about *Controllable and Interpretable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
+This repository is about *Controllable and Interpretable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose, or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
 
 ## Table of Contents
 - [Industry Demo or Product](#industry-demo-or-product)
@@ -16,21 +16,22 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
   * [Attribute Editing and Makeup Transfer](#attribute-editing-and-makeup-transfer)
   * [Texture and Surface Mapping](#texture-and-surface-mapping)
   * [Novel-View Synthesis](#novel-view-synthesis)
-  * [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
+  * [Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
   * [3D Pose Transfer](#3d-pose-transfer)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
   * [Video Generation and Future Prediction](#video-generation-and-future-prediction)
   * [Videos Generation, Frame Interpolation and Extrapolation](#videos-generation--frame-interpolation-and-extrapolation)
+  * [Video Spatio-Temporal Consistency](#video-spatio-temporal-consistency)
 - [3D Shape Generation and Manipulation](#3d-shape-generation-and-manipulation)
-- [GAN Improvement](#gan-improvement)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
-  * [Invertible Neural Network (Flow-based Generative Model)](#invertible-neural-network--flow-based-generative-model-)
+  * [Generative Models](#generative-models)
+    + [VAE](#vae)
+    + [GAN](#gan-improvement)
+    + [Flow Model)](#invertible-neural-network--flow-based-generative-model-)
   * [StyleGAN-Based Method](#stylegan-based-method)
   * [Transformer-Based](#transformer-based)
-  * [Spatio-Temporal](#spatio-temporal)
-  * [Neural Network Interpretability](#neural-network-interpretability)
-  * [Others](#others)
+  * [misc](#misc)
 - [DeepFake and Forensic](#deepfake-and-forensic)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
 - [Free-Hand Sketch](#free-hand-sketch)
@@ -197,10 +198,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0
 *Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01180)] [[Project](https://people.cs.umass.edu/~chenyun/texture)]
 
-**Controllable Image Synthesis via SegVAE.**<br>
-*Yen-Chi Cheng, Hsin-Ying Lee, Min Sun, Ming-Hsuan Yang.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyenchicheng.github.io/SegVAE/)] [[Github](https://github.com/yccyenchicheng/SegVAE)]
-
 **Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation.**<br>
 *Nan Zhuang, Cheng Yang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13332)] [[Github](https://github.com/minivision-ai/photo2cartoon)]
@@ -355,7 +352,6 @@ ACM Transactions on Graphics 2020. [[PDF](https://arxiv.org/abs/2004.13204)]
 ### 3D Pose Transfer
 *3D Pose Transfer* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#attribute-editing).
 
-
 ## Prediction and Reasoning 
 
 ### Occlusion Reasoning
@@ -426,9 +422,12 @@ ICLR 2019. [[PDF](https://openreview.net/forum?id=B1lKS2AqtX)] [[GitHub](https:/
 *Yingfan Huang, HuiKun Bi, Zhaoxin Li, Tianlu Mao, Zhaoqi Wang.*<br> 
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)]
 [[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
- 
 
 ### Videos Generation, Frame Interpolation and Extrapolation
+
+[[Image Generation SOTA](https://paperswithcode.com/task/image-generation)] 
+
+[[Video Generation SOTA](https://paperswithcode.com/task/video-generation)]
 
 Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/image-generation.md#image-to-video).
 
@@ -498,6 +497,28 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1904.00830)]
 *[Huaizu Jiang](http://jianghz.me/), [Deqing Sun](http://research.nvidia.com/person/deqing-sun), Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz.*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1712.00080)] [[Project](https://people.cs.umass.edu/~hzjiang/projects/superslomo/)] [[Github](https://github.com/avinashpaliwal/Super-SloMo)]
 
+### Video Spatio-Temporal Consistency
+
+**ESTRNN: Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring.**<br>
+*Zhihang Zhong, Ye Gao, Yinqiang Zheng, Bo Zheng.*<br>
+ECCV 2020. [[PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)] [[Github](https://github.com/zzh-tech/ESTRNN)]
+
+**Blind Video Temporal Consistency via Deep Video Prior.**<br>
+*[Chenyang Lei](https://chenyanglei.github.io/), Yazhou Xing, [Qifeng Chen](https://cqf.io/).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.11838)] [[Poject](https://chenyanglei.github.io/DVP/index.html)] [[Github](https://github.com/ChenyangLEI/deep-video-prior)]
+
+**CDVD-TSP: Cascaded Deep Video Deblurring Using Temporal Sharpness Prior.**<br>
+*Jinshan Pan, Haoran Bai, Jinhui Tang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.com/csbhr/CDVD-TSP)]
+
+**STEm-Seg: Spatio-temporal Embeddings for Instance Segmentation in Videos.**<br>
+*Ali Athar, Sabarinath Mahadevan, Aljoša Ošep, Laura Leal-Taixé, Bastian Leibe.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08429)] [[Github](https://github.com/sabarim/STEm-Seg)] [[Project](https://www.vision.rwth-aachen.de/publication/00202/)]
+
+**HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN.**<br>
+*Abhinav Sagar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
+
 ## 3D Shape Generation and Manipulation
 
 **Learning to Infer Semantic Parameters for 3D Shape Editing.**<br>
@@ -520,15 +541,25 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13388)]
 *Chiyu "Max" Jiang, Jingwei Huang, Andrea Tagliasacchi, Leonidas Guibas.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07982)]
 
-## GAN Improvement
+## Diving Deep into Image Synthesis
 
-**FastGAN: Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis.**<br>
-*Bingchen Liu, Yizhe Zhu, Kunpeng Song, Ahmed Elgammal.*<br>
-ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04775)] [[Data and Code](https://github.com/odegeasslbc/FastGAN-pytorch)]
+### Generative Models
 
-**Focal Frequency Loss for Generative Models.**<br>
-*[Liming Jiang](https://liming-jiang.com/), [Bo Dai](http://daibo.info/), [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
-arXiv 2020. [[PDF](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
+There are basicly two main types of generative models: likelihood based models, which include VAEs, flow based and autoregressive models; and implicit generative models such as Generative Adversarial Networks (GANs).
+
+#### VAE
+
+**Taming Transformers for High-Resolution Image Synthesis.**<br>
+*[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
+
+**Generating Diverse High-Fidelity Images with VQ-VAE-2.**<br>
+*Ali Razavi, Aaron van den Oord, Oriol Vinyals.*<br>
+NeurIPS 2019. [[PDF](https://arxiv.org/pdf/1906.00446v1.pdf)] [[Github](https://github.com/deepmind/sonnet)]
+
+**VQ-VAE: Neural Discrete Representation Learning.**<br>
+*[Aaron van den Oord](https://avdnoord.github.io/), Oriol Vinyals, Koray Kavukcuoglu.*<br>
+NeurIPS 2017. [[PDF](https://avdnoord.github.io/homepage/slides/SANE2017.pdf)] [[Github](https://github.com/1Konny/VQ-VAE)]
 
 **Exemplar VAE: Linking Generative Models, Nearest Neighbor Retrieval, and Data Augmentation.**<br>
 *Sajad Norouzi, David J. Fleet, Mohammad Norouzi.*<br>
@@ -541,6 +572,44 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13253)] [[Project](https://taldate
 **Private-Shared Disentangled Multimodal VAE for Learning of Hybrid Latent Representations.**<br>
 *Mihee Lee, Vladimir Pavlovic.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13024)]
+
+**VDVAE: Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images.**<br>
+*Anonymous authors.*<br>
+ICLR 2021. [[PDF](https://openreview.net/forum?id=RLRXCV6DbEJ)] [[Github](https://github.com/openai/vdvae)]
+
+**NCP-VAE: Variational Autoencoders with Noise Contrastive Priors.**<br>
+*Jyoti Aneja, Alexander Schwing, Jan Kautz, Arash Vahdat.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02917)]
+
+**Swapping Autoencoder for Deep Image Manipulation.**<br>
+*Taesung Park, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei Efros, Richard Zhang.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.00653)] [[Github](https://github.com/zhangqianhui/Swapping-Autoencoder-tf)]
+
+**Learning Latent Representations Across Multiple Data Domains Using Lifelong VAEGAN.**<br> 
+*Fei Ye, Adrian G. Bors.*<br> 
+[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650766.pdf)]
+
+**NVAE: A Deep Hierarchical Variational Autoencoder.**<br>
+*[Arash Vahdat](http://latentspace.cc/arash_vahdat/), [Jan Kautz](http://jankautz.com/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03898)] [[Github](https://github.com/NVlabs/NVAE)]
+
+**NestedVAE: Isolating Common Factors via Weak Supervision.**<br>
+*Matthew J. Vowels, Necati Cihan Camgoz, Richard Bowden.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11576)]
+
+**Controllable Image Synthesis via SegVAE.**<br>
+*Yen-Chi Cheng, Hsin-Ying Lee, Min Sun, Ming-Hsuan Yang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyenchicheng.github.io/SegVAE/)] [[Github](https://github.com/yccyenchicheng/SegVAE)]
+
+#### GAN Improvement
+
+**FastGAN: Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis.**<br>
+*Bingchen Liu, Yizhe Zhu, Kunpeng Song, Ahmed Elgammal.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04775)] [[Data and Code](https://github.com/odegeasslbc/FastGAN-pytorch)]
+
+**Focal Frequency Loss for Generative Models.**<br>
+*[Liming Jiang](https://liming-jiang.com/), [Bo Dai](http://daibo.info/), [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
+arXiv 2020. [[PDF](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
 
 **SariGAN: Learning Semantic-aware Normalization for Generative Adversarial Networks.**<br>
 *Heliang Zheng1, Jianlong Fu, Yanhong Zeng, Jiebo Luo, Zheng-Jun Zha.*<br>
@@ -574,10 +643,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13553)]
 *Anonymous authors.*<br>
 ICLR 2021. [[PDF](https://openreview.net/forum?id=1Fqg133qRaI)]
 
-**VDVAE: Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images.**<br>
-*Anonymous authors.*<br>
-ICLR 2021. [[PDF](https://openreview.net/forum?id=RLRXCV6DbEJ)] [[Github](https://github.com/openai/vdvae)]
-
 **Self Normalizing Flows.**<br>
 *T. Anderson Keller, [Jorn W.T. Peters](http://jornpeters.nl/), [Priyank Jaini](https://cs.uwaterloo.ca/~pjaini/home/), Emiel Hoogeboom, Patrick Forré, [Max Welling](https://staff.fnwi.uva.nl/m.welling/).*<br>
 Beyond Backpropagation workshop at NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.07248)] [[Github](https://github.com/akandykeller/SelfNormalizingFlows)]
@@ -586,13 +651,7 @@ Beyond Backpropagation workshop at NeurIPS 2020. [[PDF](https://arxiv.org/abs/20
 *Hossein Aboutalebi, Mohammad Javad Shafiee Alexander Wong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09364)]
 
-## Diving Deep into Image Synthesis
-
-[[Image Generation SOTA](https://paperswithcode.com/task/image-generation)] 
-
-[[Video Generation SOTA](https://paperswithcode.com/task/video-generation)]
-
-### Invertible Neural Network (Flow-based Generative Model)
+#### Invertible Neural Network (Flow-based Generative Model)
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
 
@@ -920,95 +979,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1907.05572)] [[Github](https://github.c
 *Krzysztof Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy Colwell, Adrian Weller.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.14794)] [[Github](https://github.com/google-research/google-research/tree/master/performer)]
 
-### Spatio-Temporal
-
-**ESTRNN: Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring.**<br>
-*Zhihang Zhong, Ye Gao, Yinqiang Zheng, Bo Zheng.*<br>
-ECCV 2020. [[PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)] [[Github](https://github.com/zzh-tech/ESTRNN)]
-
-**Blind Video Temporal Consistency via Deep Video Prior.**<br>
-*[Chenyang Lei](https://chenyanglei.github.io/), Yazhou Xing, [Qifeng Chen](https://cqf.io/).*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.11838)] [[Poject](https://chenyanglei.github.io/DVP/index.html)] [[Github](https://github.com/ChenyangLEI/deep-video-prior)]
-
-**CDVD-TSP: Cascaded Deep Video Deblurring Using Temporal Sharpness Prior.**<br>
-*Jinshan Pan, Haoran Bai, Jinhui Tang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02501)] [[Github](https://github.com/csbhr/CDVD-TSP)]
-
-**STEm-Seg: Spatio-temporal Embeddings for Instance Segmentation in Videos.**<br>
-*Ali Athar, Sabarinath Mahadevan, Aljoša Ošep, Laura Leal-Taixé, Bastian Leibe.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08429)] [[Github](https://github.com/sabarim/STEm-Seg)] [[Project](https://www.vision.rwth-aachen.de/publication/00202/)]
-
-**HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN.**<br>
-*Abhinav Sagar.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
-
-### Others
-
-#### Scene Graph Generation
-
-**Scene Graph to Image Generation with Contextualized Object Layout Refinement.**<br>
-*Maor Ivgi, Yaniv Benny, Avichai Ben-David, Jonathan Berant, Lior Wolf.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2009.10939)]
-
-**Visual Commonsense Graphs: Reasoning about the Dynamic Context of a Still Image.**<br>
-*Jae Sung Park, Chandra Bhagavatula, Roozbeh Mottaghi, Ali Farhadi, Yejin Choi.*<br>
-arxiv 2020. [[](https://arxiv.org/abs/2004.10796)] [[Project](http://visualcomet.xyz/)]
-
-**High-Fidelity Synthesis with Disentangled Representation.**<br>
-*Wonkwang Lee, Donggyun Kim, Seunghoon Hong, Honglak Lee.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2001.04296)]
-
-**House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation.**<br>
-*Nelson Nauata, Kai-Hung Chang, Chin-Yi Cheng, Greg Mori, Yasutaka Furukawa.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2003.06988)]
-
-**Learning Visual Commonsense for Robust Scene Graph Generation.**<br>
-*Alireza Zareian, Haoxuan You, Zhecan Wang, Shih-Fu Chang.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2006.09623)]
-
-**Learning Canonical Representations for Scene Graph to Image Generation.**<br>
-*Roei Herzig, Amir Bar, Huijuan Xu, Gal Chechik, Trevor Darrell, Amir Globerson.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
-
-**Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation.**<br>
-*[Wenbin Wang](http://www.kennethwong.tech/), Ruiping Wang, Shiguang Shan, Xilin Chen.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08760)]
-
-**Neural Design Network: Graphic Layout Generation with Constraints.**<br>
-*Hsin-Ying Lee, Weilong Yang, Lu Jiang, Madison Le, Irfan Essa, Haifeng Gong, Ming-Hsuan Yang.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/1912.09421)]
-
-**Learning Physical Graph Representations from Visual Scenes.**<br>
-*Daniel M. Bear, Chaofei Fan, Damian Mrowca, Yunzhu Li, Seth Alter, Aran Nayebi, Jeremy Schwartz, Li Fei-Fei, Jiajun Wu, Joshua B. Tenenbaum, Daniel L.K. Yamins.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12373)]
-
-**Learning Canonical Representations for Scene Graph to Image Generation.**<br>
-*[Roei Herzig](https://roeiherz.github.io/), [Amir Bar](http://www.amirbar.net/), [Huijuan Xu](https://cs-people.bu.edu/hxu/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Amir Globerson](http://www.cs.tau.ac.il/~gamir/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
-
-#### Speech Synthesis
-
-**HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.**<br>
-*Jungil Kong, Jaehyeon Kim, Jaekyoung Bae.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05646)] [[Github](https://github.com/jik876/hifi-gan)]
-
-**Tacotron2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions.**<br>
-*Jonathan Shen, Ruoming Pang, Ron J. Weiss, Mike Schuster, Navdeep Jaitly, Zongheng Yang, Zhifeng Chen, Yu Zhang, Yuxuan Wang, RJ Skerry-Ryan, Rif A. Saurous, Yannis Agiomyrgiannakis, Yonghui Wu.*<br>
-ICASSP 2018. [[PDF](https://arxiv.org/abs/1712.05884)] [[Github](https://github.com/NVIDIA/tacotron2)]
-
-**WaveTransformer: A Novel Architecture for Audio Captioning Based on Learning Temporal and Time-Frequency Information.**<br>
-*An Tran, Konstantinos Drossos, Tuomas Virtanen.*<br>
-ICASSP 2021. [[PDF](https://arxiv.org/abs/2010.11098)] [[Github](https://github.com/haantran96/wavetransformer)] [[Demo](https://haantran96.github.io/wavetransformer-web-demo/)]
-
-**MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis.**<br>
-*Kundan Kumar, Rithesh Kumar, Thibault de Boissiere, Lucas Gestin, Wei Zhen Teoh, Jose Sotelo, Alexandre de Brebisson, Yoshua Bengio, Aaron Courville.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/1910.06711)] [[Github](https://github.com/descriptinc/melgan-neurips)] [[Project](https://melgan-neurips.github.io/)]
-
-**WaveGlow: a Flow-based Generative Network for Speech Synthesis.**<br>
-*Ryan Prenger, Rafael Valle, and Bryan Catanzaro.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.com/NVIDIA/waveglow)] [[Project](https://nv-adlr.github.io/WaveGlow)]
-
-#### misc
+### misc
 
 **Generative Max-Mahalanobis Classifiers for Image Classification, Generation and More.**<br>
 *Xiulong Yang, Hui Ye, Yang Ye, Xiang Li, Shihao Ji.*<br>
@@ -1130,14 +1101,6 @@ Pacific Graphics 2020. [[PDF](https://arxiv.org/abs/2010.04413)]
 *Cheng-Han Lee, Ziwei Liu, Lingyun Wu, Ping Luo.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1907.11922)] [[Github](https://github.com/switchablenorms/CelebAMask-HQ)]
 
-**NCP-VAE: Variational Autoencoders with Noise Contrastive Priors.**<br>
-*Jyoti Aneja, Alexander Schwing, Jan Kautz, Arash Vahdat.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02917)]
-
-**Swapping Autoencoder for Deep Image Manipulation.**<br>
-*Taesung Park, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei Efros, Richard Zhang.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.00653)] [[Github](https://github.com/zhangqianhui/Swapping-Autoencoder-tf)]
-
 **GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
 *Katja Schwarz, Yiyi Liao, Michael Niemeyer, Andreas Geiger.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github.com/autonomousvision/graf)]
@@ -1190,10 +1153,6 @@ ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.05109)]
 *Haohan Wang, Xindi Wu, Zeyi Huang, Eric P. Xing.*<br> 
 CVPR 2020. [[PDF](https://arxiv.org/abs/1905.13545)]
 
-**Learning Latent Representations Across Multiple Data Domains Using Lifelong VAEGAN.**<br> 
-*Fei Ye, Adrian G. Bors.*<br> 
-[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650766.pdf)]
-
 **TopoGAN: A Topology-Aware Generative Adversarial Network.**<br> 
 *Fan Wang, Huidong Liu, Dimitris Samaras, Chao Chen.*<br> 
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf)]
@@ -1241,10 +1200,6 @@ ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12373
 **Controlling Style and Semantics in Weakly-Supervised Image Generation.**<br> 
 *Dario Pavllo, Aurelien Lucchi, Thomas Hofmann.*<br>
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510477.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510477-supp.zip)]
-
-**NVAE: A Deep Hierarchical Variational Autoencoder.**<br>
-*[Arash Vahdat](http://latentspace.cc/arash_vahdat/), [Jan Kautz](http://jankautz.com/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03898)] [[Github](https://github.com/NVlabs/NVAE)]
 
 **A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild.**<br>
 *K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar.*<br>
@@ -1354,10 +1309,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13010)]
 *Animesh Karnewar, Oliver Wang.*<br>
 CVPR 2020.[[PDF](https://arxiv.org/abs/1903.06048)] [[Github](https://github.com/akanimax/msg-stylegan-tf)]
 
-**NestedVAE: Isolating Common Factors via Weak Supervision.**<br>
-*Matthew J. Vowels, Necati Cihan Camgoz, Richard Bowden.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11576)]
-
 **Sound2Sight: Generating Visual Dynamics from Sound and Context.**<br>
 *Anoop Cherian, Moitreya Chatterjee, Narendra Ahuja.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12130)]
@@ -1421,10 +1372,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.05946)] [[Github](https://github.co
 **Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations.**<br>
 *Hongyu Liu, Bin Jiang, Yibing Song, Wei Huang, Chao Yang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.06929)]
-
-**NVAE: A Deep Hierarchical Variational Autoencoder.**<br>
-*[Arash Vahdat](https://arash-vahdat.github.io), Jan Kautz.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03898)] [[Github](https://arash-vahdat.github.io/NVAE_arxiv.pdf)]
 
 **Unsupervised Landmark Learning from Unpaired Data.**<br>
 *Yinghao Xu, Ceyuan Yang, Ziwei Liu, Bo Dai, Bolei Zhou.*<br>

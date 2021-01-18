@@ -15,6 +15,8 @@ This repository is about Multi-modal Representation Learning and Application.
   * [Speech-and-Text](#speech-and-text)
   * [Image-and-Voice](#image-and-voice)
   * [Voice-to-Voice](#voice-to-voice)
+  * [Scene Graph Generation](#scene-graph-generation)
+  * [Speech Synthesis](#speech-synthesis)
   
 ## Multi-modal Representation Learning and Application
 
@@ -515,3 +517,67 @@ ICASSP 2020.
 **GAN-TTS: High Fidelity Speech Synthesis with Adversarial Networks.**<br>
 *Mikołaj Bińkowski, Jeff Donahue, Sander Dieleman, Aidan Clark, Erich Elsen, Norman Casagrande, Luis C. Cobo, Karen Simonyan.*<br>
 ICASSP 2020. [[PDF](https://arxiv.org/abs/1909.11646)]
+
+### Scene Graph Generation
+
+**Scene Graph to Image Generation with Contextualized Object Layout Refinement.**<br>
+*Maor Ivgi, Yaniv Benny, Avichai Ben-David, Jonathan Berant, Lior Wolf.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.10939)]
+
+**Visual Commonsense Graphs: Reasoning about the Dynamic Context of a Still Image.**<br>
+*Jae Sung Park, Chandra Bhagavatula, Roozbeh Mottaghi, Ali Farhadi, Yejin Choi.*<br>
+arxiv 2020. [[](https://arxiv.org/abs/2004.10796)] [[Project](http://visualcomet.xyz/)]
+
+**High-Fidelity Synthesis with Disentangled Representation.**<br>
+*Wonkwang Lee, Donggyun Kim, Seunghoon Hong, Honglak Lee.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2001.04296)]
+
+**House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation.**<br>
+*Nelson Nauata, Kai-Hung Chang, Chin-Yi Cheng, Greg Mori, Yasutaka Furukawa.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.06988)]
+
+**Learning Visual Commonsense for Robust Scene Graph Generation.**<br>
+*Alireza Zareian, Haoxuan You, Zhecan Wang, Shih-Fu Chang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2006.09623)]
+
+**Learning Canonical Representations for Scene Graph to Image Generation.**<br>
+*Roei Herzig, Amir Bar, Huijuan Xu, Gal Chechik, Trevor Darrell, Amir Globerson.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
+
+**Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation.**<br>
+*[Wenbin Wang](http://www.kennethwong.tech/), Ruiping Wang, Shiguang Shan, Xilin Chen.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08760)]
+
+**Neural Design Network: Graphic Layout Generation with Constraints.**<br>
+*Hsin-Ying Lee, Weilong Yang, Lu Jiang, Madison Le, Irfan Essa, Haifeng Gong, Ming-Hsuan Yang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/1912.09421)]
+
+**Learning Physical Graph Representations from Visual Scenes.**<br>
+*Daniel M. Bear, Chaofei Fan, Damian Mrowca, Yunzhu Li, Seth Alter, Aran Nayebi, Jeremy Schwartz, Li Fei-Fei, Jiajun Wu, Joshua B. Tenenbaum, Daniel L.K. Yamins.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12373)]
+
+**Learning Canonical Representations for Scene Graph to Image Generation.**<br>
+*[Roei Herzig](https://roeiherz.github.io/), [Amir Bar](http://www.amirbar.net/), [Huijuan Xu](https://cs-people.bu.edu/hxu/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Amir Globerson](http://www.cs.tau.ac.il/~gamir/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1912.07414)]
+
+### Speech Synthesis
+
+**HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.**<br>
+*Jungil Kong, Jaehyeon Kim, Jaekyoung Bae.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05646)] [[Github](https://github.com/jik876/hifi-gan)]
+
+**Tacotron2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions.**<br>
+*Jonathan Shen, Ruoming Pang, Ron J. Weiss, Mike Schuster, Navdeep Jaitly, Zongheng Yang, Zhifeng Chen, Yu Zhang, Yuxuan Wang, RJ Skerry-Ryan, Rif A. Saurous, Yannis Agiomyrgiannakis, Yonghui Wu.*<br>
+ICASSP 2018. [[PDF](https://arxiv.org/abs/1712.05884)] [[Github](https://github.com/NVIDIA/tacotron2)]
+
+**WaveTransformer: A Novel Architecture for Audio Captioning Based on Learning Temporal and Time-Frequency Information.**<br>
+*An Tran, Konstantinos Drossos, Tuomas Virtanen.*<br>
+ICASSP 2021. [[PDF](https://arxiv.org/abs/2010.11098)] [[Github](https://github.com/haantran96/wavetransformer)] [[Demo](https://haantran96.github.io/wavetransformer-web-demo/)]
+
+**MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis.**<br>
+*Kundan Kumar, Rithesh Kumar, Thibault de Boissiere, Lucas Gestin, Wei Zhen Teoh, Jose Sotelo, Alexandre de Brebisson, Yoshua Bengio, Aaron Courville.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/1910.06711)] [[Github](https://github.com/descriptinc/melgan-neurips)] [[Project](https://melgan-neurips.github.io/)]
+
+**WaveGlow: a Flow-based Generative Network for Speech Synthesis.**<br>
+*Ryan Prenger, Rafael Valle, and Bryan Catanzaro.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1811.00002)] [[Github](https://github.com/NVIDIA/waveglow)] [[Project](https://nv-adlr.github.io/WaveGlow)]
