@@ -26,9 +26,6 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 - [3D Shape Generation and Manipulation](#3d-shape-generation-and-manipulation)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
   * [Generative Models](#generative-models)
-    + [VAE](#vae)
-    + [GAN](#gan-improvement)
-    + [Flow Model)](#invertible-neural-network--flow-based-generative-model-)
   * [StyleGAN-Based Method](#stylegan-based-method)
   * [Transformer-Based](#transformer-based)
   * [misc](#misc)
@@ -800,52 +797,15 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12556)]
 *Salman Khan, Muzammal Naseer, Munawar Hayat, Syed Waqas Zamir, Fahad Shahbaz Khan, Mubarak Shah.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
-#### 3D 
+#### Recognition and Classification
 
-**Spherical Transformer: Adapting Spherical Signal to Convolutional Networks.**<br>
-*Haikuan Du, Hui Cao, Shen Cai, Junchi Yan, Siyu Zhang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03848)]
+**Vision Transformer-An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.**<br>
+*Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2010.11929)] [[Official](https://github.com/google-research/vision_transformer)] [[Github](https://github.com/lukemelas/PyTorch-Pretrained-ViT)] [[Github](https://github.com/lucidrains/vit-pytorch)] [[Github](https://github.com/gupta-abhay/ViT)] [[Code Collection](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers)]
 
-**Human Mesh Recovery from Multiple Shots.**<br>
-*Georgios Pavlakos, Jitendra Malik, Angjoo Kanazawa.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2012.09843.pdf)] [[Github](https://geopavlakos.github.io/multishot)]
-
-**PCT: PCT: Point Cloud Transformer.**<br>
-*Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09688)] [[Github](https://github.com/MenghaoGuo/PCT)]
-
-**Point Transformer.**<br>
-*Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09164)]
-
-**Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers.**<br>
-*Zhaoshuo Li, Xingtong Liu, Francis X. Creighton, Russell H. Taylor, Mathias Unberath.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02910)] [[Github](https://github.com/mli0603/stereo-transformer)]
-
-**TransPose: Towards Explainable Human Pose Estimation by Transformer.**<br>
-*Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
-
-**End-to-End Human Pose and Mesh Reconstruction with Transformers.**<br>
-*Kevin Lin, Lijuan Wang, Zicheng Liu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
-
-#### Multi-modality
-
-**DALL·E: Creating Images from Text.**<br>
-*OpenAI.*<br> [[Blog](https://openai.com/blog/dall-e/#fn1)] [[Github](https://github.com/lucidrains/DALLE-pytorch)]
-
-**CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
-*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
-2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)]
-
-**VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search.**<br>
-*Xiaopeng Lu, Tiancheng Zhao, Kyusong Lee.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00265)]
-
-**COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning.**<br>
-*Simon Ging, Mohammadreza Zolfaghari, Hamed Pirsiavash, Thomas Brox.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github.com/gingsi/coot-videotext)]
+**Temporal-Relational CrossTransformers for Few-Shot Action Recognition.**<br>
+*Toby Perrett, Alessandro Masullo, Tilo Burghardt, Majid Mirmehdi, Dima Damen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
 
 #### Tracking, Detection and Segmentation
 
@@ -915,7 +875,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15056v1)] [[Github](https://github
 *[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
 
-**DeiT: Training data-efficient image transformers & distillation through attention.**<br>
+**DeiT: Training Data-efficient Image Transformers & Distillation through Attention.**<br>
 *Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12877)] [[Github](https://github.com/facebookresearch/deit)]
 
@@ -935,10 +895,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2005.00743)] [[Github](https://github.c
 *Jiayi Ji, Yunpeng Luo, Xiaoshuai Sun, Fuhai Chen, Gen Luo, Yongjian Wu, Yue Gao, Rongrong Ji.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2012.07061)]
 
-**Vision Transformer-An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.**<br>
-*Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby.*<br>
-ICLR 2021. [[PDF](https://arxiv.org/abs/2010.11929)] [[Official](https://github.com/google-research/vision_transformer)] [[Github](https://github.com/lukemelas/PyTorch-Pretrained-ViT)] [[Github](https://github.com/lucidrains/vit-pytorch)] [[Github](https://github.com/gupta-abhay/ViT)] [[Code Collection](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers)]
-
 **Image-GPT: Generative Pretraining from Pixels.**<br>
 *Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
 Tech Report 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
@@ -956,6 +912,57 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.co
 **Pre-Trained Image Processing Transformer.**<br>
 *Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
+
+#### 3D 
+
+**Spherical Transformer: Adapting Spherical Signal to Convolutional Networks.**<br>
+*Haikuan Du, Hui Cao, Shen Cai, Junchi Yan, Siyu Zhang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03848)]
+
+**Human Mesh Recovery from Multiple Shots.**<br>
+*Georgios Pavlakos, Jitendra Malik, Angjoo Kanazawa.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2012.09843.pdf)] [[Github](https://geopavlakos.github.io/multishot)]
+
+**PCT: PCT: Point Cloud Transformer.**<br>
+*Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09688)] [[Github](https://github.com/MenghaoGuo/PCT)]
+
+**Point Transformer.**<br>
+*Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09164)]
+
+**Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers.**<br>
+*Zhaoshuo Li, Xingtong Liu, Francis X. Creighton, Russell H. Taylor, Mathias Unberath.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02910)] [[Github](https://github.com/mli0603/stereo-transformer)]
+
+**TransPose: Towards Explainable Human Pose Estimation by Transformer.**<br>
+*Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
+
+**End-to-End Human Pose and Mesh Reconstruction with Transformers.**<br>
+*Kevin Lin, Lijuan Wang, Zicheng Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
+
+#### Multi-modality
+
+**Dual-Level Collaborative Transformer for Image Captioning.**<br>
+*Yunpeng Luo, Jiayi Ji, Xiaoshuai Sun, Liujuan Cao, Yongjian Wu, Feiyue Huang, Chia-Wen Lin, Rongrong Ji.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2101.06462)]
+
+**DALL·E: Creating Images from Text.**<br>
+*OpenAI.*<br> [[Blog](https://openai.com/blog/dall-e/#fn1)] [[Github](https://github.com/lucidrains/DALLE-pytorch)]
+
+**CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
+*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
+2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)]
+
+**VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search.**<br>
+*Xiaopeng Lu, Tiancheng Zhao, Kyusong Lee.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00265)]
+
+**COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning.**<br>
+*Simon Ging, Mohammadreza Zolfaghari, Hamed Pirsiavash, Thomas Brox.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github.com/gingsi/coot-videotext)]
 
 #### Misc
 

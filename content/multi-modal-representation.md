@@ -191,6 +191,14 @@ IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 
 ### Image-to-Text
 
+**Cross-Modal Contrastive Learning for Text-to-Image Generation.**<br>
+*Han Zhang, Jing Yu Koh, Jason Baldridge, Honglak Lee, Yinfei Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04702)]
+
+**Dual-Level Collaborative Transformer for Image Captioning.**<br>
+*Yunpeng Luo, Jiayi Ji, Xiaoshuai Sun, Liujuan Cao, Yongjian Wu, Feiyue Huang, Chia-Wen Lin, Rongrong Ji.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2101.06462)]
+
 **End-to-End Video Question-Answer Generation with Generator-Pretester Network.**<br>
 *Hung-Ting Su, Chen-Hsi Chang, Po-Wei Shen, Yu-Siang Wang, Ya-Liang Chang, Yu-Cheng Chang, Pu-Jen Cheng, Winston H. Hsu.*<br>
 TCSVT 2020. [[PDF](https://arxiv.org/abs/2101.01447)]

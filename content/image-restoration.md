@@ -277,6 +277,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.13524)]
 
 ## NAS and AutoML
 
+**Trilevel Neural Architecture Search for Efficient Single Image Super-Resolution.**<br>
+*Yan Wu, Zhiwu Huang, Suryansh Kumar, Rhea Sanjay Sukthanker, Radu Timofte, Luc Van Gool.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2101.06658)]
+
 **Memory-Efficient Hierarchical Neural Architecture Search for Image Restoration.**<br>
 *Haokui Zhang, Ying Li, Chengrong Gong, Hao Chen, Zongwen Bai, Chunhua Shen.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13212)]
@@ -489,6 +493,22 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Hyperspectral Image Super-Resolution with Spectral Mixup and Heterogeneous Datasets.**<br>
+*Ke Li, Dengxin Dai, Ender Konukoglu, Luc Van Gool.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.07589)]
+
+**Collaboration among Image and Object Level Features for Image Colourisation.**<br>
+*Rita Pucci, Christian Micheloni, Niki Martinel.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.07576)]
+
+**Blind Image Deblurring based on Kernel Mixture.**<br>
+*Sajjad Amrollahi Biyouki, Hoon Hwangbo.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06241)]
+
+**Temporal-Relational CrossTransformers for Few-Shot Action Recognition.**<br>
+*Toby Perrett, Alessandro Masullo, Tilo Burghardt, Majid Mirmehdi, Dima Damen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2101.06184)]
+
 **EfficientDeRain: Learning Pixel-wise Dilation Filtering for High-Efficiency Single-Image Deraining.**<br>
 *Qing Guo, Jingyang Sun, [Felix Juefei-Xu](http://xujuefei.com/), Lei Ma, Xiaofei Xie, Wei Feng, Yang Liu.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2009.09238)] [[Github](https://github.com/tsingqguo/efficientderain.git)]
@@ -501,9 +521,9 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04051)]
 *Zheng Ziqiang, Wu Yang, Han Xinran, Shi Jianbo.*<br>
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf)] [[Github](https://github.com/zhengziqiang/ForkGAN)]
 
-**Learning from Synthetic Shadows for Shadow Detection and Removal.**<br>
+**SynShadow: Learning from Synthetic Shadows for Shadow Detection and Removal.**<br>
 *Naoto Inoue, Toshihiko Yamasaki.*<br>
-TCSVT 2021. [[PDF](https://arxiv.org/abs/2101.01713)]
+TCSVT 2020. [[PDF](https://arxiv.org/abs/2101.01713)] [[Github](https://github.com/naoto0804/SynShadow)]
 
 **Consensus-Guided Correspondence Denoising.**<br>
 *Chen Zhao, Yixiao Ge, Jiaqi Yang, Feng Zhu, Rui Zhao, Hongsheng Li.*<br>

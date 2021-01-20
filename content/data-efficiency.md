@@ -183,6 +183,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 active learning, metric learning, contrastive learning, label learning, *etc*.
 
+**Removing Undesirable Feature Contributions Using Out-of-Distribution Data.**<br>
+*Saehyung Lee, Changhwa Park, Hyungyu Lee, Jihun Yi, Jonghyun Lee, Sungroh Yoon.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2101.06639)]
+
 **Shortcut Learning in Deep Neural Networks.**<br>
 *Robert Geirhos, Jörn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, Felix A. Wichmann.*<br>
 Nature Machine Intelligence 2020. [[PDF](https://arxiv.org/abs/2004.07780)] [[Github](https://github.com/rgeirhos/shortcut-perspective)]
