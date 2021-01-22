@@ -85,6 +85,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
 ### Data or Distribution Augmentation
 
+**Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling.**<br>
+*Tong Che, Ruixiang Zhang, Jascha Sohl-Dickstein, Hugo Larochelle, Liam Paull, Yuan Cao, Yoshua Bengio.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2003.06060)]
+
+**Regularizing Deep Networks with Semantic Data Augmentation.**<br>
+*Yulin Wang, Gao Huang, Shiji Song, Xuran Pan, Yitong Xia, Cheng Wu.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/2007.10538)]
+
 **Free Lunch for Few-shot Learning:  Distribution Calibration.**<br>
 *Shuo Yang, Lu Liu, Min Xu.*<br>
 ICLR 2021. [[PDF](https://openreview.net/forum?id=JWOiYxMG92s)] [[Github](https://github.com/ShuoYang-1998/ICLR2021-Oral_Distribution_Calibration)]
@@ -107,7 +115,11 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://hanla
 
 **Representation Learning via Invariant Causal Mechanisms.**<br>
 *Jovana Mitrovic, Brian McWilliams, Jacob Walker, Lars Buesing, Charles Blundell.*<br>
-NeurIPS 2020 [Workshop](https://sslneuips20.github.io/pages/Accepted%20Paper.html): Self-Supervised Learning - Theory and Practice. [[PDF](https://arxiv.org/abs/2010.07922)]
+NeurIPS 2020. [Workshop](https://sslneuips20.github.io/pages/Accepted%20Paper.html): Self-Supervised Learning - Theory and Practice. [[PDF](https://arxiv.org/abs/2010.07922)]
+
+**Feature Space Augmentation for Long-Tailed Data.**<br>
+*Peng Chu, Xiao Bian, Shaopeng Liu, Haibin Ling.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.03673)]
 
 **Augmentation Inside the Network.**<br>
 *Maciej Sypetkowski, Jakub Jasiulewicz, Zbigniew Wojna.*<br>
@@ -124,6 +136,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10769)]
 **Distribution Augmentation for Generative Modeling.**<br>
 *Heewoo Jun, Rewon Child, Mark Chen, John Schulman, Aditya Ramesh, Alec Radford, Ilya Sutskever.*<br>
 ICML 2020. [[PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/6095-Paper.pdf)] [[Github](https://github.com/openai/distribution_augmentation)]
+
+**ISDA: Implicit Semantic Data Augmentation for Deep Networks.**<br>
+*Yulin Wang, Xuran Pan, Shiji Song, Hong Zhang, Cheng Wu, Gao Huang.*<br>
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.12220])] [[Github](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)]
 
 ### Knowledge Transfer
 

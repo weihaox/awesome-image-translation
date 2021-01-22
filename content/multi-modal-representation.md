@@ -149,6 +149,12 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00529)]
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
 [[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
 
+### Others-to-3D
+
+**Learn to Dance with AIST++: Music Conditioned 3D Dance Generation.**<br>
+*Ruilong Li, Shan Yang, David A. Ross, Angjoo Kanazawa.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08779)] [[Project](https://google.github.io/aichoreographer/)] [[Code](https://google.github.io/aistplusplus_dataset/)]
+
 ### Image-to-Video
 
 **Animating Pictures with Eulerian Motion Fields.**<br>
@@ -190,6 +196,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1710.00421)]
 IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 
 ### Image-to-Text
+
+**ArtEmis: Affective Language for Visual Art.**<br>
+*Panos Achlioptas, Maks Ovsjanikov, Kilichbek Haydarov, Mohamed Elhoseiny, Leonidas Guibas.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.07396)] [[Project](https://artemisdataset.org/)]
 
 **Cross-Modal Contrastive Learning for Text-to-Image Generation.**<br>
 *Han Zhang, Jing Yu Koh, Jason Baldridge, Honglak Lee, Yinfei Yang.*<br>

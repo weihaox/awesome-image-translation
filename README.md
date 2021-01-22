@@ -43,6 +43,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## 2021
 
+**Image-to-Image Translation: Methods and Applications.**<br>
+*Yingxue Pang, Jianxin Lin, Tao Qin, Zhibo Chen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08629)]
+
 **Multi-Domain Image-to-Image Translation with Adaptive Inference Graph.**<br>
 *The-Phuc Nguyen, Stéphane Lathuilière, Elisa Ricci.*<br>
 ICPR 2021. [[PDF](https://arxiv.org/abs/2101.03806)]

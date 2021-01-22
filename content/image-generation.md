@@ -809,6 +809,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
 
 #### Tracking, Detection and Segmentation
 
+**Segmenting Transparent Object in the Wild with Transformer.**<br>
+*Enze Xie, Wenjia Wang, Wenhai Wang, Peize Sun, Hang Xu, Ding Liang, Ping Luo.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08461)]
+
 **LSTR: End-to-end Lane Shape Prediction with Transformers.**<br>
 *Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong.*<br>
 WACV 2021. [[PDF](https://arxiv.org/abs/2011.04233)] [[Github](https://github.com/liuruijin17/LSTR)]
