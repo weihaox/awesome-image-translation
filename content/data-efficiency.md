@@ -37,6 +37,10 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongro
 
 Federated Learning, Differential Privacy, Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense.
 
+**Unlearnable Examples: Making Personal Data Unexploitable.**<br>
+*Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, [Yisen Wang](https://sites.google.com/site/csyisenwang/).*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04898)]  [[Github](https://github.com/HanxunH/Unlearnable-Examples)]
+
 **Data Impressions: Mining Deep Models to Extract Samples for Data-free Applications.**<br>
 *Gaurav Kumar Nayak, Konda Reddy Mopuri, Saksham Jain, Anirban Chakraborty.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06069)]
