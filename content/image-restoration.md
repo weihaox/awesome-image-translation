@@ -17,6 +17,10 @@
 
 ## Replacing ISP
 
+**ISP Distillation.**<br>
+*Eli Schwartz, Alex Bronstein, Raja Giryes.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2101.10203)]
+
 **Learning Multi-Scale Photo Exposure Correction.**<br>
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Konstantinos G. Derpanis](https://www.cs.ryerson.ca/kosta/), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2003.11596)] [[Github](https://github.com/mahmoudnafifi/Exposure_Correction)] [[Exposure Errors Dataset]()]
@@ -391,6 +395,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ### Video Restoration
 
+**Learning Spatial and Spatio-Temporal Pixel Aggregations for Image and Video Denoising.**<br>
+*Xiangyu Xu, Muchen Li, Wenxiu Sun, Ming-Hsuan Yang.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2101.10760)] [[Project](https://sites.google.com/view/xiangyuxu/denoise_stpan)]
+
+**Learning Deformable Kernels for Image and Video Denoising.**<br>
+*Xiangyu Xu, Muchen Li, Wenxiu Sun.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1904.06903)]
+
 **An Efficient Recurrent Adversarial Framework for Unsupervised Real-Time Video Enhancement.**<br>
 *Dario Fuoli, Zhiwu Huang, Danda Pani Paudel, Luc Van Gool, Radu Timofte.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13033)]
@@ -492,6 +504,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Towards Domain Invariant Single Image Dehazing.**<br>
+*Pranjay Shyam, Kuk-Jin Yoon, Kyung-Soo Kim.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10449)]
+
+**Deep Burst Super-Resolution.**<br>
+*Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10997)]
+
+**Progressive Image Super-Resolution via Neural Differential Equation.**<br>
+*Seobin Park, Tae Hyun Kim.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08987)]
 
 **Hyperspectral Image Super-Resolution with Spectral Mixup and Heterogeneous Datasets.**<br>
 *Ke Li, Dengxin Dai, Ender Konukoglu, Luc Van Gool.*<br>

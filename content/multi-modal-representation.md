@@ -197,6 +197,10 @@ IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 
 ### Image-to-Text
 
+**CPTR: Full Transformer Network for Image Captioning.**<br>
+*Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10804)]
+
 **ArtEmis: Affective Language for Visual Art.**<br>
 *Panos Achlioptas, Maks Ovsjanikov, Kilichbek Haydarov, Mohamed Elhoseiny, Leonidas Guibas.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.07396)] [[Project](https://artemisdataset.org/)]
@@ -270,6 +274,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)] 
 
 ### Text-to-Image
+
+**Adversarial Text-to-Image Synthesis: A Review.**<br>
+*Stanislav Frolov, Tobias Hinz, Federico Raue, Jörn Hees, Andreas Dengel.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.09983)]
 
 **Cross-Modal Contrastive Learning for Text-to-Image Generation.**<br>
 *Han Zhang, Jing Yu Koh, Jason Baldridge, Honglak Lee, Yinfei Yang.*<br>

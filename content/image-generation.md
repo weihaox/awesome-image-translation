@@ -949,6 +949,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 #### Multi-modality
 
+**CPTR: Full Transformer Network for Image Captioning.**<br>
+*Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10804)]
+
 **Dual-Level Collaborative Transformer for Image Captioning.**<br>
 *Yunpeng Luo, Jiayi Ji, Xiaoshuai Sun, Liujuan Cao, Yongjian Wu, Feiyue Huang, Chia-Wen Lin, Rongrong Ji.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2101.06462)]
