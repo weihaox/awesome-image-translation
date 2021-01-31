@@ -197,6 +197,10 @@ IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 
 ### Image-to-Text
 
+**Vx2Text: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs.**<br>
+*Xudong Lin, Gedas Bertasius, Jue Wang, Shih-Fu Chang, Devi Parikh, Lorenzo Torresani.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.12059)]
+
 **CPTR: Full Transformer Network for Image Captioning.**<br>
 *Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10804)]

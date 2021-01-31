@@ -367,6 +367,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 ### Video Generation and Future Prediction
 
+**Playable Video Generation.**<br>
+*Willi Menapace, Stéphane Lathuilière, Sergey Tulyakov, Aliaksandr Siarohin, Elisa Ricci.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.12195)]
+
 **Learning to Anticipate Egocentric Actions by Imagination.**<br>
 *Yu Wu, Linchao Zhu, Xiaohan Wang, Yi Yang, Fei Wu.*<br>
 TIP 2021. [[PDF](https://arxiv.org/abs/2101.04924)]
@@ -806,6 +810,10 @@ ICLR 2021. [[PDF](https://arxiv.org/abs/2010.11929)] [[Official](https://github.
 **Temporal-Relational CrossTransformers for Few-Shot Action Recognition.**<br>
 *Toby Perrett, Alessandro Masullo, Tilo Burghardt, Majid Mirmehdi, Dima Damen.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
+
+**Bottleneck Transformers for Visual Recognition.**<br>
+*Aravind Srinivas, Tsung-Yi Lin, Niki Parmar, Jonathon Shlens, Pieter Abbeel, Ashish Vaswani.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 #### Tracking, Detection and Segmentation
 

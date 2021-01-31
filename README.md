@@ -524,6 +524,10 @@ ICCV Workshops 2019. [[PDF](https://arxiv.org/abs/1812.03704)] [[Github](https:/
 ### CVPR 2019 
 [[accepted paper list](http://openaccess.thecvf.com/CVPR2019.py)]
 
+**CollaGAN : Collaborative GAN for Missing Image Data Imputation.**<br>
+*Dongwook Lee, Junyoung Kim, Won-Jin Moon, Jong Chul Ye.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1901.09764)]
+
 **Latent Filter Scaling for Multimodal Unsupervised Image-To-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Alharbi_Latent_Filter_Scaling_for_Multimodal_Unsupervised_Image-To-Image_Translation_CVPR_2019_paper.html)]<br>
 *Yazeed Alharbi, Neil Smith, Peter Wonka.*<br>
 
