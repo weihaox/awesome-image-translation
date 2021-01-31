@@ -1,15 +1,16 @@
-# Data Bias and Efficiency
+# <p align=center>`awesome data bias and efficiency papers`</p>
 
 Fewer Data for Better Results: improve Robustness, Transferability, Fairness, and Generalization from the lab to real-world applications.
 
 ## Table of Contents
-- [Fairness, Accountability, Privacy, Transparency and Ethics](#fairness--accountability--privacy--transparency-and-ethics)
+- [Fairness, Accountability, Privacy, Transparency, and Ethics](#fairness--accountability--privacy--transparency--and-ethics)
 - [Neural Network Interpretability](#neural-network-interpretability)
 - [Data Efficiency](#data-efficiency)
   * [Data or Distribution Augmentation](#data-or-distribution-augmentation)
   * [Knowledge Transfer](#knowledge-transfer)
   * [Single-Image Training](#single-image-training)
-- [Dataset Bias](#dataset-bias)
+- [Data Bias](#dataset-bias)
+- [Data Imputation](#data-imputation)
 - [Hard or Unfamiliar Example](#hard-or-unfamiliar-example)
 - [Long-Tailed, Open Set, and Class-Imbalanced Dataset](#long-tailed--open-set--and-class-imbalanced-dataset)
 
@@ -199,7 +200,7 @@ ICCV 2019 (Best Paper).
 *Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
-## Dataset Bias
+## Data Bias
 
 active learning, metric learning, contrastive learning, label learning, *etc*.
 
@@ -251,6 +252,24 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)]
 *Antonio Torralba, Alexei A. Efros.*<br>
 CVPR 2011. [[PDF](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)]
 
+## Data Imputation
+
+**GAMIN: Generative Adversarial Multiple Imputation Network for Highly Missing Data.**<br>
+*Seongwook Yoon, Sanghoon Sull.*<br>
+CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yoon_GAMIN_Generative_Adversarial_Multiple_Imputation_Network_for_Highly_Missing_Data_CVPR_2020_paper.pdf)]
+
+**IFGAN: Missing Value Imputation using Feature-specific Generative Adversarial Networks.**<br>
+*Wei Qiu, Yangsibo Huang, Quanzheng Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12581)]
+
+**CollaGAN : Collaborative GAN for Missing Image Data Imputation.**<br>
+*Dongwook Lee, Junyoung Kim, Won-Jin Moon, Jong Chul Ye.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1901.09764)]
+
+**GAIN: Missing Data Imputation using Generative Adversarial Nets.**<br>
+*Jinsung Yoon, James Jordon, Mihaela van der Schaar.*<br>
+ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.com/jsyoon0823/GAIN)]
+
 ## Hard or Unfamiliar Example
 
 **Flexible Few-Shot Learning with Contextual Similarity.**<br>
@@ -280,6 +299,7 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.13636)] [[Github](https://github
 **Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning.**<br>
 *Huan Fu, Shunming Li, Rongfei Jia, Mingming Gong, Binqiang Zhao, Dacheng Tao.*<br>
 NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]
+
 
 ## Long-Tailed, Open Set, and Class-Imbalanced Dataset
 
