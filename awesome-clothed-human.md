@@ -26,6 +26,10 @@ Feedback and contributions are welcome!
 
 ## 3D People Dressing and Clothing Draping
 
+**Neural 3D Clothes Retargeting from a Single Image.**<br>
+*Jae Shin Yoon, Kihwan Kim, Jan Kautz, Hyun Soo Park.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2102.00062)]
+
 **Physically Based Neural Simulator for Garment Animation.**<br>
 *Hugo Bertiche, Meysam Madadi, Sergio Escalera.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11310)]

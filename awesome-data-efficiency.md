@@ -254,6 +254,22 @@ CVPR 2011. [[PDF](https://people.csail.mit.edu/torralba/publications/datasets_cv
 
 ## Data Imputation
 
+**Imputation of Missing Data with Class Imbalance using Conditional Generative Adversarial Networks.**<br>
+*Saqib Ejaz Awan, Mohammed Bennamoun, Ferdous Sohel, Frank M Sanfilippo, Girish Dwivedi.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00220)]
+
+**Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization.**<br>
+*Kaidi Cao, Yining Chen, Junwei Lu, Nikos Arechiga, Adrien Gaidon, Tengyu Ma.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15766)]
+
+**Identifying and Compensating for Feature Deviation in Imbalanced Deep Learning.**<br>
+*Han-Jia Ye, Hong-You Chen, De-Chuan Zhan, Wei-Lun Chao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.01385)]
+
+**A Survey of Missing Data Imputation Using Generative Adversarial Networks.**<br>
+*Jaeyoon Kim, Donghyun Tae, Junhee Seok.*<br>
+International Conference on Artificial Intelligence in Information and Communication (ICAIIC) 2020. [[PDF](https://ieeexplore.ieee.org/document/9065044)]
+
 **GAMIN: Generative Adversarial Multiple Imputation Network for Highly Missing Data.**<br>
 *Seongwook Yoon, Sanghoon Sull.*<br>
 CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yoon_GAMIN_Generative_Adversarial_Multiple_Imputation_Network_for_Highly_Missing_Data_CVPR_2020_paper.pdf)]

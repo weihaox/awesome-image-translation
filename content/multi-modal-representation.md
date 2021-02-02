@@ -136,13 +136,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
 
 ### Unsupervised Visual Representation Learning
 
+**VinVL: Making Visual Representations Matter in Vision-Language Models.**<br>
+*Pengchuan Zhang, Xiujun Li, Xiaowei Hu, Jianwei Yang, Lei Zhang, Lijuan Wang, Yejin Choi, Jianfeng Gao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00529)]
+
+**Learning Spatiotemporal Features via Video and Text Pair Discrimination.**<br>
+*Tianhao Li, [Limin Wang](https://wanglimin.github.io/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05691)] [[Github](https://github.com/MCG-NJU/CPD-Video)]
+
 **Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning.**<br>
 *Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, Han Hu.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.com/lucidrains/pixel-level-contrastive-learning)]
 
-**VinVL: Making Visual Representations Matter in Vision-Language Models.**<br>
-*Pengchuan Zhang, Xiujun Li, Xiaowei Hu, Jianwei Yang, Lei Zhang, Lijuan Wang, Yejin Choi, Jianfeng Gao.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00529)]
 
 ## Multi-Modality Translation
 
@@ -213,6 +218,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.07396)] [[Project](https://artemis
 *Han Zhang, Jing Yu Koh, Jason Baldridge, Honglak Lee, Yinfei Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04702)]
 
+**Semantic Grouping Network for Video Captioning.**<br>
+*Hobin Ryu, Sunghun Kang, Haeyong Kang, Chang D. Yoo.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.00831)]
+
 **Dual-Level Collaborative Transformer for Image Captioning.**<br>
 *Yunpeng Luo, Jiayi Ji, Xiaoshuai Sun, Liujuan Cao, Yongjian Wu, Feiyue Huang, Chia-Wen Lin, Rongrong Ji.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2101.06462)]
@@ -268,6 +277,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09791)] [[Project](https://sites.g
 **Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.**<br>
 *Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13374)]
+
+**Entangled Transformer for Image Captioning.**<br>
+*Guang Li Linchao Zhu Ping Liu Yi Yang.*<br>
+ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf)]
 
 **Inverse Cooking: Recipe Generation from Food Images.**<br>
 *Amaia Salvador, Michal Drozdzal, Xavier Giro-i-Nieto, Adriana Romero.*<br>

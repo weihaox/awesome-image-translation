@@ -505,6 +505,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Deep Reformulated Laplacian Tone Mapping.**<br>
+*Jie Yang, Ziyi Liu, Mengchen Lin, Svetlana Yanushkevich, Orly Yadid-Pecht.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.00348)] [[Github](https://github.com/linmc86/Deep-Reformulated-Laplacian-Tone-Mapping)]
+
 **Towards Domain Invariant Single Image Dehazing.**<br>
 *Pranjay Shyam, Kuk-Jin Yoon, Kyung-Soo Kim.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10449)]

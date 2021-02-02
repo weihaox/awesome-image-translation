@@ -111,7 +111,7 @@ EMNLP 2020. [[PDF](https://tsujuifu.github.io/pubs/emnlp20_sscr.pdf)] [[Github](
 
 **Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach.**<br>
 *Yahui Liu, Marco De Nadai, Deng Cai, Huayang Li, Xavier Alameda-Pineda, Nicu Sebe, Bruno Lepri.*<br>
-ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.04200)]
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.04200)] [[Github](https://github.com/yhlleo/DWC-GAN)]
 
 **Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild.**<br>
 *[Liqian Ma](https://homes.esat.kuleuven.be/~liqianma), Zhe Lin, Connelly Barnes, Alexei A. Efros, Jingwan Lu.*<br>
@@ -369,7 +369,7 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 **Playable Video Generation.**<br>
 *Willi Menapace, Stéphane Lathuilière, Sergey Tulyakov, Aliaksandr Siarohin, Elisa Ricci.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.12195)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.12195)] [[Github](https://github.com/willi-menapace/PlayableVideoGeneration)]
 
 **Learning to Anticipate Egocentric Actions by Imagination.**<br>
 *Yu Wu, Linchao Zhu, Xiaohan Wang, Yi Yang, Fei Wu.*<br>
@@ -803,6 +803,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 #### Recognition and Classification
 
+**Video Transformer Network.**<br>
+*Daniel Neimark, Omri Bar, Maya Zohar, Dotan Asselmann.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.00719)
+
+**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet.**<br>
+*Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Francis EH Tay, Jiashi Feng, Shuicheng Yan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11986)] [[Github](https://github.com/yitu-opensource/T2T-ViT)]
+
 **Vision Transformer-An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.**<br>
 *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2010.11929)] [[Official](https://github.com/google-research/vision_transformer)] [[Github](https://github.com/lukemelas/PyTorch-Pretrained-ViT)] [[Github](https://github.com/lucidrains/vit-pytorch)] [[Github](https://github.com/gupta-abhay/ViT)] [[Code Collection](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers)]
@@ -927,6 +935,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
 
 #### 3D 
 
+**Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry.**<br>
+*Xiangyu Li, Yonghong Hou, Pichao Wang, Zhimin Gao, Mingliang Xu, Wanqing Li.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02143)]
+
 **Spherical Transformer: Adapting Spherical Signal to Convolutional Networks.**<br>
 *Haikuan Du, Hui Cao, Shen Cai, Junchi Yan, Siyu Zhang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03848)]
@@ -957,6 +969,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 #### Multi-modality
 
+**Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers.**<br>
+*Lisa Anne Hendricks, John Mellor, Rosalia Schneider, Jean-Baptiste Alayrac, Aida Nematzadeh.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.00529)]
+
 **CPTR: Full Transformer Network for Image Captioning.**<br>
 *Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10804)]
@@ -970,7 +986,7 @@ AAAI 2021. [[PDF](https://arxiv.org/abs/2101.06462)]
 
 **CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
 *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
-2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)]
+2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)] [[Colab](https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Text2Image_v3.ipynb)]
 
 **VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search.**<br>
 *Xiaopeng Lu, Tiancheng Zhao, Kyusong Lee.*<br>
@@ -979,6 +995,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00265)]
 **COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning.**<br>
 *Simon Ging, Mohammadreza Zolfaghari, Hamed Pirsiavash, Thomas Brox.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github.com/gingsi/coot-videotext)]
+
+**Entangled Transformer for Image Captioning.**<br>
+*Guang Li Linchao Zhu Ping Liu Yi Yang.*<br>
+ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf)]
 
 #### Misc
 
@@ -1521,6 +1541,10 @@ arxiv 2020.
 **DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection.**<br>
 *Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia.*<br>
 arxiv, 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
+
+**Aurora Guard: Reliable Face Anti-Spoofing via Mobile Lighting System.**<br>
+*Jian Zhang, Ying Tai, Taiping Yao, Jia Meng, Shouhong Ding, Chengjie Wang, Jilin Li, Feiyue Huang, Rongrong Ji.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.00713)]
 
 **NAS-FAS: Static-Dynamic Central Difference Network Search for Face Anti-Spoofing.**<br>
 *Zitong Yu, Jun Wan, Yunxiao Qin, Xiaobai Li, Stan Z. Li, Guoying Zhao.*<br>
