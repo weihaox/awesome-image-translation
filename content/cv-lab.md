@@ -38,6 +38,31 @@ IGP: [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/)
 * [PRS: Photogrammetry and Remote Sensing](https://prs.igp.ethz.ch/), led by Prof. Dr. Schindler Konrad.
 
 
+**University of Cambridge**  
+* [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/) 
+* [CPDS: Centre for Photonic Devices and Sensors](https://www.cpds.eng.cam.ac.uk/) led by [Prof. Daping Chu](http://www.eng.cam.ac.uk/profiles/dpc31)
+* [CPS: Centre for Photonic Systems](http://www-g.eng.cam.ac.uk/photonic_comms/files/cps_home.php)
+* [Rainbow:The Graphics & Interaction Group](https://www.cl.cam.ac.uk/research/rainbow/) led by [Peter Robinson](http://www.cl.cam.ac.uk/~pr10/), [Alan Blackwell](http://www.cl.cam.ac.uk/~afb21/), [Rafał Mantiuk](http://www.cl.cam.ac.uk/~rkm38/) and [Hatice Gunes](http://www.cl.cam.ac.uk/~hg410/). [[Appling a PhD](https://www.cl.cam.ac.uk/research/rainbow/applying.html)]
+
+**University of Oxford** 
+* [Robotics Research Group](http://www.robots.ox.ac.uk/) led by Professor Sir Michael Brady.
+	* [TVG: Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) led by Professor Philip Torr.
+	* [VGG: Visual Geometry Group](http://www.robots.ox.ac.uk/~vgg/)
+	* [Active Vision Group](http://www.robots.ox.ac.uk/~lav) led by Ian Reid. 
+	* [ORI: Oxford Robotics Institute](http://ori.ox.ac.uk/)
+
+* [The Intelligent Systems Lab](http://www.cs.ox.ac.uk/people/thomas.lukasiewicz/isg-index.html) led by Professor Thomas Lukasiewicz.
+
+**Imperial College London** 
+* [The Dyson Robotics Lab](http://www.imperial.ac.uk/dyson-robotics-lab/)
+* [Imperial CV and Learning Lab](http://www.iis.ee.ic.ac.uk/ComputerVision/) [[Jobs](abicvl.github.io)]
+* [IBUG: Intelligent Behavior Understanding Group](https://ibug.doc.ic.ac.uk/)
+
+**University College London (UCL)** 
+* [VECG: Virtual Environments and Computer Graphics](http://vecg.cs.ucl.ac.uk/)
+* [VIS: Vision and Imaging Science](http://vis.cs.ucl.ac.uk)
+* [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php)
+
 **ETH Zurich and Max Plank Institute for Intelligent Systems**
 * Max Plank ETH Center For Learning Systems. by Prof. Otmar Hilliges (AIT, ETHZ) and Prof. Michael Black (MPII). [[PhD Position](learning-systems.org/phds)] [[Application](https://cls.tue.mpg.de/registration/cls_2020)]
 
@@ -59,7 +84,6 @@ IGP: [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/)
 * [LIA: The Artificial Intelligence Laboratory](https://lia.epfl.ch/)] by [Prof. Boi Faltings](http://lia.epfl.ch/~faltings/)
 * [CVIG: Computer Vision and Learning Group](siyut.github.io/SiyuT/) by Prof. Dr. Siyu Tang.
 
-
 **Max Planck Institute for Informatics** 
 * [GVV: Graphics, Vision & Video](http://gvv.mpi-inf.mpg.de/GVV_PhD_Position.html)
 * [Real Virtual Humans](http://virtualhumans.mpi-inf.mpg.de/) by [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html). [[Open Positions](http://virtualhumans.mpi-inf.mpg.de/jobs.html)]
@@ -79,39 +103,16 @@ IGP: [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/)
 * [Computer Vision Laboratory](https://vision.in.tum.de/) 
 * [Visual Computer Lab](https://niessnerlab.org/opening.html)
 
-**University College London (UCL)** 
-* [VECG: Virtual Environments and Computer Graphics](http://vecg.cs.ucl.ac.uk/)
-* [VIS: Vision and Imaging Science](http://vis.cs.ucl.ac.uk)
-* [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/index.php)
-
-**University of Cambridge**  
-* [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/) 
-* [CPDS: Centre for Photonic Devices and Sensors](https://www.cpds.eng.cam.ac.uk/) by [Prof. Daping Chu](http://www.eng.cam.ac.uk/profiles/dpc31)
-* [CPS: Centre for Photonic Systems](http://www-g.eng.cam.ac.uk/photonic_comms/files/cps_home.php)
-* [Rainbow:The Graphics & Interaction Group](https://www.cl.cam.ac.uk/research/rainbow/) by [Peter Robinson](http://www.cl.cam.ac.uk/~pr10/), [Alan Blackwell](http://www.cl.cam.ac.uk/~afb21/), [Rafał Mantiuk](http://www.cl.cam.ac.uk/~rkm38/) and [Hatice Gunes](http://www.cl.cam.ac.uk/~hg410/). [[Appling a PhD](https://www.cl.cam.ac.uk/research/rainbow/applying.html)]
-
-**University of Oxford** 
-* [Robotics Research Group](http://www.robots.ox.ac.uk/) by by Professor Sir Michael Brady.
-	* [TVG: Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) by Professor Philip Torr.
-	* [VGG: Visual Geometry Group](http://www.robots.ox.ac.uk/~vgg/)
-	* [Active Vision Group](http://www.robots.ox.ac.uk/~lav) by Ian Reid. 
-	* [ORI: Oxford Robotics Institute](http://ori.ox.ac.uk/)
-
-**Imperial College London** 
-* [The Dyson Robotics Lab](http://www.imperial.ac.uk/dyson-robotics-lab/)
-* [Imperial CV and Learning Lab](http://www.iis.ee.ic.ac.uk/ComputerVision/) [[Jobs](abicvl.github.io)]
-* [IBUG: Intelligent Behavior Understanding Group](https://ibug.doc.ic.ac.uk/)
-
 **KTH Royal Institute of Technology** 
 * [CVAP: Computer Vision and Active Perception Lab](https://www.kth.se/en/csc/forskning/cvap) 
 
 **KU Leuven**<br>
 [[All Units](https://www.kuleuven.be/wieiswie/en/unit/)] [[Find Jobs](https://academicpositions.com/find-jobs/Research%20assistant~PhD-in-Artificial%20Intelligence~Control%20Systems%20Engineering~Manufacturing%20Engineering~Robotics~Mechanical%20Engineering~Electronics-by-all-in-all/all/1)]
 * [Processing Speech and Images](https://www.esat.kuleuven.be/psi/) 
-* [Division ESAT - Processing of Speech and Images](https://www.kuleuven.be/wieiswie/en/unit/50017710) by Frederik Maes.
+* [Division ESAT - Processing of Speech and Images](https://www.kuleuven.be/wieiswie/en/unit/50017710) led by Frederik Maes.
 
 **Delft Universitiy of Technology**
-* [Computer Graphics and Visualization](https://graphics.tudelft.nl/) by [Elmar Eisemann](http://graphics.tudelft.nl/~eisemann), Department of Intelligent Systems, Faculty of Electrical Engineering, Mathematics and Computer Science.
+* [Computer Graphics and Visualization](https://graphics.tudelft.nl/) led by [Elmar Eisemann](http://graphics.tudelft.nl/~eisemann), Department of Intelligent Systems, Faculty of Electrical Engineering, Mathematics and Computer Science.
 * [Computer Vision Lab](http://visionlab.tudelft.nl/) 
 * [Imaging Physics](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/) 
 
