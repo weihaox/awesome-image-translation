@@ -395,6 +395,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ### Video Restoration
 
+**Deep Online Fused Video Stabilization.**<br>
+*Zhenmei Shi, Fuhao Shi, Wei-Sheng Lai, Chia-Kai Liang, Yingyu Liang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01279)] [[Project](https://zhmeishi.github.io/dvs/)]
+
 **Learning Spatial and Spatio-Temporal Pixel Aggregations for Image and Video Denoising.**<br>
 *Xiangyu Xu, Muchen Li, Wenxiu Sun, Ming-Hsuan Yang.*<br>
 TIP 2020. [[PDF](https://arxiv.org/abs/2101.10760)] [[Project](https://sites.google.com/view/xiangyuxu/denoise_stpan)]
@@ -504,6 +508,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data.**<br>
+*Ru Li, Chuan Wang, Shuaicheng Liu, Jue Wang, Guanghui Liu, Bing Zeng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01850)]
+
+**Test-Time Adaptation for Out-of-distributed Image Inpainting.**<br>
+*Chajin Shin, Taeoh Kim, Sangjin Lee, Sangyoun Lee.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01360)]
+
+**Exploiting Raw Images for Real-Scene Super-Resolution.**<br>
+*Xiangyu Xu, Yongrui Ma, Wenxiu Sun, Ming-Hsuan Yang.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/2102.01579)]
 
 **Deep Reformulated Laplacian Tone Mapping.**<br>
 *Jie Yang, Ziyi Liu, Mengchen Lin, Svetlana Yanushkevich, Orly Yadid-Pecht.*<br>

@@ -48,8 +48,10 @@ IGP: [Institute of Geodesy and Photogrammetry](https://igp.ethz.ch/)
 * [Robotics Research Group](http://www.robots.ox.ac.uk/) led by Professor Sir Michael Brady.
 	* [TVG: Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) led by Professor Philip Torr.
 	* [VGG: Visual Geometry Group](http://www.robots.ox.ac.uk/~vgg/)
-	* [Active Vision Group](http://www.robots.ox.ac.uk/~lav) led by Ian Reid. 
+	* [Active Vision Group](http://www.robots.ox.ac.uk/~lav) led by [David Murray](http://www.robots.ox.ac.uk/~dwm) and [Victor Prisacariu](http://www.robots.ox.ac.uk/~victor). 
 	* [ORI: Oxford Robotics Institute](http://ori.ox.ac.uk/)
+
+* [Oxford Applied and Theoretical Machine Learning Group (OATML)](http://www.cs.ox.ac.uk/people/yarin.gal/website//) led by Professor Yarin Gal.
 
 * [The Intelligent Systems Lab](http://www.cs.ox.ac.uk/people/thomas.lukasiewicz/isg-index.html) led by Professor Thomas Lukasiewicz.
 

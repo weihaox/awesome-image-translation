@@ -61,6 +61,14 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 ## inversion paper
 
+**Generating images from caption and vice versa via CLIP-Guided Generative Latent Space Search.**<br>
+*Federico A. Galatolo, Mario G.C.A. Cimino, Gigliola Vaglini.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01645)]
+
+**Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**<br>
+*Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
+
 **Exploring Adversarial Fake Images on Face Manifold.**<br>
 *Dongze Li, Wei Wang, Hongxing Fan, Jing Dong.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03272)]

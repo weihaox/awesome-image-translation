@@ -334,6 +334,10 @@ AdvML 2020, KDD workshop. [[PDF](https://arxiv.org/abs/2007.10947)]
 *Ziad Al-Halah, Kristen Grauman.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01316)]
 
+**From Culture to Clothing: Discovering the World Events Behind A Century of Fashion Images.**<br>
+*Wei-Lin Hsiao, Kristen Grauman.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
+
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]

@@ -9,7 +9,8 @@ Fewer Data for Better Results: improve Robustness, Transferability, Fairness, an
   * [Data or Distribution Augmentation](#data-or-distribution-augmentation)
   * [Knowledge Transfer](#knowledge-transfer)
   * [Single-Image Training](#single-image-training)
-- [Data Bias](#dataset-bias)
+- [Data Bias](#data-bias)
+- [Data memorization](#data-memorization)
 - [Data Imputation](#data-imputation)
 - [Hard or Unfamiliar Example](#hard-or-unfamiliar-example)
 - [Long-Tailed, Open Set, and Class-Imbalanced Dataset](#long-tailed--open-set--and-class-imbalanced-dataset)
@@ -134,17 +135,13 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10769)]
 *Taiga Kashima, Yoshihiro Yamada, Shunta Saito.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09407)]
 
-**Augmentation Inside the Network.**<br>
-*Maciej Sypetkowski, Jakub Jasiulewicz, Zbigniew Wojna.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10769)]
-
 **Distribution Augmentation for Generative Modeling.**<br>
 *Heewoo Jun, Rewon Child, Mark Chen, John Schulman, Aditya Ramesh, Alec Radford, Ilya Sutskever.*<br>
 ICML 2020. [[PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/6095-Paper.pdf)] [[Github](https://github.com/openai/distribution_augmentation)]
 
 **ISDA: Implicit Semantic Data Augmentation for Deep Networks.**<br>
 *Yulin Wang, Xuran Pan, Shiji Song, Hong Zhang, Cheng Wu, Gao Huang.*<br>
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.12220])] [[Github](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)]
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.12220)] [[Github](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)]
 
 ### Knowledge Transfer
 
@@ -251,6 +248,26 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)]
 **Unbiased Look at Dataset Bias.**<br>
 *Antonio Torralba, Alexei A. Efros.*<br>
 CVPR 2011. [[PDF](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)]
+
+## Data memorization
+
+Memorization is the tendency to memorize the labels of the training data.
+
+**What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation.**<br>
+*Vitaly Feldman, Chiyuan Zhang.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2008.03703)] [[Github](https://github.com/google-research/heldout-influence-estimation)] [[Project](https://pluskid.github.io/influence-memorization/)]
+
+**Characterizing Structural Regularities of Labeled Data in Overparameterized Models.**<br>
+*Ziheng Jiang, Chiyuan Zhang, Kunal Talwar, Michael C. Mozer.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2002.03206)] [[Github](https://github.com/google-research/heldout-influence-estimation)] [[Project](https://pluskid.github.io/structural-regularity/)]
+
+**Identity Crisis: Memorization and Generalization under Extreme Overparameterization.**<br>
+*Chiyuan Zhang, Samy Bengio, Moritz Hardt, Michael C. Mozer, Yoram Singer.*<br>
+ICLR 2020. [[PDF](https://arxiv.org/abs/1902.04698)]
+
+**Does Learning Require Memorization? A Short Tale about a Long Tail.**<br>
+*Vitaly Feldman.*<br>
+STOC 2020. [[PDF](https://arxiv.org/abs/1906.05271)]
 
 ## Data Imputation
 

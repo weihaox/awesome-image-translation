@@ -77,6 +77,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 
 ### Change Where You Want
 
+**Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**<br>
+*Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
+
 **GAN-Control: Explicitly Controllable GANs.**<br>
 *Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2101.02477)]
@@ -802,6 +806,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12556)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 #### Recognition and Classification
+
+**Relaxed Transformer Decoders for Direct Action Proposal Generation.**<br>
+*Jing Tan, Jiaqi Tang, Limin Wang, Gangshan Wu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01894)]
 
 **Video Transformer Network.**<br>
 *Daniel Neimark, Omri Bar, Maya Zohar, Dotan Asselmann.*<br>

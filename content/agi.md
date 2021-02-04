@@ -44,6 +44,10 @@ This direction includes multi-modality translation, multi-modality representatio
 *Rufin VanRullen, Ryota Kanai.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
+**Machine Theory of Mind.**<br>
+*Neil C. Rabinowitz, Frank Perbet, H. Francis Song, Chiyuan Zhang, S.M. Ali Eslami, Matthew Botvinick.*<br>
+ICML 2018. [[PDF](https://arxiv.org/abs/1802.07740)]
+
 ## AI Ethics
 
 This direction includes trustworthy AI, accountability, privacy, transparency, and ethics.
