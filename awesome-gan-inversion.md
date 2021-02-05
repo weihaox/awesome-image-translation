@@ -61,6 +61,14 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 ## inversion paper
 
+**Only a Matter of Style: Age Transformation Using a Style-Based Regression Model.**<br>
+*Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
+
+**Designing an Encoder for StyleGAN Image Manipulation.**<br>
+*[Omer Tov](https://yotamnitzan.github.io/), Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02766)] [[Github](https://github.com/omertov/encoder4editing)]
+
 **Generating images from caption and vice versa via CLIP-Guided Generative Latent Space Search.**<br>
 *Federico A. Galatolo, Mario G.C.A. Cimino, Gigliola Vaglini.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01645)]

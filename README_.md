@@ -1039,7 +1039,15 @@ NeurIPS 2019. [[PDF](https://arxiv.org/abs/1908.01517v1)]]
 
 **Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Imbalanced Data.**</br>
 *Utkarsh Ojha, Krishna Kumar Singh, Cho-Jui Hsieh, Yong Jae Lee.*<br>
-arxiv, 1 Oct 2019. [[PDF](https://arxiv.org/abs/1910.01112)]   
+arxiv 2019. [[PDF](https://arxiv.org/abs/1910.01112)]   
+
+**BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
+*Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02036)]
+
+**CollaGAN: Collaborative GAN for Missing Image Data Imputation.**<br>
+*Dongwook Lee, Junyoung Kim, Won-Jin Moon, Jong Chul Ye.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1901.09764)]
 
 ## Datasets
 Please cite their papers if you use the data.

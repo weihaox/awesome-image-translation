@@ -74,6 +74,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1908.03557)] [[Github](https://github
 
 [a collection of Image-Text Matching (Visual-Semantic/Lingustic Embedding)](https://blog.csdn.net/weixin_42/article/details/104275300)
 
+**Learning to Represent Image and Text with Denotation Graph.**<br>
+*[Bowen Zhang](https://zbwglory.github.io/), Hexiang Hu, Vihan Jain, Eugene Ie, [Fei Sha](http://www-bcf.usc.edu/~feisha/).*<br>
+EMNLP 2020, [[PDF](https://arxiv.org/abs/2010.02949)] [[Project](https://sha-lab.github.io/DG)]
+
 **Similarity Reasoning and Filtration for Image-Text Matching.**<br>
 *Haiwen Diao, Ying Zhang, Lin Ma, Huchuan Lu.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2101.01368)]
@@ -291,6 +295,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)] 
 
 ### Text-to-Image
+
+**Semantic Object Accuracy for Generative Text-to-Image Synthesis.**<br>
+*Tobias Hinz, Stefan Heinrich, Stefan Wermter.*<br>
+TPAMI 2020. [[PDF](https://ieeexplore.ieee.org/document/9184960/authors#authors)] [[Github](https://github.com/tohinz/semantic-object-accuracy-for-generative-text-to-image-synthesis)]
 
 **Adversarial Text-to-Image Synthesis: A Review.**<br>
 *Stanislav Frolov, Tobias Hinz, Federico Raue, Jörn Hees, Andreas Dengel.*<br>

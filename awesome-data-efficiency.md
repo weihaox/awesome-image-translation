@@ -12,12 +12,17 @@ Fewer Data for Better Results: improve Robustness, Transferability, Fairness, an
 - [Data Bias](#data-bias)
 - [Data memorization](#data-memorization)
 - [Data Imputation](#data-imputation)
+- [Open-World and Out-of-Distribution Dataset](#open-world-and-out-of-distribution-dataset)
+- [Long-Tailed and Class-Imbalanced Dataset](#long-tailed-and-class-imbalanced-dataset)
 - [Hard or Unfamiliar Example](#hard-or-unfamiliar-example)
-- [Long-Tailed, Open Set, and Class-Imbalanced Dataset](#long-tailed--open-set--and-class-imbalanced-dataset)
 
 ## Fairness, Accountability, Privacy, Transparency, and Ethics
 
 ### Fairness
+
+**Fair for All: Best-effort Fairness Guarantees for Classification.**<br>
+*[Anilesh K. Krishnaswamy](https://users.cs.duke.edu/~anilesh/), [Zhihao Jiang](https://sites.google.com/view/zhihaojiang/home), [Kangning Wang](), [Yu Cheng](http://homepages.math.uic.edu/~yucheng/), [Kamesh Munagala](https://www.kameshmunagala.org/).*<br>
+AISTATS 2021. [[PDF](https://arxiv.org/abs/2012.10216)]
 
 **FairGen: Improving the Fairness of Deep Generative Models without Retraining.**<br>
 *[Shuhan Tan](https://ariostgx.github.io/), Yujun Shen, Bolei Zhou.*<br>
@@ -30,6 +35,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2004.03355)] [[Github](https://github.co
 **FairGen: Fair Generative Modeling via Weak Supervision.**<br>
 *Kristy Choi, Aditya Grover, Trisha Singh, Rui Shu, Stefano Ermon.*<br>
 ICML 2020. [[PDF](https://arxiv.org/abs/1910.12008)] [[Github](https://github.com/ermongroup/fairgen)]
+
+**When Samples Are Strategically Selected.**<br>
+*[Hanrui Zhang](https://users.cs.duke.edu/~hrzhang), [Yu Cheng](http://homepages.math.uic.edu/~yucheng/).*<br> 
+ICML 2019. [[PDF](https://users.cs.duke.edu/~conitzer/strategicsamples18.pdf)]
 
 **Bias and Generalization in Deep Generative Models: An Empirical Study.**<br>
 *Shengjia Zhao, Hongyu Ren, Arianna Yuan, Jiaming Song, Noah Goodman, [Stefano Ermon](https://cs.stanford.edu/~ermon/).*<br>
@@ -123,6 +132,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://hanla
 *Jovana Mitrovic, Brian McWilliams, Jacob Walker, Lars Buesing, Charles Blundell.*<br>
 NeurIPS 2020. [Workshop](https://sslneuips20.github.io/pages/Accepted%20Paper.html): Self-Supervised Learning - Theory and Practice. [[PDF](https://arxiv.org/abs/2010.07922)]
 
+**FeatMatch: Feature-Based Augmentation for Semi-Supervised Learning.**<br>
+*[Chia-Wen Kuo](https://sites.google.com/view/chiawen-kuo/home), [Chih-Yao Ma](https://chihyaoma.github.io/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08505)] [[Project](https://sites.google.com/view/chiawen-kuo/home/featmatch)] [[Github](https://github.com/GT-RIPL/FeatMatch)]
+
 **Feature Space Augmentation for Long-Tailed Data.**<br>
 *Peng Chu, Xiao Bian, Shaopeng Liu, Haibin Ling.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.03673)]
@@ -200,6 +213,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 ## Data Bias
 
 active learning, metric learning, contrastive learning, label learning, *etc*.
+
+**Unbiased Teacher for Semi-Supervised Object Detection.**<br>
+*Yen-Cheng Liu, Chih-Yao Ma, Zijian He, Chia-Wen Kuo, Kan Chen, Peizhao Zhang, Bichen Wu, Zsolt Kira, Peter Vajda.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=MJIve1zgR_)]
 
 **Removing Undesirable Feature Contributions Using Out-of-Distribution Data.**<br>
 *Saehyung Lee, Changhwa Park, Hyungyu Lee, Jihun Yi, Jonghyun Lee, Sungroh Yoon.*<br>
@@ -295,7 +312,7 @@ CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yoon_GA
 *Wei Qiu, Yangsibo Huang, Quanzheng Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12581)]
 
-**CollaGAN : Collaborative GAN for Missing Image Data Imputation.**<br>
+**CollaGAN: Collaborative GAN for Missing Image Data Imputation.**<br>
 *Dongwook Lee, Junyoung Kim, Won-Jin Moon, Jong Chul Ye.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1901.09764)]
 
@@ -303,38 +320,29 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1901.09764)]
 *Jinsung Yoon, James Jordon, Mihaela van der Schaar.*<br>
 ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.com/jsyoon0823/GAIN)]
 
-## Hard or Unfamiliar Example
+## Open-World and Out-of-Distribution Dataset
 
-**Flexible Few-Shot Learning with Contextual Similarity.**<br>
-*Mengye Ren, Eleni Triantafillou, Kuan-Chieh Wang, James Lucas, Jake Snell, Xaq Pitkow, Andreas S. Tolias, Richard Zemel.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05895)]
+**SelfNorm and CrossNorm for Out-of-Distribution Robustness.**<br>
+*Zhiqiang Tang, Yunhe Gao, Yi Zhu, Zhi Zhang, Mu Li, Dimitris Metaxas.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02811)]
 
-**Improving Confidence Estimates for Unfamiliar Examples.**<br>
-*[Zhizhong Li](https://zhizhongli.vision/), [Derek Hoiem](https://dhoiem.cs.illinois.edu/).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1804.03166)] [[Github](https://github.com/lizhitwo/ConfidenceEstimates)] [[Project](https://zhizhongli.vision/projects/improving-confidence-estimates/)]
+**Towards Inheritable Models for Open-Set Domain Adaptation.**<br>
+*Jogendra Nath Kundu, Naveen Venkat, Ambareesh Revanur, Rahul M V, R. Venkatesh Babu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.com/val-iisc/inheritune)]
 
-**MetaInfoNet: Learning Task-Guided Information for Sample Reweighting.**<br>
-*Hongxin Wei, Lei Feng, Rundong Wang, Bo An.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05273)]
+**Open-World Learning Without Labels.**<br>
+*Mohsen Jafarzadeh, Akshay Raj Dhamija, Steve Cruz, Chunchun Li, Touqeer Ahmad, Terrance E. Boult.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 
-**Learning to Sample the Most Useful Training Patches from Images.**<br>
-*Shuyang Sun, Liang Chen, Gregory Slabaugh, Philip Torr.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12097)]
+## Long-Tailed and Class-Imbalanced Dataset
 
-**Enhanced Balancing GAN: Minority-class Image Generation.**<br>
-*Gaofeng Huang, Amir H. Jafari.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00189)]
+**Algorithms for Heavy-Tailed Statistics: Regression, Covariance Estimation, and Beyond.**<br>
+*Yeshwanth Cherapanamjeri, Samuel B. Hopkins, Tarun Kathuria, Prasad Raghavendra, Nilesh Tripuraneni.*<br>
+STOC 2020. [[PDF](https://arxiv.org/abs/1912.11071)]
 
-**Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies.**<br>
-*Yuehua Zhu, Muli Yang, Cheng Deng, Wei Liu.*<br>
-NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.13636)] [[Github](https://github.com/YuehuaZhu/ProxyGML)]
-
-**Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning.**<br>
-*Huan Fu, Shunming Li, Rongfei Jia, Mingming Gong, Binqiang Zhao, Dacheng Tao.*<br>
-NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]
-
-
-## Long-Tailed, Open Set, and Class-Imbalanced Dataset
+**BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
+*Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02036)]
 
 **Class-imbalanced Domain Adaptation: An Empirical Odyssey.**<br>
 *Shuhan Tan, Xingchao Peng, Kate Saenko.*<br>
@@ -360,10 +368,6 @@ ICLR 2020. [[PDF](https://arxiv.org/abs/1910.09217)] [[Github](https://github.co
 *Yuzhe Yang, Zhi Xu.*<br>
 NeurlPS 2020. [[PDF](https://arxiv.org/abs/2006.07529)] [[Github](https://github.com/YyzHarry/imbalanced-semi-self)]
 
-**Open-World Learning Without Labels.**<br>
-*Mohsen Jafarzadeh, Akshay Raj Dhamija, Steve Cruz, Chunchun Li, Touqeer Ahmad, Terrance E. Boult.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
-
 **M2M: Imbalanced Classification via Major-to-Minor Translation.**<br>
 *Jaehyung Kim, Jongheon Jeong, Jinwoo Shin.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00431)]
@@ -375,10 +379,6 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.07529)] [[Github](https://github
 **OSLNet: Deep Small-Sample Classification with an Orthogonal Softmax Layer.**<br>
 *Xiaoxu Li, Dongliang Chang, Zhanyu Ma, Zheng-Hua Tan, Jing-Hao Xue, Jie Cao, Jingyi Yu, Jun Guo.*<br>
 TIP 2020. [[PDF](https://arxiv.org/abs/2004.09033)] [[Github](https://github.com/dongliangchang/OSLNet)] 
-
-**Towards Inheritable Models for Open-Set Domain Adaptation.**<br>
-*Jogendra Nath Kundu, Naveen Venkat, Ambareesh Revanur, Rahul M V, R. Venkatesh Babu.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.com/val-iisc/inheritune)]
 
 **BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.**<br>
 *Boyan Zhou, Quan Cui, Xiu-Shen Wei, Zhao-Min Chen.*<br>
@@ -420,3 +420,33 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03706)]
 **Learning to Segment the Tail.**<br>
 *Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
+
+## Hard or Unfamiliar Example
+
+**Flexible Few-Shot Learning with Contextual Similarity.**<br>
+*Mengye Ren, Eleni Triantafillou, Kuan-Chieh Wang, James Lucas, Jake Snell, Xaq Pitkow, Andreas S. Tolias, Richard Zemel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05895)]
+
+**Improving Confidence Estimates for Unfamiliar Examples.**<br>
+*[Zhizhong Li](https://zhizhongli.vision/), [Derek Hoiem](https://dhoiem.cs.illinois.edu/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/1804.03166)] [[Github](https://github.com/lizhitwo/ConfidenceEstimates)] [[Project](https://zhizhongli.vision/projects/improving-confidence-estimates/)]
+
+**MetaInfoNet: Learning Task-Guided Information for Sample Reweighting.**<br>
+*Hongxin Wei, Lei Feng, Rundong Wang, Bo An.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05273)]
+
+**Learning to Sample the Most Useful Training Patches from Images.**<br>
+*Shuyang Sun, Liang Chen, Gregory Slabaugh, Philip Torr.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12097)]
+
+**Enhanced Balancing GAN: Minority-class Image Generation.**<br>
+*Gaofeng Huang, Amir H. Jafari.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00189)]
+
+**Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies.**<br>
+*Yuehua Zhu, Muli Yang, Cheng Deng, Wei Liu.*<br>
+NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.13636)] [[Github](https://github.com/YuehuaZhu/ProxyGML)]
+
+**Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning.**<br>
+*Huan Fu, Shunming Li, Rongfei Jia, Mingming Gong, Binqiang Zhao, Dacheng Tao.*<br>
+NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]

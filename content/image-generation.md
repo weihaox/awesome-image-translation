@@ -147,6 +147,10 @@ AACL 2020. [[PDF](https://arxiv.org/abs/2010.09935)]
 
 ### Guided Translation
 
+**MeInGame: Create a Game Character Face from a Single Portrait.**<br>
+*Jiangke Lin, Yi Yuan, Zhengxia Zou.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.02371)]
+
 **Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows.**<br>
 *Alexanderson, Simon and Henter, Gustav Eje and Kucherenko, Taras and Beskow, Jonas.*<br>
 Computer Graphics Forum 2020. [[PDF](https://diglib.eg.org/handle/10.1111/cgf13946)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
@@ -401,11 +405,15 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.04776)]
 
 **Transformation-based Adversarial Video Prediction on Large-Scale Data.**<br>
 *Pauline Luc, Aidan Clark, Sander Dieleman, Diego de Las Casas, Yotam Doron, Albin Cassirer, Karen Simonyan.*<br>
-arxiv, 9 Mar 2020. [[PDF](https://arxiv.org/abs/2003.04035)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.04035)]
 
 **The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction.**<br>
 *Junwei Liang, Lu Jiang, Kevin Murphy, Ting Yu, Alexander Hauptmann.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1912.06445)] [[Project](https://next.cs.cmu.edu/multiverse/index.html)] [[The Forking Paths Dataset](https://next.cs.cmu.edu/multiverse/index.html)]
+
+**Future Video Synthesis with Object Motion Prediction.**<br>
+*Yue Wu, Rongrong Gao, Jaesik Park, Qifeng Chen.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00542)] [[Github](https://github.com/YueWuHKUST/FutureVideoSynthesis)]
 
 **Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks.**<br>
 *[Wei Xiong](https://wxiong.me/), Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo.*<br>

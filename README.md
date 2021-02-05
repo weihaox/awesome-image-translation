@@ -243,6 +243,10 @@ WACV 2021. [[PDF](https://openaccess.thecvf.com/content/WACV2021/html/Lin_Attent
 
 ### Others 2020
 
+**BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
+*Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02036)]
+
 **Lipschitz Regularized CycleGAN for Improving Semantic Robustness in Unpaired Image-to-image Translation.**<br>
 *Zhiwei Jia, Bodi Yuan, Kangkang Wang, Hong Wu, David Clifford, Zhiqiang Yuan, Hao Su.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04932)]
@@ -385,7 +389,7 @@ WACV 2020. [[PDF](https://arxiv.org/abs/1910.10563v3)]
 
 **U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation.**<br>
 *Junho Kim, Minjae Kim, Hyeonwoo Kang, Kwanghee Lee.*<br>
-[ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference). [[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](https://github.com/taki0112/UGATIT)] [[Pytorch](https://github.com/znxlwm/UGATIT-pytorch)] [[photo2cartoon](https://github.com/minivision-ai/photo2cartoon)]
+[ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference). [[PDF](https://arxiv.org/abs/1907.10830)] [[Official Tensorflow](https://github.com/taki0112/UGATIT)] [[Pytorch](https://github.com/znxlwm/UGATIT-pytorch)] [[photo2cartoon](https://github.com/minivision-ai/photo2cartoon)] [[Morph UGATIT](https://github.com/shoutOutYangJie/Morph-UGATIT)]
 
 **GANILLA: Generative Adversarial Networks for Image to Illustration Translation.**<br>
 *Samet Hicsonmez, Nermin Samet, Emre Akbas, Pinar Duygulu.*<br>

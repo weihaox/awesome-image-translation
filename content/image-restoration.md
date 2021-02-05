@@ -509,6 +509,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Multi-Stage Progressive Image Restoration.**<br>
+*Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang, Ling Shao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02808)]
+
 **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data.**<br>
 *Ru Li, Chuan Wang, Shuaicheng Liu, Jue Wang, Guanghui Liu, Bing Zeng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01850)]
