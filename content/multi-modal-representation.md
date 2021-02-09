@@ -204,6 +204,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1710.00421)]
 *Doyeon Kim, Donggyu Joo, Junmo Kim.*<br>
 IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 
+**IRC-GAN: Introspective Recurrent Convolutional GAN for Text-to-video Generation.**<br>
+*[Kangle Deng](https://dunbar12138.github.io/), Tianyi Fei, Xin Huang, Yuxin Peng.*<br>
+IJCAI 2019. [[PDF](https://www.ijcai.org/proceedings/2019/0307.pdf)]
+
 ### Image-to-Text
 
 **Vx2Text: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs.**<br>
@@ -459,6 +463,10 @@ arxiv, 15 Nov 2019. [[PDF](https://arxiv.org/pdf/1911.06573v1.pdf)]
 arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)] 
 
 ### Image-and-Voice
+
+**Unsupervised Any-to-Many Audiovisual Synthesis via Exemplar Autoencoders.**<br>
+*[Kangle Deng](https://dunbar12138.github.io/), [Aayush Bansal](http://www.cs.cmu.edu/~aayushb/), [Deva Ramanan](https://www.cs.cmu.edu/~deva/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.04463)] [[Project](https://dunbar12138.github.io/projectpage/Audiovisual/index.html)]
 
 **VisualVoice: Audio-Visual Speech Separation with Cross-Modal Consistency.**<br>
 *Ruohan Gao, Kristen Grauman.*<br>

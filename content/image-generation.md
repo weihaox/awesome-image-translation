@@ -375,6 +375,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 ### Video Generation and Future Prediction
 
+**Controllable and Progressive Image Extrapolation.**<br>
+*Yijun Li, Lu Jiang, Ming-Hsuan Yang.*<br>
+WACV 2021. [[PDF](https://openaccess.thecvf.com/content/WACV2021/html/Li_Controllable_and_Progressive_Image_Extrapolation_WACV_2021_paper.html)]
+
 **Playable Video Generation.**<br>
 *Willi Menapace, Stéphane Lathuilière, Sergey Tulyakov, Aliaksandr Siarohin, Elisa Ricci.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.12195)] [[Github](https://github.com/willi-menapace/PlayableVideoGeneration)]
@@ -532,6 +536,20 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08429)] [[Github](https://github.co
 *Abhinav Sagar.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 
+## 3D-Aware Image Synthesis
+
+**pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis.**<br>
+*[Eric R. Chan](https://ericryanchan.github.io/), [Marco Monteiro](https://marcoamonteiro.github.io/pi-GAN-website/), [Petr Kellnhofer](https://kellnhofer.xyz/), [Jiajun Wu](https://jiajunwu.com/), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoamonteiro.github.io/pi-GAN-website/)]
+
+**Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis.**<br>
+*Yiyi Liao, Katja Schwarz, Lars Mescheder, Andreas Geiger.*<br>
+CVPR 2020. [[PDF](https://avg.is.tuebingen.mpg.de/publications/liao2020cvpr)] [[Github](https://github.com/autonomousvision/controllable_image_synthesis)]
+
+**GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
+*Katja Schwarz, Yiyi Liao, Michael Niemeyer, Andreas Geiger.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github.com/autonomousvision/graf)]
+
 ## 3D Shape Generation and Manipulation
 
 **Learning to Infer Semantic Parameters for 3D Shape Editing.**<br>
@@ -616,6 +634,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyench
 
 #### GAN Improvement
 
+**Dual Contradistinctive Generative Autoencoder.**<br>
+*[Gaurav Parmar](https://gauravparmar.com/), [Dacheng Li](), [Kwonjoon Lee](), [Zhuowen Tu](https://pages.ucsd.edu/~ztu/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2011.10063.pdf)]
+
 **FastGAN: Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis.**<br>
 *Bingchen Liu, Yizhe Zhu, Kunpeng Song, Ahmed Elgammal.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04775)] [[Data and Code](https://github.com/odegeasslbc/FastGAN-pytorch)]
@@ -663,6 +685,10 @@ Beyond Backpropagation workshop at NeurIPS 2020. [[PDF](https://arxiv.org/abs/20
 **Self-Gradient Networks.**<br>
 *Hossein Aboutalebi, Mohammad Javad Shafiee Alexander Wong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09364)]
+
+**COCO-GAN: Generation by Parts via Conditional Coordinating.**<br>
+*[Chieh Hubert Lin](https://hubert0527.github.io/), [Chia-Che Chang](https://chang810249.github.io/), [Yu-Sheng Chen](https://www.cmlab.csie.ntu.edu.tw/~nothinglo/), [Da-Cheng Juan](https://ai.google/research/people/DaChengJuan), [Wei Wei](https://ai.google/research/people/105672), [Hwann-Tzong Chen](https://htchen.github.io/).*<br> 
+ICCV 2019. [[PDF](https://arxiv.org/abs/1904.00284)] [[Project](https://hubert0527.github.io/COCO-GAN/)] [[Code (TensorFlow)](https://github.com/hubert0527/COCO-GAN)] [[Code (PyTorch)](https://github.com/NeverGiveU/CoCoGAN_pytorch_master)]
 
 #### Invertible Neural Network (Flow-based Generative Model)
 
@@ -985,6 +1011,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 #### Multi-modality
 
+**ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision.**<br>
+*Wonjae Kim, Bokyung Son, Ildoo Kim.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03334)]
+
 **Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers.**<br>
 *Lisa Anne Hendricks, John Mellor, Rosalia Schneider, Jean-Baptiste Alayrac, Aida Nematzadeh.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.00529)]
@@ -1160,10 +1190,6 @@ Pacific Graphics 2020. [[PDF](https://arxiv.org/abs/2010.04413)]
 *Cheng-Han Lee, Ziwei Liu, Lingyun Wu, Ping Luo.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/1907.11922)] [[Github](https://github.com/switchablenorms/CelebAMask-HQ)]
 
-**GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.**<br>
-*Katja Schwarz, Yiyi Liao, Michael Niemeyer, Andreas Geiger.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github.com/autonomousvision/graf)]
-
 **SMILE: Semantically-guided Multi-attribute Image and Layout Editing.**<br>
 *Andrés Romero, Luc Van Gool, Radu Timofte.*<br>
 arxiv 2020.[[PDF](https://arxiv.org/abs/2010.02315)]
@@ -1267,10 +1293,6 @@ ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.10010)] [[Github](http://github.c
 **SketchPatch: Sketch Stylization via Seamless Patch-level Synthesis.**<br>
 *Noa Fish, Lilach Perry, Amit Bermano, Daniel Cohen-Or.*<br>
 SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.02216)]
-
-**Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis.**<br>
-*Yiyi Liao, Katja Schwarz, Lars Mescheder, Andreas Geiger.*<br>
-CVPR 2020. [[PDF](https://avg.is.tuebingen.mpg.de/publications/liao2020cvpr)] [[Github](https://github.com/autonomousvision/controllable_image_synthesis)]
 
 **Neural Crossbreed: Neural Based Image Metamorphosis.**<br>
 *Sanghun Park, Kwanggyoon Seo, Junyong Noh.*<br>
@@ -1730,6 +1752,10 @@ ICCV, 2019.
 ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
 
 ## 2D to 3D Convertion
+
+**Solid Texture Synthesis using Generative Adversarial Networks.**<br>
+*Xin Zhao, Lin Wang, Jifeng Guo, Bo Yang, Junteng Zheng, Fanqi Li.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03973)]
 
 **Unveiling Real-Life Effects of Online Photo Sharing.**<br>
 *Van-Khoa Nguyen, Adrian Popescu, Jerome Deshayes-Chossart.*<br>

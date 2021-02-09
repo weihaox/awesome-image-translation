@@ -2,6 +2,13 @@
 
 Fewer Data for Better Results: improve Robustness, Transferability, Fairness, and Generalization from the lab to real-world applications.
 
+markdown format:
+``` markdown
+**Here is the Paper Name.**<br>
+*[Author 1](homepage), Author 2, and Author 3.*<br>
+Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
+```
+
 ## Table of Contents
 - [Fairness, Accountability, Privacy, Transparency, and Ethics](#fairness--accountability--privacy--transparency--and-ethics)
 - [Neural Network Interpretability](#neural-network-interpretability)
@@ -10,7 +17,7 @@ Fewer Data for Better Results: improve Robustness, Transferability, Fairness, an
   * [Knowledge Transfer](#knowledge-transfer)
   * [Single-Image Training](#single-image-training)
 - [Data Bias](#data-bias)
-- [Data memorization](#data-memorization)
+- [Data Memorization](#data-memorization)
 - [Data Imputation](#data-imputation)
 - [Open-World and Out-of-Distribution Dataset](#open-world-and-out-of-distribution-dataset)
 - [Long-Tailed and Class-Imbalanced Dataset](#long-tailed-and-class-imbalanced-dataset)
@@ -47,6 +54,14 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongro
 ### Privacy
 
 Federated Learning, Differential Privacy, Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense.
+
+**Single Run Action Detector over Video Stream -- A Privacy Preserving Approach.**<br>
+*Anbumalar Saravanan, Justin Sanchez, Hassan Ghasemzadeh, Aurelia Macabasco-O'Connell, Hamed Tabkhi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03391)]
+
+**Privacy-Preserving Video Classification with Convolutional Neural Networks.**<br>
+*Sikha Pentyala, Rafael Dowsley, Martine De Cock.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03513)]
 
 **Unlearnable Examples: Making Personal Data Unexploitable.**<br>
 *Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, [Yisen Wang](https://sites.google.com/site/csyisenwang/).*<br>
@@ -322,6 +337,18 @@ ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.co
 
 ## Open-World and Out-of-Distribution Dataset
 
+**Open-World Semi-Supervised Learning.**<br>
+*Kaidi Cao, Maria Brbic, Jure Leskovec.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03526)]
+
+**In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness.**<br>
+*[Sang Michael Xie](https://cs.stanford.edu/~eix/), [Ananya Kumar](https://ananyakumar.wordpress.com/), [Robbie Jones](https://robbiejones96.github.io/), [Fereshte Khani](https://fereshte.people.stanford.edu/), [Tengyu Ma](https://ai.stanford.edu/~tengyuma/), [Percy Liang](https://cs.stanford.edu/~pliang/).*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2012.04550)]
+
+**DecGAN: Transductive Zero-Shot Learning by Decoupled Feature Generation.**<br>
+*Federico Marmoreo, Jacopo Cavazza, Vittorio Murino.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03266)]
+
 **SelfNorm and CrossNorm for Out-of-Distribution Robustness.**<br>
 *Zhiqiang Tang, Yunhe Gao, Yi Zhu, Zhi Zhang, Mu Li, Dimitris Metaxas.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02811)]
@@ -335,6 +362,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 
 ## Long-Tailed and Class-Imbalanced Dataset
+
+**Imbalance Problems in Computer Vision (IPCV).**<br>
+*[Emre Akbas](https://user.ceng.metu.edu.tr/~emre/), Baris Can Cam, Sinan Kalkan, Kemal Oksuz, Nuno Vasconcelos.*<br>
+ECCV2020 Workshop. [[Project])(https://sites.google.com/view/ipcv2020/home)]
 
 **Algorithms for Heavy-Tailed Statistics: Regression, Covariance Estimation, and Beyond.**<br>
 *Yeshwanth Cherapanamjeri, Samuel B. Hopkins, Tarun Kathuria, Prasad Raghavendra, Nilesh Tripuraneni.*<br>
@@ -422,6 +453,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.03706)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.com/JoyHuYY1412/LST_LVIS)]
 
 ## Hard or Unfamiliar Example
+
+**Improving memory banks for unsupervised learning with large mini-batch,consistency and hard negative mining.**<br>
+*[Adrian Bulat](https://www.adrianbulat.com/), Enrique Sanchez, [Georgios Tzimiropoulos](http://www.cs.nott.ac.uk/~pszyt/).*<br>
+ICASSP 2021. [[PDF](https://arxiv.org/abs/2102.04442)]
 
 **Flexible Few-Shot Learning with Contextual Similarity.**<br>
 *Mengye Ren, Eleni Triantafillou, Kuan-Chieh Wang, James Lucas, Jake Snell, Xaq Pitkow, Andreas S. Tolias, Richard Zemel.*<br>

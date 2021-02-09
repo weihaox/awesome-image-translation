@@ -341,6 +341,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11831)] [[Github](https://github.c
 
 ### Perceptual Quality
 
+**Subjective and Objective Visual Quality Assessment of Textured 3D Meshes.**<br>
+*Jinjiang Guo, Vincent Vidal, Irene Cheng, Anup Basu, Atilla Baskurt, Guillaume Lavoue.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03982)]
+
 **A Loss Function for Generative Neural Networks Based on Watson’s Perceptual Model.**<br>
 *Steffen Czolbe, Oswin Krause, Igemar Cox, Christian Igel.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.15057)] [[Github](https://github.com/SteffenCzolbe/PerceptualSimilarity)] [[Video](https://youtu.be/qPmHQbR4DeI)] [[Poster](https://github.com/SteffenCzolbe/PerceptualSimilarity/blob/master/img/WatsonPoster.pdf)]
@@ -508,6 +512,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Colorization Transformer.**<br>
+*Manoj Kumar, Dirk Weissenborn, Nal Kalchbrenner.*<br>
+ICLR 2021. [[PDF](https://openreview.net/forum?id=5NA1PinlGFu)] [[Github](https://github.com/google-research/google-research/tree/master/coltran)]
+
+**Progressive Neural Image Compression with Nested Quantization and Latent Ordering.**<br>
+*Yadong Lu, Yinhao Zhu, Yang Yang, Amir Said, Taco S Cohen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02913)]
 
 **Multi-Stage Progressive Image Restoration.**<br>
 *Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang, Ling Shao.*<br>
