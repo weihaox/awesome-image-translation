@@ -542,6 +542,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 *[Eric R. Chan](https://ericryanchan.github.io/), [Marco Monteiro](https://marcoamonteiro.github.io/pi-GAN-website/), [Petr Kellnhofer](https://kellnhofer.xyz/), [Jiajun Wu](https://jiajunwu.com/), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoamonteiro.github.io/pi-GAN-website/)]
 
+**Implicit Neural Representations with Periodic Activation Functions.**<br>
+*[Vincent Sitzmann](https://vsitzmann.github.io/), [Julien N. P. Martel](http://www.jmartel.net/), [Alexander W. Bergman](http://alexanderbergman7.github.io/), [David B. Lindell](http://www.davidlindell.com/), [Gordon Wetzstein]()https://stanford.edu/~gordonwz/.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.09661)] [[Project](https://vsitzmann.github.io/siren/)] [[Github](https://github.com/vsitzmann/siren)]
+
+**Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
+*[Yichun Shi(https://seasonsh.github.io/), Divyansh Aggarwal, [Anil K. Jain](http://www.cse.msu.edu/~jain/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
+
 **Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis.**<br>
 *Yiyi Liao, Katja Schwarz, Lars Mescheder, Andreas Geiger.*<br>
 CVPR 2020. [[PDF](https://avg.is.tuebingen.mpg.de/publications/liao2020cvpr)] [[Github](https://github.com/autonomousvision/controllable_image_synthesis)]
@@ -866,6 +874,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 #### Tracking, Detection and Segmentation
+
+**TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.**<br>
+*Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.04306)] [[Github](https://github.com/Beckschen/TransUNet)]
 
 **Segmenting Transparent Object in the Wild with Transformer.**<br>
 *Enze Xie, Wenjia Wang, Wenhai Wang, Peize Sun, Hang Xu, Ding Liang, Ping Luo.*<br>
