@@ -23,6 +23,16 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Long-Tailed and Class-Imbalanced Dataset](#long-tailed-and-class-imbalanced-dataset)
 - [Hard or Unfamiliar Example](#hard-or-unfamiliar-example)
 
+## Related Workshop and Tutorial
+
+**L2ID: Learning from Limited and Imperfect Data.**<br>
+*[Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Shuai (Kyle) Zheng](https://kylezheng.org/), [Noel C. F. Codella](https://www.linkedin.com/in/noel-c-f-codella-ph-d-1b1b1723/), [Yunchao Wei](https://weiyc.github.io/), [Ming-Ming Cheng](https://mmcheng.net/cmm/), [Judy Hoffman](https://www.cc.gatech.edu/~judy/), [Tatiana Tommasi](http://www.tatianatommasi.com/), [Antonio Torralba](http://web.mit.edu/torralba/www/), [Xiaojuan Qi](https://xjqi.github.io/), [Sadeep Jayasumana](https://www.robots.ox.ac.uk/~sadeep/), [Hang Zhao](http://www.mit.edu/~hangzhao/), Liwei Wang, [Yunhui Guo](https://yunhuiguo.github.io/), Lin-Zhuo Chen.*<br>
+CVPR 2021 Workshop. [[Homepage])(https://l2id.github.io/)]
+
+**IPCV: Imbalance Problems in Computer Vision.**<br>
+*[Emre Akbas](https://user.ceng.metu.edu.tr/~emre/), Baris Can Cam, Sinan Kalkan, Kemal Oksuz, Nuno Vasconcelos.*<br>
+ECCV 2020 Workshop. [[Homepage])(https://sites.google.com/view/ipcv2020/home)]
+
 ## Fairness, Accountability, Privacy, Transparency, and Ethics
 
 ### Fairness
@@ -115,6 +125,22 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
 ### Data or Distribution Augmentation
 
+**Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity.**<br>
+*JangHyun Kim, Wonho Choo, Hosan Jeong, Hyun Oh Song.*<br>
+ICLR 2021. [[PDF](https://openreview.net/forum?id=gvxJzw8kW4b)] [[Github](https://github.com/snu-mllab/Co-Mixup)]
+
+**Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup.**<br>
+*Jang-Hyun Kim, Wonho Choo, Hyun Oh Song.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2009.06962)] [[Github](https://github.com/vikasverma1077/manifold_mixup/tree/master/supervised)]
+
+**Manifold Mixup: Better Representations by Interpolating Hidden States.**<br>
+*Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, Aaron Courville, David Lopez-Paz, Yoshua Bengio.*<br>
+ICL 2019. [[PDF](https://arxiv.org/abs/1806.05236)] [[Github](https://github.com/vikasverma1077/manifold_mixup)]
+
+**Towards Universal Representation Learning for Deep Face Recognition.**<br>
+*[Yichun Shi](https://seasonsh.github.io/), Xiang Yu, Kihyuk Sohn, Manmohan Chandraker, Anil K. Jain.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11841)]
+
 **Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling.**<br>
 *Tong Che, Ruixiang Zhang, Jascha Sohl-Dickstein, Hugo Larochelle, Liam Paull, Yuan Cao, Yoshua Bengio.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2003.06060)]
@@ -138,10 +164,6 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github
 **Differentiable Augmentation for Data-Efficient GAN Training.**<br>
 *[Shengyu Zhao](https://scholar.google.com/citations?user=gLCdw70AAAAJ), [Zhijian Liu](http://zhijianliu.com/), [Ji Lin](http://linji.me/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Song Han](https://songhan.mit.edu/).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://data-efficient-gans.mit.edu/)] [[Github](https://github.com/mit-han-lab/data-efficient-gans)] [[Video](https://www.youtube.com/watch?v=SsqcjS6SVM0)]
-
-**Differentiable Augmentation for Data-Efficient GAN Training.**<br>
-*Shengyu Zhao, Zhijian Liu, Ji Lin, Jun-Yan Zhu, Song Han.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://hanlab.mit.edu/projects/data-efficient-gans/)] [[Github](https://github.com/mit-han-lab/data-efficient-gans)]
 
 **Representation Learning via Invariant Causal Mechanisms.**<br>
 *Jovana Mitrovic, Brian McWilliams, Jacob Walker, Lars Buesing, Charles Blundell.*<br>
@@ -170,6 +192,10 @@ ICML 2020. [[PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/6095-
 **ISDA: Implicit Semantic Data Augmentation for Deep Networks.**<br>
 *Yulin Wang, Xuran Pan, Shiji Song, Hong Zhang, Cheng Wu, Gao Huang.*<br>
 NeurIPS 2019. [[PDF](https://arxiv.org/abs/1909.12220)] [[Github](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)]
+
+**CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features.**<br>
+*Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1905.04899)] [[Github](https://github.com/clovaai/CutMix-PyTorch)]
 
 ### Knowledge Transfer
 
