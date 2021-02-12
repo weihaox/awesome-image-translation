@@ -65,6 +65,14 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongro
 
 Federated Learning, Differential Privacy, Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense.
 
+**Decentralized Privacy-Preserving Proximity Tracing.**<br>
+*Carmela Troncoso, Mathias Payer, Jean-Pierre Hubaux, Marcel Salathé, James Larus, Edouard Bugnion, Wouter Lueks, Theresa Stadler, Apostolos Pyrgelis, Daniele Antonioli, Ludovic Barman, Sylvain Chatel, Kenneth Paterson, Srdjan Čapkun, David Basin, Jan Beutel, Dennis Jackson, Marc Roeschlin, Patrick Leu, Bart Preneel, Nigel Smart, Aysajan Abidin, Seda Gürses, Michael Veale, Cas Cremers, Michael Backes, Nils Ole Tippenhauer, Reuben Binns, Ciro Cattuto, Alain Barrat, Dario Fiore, Manuel Barbosa, Rui Oliveira, José Pereira.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2005.12273)] [[Github](https://github.com/DP-3T/documents)]
+
+**Strangers in the Room: Unpacking Perceptions of 'Smartness' and Related Ethical Concerns in the Home.**<br>
+*William Seymour, Reuben Binns, Petr Slovak, Max Van Kleek, Nigel Shadbolt.*<br>
+ACM Conference on Designing Interactive Systems (DIS) 2020. [[PDF](https://arxiv.org/abs/2005.00284)]
+
 **Single Run Action Detector over Video Stream -- A Privacy Preserving Approach.**<br>
 *Anbumalar Saravanan, Justin Sanchez, Hassan Ghasemzadeh, Aurelia Macabasco-O'Connell, Hamed Tabkhi.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03391)]
@@ -124,6 +132,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 ## Data Efficiency
 
 ### Data or Distribution Augmentation
+
+**Negative Data Augmentation.**<br>
+*Abhishek Sinha, Kumar Ayush, Jiaming Song, Burak Uzkent, Hongxia Jin, Stefano Ermon.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2102.05113)]
 
 **Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity.**<br>
 *JangHyun Kim, Wonho Choo, Hosan Jeong, Hyun Oh Song.*<br>
@@ -392,6 +404,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 **Imbalance Problems in Computer Vision (IPCV).**<br>
 *[Emre Akbas](https://user.ceng.metu.edu.tr/~emre/), Baris Can Cam, Sinan Kalkan, Kemal Oksuz, Nuno Vasconcelos.*<br>
 ECCV2020 Workshop. [[Project])(https://sites.google.com/view/ipcv2020/home)]
+
+**A Mixed Focal Loss Function for Handling Class Imbalanced Medical Image Segmentation.**<br>
+*Michael Yeung, Evis Sala, Carola-Bibiane Schönlieb, Leonardo Rundo.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.04525)]
+
+**Semantic Segmentation with Labeling Uncertainty and Class Imbalance.**<br>
+*Patrik Olã Bressan, José Marcato Junior, José Augusto Correa Martins, Diogo Nunes Gonçalves, Daniel Matte Freitas, Lucas Prado Osco, Jonathan de Andrade Silva, Zhipeng Luo, Jonathan Li, Raymundo Cordero Garcia, Wesley Nunes Gonçalves.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.04566)]
 
 **Algorithms for Heavy-Tailed Statistics: Regression, Covariance Estimation, and Beyond.**<br>
 *Yeshwanth Cherapanamjeri, Samuel B. Hopkins, Tarun Kathuria, Prasad Raghavendra, Nilesh Tripuraneni.*<br>

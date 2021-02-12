@@ -45,6 +45,21 @@ This repository is about *Controllable and Interpretable Image Generation* or *i
 
 **Nvidia Imaginaire**: [Imaginaire](https://github.com/NVlabs/imaginaire) is a pytorch library that contains optimized implementation of several image and video synthesis methods developed at NVIDIA.
 
+## PhD Thesis and Dissertation
+
+**Learning to See the Physical World.**<br>
+*Jiajun Wu.*<br>
+ACM Doctoral Dissertation Award Honorable Mention.<br>
+Joint AAAI/ACM SIGAI Doctoral Dissertation Award.<br>
+MIT George M. Sprowls PhD Thesis Award in Artificial Intelligence and Decision-Making.<br>
+2019. [[Dissertation](https://jiajunwu.com/papers/dissertation.pdf)]
+
+**Learning to Synthesize and Manipulate Natural Images.**<br>
+*[Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).*<br>
+ACM SIGGRAPH Outstanding Doctoral Dissertation Award.<br>
+David J. Sakrison Memorial Prize for outstanding doctoral research, by the UC Berkeley EECS Dept.<br>
+December, 2017. [Thesis](https://www.cs.cmu.edu/~junyanz/pdf/thesis_highres.pdf) | [Talk](https://youtu.be/MkluiD2lYCc?t=1h16m58s) | [News](https://www.siggraph.org/outstanding-doctoral-dissertation-award-jun-yan-zhu) | [Cover](https://www.cs.cmu.edu/~junyanz/pdf/thesis_cover.pdf)
+
 ## Interactive and Controllable Image Manipulation
 
 ### Highlight Component 
@@ -374,6 +389,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohang
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 ### Video Generation and Future Prediction
+
+**Robust Motion In-betweening.**<br>
+*Félix G. Harvey, Mike Yurick, Derek Nowrouzezahrai, Christopher Pal.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2102.04942)]
 
 **Controllable and Progressive Image Extrapolation.**<br>
 *Yijun Li, Lu Jiang, Ming-Hsuan Yang.*<br>
@@ -769,6 +788,10 @@ arxiv 2014. [[PDF](https://arxiv.org/abs/1410.8516)] [[Github](https://github.co
 ### StyleGAN-Based Method
 
 [[awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)]
+
+**SWAGAN: A Style-based Wavelet-driven Generative Model.**<br>
+*Rinon Gal, Dana Cohen, Amit Bermano, Daniel Cohen-Or.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2102.06108)]
 
 **Adversarial Generation of Continuous Images.**<br>
 *Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny.*<br>

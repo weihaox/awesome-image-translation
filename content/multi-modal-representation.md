@@ -194,7 +194,11 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03851)]
 *Shir Gur, Sagie Benaim, Lior Wolf.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)]
 
-### Text-to-Video
+### Text-and-Video
+
+**The Role of the Input in Natural Language Video Description.**<br>
+*Silvia Cascianelli, Gabriele Costante, Alessandro Devo, Thomas A. Ciarfuglia, Paolo Valigi, Mario L. Fravolini.*<br>
+TMM 2019. [[](https://arxiv.org/abs/2102.05067)]
 
 **Video Generation From Text.**<br>
 *Yitong Li, Martin Renqiang Min, Dinghan Shen, David Carlson, Lawrence Carin.*<br>
@@ -209,6 +213,10 @@ IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 IJCAI 2019. [[PDF](https://www.ijcai.org/proceedings/2019/0307.pdf)]
 
 ### Image-to-Text
+
+**SG2Caps: Revisiting Scene Graphs for Image Captioning.**<br>
+*Subarna Tripathi, Kien Nguyen, Tanaya Guha, Bang Du, Truong Q. Nguyen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.04990)]
 
 **Vx2Text: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs.**<br>
 *Xudong Lin, Gedas Bertasius, Jue Wang, Shih-Fu Chang, Devi Parikh, Lorenzo Torresani.*<br>

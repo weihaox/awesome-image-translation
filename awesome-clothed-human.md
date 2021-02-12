@@ -349,6 +349,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
 
+**Template-Free Try-on Image Synthesis via Semantic-guided Optimization.**<br>
+*Chien-Lung Chou, Chieh-Yun Chen, Chia-Wei Hsieh, Hong-Han Shuai, Jiaying Liu, Wen-Huang Cheng.*<br>
+TNNLS 2021. [[PDF](https://arxiv.org/abs/2102.03503)]
+
 **Unpaired Person Image Generation with Semantic Parsing Transformation.**<br>
 *Sijie Song, Wei Zhang, Jiaying Liuv, Zongming Guo, Tao Mei.*<br>
 TPAMI 2020. [[arxiv ](https://arxiv.org/abs/1912.06324)] [[CVPR 2019](https://arxiv.org/abs/1904.03379)] [[TPAMI 2020](https://ieeexplore.ieee.org/document/9085915/authors#authors)] [[Github](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving)]
