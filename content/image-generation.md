@@ -860,6 +860,12 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Transformer-Based
 
+#### Improvement
+
+**Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention.**<br>
+*Yunyang Xiong, Zhanpeng Zeng, Rudrasis Chakraborty, Mingxing Tan, Glenn Fung, Yin Li, Vikas Singh.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.03902v1)] [[Github](https://github.com/mlpen/Nystromformer)]
+
 #### Survey
 
 **A Survey on Visual Transformer.**<br>
@@ -1045,6 +1051,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 #### Multi-modality
+
+**End-to-end Audio-visual Speech Recognition with Conformers.**<br>
+*Pingchuan Ma, Stavros Petridis, Maja Pantic.*<br>
+ICASSP 2021. [[PDF](https://arxiv.org/abs/2102.06657)]
 
 **ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision.**<br>
 *Wonjae Kim, Bokyung Son, Ildoo Kim.*<br>

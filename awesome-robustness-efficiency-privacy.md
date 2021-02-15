@@ -133,6 +133,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
 ### Data or Distribution Augmentation
 
+**Data Augmentation Using Pre-trained Transformer Models.**<br>
+*Varun Kumar, Ashutosh Choudhary, Eunah Cho.*<br>
+ACL 2020. [[PDF](https://www.aclweb.org/anthology/2020.lifelongnlp-1.3.pdf)] [[Github](https://github.com/amazon-research/transformers-data-augmentation)]
+
 **Negative Data Augmentation.**<br>
 *Abhishek Sinha, Kumar Ayush, Jiaming Song, Burak Uzkent, Hongxia Jin, Stefano Ermon.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.05113)]
@@ -212,6 +216,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1905.04899)] [[Github](https://github.co
 ### Knowledge Transfer
 
 transfer learning, domain adaptation, *etc*.
+
+**cGANTransfer: Efficient Conditional GAN Transfer with Knowledge Propagation across Classes.**<br>
+*Mohamad Shahbazi, Zhiwu Huang, Danda Pani Paudel, Ajad Chhatkuli, Luc Van Gool.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06696)] [[Github](https://github.com/mshahbazi72/cGANTransfer)]
 
 **DeiT: Training Data-Efficient Image Transformers & Distillation Through Attention.**<br>
 *Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>

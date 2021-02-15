@@ -17,6 +17,10 @@
 
 ## Replacing ISP
 
+**Deep Photo Scan: Semi-supervised learning for Dealing with the Real-world Degradation in Smartphone Photo Scanning.**<br>
+*Man M. Ho, Jinjia Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06120)] [[Github](https://minhmanho.github.io/dpscan)]
+
 **ISP Distillation.**<br>
 *Eli Schwartz, Alex Bronstein, Raja Giryes.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/pdf/2101.10203)]
@@ -399,6 +403,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ### Video Restoration
 
+**Frame Difference-Based Temporal Loss for Video Stylization.**<br>
+J*ianjin Xu, Zheyang Xiong, Xiaolin Hu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05822)]
+
 **Deep Online Fused Video Stabilization.**<br>
 *Zhenmei Shi, Fuhao Shi, Wei-Sheng Lai, Chia-Kai Liang, Yingyu Liang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01279)] [[Project](https://zhmeishi.github.io/dvs/)]
@@ -512,6 +520,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Segmentation-Renormalized Deep Feature Modulation for Unpaired Image Harmonization.**<br>
+*Mengwei Ren, Neel Dey, James Fishbaugh, Guido Gerig.*<br>
+IEEE Transactions on Medical Imaging 2021. [[PDF](https://arxiv.org/abs/2102.06315)]
 
 **Colorization Transformer.**<br>
 *Manoj Kumar, Dirk Weissenborn, Nal Kalchbrenner.*<br>

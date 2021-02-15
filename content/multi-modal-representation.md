@@ -74,6 +74,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1908.03557)] [[Github](https://github
 
 [a collection of Image-Text Matching (Visual-Semantic/Lingustic Embedding)](https://blog.csdn.net/weixin_42/article/details/104275300)
 
+**Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling.**<br>
+*[Jie Lei](http://www.cs.unc.edu/~jielei/), [Linjie Li](https://www.linkedin.com/in/linjie-li/), [Luowei Zhou](https://luoweizhou.github.io/), [Zhe Gan](https://zhegan27.github.io/), [Tamara L. Berg](http://tamaraberg.com/), [Mohit Bansal](http://www.cs.unc.edu/~mbansal/), [Jingjing Liu](https://www.linkedin.com/in/jingjing-liu-65703431/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06183)] [[Github](https://github.com/jayleicn/ClipBERT)]
+
 **Learning to Represent Image and Text with Denotation Graph.**<br>
 *[Bowen Zhang](https://zbwglory.github.io/), Hexiang Hu, Vihan Jain, Eugene Ie, [Fei Sha](http://www-bcf.usc.edu/~feisha/).*<br>
 EMNLP 2020, [[PDF](https://arxiv.org/abs/2010.02949)] [[Project](https://sha-lab.github.io/DG)]
