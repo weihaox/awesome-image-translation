@@ -862,6 +862,10 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 #### Improvement
 
+**LambdaNetworks: Modeling Long-Range Interactions Without Attention.**<br>
+*Irwan Bello.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2102.08602)]
+
 **Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention.**<br>
 *Yunyang Xiong, Zhanpeng Zeng, Rudrasis Chakraborty, Mingxing Tan, Glenn Fung, Yin Li, Vikas Singh.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2102.03902v1)] [[Github](https://github.com/mlpen/Nystromformer)]
@@ -961,6 +965,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05292)]
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
 
 #### Generation
+
+**TransGAN: Two Transformers Can Make One Strong GAN.**<br>
+*Yifan Jiang, Shiyu Chang, Zhangyang Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07074)] [[Github](https://github.com/VITA-Group/TransGAN)]
 
 **Transformer for Image Quality Assessment.**<br>
 *Junyong You, Jari Korhonen.*<br>

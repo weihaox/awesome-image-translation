@@ -521,6 +521,22 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**A Sub-band Approach to Deep Denoising Wavelet Networks and a Frequency-adaptive Loss for Perceptual Quality.**<br>
+*Caglar Aytekin, Sakari Alenius, Dmytro Paliy, Juuso Gren.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07973)]
+
+**VA-RED2: Video Adaptive Redundancy Reduction.**<br>
+*Bowen Pan, Rameswar Panda, Camilo Fosco, Chung-Ching Lin, Alex Andonian, Yue Meng, Kate Saenko, Aude Oliva, Rogerio Feris.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07887)]
+
+**Restore from Restored: Single-image Inpainting.**<br>
+*Eun Hye Lee, Jeong Mu Kim, Ji Su Kim, Tae Hyun Kim.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08078)]
+
+**Intermediate Layer Optimization for Inverse Problems using Deep Generative Models.**<br>
+*Joseph Dean, [Giannis Daras](https://giannisdaras.github.io), Alexandros G. Dimakis.*<br>
+NeurIPS 2020 Deep Inverse Workshop. [[PDF](https://openreview.net/forum?id=232ut-SyVR)] [[Porject](https://giannisdaras.github.io/publication/plo)] [[Github](https://github.com/giannisdaras/ilo)]
+
 **Segmentation-Renormalized Deep Feature Modulation for Unpaired Image Harmonization.**<br>
 *Mengwei Ren, Neel Dey, James Fishbaugh, Guido Gerig.*<br>
 IEEE Transactions on Medical Imaging 2021. [[PDF](https://arxiv.org/abs/2102.06315)]
@@ -932,6 +948,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09261)]
 **USRNet: Deep Unfolding Network for Image Super-Resolution.**<br>
 *[Kai Zhang](https://cszn.github.io/), Luc Van Gool, Radu Timofte.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/pdf/2003.10428.pdf)] [[Github](https://github.com/cszn/USRNet)]
+
+**DPSR: Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels.**<br>
+*Kai Zhang, Wangmeng Zuo, Lei Zhang.*<br>
+CVPR 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Plug-And-Play_Super-Resolution_for_Arbitrary_Blur_Kernels_CVPR_2019_paper.pdf)] [[Github](https://github.com/cszn/DPSR)]
 
 **Learning to Incorporate Structure Knowledge for Image Inpainting.**<br>
 *Jie Yang, Zhiquan Qi, Yong Shi.*<br>

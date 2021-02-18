@@ -65,6 +65,10 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongro
 
 Federated Learning, Differential Privacy, Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense.
 
+**TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations.**<br>
+*Ang Li, Yixiao Duan, Huanrui Yang, Yiran Chen, Jianlei Yang.*<br>
+KDD 2020 Best Student Paper. [[PDF](https://arxiv.org/pdf/2005.11480.pdf)]
+
 **Decentralized Privacy-Preserving Proximity Tracing.**<br>
 *Carmela Troncoso, Mathias Payer, Jean-Pierre Hubaux, Marcel Salathé, James Larus, Edouard Bugnion, Wouter Lueks, Theresa Stadler, Apostolos Pyrgelis, Daniele Antonioli, Ludovic Barman, Sylvain Chatel, Kenneth Paterson, Srdjan Čapkun, David Basin, Jan Beutel, Dennis Jackson, Marc Roeschlin, Patrick Leu, Bart Preneel, Nigel Smart, Aysajan Abidin, Seda Gürses, Michael Veale, Cas Cremers, Michael Backes, Nils Ole Tippenhauer, Reuben Binns, Ciro Cattuto, Alain Barrat, Dario Fiore, Manuel Barbosa, Rui Oliveira, José Pereira.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2005.12273)] [[Github](https://github.com/DP-3T/documents)]
@@ -132,6 +136,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 ## Data Efficiency
 
 ### Data or Distribution Augmentation
+
+**Contrastive Learning Inverts the Data Generating Process.**<br>
+*Roland S. Zimmermann, Yash Sharma, Steffen Schneider, Matthias Bethge, Wieland Brendel.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08850)] [[Github](https://brendel-group.github.io/cl-ica)]
 
 **Data Augmentation Using Pre-trained Transformer Models.**<br>
 *Varun Kumar, Ashutosh Choudhary, Eunah Cho.*<br>
@@ -217,6 +225,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1905.04899)] [[Github](https://github.co
 
 transfer learning, domain adaptation, *etc*.
 
+**Domain Generalization Needs Stochastic Weight Averaging for Robustness on Domain Shifts.**<br>
+*Junbum Cha, Hancheol Cho, Kyungjae Lee, Seunghyun Park, Yunsung Lee, Sungrae Park.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08604)]
+
 **cGANTransfer: Efficient Conditional GAN Transfer with Knowledge Propagation across Classes.**<br>
 *Mohamad Shahbazi, Zhiwu Huang, Danda Pani Paudel, Ajad Chhatkuli, Luc Van Gool.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06696)] [[Github](https://github.com/mshahbazi72/cGANTransfer)]
@@ -274,6 +286,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 ## Data Bias
 
 active learning, metric learning, contrastive learning, label learning, *etc*.
+
+**Bridging the Gap Between Adversarial Robustness and Optimization Bias.**<br>
+*Fartash Faghri, Cristina Vasconcelos, David J. Fleet, Fabian Pedregosa, Nicolas Le Roux.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08868)] [[Github](https://github.com/fartashf/robust_bias)]
 
 **Unbiased Teacher for Semi-Supervised Object Detection.**<br>
 *Yen-Cheng Liu, Chih-Yao Ma, Zijian He, Chia-Wen Kuo, Kan Chen, Peizhao Zhang, Bichen Wu, Zsolt Kira, Peter Vajda.*<br>
