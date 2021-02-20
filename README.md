@@ -43,6 +43,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## 2021
 
+**DINO: A Conditional Energy-Based GAN for Domain Translation.**<br>
+*Konstantinos Vougioukas, Stavros Petridis, Maja Pantic.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2102.09281)]
+
 **Image-to-Image Translation: Methods and Applications.**<br>
 *Yingxue Pang, Jianxin Lin, Tao Qin, Zhibo Chen.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08629)]

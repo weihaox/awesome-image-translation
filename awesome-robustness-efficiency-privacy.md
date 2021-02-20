@@ -365,6 +365,10 @@ STOC 2020. [[PDF](https://arxiv.org/abs/1906.05271)]
 
 ## Data Imputation
 
+**Delving into Deep Imbalanced Regression.**<br>
+*Yuzhe Yang, Kaiwen Zha, Ying-Cong Chen, Hao Wang, Dina Katabi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09554)] [[Code and Data](https://github.com/YyzHarry/imbalanced-regression)]
+
 **Imputation of Missing Data with Class Imbalance using Conditional Generative Adversarial Networks.**<br>
 *Saqib Ejaz Awan, Mohammed Bennamoun, Ferdous Sohel, Frank M Sanfilippo, Girish Dwivedi.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00220)]
@@ -428,6 +432,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 **Imbalance Problems in Computer Vision (IPCV).**<br>
 *[Emre Akbas](https://user.ceng.metu.edu.tr/~emre/), Baris Can Cam, Sinan Kalkan, Kemal Oksuz, Nuno Vasconcelos.*<br>
 ECCV2020 Workshop. [[Project])(https://sites.google.com/view/ipcv2020/home)]
+
+**Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts.**<br>
+*Soravit Changpinyo, Piyush Sharma, Nan Ding, Radu Soricut.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08981)]
+
+**Delving into Deep Imbalanced Regression.**<br>
+*Yuzhe Yang, Kaiwen Zha, Ying-Cong Chen, Hao Wang, Dina Katabi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09554)] [[Code and Data](https://github.com/YyzHarry/imbalanced-regression)]
+
+**CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning.**<br>
+*Chen Wei, Kihyuk Sohn, Clayton Mellina, Alan Yuille, Fan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09559)]
 
 **A Mixed Focal Loss Function for Handling Class Imbalanced Medical Image Segmentation.**<br>
 *Michael Yeung, Evis Sala, Carola-Bibiane Schönlieb, Leonardo Rundo.*<br>

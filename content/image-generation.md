@@ -390,6 +390,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 ### Video Generation and Future Prediction
 
+**Clockwork Variational Autoencoders for Video Prediction.**<br>
+*Vaibhav Saxena, Jimmy Ba, Danijar Hafner.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09532)]
+
 **Robust Motion In-betweening.**<br>
 *Félix G. Harvey, Mike Yurick, Derek Nowrouzezahrai, Christopher Pal.*<br>
 SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2102.04942)]
@@ -1409,7 +1413,7 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.06843)] [[Github](https://github.co
 
 **Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis.**<br>
 *Ceyuan Yang, Yujun Shen, Bolei Zhou.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/1911.09267)]
+IJCV 2020. [[PDF](https://arxiv.org/abs/1911.09267)] [[Project](https://genforce.github.io/higan)] [[Github](https://github.com/genforce/higan)]
 
 **F2GAN: Fusing-and-Filling GAN for Few-shot Image Generation.**<br>
 *Yan Hong, Li Niu, Jianfu Zhang, Weijie Zhao, Chen Fu, Liqing Zhang.*<br>
@@ -1612,6 +1616,10 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 [[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
 [[Awesome-GANS-and-Deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes)]
+
+**DeeperForensics Challenge 2020 on Real-World Face Forgery Detection: Methods and Results.**<br>
+*Liming Jiang, Zhengkui Guo, Wayne Wu, Zhaoyang Liu, Ziwei Liu, Chen Change Loy, Shuo Yang, Yuanjun Xiong, Wei Xia, Baoying Chen, Peiyu Zhuang, Sili Li, Shen Chen, Taiping Yao, Shouhong Ding, Jilin Li, Feiyue Huang, Liujuan Cao, Rongrong Ji, Changlei Lu, Ganchao Tan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09471)] [[Project](https://competitions.codalab.org/competitions/25228)]
 
 **WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection.**<br>
 *Bojia Zi, Minghao Chang, Jingjing Chen, Xingjun Ma, Yu-Gang Jiang.*<br>

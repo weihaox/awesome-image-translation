@@ -22,10 +22,6 @@ This repository is about Multi-modal Representation Learning and Application.
 
 ### Visual Representation Learning (with Transformers)
 
-**CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
-*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
-2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)]
-
 **VirTex: Learning Visual Representations from Textual Annotations.**<br>
 *Karan Desai, Justin Johnson.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06666)] [[Github](https://github.com/kdexd/virtex)]
@@ -73,6 +69,14 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1908.03557)] [[Github](https://github
 ### Image-Text Matching (Visual-Semantic/Lingustic Embedding)
 
 [a collection of Image-Text Matching (Visual-Semantic/Lingustic Embedding)](https://blog.csdn.net/weixin_42/article/details/104275300)
+
+**Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.**<br>
+*Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05918)] [[Github]()]
+
+**CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
+*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
+2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)]
 
 **Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling.**<br>
 *[Jie Lei](http://www.cs.unc.edu/~jielei/), [Linjie Li](https://www.linkedin.com/in/linjie-li/), [Luowei Zhou](https://luoweizhou.github.io/), [Zhe Gan](https://zhegan27.github.io/), [Tamara L. Berg](http://tamaraberg.com/), [Mohit Bansal](http://www.cs.unc.edu/~mbansal/), [Jingjing Liu](https://www.linkedin.com/in/jingjing-liu-65703431/).*<br>

@@ -17,6 +17,10 @@
 
 ## Replacing ISP
 
+**Mobile Computational Photography: A Tour.**<br>
+*Mauricio Delbracio, Damien Kelly, Michael S. Brown, Peyman Milanfar.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09000)]
+
 **Deep Photo Scan: Semi-supervised learning for Dealing with the Real-world Degradation in Smartphone Photo Scanning.**<br>
 *Man M. Ho, Jinjia Zhou.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06120)] [[Github](https://minhmanho.github.io/dpscan)]
