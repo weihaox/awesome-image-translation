@@ -10,12 +10,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 ```
 
 ## Table of Contents
+- [Related Workshop and Tutorial](#related-workshop-and-tutorial)
 - [Fairness, Accountability, Privacy, Transparency, and Ethics](#fairness--accountability--privacy--transparency--and-ethics)
 - [Neural Network Interpretability](#neural-network-interpretability)
 - [Data Efficiency](#data-efficiency)
-  * [Data or Distribution Augmentation](#data-or-distribution-augmentation)
-  * [Knowledge Transfer](#knowledge-transfer)
-  * [Single-Image Training](#single-image-training)
 - [Data Bias](#data-bias)
 - [Data Memorization](#data-memorization)
 - [Data Imputation](#data-imputation)
@@ -343,7 +341,7 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)]
 *Antonio Torralba, Alexei A. Efros.*<br>
 CVPR 2011. [[PDF](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)]
 
-## Data memorization
+## Data Memorization
 
 Memorization is the tendency to memorize the labels of the training data.
 
