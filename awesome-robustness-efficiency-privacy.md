@@ -11,7 +11,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## Table of Contents
 - [Related Workshop and Tutorial](#related-workshop-and-tutorial)
-- [Fairness, Accountability, Privacy, Transparency, and Ethics](#fairness--accountability--privacy--transparency--and-ethics)
+- [Fairness, Accountability, Privacy, Transparency, and Ethics](#fairness-accountability-privacy-transparency-and-ethics)
 - [Neural Network Interpretability](#neural-network-interpretability)
 - [Data Efficiency](#data-efficiency)
 - [Data Bias](#data-bias)
