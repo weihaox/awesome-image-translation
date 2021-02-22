@@ -94,7 +94,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09036)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
 
 **Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
-*Yichun Shi, Divyansh Aggarwal, Anil K. Jain.*<br>
+*[Yichun Shi](https://seasonsh.github.io/), Divyansh Aggarwal, [Anil K. Jain](http://www.cse.msu.edu/~jain/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
 
 **Navigating the GAN Parameter Space for Semantic Image Editing.**<br>

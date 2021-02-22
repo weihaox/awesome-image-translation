@@ -390,6 +390,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 ### Video Generation and Future Prediction
 
+**One Shot Audio to Animated Video Generation.**<br>
+*Neeraj Kumar, Srishti Goel, Ankur Narang, Brejesh Lall, Mujtaba Hasan, Pranshu Agarwal, Dipankar Sarkar.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09737)]
+
 **Clockwork Variational Autoencoders for Video Prediction.**<br>
 *Vaibhav Saxena, Jimmy Ba, Danijar Hafner.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09532)]
@@ -561,17 +565,29 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 
 ## 3D-Aware Image Synthesis
 
+**Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
+*[Yichun Shi(https://seasonsh.github.io/), Divyansh Aggarwal, [Anil K. Jain](http://www.cse.msu.edu/~jain/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
+
+**Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data.**<br>
+*Sebastian Lunz, Yingzhen Li, Andrew Fitzgibbon, Nate Kushman.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2002.12674)]
+
+**Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering.**<br>
+*Yuxuan Zhang, Wenzheng Chen, Huan Ling, Jun Gao, Yinan Zhang, Antonio Torralba, Sanja Fidler.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.09125)]
+
 **pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis.**<br>
 *[Eric R. Chan](https://ericryanchan.github.io/), [Marco Monteiro](https://marcoamonteiro.github.io/pi-GAN-website/), [Petr Kellnhofer](https://kellnhofer.xyz/), [Jiajun Wu](https://jiajunwu.com/), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoamonteiro.github.io/pi-GAN-website/)]
 
-**Implicit Neural Representations with Periodic Activation Functions.**<br>
+**RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis.**<br>
+*Atsuhiro Noguchi, Tatsuya Harada.*<br>
+ICLR 2020. [[PDF](https://arxiv.org/abs/1909.12573)] [[Github](https://github.com/nogu-atsu/RGBD-GAN)]
+
+**SIREN: Implicit Neural Representations with Periodic Activation Functions.**<br>
 *[Vincent Sitzmann](https://vsitzmann.github.io/), [Julien N. P. Martel](http://www.jmartel.net/), [Alexander W. Bergman](http://alexanderbergman7.github.io/), [David B. Lindell](http://www.davidlindell.com/), [Gordon Wetzstein]()https://stanford.edu/~gordonwz/.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.09661)] [[Project](https://vsitzmann.github.io/siren/)] [[Github](https://github.com/vsitzmann/siren)]
-
-**Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
-*[Yichun Shi(https://seasonsh.github.io/), Divyansh Aggarwal, [Anil K. Jain](http://www.cse.msu.edu/~jain/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
 
 **Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis.**<br>
 *Yiyi Liao, Katja Schwarz, Lars Mescheder, Andreas Geiger.*<br>
@@ -600,8 +616,8 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13650)] [[Github](https://github.c
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13388)]
 
 **ShapeFlow: Learnable Deformations Among 3D Shapes.**<br>
-*Chiyu "Max" Jiang, Jingwei Huang, Andrea Tagliasacchi, Leonidas Guibas.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07982)]
+*[Chiyu "Max" Jiang](http://maxjiang.ml/), [Jingwei Huang](http://stanford.edu/~jingweih/), [Andrea Tagliasacchi](http://gfx.uvic.ca/people/ataiya/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.07982)] [[Github](https://github.com/maxjiang93/ShapeFlow)]
 
 ## Diving Deep into Image Synthesis
 
@@ -725,6 +741,14 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1904.00284)] [[Project](https://hubert05
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
 
+**Network-to-Network Translation with Conditional Invertible Neural Networks.**<br>
+*[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2005.13580)] [[Github](https://github.com/CompVis/net2net)] [[Project](https://compvis.github.io/net2net/)]
+
+**Making Sense of CNNs: Interpreting Deep Representations & Their Invariances with Invertible Neural Networks.**<br>
+*[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01777)] [[Project](https://compvis.github.io/invariances/)] [[Github](https://compvis.github.io/invariances/)]
+
 **Flow-based Generative Models for Learning Manifold to Manifold Mappings.**<br>
 *Xingjian Zhen, Rudrasis Chakraborty, Liu Yang, Vikas Singh.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2012.10013)]
@@ -736,10 +760,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05846)]
 **Decoupling Global and Local Representations via Invertible Generative Flows.**<br>
 *Anonymous.*<br>
 ICLR 2021 Submission. [[PDF](https://openreview.net/forum?id=iWLByfvUhN)]
-
-**Network-to-Network Translation with Conditional Invertible Neural Networks.**<br>
-*[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2005.13580)] [[Github](https://github.com/CompVis/net2net)] [[Project](https://compvis.github.io/net2net/)]
 
 **VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation.**<br>
 *Manoj Kumar, Mohammad Babaeizadeh, Dumitru Erhan, Chelsea Finn, Sergey Levine, Laurent Dinh, Durk Kingma.*<br>

@@ -20,6 +20,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Open-World and Out-of-Distribution Dataset](#open-world-and-out-of-distribution-dataset)
 - [Long-Tailed and Class-Imbalanced Dataset](#long-tailed-and-class-imbalanced-dataset)
 - [Hard or Unfamiliar Example](#hard-or-unfamiliar-example)
+- [Domain Generalization](#domain-generalization)
+- [Domain Adaptation](#domain-adaptation)
 
 ## Related Workshop and Tutorial
 
@@ -43,13 +45,13 @@ AISTATS 2021. [[PDF](https://arxiv.org/abs/2012.10216)]
 *[Shuhan Tan](https://ariostgx.github.io/), Yujun Shen, Bolei Zhou.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04842)] [[Project](https://genforce.github.io/fairgen/)] [[Github](https://github.com/genforce/fairgen)]
 
+**FairGen: Fair Generative Modeling via Weak Supervision.**<br>
+*[Kristy Choi](http://kristychoi.com/), [Aditya Grover](http://aditya-grover.github.io/), [Trisha Singh](https://profiles.stanford.edu/trisha-singh), [Rui Shu](http://ruishu.io/about/), [Stefano Ermon](https://cs.stanford.edu/~ermon/).*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/1910.12008)] [[Github](https://github.com/ermongroup/fairgen)]
+
 **Inclusive GAN: Improving Data and Minority Coverage in Generative Models.**<br>
 *Ning Yu, Ke Li, Peng Zhou, Jitendra Malik, Larry Davis, Mario Fritz.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2004.03355)] [[Github](https://github.com/ningyu1991/InclusiveGAN)]
-
-**FairGen: Fair Generative Modeling via Weak Supervision.**<br>
-*Kristy Choi, Aditya Grover, Trisha Singh, Rui Shu, Stefano Ermon.*<br>
-ICML 2020. [[PDF](https://arxiv.org/abs/1910.12008)] [[Github](https://github.com/ermongroup/fairgen)]
 
 **When Samples Are Strategically Selected.**<br>
 *[Hanrui Zhang](https://users.cs.duke.edu/~hrzhang), [Yu Cheng](http://homepages.math.uic.edu/~yucheng/).*<br> 
@@ -283,6 +285,8 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
 ## Data Bias
 
+*ML systems are biased when data is biased.* --Yann LeCun
+
 active learning, metric learning, contrastive learning, label learning, *etc*.
 
 **Bridging the Gap Between Adversarial Robustness and Optimization Bias.**<br>
@@ -322,8 +326,12 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.gi
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05785)] [[Github](https://github.com/onuriel/PermutedAdaIN)]
 
 **A Note on Data Biases in Generative Models.**<br>
-*Patrick Esser, Robin Rombach, Björn Ommer.*<br>
+*[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
 NeurIPS 2020 Workshop on Machine Learning for Creativity and Design. [[PDF](https://arxiv.org/abs/2012.02516)] [[Github](https://github.com/CompVis/net2net)]
+
+**Making Sense of CNNs: Interpreting Deep Representations & Their Invariances with Invertible Neural Networks.**<br>
+*[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01777)] [[Project](https://compvis.github.io/invariances/)] [[Github](https://compvis.github.io/invariances/)]
 
 **Fair Generative Modeling via Weak Supervision.**<br>
 *Kristy Choi, Aditya Grover, Trisha Singh, Rui Shu, Stefano Ermon.*<br>
@@ -569,3 +577,163 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.13636)] [[Github](https://github
 **Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning.**<br>
 *Huan Fu, Shunming Li, Rongfei Jia, Mingming Gong, Binqiang Zhao, Dacheng Tao.*<br>
 NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]
+
+## Domain Generalization
+
+**Domain Generalization Needs Stochastic Weight Averaging for Robustness on Domain Shifts.**<br>
+*Junbum Cha, Hancheol Cho, Kyungjae Lee, Seunghyun Park, Yunsung Lee, Sungrae Park.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08604)]
+
+**How does the Combined Risk Affect the Performance of Unsupervised Domain Adaptation Approaches?**<br>
+*Li Zhong, Zhen Fang, Feng Liu, Jie Lu, Bo Yuan, Guangquan Zhang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01104)]
+
+**Style Normalization and Restitution for Domain Generalization and Adaptation.**<br>
+*Xin Jin, Cuiling Lan, Wenjun Zeng, Zhibo Chen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00588)] [[Github](https://github.com/microsoft/SNR)]
+
+**Frustratingly Simple Domain Generalization via Image Stylization.**<br>
+*[Nathan Somavarapu](https://nathansomavarapu.github.io/), Chih-Yao Ma, Zsolt Kira.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/pdf/2006.11207.pdf)] [[Github](https://github.com/GT-RIPL/DomainGeneralization-Stylization)]
+
+**Closing the Generalization Gap in One-Shot Object Detection.**<br>
+*Claudio Michaelis, Matthias Bethge, Alexander S. Ecker.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.04267)]
+
+**Learning to Balance Specificity and Invariance for In and Out of Domain Generalization.**<br>
+*[Prithvijit Chattopadhyay](https://prithv1.xyz/), Yogesh Balaji, Judy Hoffman.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.12839)]
+
+**Zero Shot Domain Generalization.**<br>
+*Udit Maniyar, Joseph K J, Aniket Anand Deshmukh, Urun Dogan, Vineeth N Balasubramanian.*<br>
+BMVC 2020. [[PDF](https://arxiv.org/abs/2008.07443)]
+
+**Domain Generalization with Optimal Transport and Metric Learning.**<br>
+*Fan Zhou, Zhuqing Jiang, Changjian Shui, Boyu Wang, Brahim Chaib-draa.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.10573)]
+
+**Learning to Learn with Variational Information Bottleneck for Domain Generalization.**<br>
+*Yingjun Du, Jun Xu, Huan Xiong, Qiang Qiu, Xiantong Zhen, Cees G. M. Snoek, Ling Shao.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.07645)]
+
+**Learning to Generate Novel Domains for Domain Generalization.**<br>
+*Kaiyang Zhou, Yongxin Yang, Timothy Hospedales, Tao Xiang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.03304)]
+
+**Self-Challenging Improves Cross-Domain Generalization.**<br>
+*Zeyi Huang, Haohan Wang, Eric P. Xing, Dong Huang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
+
+**Automated Synthetic-to-Real Generalization.**<br>
+*Wuyang Chen, Zhiding Yu, Zhangyang Wang, Anima Anandkumar.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
+
+## Domain Adaptation
+
+**Domain Impression: A Source Data Free Domain Adaptation Method.**<br>
+*Vinod K Kurmi, Venkatesh K Subramanian, Vinay P Namboodiri.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2102.09003)]
+
+**BA3US: A Balanced and Uncertainty-aware Approach for Partial Domain Adaptation.**<br>
+*[Jian Liang](https://liangjian.xyz/), Yunbo Wang, Dapeng Hu, Ran He, Jiashi Feng.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2003.02541)] [[Github](https://github.com/tim-learn/BA3US)]
+
+**SHOT: Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation.**<br>
+*Jian Liang, Dapeng Hu, Jiashi Feng.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2002.08546)] [[Github](https://github.com/tim-learn/SHOT)]
+
+**Learning to Balance Specificity and Invariance for In and Out of Domain Generalization.**<br>
+*[Prithvijit Chattopadhyay](https://prithv1.xyz/), Yogesh Balaji, Judy Hoffman.*<br>
+ECCV 2020. [[PDF](https://prithv1.xyz/data/0790.pdf)] [[Github](https://github.com/prithv1/DMG)]
+
+**Heuristic Domain Adaptation.**<br>
+*Shuhao Cui, Xuan Jin, Shuhui Wang, Yuan He, Qingming Huang.*<br>
+NeurIPS 2020. [[PDF](https://papers.nips.cc/paper/2020/file/555d6702c950ecb729a966504af0a635-Paper.pdf)]
+
+**FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation.**<br>
+*Jaemin Na, Heechul Jung, HyungJin Chang, Wonjun Hwang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09230)]
+
+**Interventional Domain Adaptation.**<br>
+*Jun Wen, Changjian Shui, Kun Kuang, Junsong Yuan, Zenan Huang, Zhefeng Gong, Nenggan Zheng.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03737)]
+
+**Domain Agnostic Learning for Unbiased Authentication.**<br>
+J*ian Liang, Yuren Cao, Shuang Li, Bing Bai, Hao Li, Fei Wang, Kun Bai.*<br>
+arxiv 2020. [[](https://arxiv.org/abs/2010.05250)]
+
+**Unveiling Class-Labeling Structure for Universal Domain Adaptation.**<br>
+*Yueming Yin, Zhen Yang, Xiaofu Wu, Haifeng Hu.*<br>
+arxiv 2020. [[](https://arxiv.org/abs/2010.04873)]
+
+**The MECCANO Dataset: Understanding Human-Object Interactions from Egocentric Videos in an Industrial-like Domain.**<br>
+*Francesco Ragusa, Antonino Furnari, Salvatore Livatino, Giovanni Maria Farinella.*<br>
+arxiv 2020. [[](https://arxiv.org/abs/2010.05654)] [[Project](https://iplab.dmi.unict.it/MECCANO)]
+
+**Robust Optimal Transport with Applications in Generative Modeling and Domain Adaptation.**<br>
+*Yogesh Balaji, Soheil Feizi.*<br>
+NeurIPS 2020. [[PDF](arxiv.org/abs/2010.05862)] [[Github](https://github.com/yogeshbalaji/robustOT)]
+
+**Domain Adaptation Through Task Distillation.**<br>
+*Brady Zhou, Nimit Kalra, Philipp Krähenbühl.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.11911)]
+
+**Unsupervised Domain Adaptation via Discriminative Manifold Propagation.**<br>
+*You-Wei Luo, Chuan-Xian Ren, Dao-Qing Dai, Hong Yan.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/2008.10030)]
+
+**CSCL: Critical Semantic-Consistent Learning for Unsupervised Domain Adaptation.**<br>
+*Jiahua Dong, Yang Cong, Gan Sun, Yuyang Liu, Xiaowei Xu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10464)]
+
+**HCRPL: Hard Class Rectification for Domain Adaptation.**<br>
+*Zhang Yunlong, Jing Changxing, Lin Huangxing, Chen Chaoqi, Huang Yue, Ding Xinghao, Zou Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.03455)]
+
+**Class-Incremental Domain Adaptation.**<br>
+*Jogendra Nath Kundu, Rahul Mysore Venkatesh, Naveen Venkat, Ambareesh Revanur, R. Venkatesh Babu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01389)]
+
+**Adversarial Bipartite Graph Learning for Video Domain Adaptation.**<br>
+*Yadan Luo, Zi Huang, Zijian Wang, Zheng Zhang, Mahsa Baktashmotlagh.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2007.15829)]
+
+**High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images.**<br>
+*Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2006.15031)]
+
+**Domain2Vec: Domain Embedding for Unsupervised Domain Adaptation.**<br>
+*Xingchao Peng, Yichen Li, Kate Saenko.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09257)]
+
+**Continuously Indexed Domain Adaptation.**<br>
+*Hao Wang, Hao He, Dina Katabi.*<br>
+ICML 2020.[[PDF](https://arxiv.org/abs/2007.01807)]
+
+**Domain Adaptation without Source Data.**<br>
+*Youngeun Kim, Sungeun Hong, Donghyeon Cho, Hyoungseob Park, Priyadarshini Panda.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01524)] [[Github](https://github.com/youngryan1993/SFDA-Domain-Adaptation-without-Source-Data)]
+
+**Few-Shot Learning as Domain Adaptation: Algorithm and Analysis.**<br>
+*Jiechao Guan, Zhiwu Lu, Tao Xiang, Ji-Rong Wen.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2002.02050)] [[Github](https://github.com/JiechaoGuan/FSL-DAPNA)]
+
+**AINDNet: Transfer Learning from Synthetic to Real-Noise Denoising with Adaptive Instance Normalization.**<br>
+*Yoonsik Kim, Jae Woong Soh, Gu Yong Park, Nam Ik Cho.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11244)] [[Github](https://github.com/terryoo/AINDNet)]
+
+**Ear2Face: Deep Biometric Modality Mapping.**<br>
+*Dogucan Yaman, Fevziye Irem Eyiokur, Hazım Kemal Ekenel.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.01943)] [[Github](https://github.com/yamand16/ear2face)]
+
+**Domain Conditioned Adaptation Network.**<br>
+*Shuang Li, Chi Harold Liu, Qiuxia Lin, Binhui Xie, Zhengming Ding, Gao Huang, Jian Tang.*<br>
+AAAI 2020. [[PDF](https://arxiv.org/abs/2005.06717)] [[Github](https://github.com/wvangansbeke/Unsupervised-Classification)]
+
+**Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision.**<br>
+*Fei Pan, Inkyu Shin, Francois Rameau, Seokju Lee, In So Kweon.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07703)] [[Github](https://github.com/feipan664/IntraDA)]
+
+**Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation.**<br>
+*Myeongjin Kim, Hyeran Byun.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.00867)]

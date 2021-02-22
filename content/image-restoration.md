@@ -349,6 +349,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11831)] [[Github](https://github.c
 
 ### Perceptual Quality
 
+**Continual Learning for Blind Image Quality Assessment.**<br>
+*Weixia Zhang, Dingquan Li, Chao Ma, Guangtao Zhai, Xiaokang Yang, Kede Ma.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.09717.pdf)]
+
 **Subjective and Objective Visual Quality Assessment of Textured 3D Meshes.**<br>
 *Jinjiang Guo, Vincent Vidal, Irene Cheng, Anup Basu, Atilla Baskurt, Guillaume Lavoue.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03982)]
