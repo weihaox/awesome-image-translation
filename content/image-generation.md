@@ -160,6 +160,17 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.14615)]
 *Faeze Brahman, Alexandru Petrusca, Snigdha Chaturvedi.*<br>
 AACL 2020. [[PDF](https://arxiv.org/abs/2010.09935)]
 
+### Disentanglement
+
+**CS-DisMo: Rethinking Content and Style - Exploring Bias for Unsupervised Disentanglement.**<br>
+*Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10544)] [[Github](https://github.com/xrenaa/CS-DisMo)]
+
+**DisCo: Do Generative Models Know Disentanglement? Contrastive Learning is All You Need.**<br>
+*Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://github.com/xrenaa/DisCo)]<br>
+
+
 ### Guided Translation
 
 **MeInGame: Create a Game Character Face from a Single Portrait.**<br>
@@ -705,9 +716,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11961)] [[Github](https://github.c
 *Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13456)]
 
-**Image Generators with Conditionally-Independent Pixel Synthesis.**<br>
+**CIPS: Image Generators with Conditionally-Independent Pixel Synthesis.**<br>
 *Ivan Anokhin, Kirill Demochkin, Taras Khakhulin, Gleb Sterkin, Victor Lempitsky, Denis Korzhenkov.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13775)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13775)] [[Github](https://github.com/saic-mdal/CIPS)]
 
 **PriorGAN: Real Data Prior for Generative Adversarial Nets.**<br>
 *Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen.*<br>
@@ -886,6 +897,14 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 #### Improvement
 
+**Do We Really Need Explicit Position Encodings for Vision Transformers?**<br>
+*Xiangxiang Chu, Bo Zhang, Zhi Tian, Xiaolin Wei, Huaxia Xia.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10882)]
+
+**Optimizing Inference Performance of Transformers on CPUs.**<br>
+*Dave Dice, Alex Kogan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06621)]
+
 **LambdaNetworks: Modeling Long-Range Interactions Without Attention.**<br>
 *Irwan Bello.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.08602)]
@@ -990,6 +1009,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github
 
 #### Generation
 
+**Deepfake Video Detection Using Convolutional Vision Transformer.**<br>
+*Deressa Wodajo, Solomon Atnafu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11126)]
+
 **TransGAN: Two Transformers Can Make One Strong GAN.**<br>
 *Yifan Jiang, Shiyu Chang, Zhangyang Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07074)] [[Github](https://github.com/VITA-Group/TransGAN)]
@@ -1083,6 +1106,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 #### Multi-modality
+
+**Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer.**<br>
+*[Ronghang Hu](https://ronghanghu.com/), Amanpreet Singh.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10772)] [[Project](https://mmf.sh/)] [[Github](https://github.com/facebookresearch/mmf)]
 
 **End-to-end Audio-visual Speech Recognition with Conformers.**<br>
 *Pingchuan Ma, Stavros Petridis, Maja Pantic.*<br>

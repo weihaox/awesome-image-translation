@@ -137,6 +137,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
 ### Data or Distribution Augmentation
 
+**On Interaction Between Augmentations and Corruptions in Natural Corruption Robustness.**<br>
+*Eric Mintun, Alexander Kirillov, Saining Xie.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11273)] [[Github](https://github.com/facebookresearch/augmentation-corruption)]
+
 **Contrastive Learning Inverts the Data Generating Process.**<br>
 *Roland S. Zimmermann, Yash Sharma, Steffen Schneider, Matthias Bethge, Wieland Brendel.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08850)] [[Github](https://brendel-group.github.io/cl-ica)]
@@ -288,6 +292,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 *ML systems are biased when data is biased.* --Yann LeCun
 
 active learning, metric learning, contrastive learning, label learning, *etc*.
+
+**VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining.**<br>
+*Jun Chen, Han Guo, Kai Yi, Boyang Li, Mohamed Elhoseiny.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10407)] [[Github](https://github.com/Vision-CAIR/VisualGPT)]
 
 **Bridging the Gap Between Adversarial Robustness and Optimization Bias.**<br>
 *Fartash Faghri, Cristina Vasconcelos, David J. Fleet, Fabian Pedregosa, Nicolas Le Roux.*<br>

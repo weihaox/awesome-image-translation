@@ -65,7 +65,7 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 *Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
 
-**Designing an Encoder for StyleGAN Image Manipulation.**<br>
+**e4e: Designing an Encoder for StyleGAN Image Manipulation.**<br>
 *[Omer Tov](https://yotamnitzan.github.io/), Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02766)] [[Github](https://github.com/omertov/encoder4editing)]
 
@@ -257,15 +257,11 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1902.09698)]
 *David Bau, Jun-Yan Zhu, Jonas Wulff, William Peebles, Hendrik Strobelt, Bolei Zhou, Antonio Torralba.*<br>
 ICCV 2019. [[PDF](https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_paper_18.pdf)]
 
-**Task-Aware Compressed Sensing with Generative Adversarial Networks.**<br>
-*Maya Kabkab, Pouya Samangouei, Rama Chellappa.*<br>
-AAAI 2018. [[PDF](https://arxiv.org/pdf/1802.01284.pdf)]
-
 **Inverting The Generator Of A Generative Adversarial Network (II).**<br>
 *Antonia Creswell, Anil A Bharath.*<br>
 TNNLS 2018. [[PDF](https://arxiv.org/abs/1802.05701)] [[Github](https://github.com/ToniCreswell/InvertingGAN)]
 
-**Invertibility of convolutional generative networks from partial measurements.**<br>
+**Invertibility of Convolutional Generative Networks from Partial Measurements.**<br>
 *Fangchang Ma, Ulas Ayaz, Sertac Karaman.*<br>
 NeurIPS 2018. [[PDF](https://papers.nips.cc/paper/8171-invertibility-of-convolutional-generative-networks-from-partial-measurements)] [[Github](https://github.com/fangchangma/invert-generative-networks)]
 
@@ -288,3 +284,15 @@ NIPSW 2016. [[PDF](https://arxiv.org/abs/1611.05644)]
 **Generative Visual Manipulation on the Natural Image Manifold.**<br>
 *Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros.*<br>
 ECCV 2016. [[PDF](https://arxiv.org/abs/1609.03552v2)]
+
+## application
+
+### Compressed Sensing
+
+**Generator Surgery for Compressed Sensing.**<br>
+*Niklas Smedemark-Margulies, Jung Yeon Park, Max Daniels, Rose Yu, Jan-Willem van de Meent, Paul Hand.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11163)] [[Github](https://github.com/nik-sm/generator-surgery)]
+
+**Task-Aware Compressed Sensing with Generative Adversarial Networks.**<br>
+*Maya Kabkab, Pouya Samangouei, Rama Chellappa.*<br>
+AAAI 2018. [[PDF](https://arxiv.org/pdf/1802.01284.pdf)]

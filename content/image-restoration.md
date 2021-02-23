@@ -347,11 +347,25 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11831)] [[Github](https://github.c
 
 [[Perceptual Optimization of Image Quality Assessment (IQA) Models](https://github.com/dingkeyan93/IQA-optimization)]
 
-### Perceptual Quality
+### Recent IQA Method and Dataset
 
 **Continual Learning for Blind Image Quality Assessment.**<br>
 *Weixia Zhang, Dingquan Li, Chao Ma, Guangtao Zhai, Xiaokang Yang, Kede Ma.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.09717.pdf)]
+
+**PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br>
+*[Jinjin Gu](http://www.jasongt.com/), [Haoming Cai](https://www.haomingcai.com/), [Haoyu Chen](https://chenhaoyu.com/), [Xiaoxing Ye](https://xiaoxing.us/), Jimmy Ren, Chao Dong.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12142)] [[Project](https://www.jasongt.com/projectpages/pipal.html)]
+
+**Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network.**<br>
+*Shaolin Su, Qingsen Yan, Yu Zhu, Cheng Zhang, Xin Ge, Jinqiu Sun, Yanning Zhang.*<br>
+CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf)] [[Github](https://github.com/SSL92/hyperIQA)]
+
+**dipIQ: Blind Image Quality Assessment by Learning-to-Rank Discriminable Image Pairs.**<br>
+*Kede Ma, Wentao Liu, Tongliang Liu, Zhou Wang, Dacheng Tao.*<br>
+TIP 2017. [[PDF](https://ece.uwaterloo.ca/~k29ma/papers/17_TIP_dipIQ.pdf)] [[Code](https://ece.uwaterloo.ca/~k29ma/codes/dipIQ.rar)]
+
+### Perceptual Quality
 
 **Subjective and Objective Visual Quality Assessment of Textured 3D Meshes.**<br>
 *Jinjiang Guo, Vincent Vidal, Irene Cheng, Anup Basu, Atilla Baskurt, Guillaume Lavoue.*<br>
@@ -377,10 +391,6 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/1602.02644)] [[Github](https://github
 *Aliaksei Mikhailiuk, Maria Perez-Ortiz, Dingcheng Yue, Wilson Suen, Rafal K. Mantiuk.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10758)]
 
-**Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network.**<br>
-*Shaolin Su, Qingsen Yan, Yu Zhu, Cheng Zhang, Xin Ge, Jinqiu Sun, Yanning Zhang.*<br>
-CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf)] [[Github](https://github.com/SSL92/hyperIQA)]
-
 **PieAPP: Perceptual Image-Error Assessment through Pairwise Preference.**<br>
 *[Ekta Prashnani](https://prashnani.github.io/), [Hong Cai](https://www.ece.ucsb.edu/~hcai/), [Yasamin Mostofi](https://www.ece.ucsb.edu/~ymostofi/), [Pradeep Sen](https://www.ece.ucsb.edu/~psen/).*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1806.02067)] [[Project](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/)] [[Github](https://github.com/prashnani/PerceptualImageError)] 
@@ -398,6 +408,10 @@ arxiv 2017. [[PDF](https://arxiv.org/abs/1706.08500)] [[Github](https://github.c
 arxiv 2016. [[PDF](https://arxiv.org/abs/1606.03498)] [[Github](https://github.com/tsc2017/Inception-Score)]
 
 ### IQA for IR
+
+**PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br>
+*Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, Jimmy Ren, Chao Dong.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12142)] [[Project](https://www.jasongt.com/projectpages/pipal.html)]
 
 **Image Quality Assessment for Perceptual Image Restoration: A New Dataset, Benchmark and Metric.**<br>
 *Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, Jimmy Ren, Chao Dong.*<br>
@@ -528,6 +542,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Progressive Depth Learning for Single Image Dehazing.**<br>
+*Yudong Liang, Bin Wang, Jiaying Liu, Deyu Li, Sanping Zhou, Wenqi Ren.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10514.pdf)]
+
+**TDANet: Text-Guided Neural Image Inpainting.**<br>
+*Lisai Zhang, Qingcai Chen, Baotian Hu, Shuoran Jiang.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2004.03212)] [[Github](https://github.com/idealwhite/tdanet)]
 
 **A Sub-band Approach to Deep Denoising Wavelet Networks and a Frequency-adaptive Loss for Perceptual Quality.**<br>
 *Caglar Aytekin, Sakari Alenius, Dmytro Paliy, Juuso Gren.*<br>

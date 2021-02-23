@@ -31,6 +31,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Team and People](#team-and-people)
 - [Dataset](#dataset)
 
+## Industry Demo or Product
+
+Highavenue: Turn yourself into a 3D model.
+
 ## 3D People Dressing and Clothing Draping
 
 **Neural 3D Clothes Retargeting from a Single Image.**<br>
@@ -348,6 +352,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**Style and Pose Control for Image Synthesis of Humans from a Single Monocular View.**<br>
+*Kripasindhu Sarkar, Vladislav Golyanik, Lingjie Liu, Christian Theobalt.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11263)]
 
 **Template-Free Try-on Image Synthesis via Semantic-guided Optimization.**<br>
 *Chien-Lung Chou, Chieh-Yun Chen, Chia-Wei Hsieh, Hong-Han Shuai, Jiaying Liu, Wen-Huang Cheng.*<br>

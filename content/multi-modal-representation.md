@@ -222,6 +222,10 @@ IJCAI 2019. [[PDF](https://www.ijcai.org/proceedings/2019/0307.pdf)]
 
 ### Image-to-Text
 
+**VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining.**<br>
+*Jun Chen, Han Guo, Kai Yi, Boyang Li, Mohamed Elhoseiny.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10407)] [[Github](https://github.com/Vision-CAIR/VisualGPT)]
+
 **SG2Caps: Revisiting Scene Graphs for Image Captioning.**<br>
 *Subarna Tripathi, Kien Nguyen, Tanaya Guha, Bang Du, Truong Q. Nguyen.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.04990)]
@@ -238,7 +242,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10804)]
 *Panos Achlioptas, Maks Ovsjanikov, Kilichbek Haydarov, Mohamed Elhoseiny, Leonidas Guibas.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.07396)] [[Project](https://artemisdataset.org/)]
 
-**Cross-Modal Contrastive Learning for Text-to-Image Generation.**<br>
+**XMC-GA: Cross-Modal Contrastive Learning for Text-to-Image Generation.**<br>
 *Han Zhang, Jing Yu Koh, Jason Baldridge, Honglak Lee, Yinfei Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04702)]
 
