@@ -1,33 +1,36 @@
 # Controllable Image Generation
 
-This repository is about *Controllable and Interpretable Image Generation* or *intelligent image manipulation*, which is a collection of papers on image generation and manipulation with the guidance by text, audio, camera pose, or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
+This repository is about *controllable, interpretable, and generalizable visual contents generation*, which is primaly a collection of papers on image or video generation and manipulation with the guidance by text, audio, camera pose, or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
 
 ## Table of Contents
 - [Industry Demo or Product](#industry-demo-or-product)
+- [PhD Thesis and Dissertation](#phd-thesis-and-dissertation)
 - [Interactive and Controllable Image Manipulation](#interactive-and-controllable-image-manipulation)
   * [Highlight Component](#highlight-component)
   * [Rearrange and Retiming](#rearrange-and-retiming)
   * [Change Where You Want](#change-where-you-want)
+  * [Disentanglement](#disentanglement)
   * [Guided Translation](#guided-translation)
   * [Individual Object Manipulation](#individual-object-manipulation)
   * [Generating Accurate Descriptions](#generating-accurate-descriptions)
+  * [Attribute Editing](#attribute-editing)
   * [Guided Image-to-image translation](#guided-image-to-image-translation)
   * [Image-Based Virtual Try-On](#image-based-virtual-try-on)
-  * [Attribute Editing and Makeup Transfer](#attribute-editing-and-makeup-transfer)
   * [Texture and Surface Mapping](#texture-and-surface-mapping)
   * [Novel-View Synthesis](#novel-view-synthesis)
-  * [Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
+  * [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
   * [3D Pose Transfer](#3d-pose-transfer)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
   * [Video Generation and Future Prediction](#video-generation-and-future-prediction)
-  * [Videos Generation, Frame Interpolation and Extrapolation](#videos-generation--frame-interpolation-and-extrapolation)
+  * [Frame Interpolation and Extrapolation](#frame-interpolation-and-extrapolation)
   * [Video Spatio-Temporal Consistency](#video-spatio-temporal-consistency)
+- [3D-Aware Image Synthesis](#3d-aware-image-synthesis)
 - [3D Shape Generation and Manipulation](#3d-shape-generation-and-manipulation)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
   * [Generative Models](#generative-models)
   * [StyleGAN-Based Method](#stylegan-based-method)
-  * [Transformer-Based](#transformer-based)
+  * [Transformer-Based Method](#transformer-based)
   * [misc](#misc)
 - [DeepFake and Forensic](#deepfake-and-forensic)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
@@ -357,6 +360,33 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.
 *Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
 
+### Attribute Editing
+part of the *Attribute Editing and Makeup Transfer* can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#attribute-editing).
+
+**FaceController: Controllable Attribute Editing for Face in the Wild.**<br>
+*Zhiliang Xu, Xiyu Yu, Zhibin Hong, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.11464)]
+
+**MorphNet: One-Shot Face Synthesis GAN for Detecting Recognition Bias.**<br>
+*Nataniel Ruiz, Barry-John Theobald, Anurag Ranjan, Ahmed Hussein Abdelaziz, Nicholas Apostoloff.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05225)]
+
+**Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
+*Yichun Shi, Divyansh Aggarwal, Anil K. Jain.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
+
+**Legacy Photo Editing with Learned Noise Prior.**<br>
+*Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Kangcheng Liu, Yujia Zhang, Wing-Yin Yu, Pengfei Xian, Jingjing Xiong.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.11309)] [[Github](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior)]
+
+**Disentangling Latent Space for Unsupervised Semantic Face Editing.**<br>
+*Kanglin Liu, Gaofeng Cao, Fei Zhou, Bozhi Liu, Jiang Duan, Guoping Qiu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02638)] [[Github](https://github.com/max-liu-112/STGAN-WO)]
+
+**Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
+*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
+
 ### Guided Image-to-image translation
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
@@ -367,9 +397,6 @@ ACM Transactions on Graphics 2020. [[PDF](https://arxiv.org/abs/2004.13204)]
 
 ### Image-Based Virtual Try-On
 *Image-Based Virtual Try-On* can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/clothed-human.md#image-based-virtual-try-on).
-
-### Attribute Editing and Makeup Transfer
-*Attribute Editing and Makeup Transfer* can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#attribute-editing).
 
 ### Texture and Surface Mapping
 *Texture and Surface Mapping* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#texture-and-surface-mapping).
@@ -400,6 +427,12 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohang
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 ### Video Generation and Future Prediction
+
+[[Image Generation SOTA](https://paperswithcode.com/task/image-generation)] 
+
+[[Video Generation SOTA](https://paperswithcode.com/task/video-generation)]
+
+Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/image-generation.md#image-to-video).
 
 **One Shot Audio to Animated Video Generation.**<br>
 *Neeraj Kumar, Srishti Goel, Ankur Narang, Brejesh Lall, Mujtaba Hasan, Pranshu Agarwal, Dipankar Sarkar.*<br>
@@ -478,13 +511,27 @@ ICLR 2019. [[PDF](https://openreview.net/forum?id=B1lKS2AqtX)] [[GitHub](https:/
 ICCV 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)]
 [[GitHub](https://github.com/huang-xx/STGAT)] [[Social GAN](https://github.com/agrimgupta92/sgan)]
 
-### Videos Generation, Frame Interpolation and Extrapolation
+**World-Consistent Video-to-Video Synthesis.**<br>
+*Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08509)]
 
-[[Image Generation SOTA](https://paperswithcode.com/task/image-generation)] 
+**Generative Adversarial Networks for Image and Video Synthesis: Algorithms and Applications.**<br>
+*Ming-Yu Liu, Xun Huang, Jiahui Yu, Ting-Chun Wang, Arun Mallya.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02793)]
 
-[[Video Generation SOTA](https://paperswithcode.com/task/video-generation)]
+**World-Consistent Video-to-Video Synthesis.**<br> 
+*Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br> 
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08509)] [[Github](https://nvlabs.github.io/wc-vid2vid/)]
 
-Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/image-generation.md#image-to-video).
+**Intrinsic Temporal Regularization for High-resolution Human Video Synthesis.**<br>
+*Lingbo Yang, Zhanning Gao, Peiran Ren, Siwei Ma, Wen Gao.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06134)]
+
+**Latent Neural Differential Equations for Video Generation.**<br>
+*Cade Gordon, Natalie Parde.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03864)]
+
+### Frame Interpolation and Extrapolation
 
 **Softmax Splatting for Video Frame Interpolation.**<br>
 *Simon Niklaus, Feng Liu.*<br>
@@ -498,8 +545,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08512)] [[Project](https://tarun00
 *Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13084)] [[Github](http://www.cs.cornell.edu/~zl548/NSFF/)]
 
-ConvTransformer: A Convolutional Transformer Network for Video Frame Synthesis
-Zhouyong Liu, Shun Luo, Wubin Li, Jingben Lu, Yufan Wu, Chunguo Li, Luxi Yang
+**ConvTransformer: A Convolutional Transformer Network for Video Frame Synthesis.**<br>
+*Zhouyong Liu, Shun Luo, Wubin Li, Jingben Lu, Yufan Wu, Chunguo Li, Luxi Yang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10185)]
 
 **RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation.**<br>
 *Zhewei Huang, Tianyuan Zhang, Wen Heng, Boxin Shi, Shuchang Zhou.*<br>
@@ -1152,6 +1200,10 @@ ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Enta
 
 #### Misc
 
+**Generative Modelling of BRDF Textures from Flash Images.**<br>
+*Philipp Henzler, Valentin Deschaintre, Niloy J. Mitra, Tobias Ritschel.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11861)]
+
 **AttentionLite: Towards Efficient Self-Attention Models for Vision.**<br>
 *Souvik Kundu, Sairam Sundaresan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2101.05216)]
@@ -1178,21 +1230,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.14794)] [[Github](https://github.c
 *Xiulong Yang, Hui Ye, Yang Ye, Xiang Li, Shihao Ji.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00122)]
 
-**Intrinsic Temporal Regularization for High-resolution Human Video Synthesis.**<br>
-*Lingbo Yang, Zhanning Gao, Peiran Ren, Siwei Ma, Wen Gao.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06134)]
-
 **End-to-End Chinese Landscape Painting Creation Using Generative Adversarial Networks.**<br>
 *Alice Xue.*<br>
 WACV 2021. [[PDF](https://arxiv.org/abs/2011.05552)] [[Chinese-Landscape-Painting-Dataset](https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset)]
-
-**Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
-*Yichun Shi, Divyansh Aggarwal, Anil K. Jain.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
-
-**MorphNet: One-Shot Face Synthesis GAN for Detecting Recognition Bias.**<br>
-*Nataniel Ruiz, Barry-John Theobald, Anurag Ranjan, Ahmed Hussein Abdelaziz, Nicholas Apostoloff.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05225)]
 
 **OASIS: You Only Need Adversarial Supervision for Semantic Image Synthesis.**<br>
 *Vadim Sushko, Edgar Schönfeld, Dan Zhang, Juergen Gall, Bernt Schiele, Anna Khoreva.*<br>
@@ -1222,10 +1262,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.11731)] [[Github](https://github.c
 *Ariel Ruiz-Garcia, Ibrahim Almakky, Vasile Palade, Luke Hicks.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12236)]
 
-**Legacy Photo Editing with Learned Noise Prior.**<br>
-*Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Kangcheng Liu, Yujia Zhang, Wing-Yin Yu, Pengfei Xian, Jingjing Xiong.*<br>
-WACV 2021. [[PDF](https://arxiv.org/abs/2011.11309)] [[Github](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior)]
-
 **CEN: Deep Multimodal Fusion by Channel Exchanging.**<br>
 *Yikai Wang, Wenbing Huang, Fuchun Sun, Tingyang Xu, Yu Rong, Junzhou Huang.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.05005)] [[Github](https://github.com/yikaiw/CEN)]
@@ -1237,18 +1273,6 @@ NeurIPS 2020. [[PDF](https://papers.nips.cc/paper/2020/hash/b6d767d2f8ed5d21a44b
 **Neural FFTs for Universal Texture Image Synthesis.**<br>
 *Morteza Mardani, Guilin Liu, Aysegul Dundar, Shiqiu Liu, Andrew Tao, Bryan Catanzaro.*<br>
 NeurIPS 2020. [[PDF](https://papers.nips.cc/paper/2020/hash/a23156abfd4a114c35b930b836064e8b-Abstract.html)]
-
-**Latent Neural Differential Equations for Video Generation.**<br>
-*Cade Gordon, Natalie Parde.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03864)]
-
-**Disentangling Latent Space for Unsupervised Semantic Face Editing.**<br>
-*Kanglin Liu, Gaofeng Cao, Fei Zhou, Bozhi Liu, Jiang Duan, Guoping Qiu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02638)] [[Github](https://github.com/max-liu-112/STGAN-WO)]
-
-**Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
-*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
 
 **Contrastive Learning with Adversarial Examples.**<br>
 *Chih-Hui Ho, Nuno Vasconcelos.*<br>
@@ -1358,10 +1382,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.04433)]
 *Mescheder, Lars Morten.*<br> 
 PhD Dissertation 2020. [[PDF](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/106074)]
 
-**World-Consistent Video-to-Video Synthesis.**<br> 
-*Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br> 
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08509)] [[Github](https://nvlabs.github.io/wc-vid2vid/)]
-
 **Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars.**<br> 
 *Egor Zakharov, Aleksei Ivakhnenko, Aliaksandra Shysheya, Victor Lempitsky.*<br>
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570511.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570511-supp.pdf)]
@@ -1466,10 +1486,6 @@ IJCV 2020. [[PDF](https://arxiv.org/abs/1911.09267)] [[Project](https://genforce
 *Yan Hong, Li Niu, Jianfu Zhang, Weijie Zhao, Chen Fu, Liqing Zhang.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.01999)]
 
-**Generative Adversarial Networks for Image and Video Synthesis: Algorithms and Applications.**<br>
-*Ming-Yu Liu, Xun Huang, Jiahui Yu, Ting-Chun Wang, Arun Mallya.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.02793)]
-
 **Image Generation for Efficient Neural Network Training in Autonomous Drone Racing.**<br>
 *Theo Morales, Andriy Sarabakha, Erdal Kayacan.*<br>
 IJCNN 2020. [[PDF](https://arxiv.org/abs/2008.02596)]
@@ -1537,10 +1553,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.08480)]
 **RetrieveGAN: Image Synthesis via Differentiable Patch Retrieval.**<br>
 *Hung-Yu Tseng, Hsin-Ying Lee, Lu Jiang, Ming-Hsuan Yang, Weilong Yang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08513)]
-
-**World-Consistent Video-to-Video Synthesis.**<br>
-*Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08509)]
 
 **DeepSinger: Singing Voice Synthesis with Data Mined From the Web.**<br>
 *Yi Ren, Xu Tan, Tao Qin, Jian Luan, Zhou Zhao, Tie-Yan Liu.*<br>
