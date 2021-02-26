@@ -320,6 +320,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)]
 
 ### Text-to-Image
 
+**DALL-E: Zero-Shot Text-to-Image Generation.**<br>
+*Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12092)] [[Blog](https://openai.com/blog/dall-e/)] [[Github](https://github.com/openai/DALL-E)]
+
 **Semantic Object Accuracy for Generative Text-to-Image Synthesis.**<br>
 *Tobias Hinz, Stefan Heinrich, Stefan Wermter.*<br>
 TPAMI 2020. [[PDF](https://ieeexplore.ieee.org/document/9184960/authors#authors)] [[Github](https://github.com/tohinz/semantic-object-accuracy-for-generative-text-to-image-synthesis)]

@@ -872,6 +872,10 @@ arxiv 2014. [[PDF](https://arxiv.org/abs/1410.8516)] [[Github](https://github.co
 
 [[awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)]
 
+**AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation.**<br>
+*Bing Li, Yuanlue Zhu, Yitong Wang, Chia-Wen Lin, Bernard Ghanem, Linlin Shen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12593)]
+
 **SWAGAN: A Style-based Wavelet-driven Generative Model.**<br>
 *Rinon Gal, Dana Cohen, Amit Bermano, Daniel Cohen-Or.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2102.06108)]
@@ -1056,6 +1060,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05292)]
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
 
 #### Generation
+
+**IBRNet: Learning Multi-View Image-Based Rendering.**<br>
+*Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.13090)]
 
 **Deepfake Video Detection Using Convolutional Vision Transformer.**<br>
 *Deressa Wodajo, Solomon Atnafu.*<br>
@@ -1699,6 +1707,14 @@ arxiv 2020.
 **DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection.**<br>
 *Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia.*<br>
 arxiv, 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
+
+**CelebA-Spoof Challenge 2020 on Face Anti-Spoofing: Methods and Results.**<br>
+*Yuanhan Zhang, Zhenfei Yin, Jing Shao, Ziwei Liu, Shuo Yang, Yuanjun Xiong, Wei Xia, Yan Xu, Man Luo, Jian Liu, Jianshu Li, Zhijun Chen, Mingyu Guo, Hui Li, Junfu Liu, Pengfei Gao, Tianqi Hong, Hao Han, Shijie Liu, Xinhua Chen, Di Qiu, Cheng Zhen, Dashuang Liang, Yufeng Jin, Zhanlong Hao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12642)] [[Project](https://competitions.codalab.org/competitions/26210)]
+
+**Self-Domain Adaptation for Face Anti-Spoofing.**<br>
+*Jingjing Wang, Jingyi Zhang, Ying Bian, Youyi Cai, Chunmao Wang, Shiliang Pu.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.12129)]
 
 **Aurora Guard: Reliable Face Anti-Spoofing via Mobile Lighting System.**<br>
 *Jian Zhang, Ying Tai, Taiping Yao, Jia Meng, Shouhong Ding, Chengjie Wang, Jilin Li, Feiyue Huang, Rongrong Ji.*<br>

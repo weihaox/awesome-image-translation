@@ -65,6 +65,10 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongro
 
 Federated Learning, Differential Privacy, Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense.
 
+**Federated f-Differential Privacy.**<br>
+*Qinqing Zheng, Shuxiao Chen, Qi Long, Weijie J. Su.*<br>
+AISTATS 2021. [[PDF](https://arxiv.org/abs/2102.11158)]
+
 **TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations.**<br>
 *Ang Li, Yixiao Duan, Huanrui Yang, Yiran Chen, Jianlei Yang.*<br>
 KDD 2020 Best Student Paper. [[PDF](https://arxiv.org/pdf/2005.11480.pdf)]
@@ -447,6 +451,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 *[Emre Akbas](https://user.ceng.metu.edu.tr/~emre/), Baris Can Cam, Sinan Kalkan, Kemal Oksuz, Nuno Vasconcelos.*<br>
 ECCV2020 Workshop. [[Project])(https://sites.google.com/view/ipcv2020/home)]
 
+**FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation.**<br>
+*Yuhang Zang, Chen Huang, Chen Change Loy.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12867)]
+
 **Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts.**<br>
 *Soravit Changpinyo, Piyush Sharma, Nan Ding, Radu Soricut.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08981)]
@@ -637,6 +645,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
+
+**Domain Adaptation for Learning Generator from Paired Few-Shot Data.**<br>
+*Chun-Chih Teng, Pin-Yu Chen, Wei-Chen Chiu.*<br>
+ICASSP 2021. [[PDF](https://arxiv.org/abs/2102.12765)]
 
 **Domain Impression: A Source Data Free Domain Adaptation Method.**<br>
 *Vinod K Kurmi, Venkatesh K Subramanian, Vinay P Namboodiri.*<br>

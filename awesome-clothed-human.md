@@ -37,6 +37,10 @@ Highavenue: Turn yourself into a 3D model.
 
 ## 3D People Dressing and Clothing Draping
 
+**Deep Deformation Detail Synthesis for Thin Shell Models.**<br>
+*Lan Chen, Lin Gao, Jie Yang, Shibiao Xu, Juntao Ye, Xiaopeng Zhang, Yu-Kun Lai.*<br>
+arxiv 20211. [[PDF](https://arxiv.org/abs/2102.11541)]
+
 **Neural 3D Clothes Retargeting from a Single Image.**<br>
 *Jae Shin Yoon, Kihwan Kim, Jan Kautz, Hyun Soo Park.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2102.00062)]
