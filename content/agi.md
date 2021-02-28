@@ -34,6 +34,14 @@ This direction includes Data Efficiency, Data Bias (class-imbalanced data, long-
 
 This direction includes GAN Inversion, etc.
 
+**SHAP: A Unified Approach to Interpreting Model Predictions.**<br>
+*Scott M. Lundberg, Su-In Lee.*<br>
+NeurIPS 2017. [[PDF](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html)] [[Github](https://github.com/slundberg/shap)]
+
+**LIME: Explaining the Predictions of Any Classifier.**<br>
+*Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin.*<br>
+KDD 2016. [[PDF](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)] [[Github](https://github.com/marcotcr/lime)]
+
 ## Cross-Modality AI
 
 This direction includes multi-modality translation, multi-modality representation, domain alignment, etc.

@@ -37,6 +37,10 @@ ECCV 2020 Workshop. [[Homepage])(https://sites.google.com/view/ipcv2020/home)]
 
 ### Fairness
 
+**Explaining Quantitative Measures of Fairness.**<br>
+*[Scott Lundberg](https://scottlundberg.com/).*<br>
+Fair & Responsible AI Workshop, CHI2020. [[PDF](https://scottlundberg.com/files/fairness_explanations.pdf)] [[Github](https://github.com/slundberg/shap/blob/master/notebooks/overviews/Explaining%20quantitative%20measures%20of%20fairness.ipynb)]
+
 **Fair for All: Best-effort Fairness Guarantees for Classification.**<br>
 *[Anilesh K. Krishnaswamy](https://users.cs.duke.edu/~anilesh/), [Zhihao Jiang](https://sites.google.com/view/zhihaojiang/home), [Kangning Wang](), [Yu Cheng](http://homepages.math.uic.edu/~yucheng/), [Kamesh Munagala](https://www.kameshmunagala.org/).*<br>
 AISTATS 2021. [[PDF](https://arxiv.org/abs/2012.10216)]
