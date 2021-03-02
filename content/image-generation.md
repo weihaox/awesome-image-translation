@@ -40,7 +40,9 @@ This repository is about *controllable, interpretable, and generalizable visual 
 
 ## Industry Demo or Product
 
-**Google**: [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html).
+**[MyHeritage](https://www.myheritage.com/deep-nostalgia)**: Animate the faces in your family photos.
+
+**[Google Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html)**: Using GANs to Create Fantastical Creatures.
 
 **Adobe Sensei**: Material World, Scantastic, Sharp Shot, Super Dancing Queen/King, 2D Plus, Comic Blast, AR Together.
 
@@ -432,7 +434,7 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 [[Video Generation SOTA](https://paperswithcode.com/task/video-generation)]
 
-Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/image-generation.md#image-to-video).
+Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/multi-modal-representation.md#image-to-video).
 
 **One Shot Audio to Animated Video Generation.**<br>
 *Neeraj Kumar, Srishti Goel, Ankur Narang, Brejesh Lall, Mujtaba Hasan, Pranshu Agarwal, Dipankar Sarkar.*<br>
@@ -532,6 +534,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06134)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03864)]
 
 ### Frame Interpolation and Extrapolation
+
+**Texture-aware Video Frame Interpolation.**<br>
+*Duolikun Danier, David Bull.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.13520)]
 
 **Softmax Splatting for Video Frame Interpolation.**<br>
 *Simon Niklaus, Feng Liu.*<br>
@@ -740,6 +746,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyench
 
 #### GAN Improvement
 
+**Training Generative Adversarial Networks in One Stage.**<br>
+*Chengchao Shen, Youtan Yin, Xinchao Wang, Xubin LI, Jie Song, Mingli Song.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00430)]
+
 **Dual Contradistinctive Generative Autoencoder.**<br>
 *[Gaurav Parmar](https://gauravparmar.com/), [Dacheng Li](), [Kwonjoon Lee](), [Zhuowen Tu](https://pages.ucsd.edu/~ztu/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/pdf/2011.10063.pdf)]
@@ -913,6 +923,10 @@ CVPR 2019.
 [[Github](https://github.com/NVlabs/stylegan)]
 [[FFHQ](https://github.com/NVlabs/ffhq-dataset)]
 
+**Systematic Analysis and Removal of Circular Artifacts for StyleGAN.**<br>
+*Way Tan, Bihan Wen, Xulei Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01090)]
+
 **DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
 *E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
@@ -949,13 +963,7 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 #### Improvement
 
-**Do We Really Need Explicit Position Encodings for Vision Transformers?**<br>
-*Xiangxiang Chu, Bo Zhang, Zhi Tian, Xiaolin Wei, Huaxia Xia.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10882)]
-
-**Optimizing Inference Performance of Transformers on CPUs.**<br>
-*Dave Dice, Alex Kogan.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06621)]
+##### Long-Range
 
 **LambdaNetworks: Modeling Long-Range Interactions Without Attention.**<br>
 *Irwan Bello.*<br>
@@ -964,6 +972,22 @@ ICLR 2021. [[PDF](https://arxiv.org/abs/2102.08602)]
 **Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention.**<br>
 *Yunyang Xiong, Zhanpeng Zeng, Rudrasis Chakraborty, Mingxing Tan, Glenn Fung, Yin Li, Vikas Singh.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2102.03902v1)] [[Github](https://github.com/mlpen/Nystromformer)]
+
+##### Postion Encoding
+
+**Do We Really Need Explicit Position Encodings for Vision Transformers?**<br>
+*Xiangxiang Chu, Bo Zhang, Zhi Tian, Xiaolin Wei, Huaxia Xia.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10882)]
+
+##### Accelerate
+
+**Transformer in Transformer.**<br>
+*Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00112)] [[Github](https://github.com/huawei-noah/noah-research/tree/master/TNT)]
+
+**Optimizing Inference Performance of Transformers on CPUs.**<br>
+*Dave Dice, Alex Kogan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06621)]
 
 #### Survey
 
@@ -976,6 +1000,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12556)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 #### Recognition and Classification
+
+**OmniNet: Omnidirectional Representations from Transformers.**<br>
+*Yi Tay, Mostafa Dehghani, Vamsi Aribandi, Jai Gupta, Philip Pham, Zhen Qin, Dara Bahri, Da-Cheng Juan, Donald Metzler.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.01075.pdf)]
 
 **Relaxed Transformer Decoders for Direct Action Proposal Generation.**<br>
 *Jing Tan, Jiaqi Tang, Limin Wang, Gangshan Wu.*<br>
@@ -1060,6 +1088,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05292)]
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
 
 #### Generation
+
+**Single-Shot Motion Completion with Transformer.**<br>
+*Yinglin Duan, Tianyang Shi, Zhengxia Zou, Yenan Lin, Zhehui Qian, Bohan Zhang, Yi Yuan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00776)] [[Project](https://github.com/FuxiCV/SSMCT)]
+
+**Generative Adversarial Transformers.**<br>
+*Drew A. Hudson, C. Lawrence Zitnick.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.01209.pdf)]
 
 **IBRNet: Learning Multi-View Image-Based Rendering.**<br>
 *Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser.*<br>
@@ -1684,6 +1720,8 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 [[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
 [[Awesome-GANS-and-Deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes)]
 
+### Dataset, Challenge, and Benchmark
+
 **DeeperForensics Challenge 2020 on Real-World Face Forgery Detection: Methods and Results.**<br>
 *Liming Jiang, Zhengkui Guo, Wayne Wu, Zhaoyang Liu, Ziwei Liu, Chen Change Loy, Shuo Yang, Yuanjun Xiong, Wei Xia, Baoying Chen, Peiyu Zhuang, Sili Li, Shen Chen, Taiping Yao, Shouhong Ding, Jilin Li, Feiyue Huang, Liujuan Cao, Rongrong Ji, Changlei Lu, Ganchao Tan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09471)] [[Project](https://competitions.codalab.org/competitions/25228)]
@@ -1700,17 +1738,37 @@ arxiv 2020.
 [[DeeperForensics-1.0 Dataset](https://github.com/EndlessSora/DeeperForensics-1.0)]
 [[PDF](https://github.com/EndlessSora/DeeperForensics-1.0)]
 
-**FaceForensics++: Learning to Detect Manipulated Facial Images.**<br>
-*[Andreas Rössler](http://www.niessnerlab.org/members/andreas_roessler/profile.html), Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, [Matthias Nießner](http://www.niessnerlab.org/members/matthias_niessner/profile.html).*<br>
-[[PDF](https://arxiv.org/abs/1901.08971)] [[Github](https://github.com/ondyari/FaceForensics)] [[Homepage & Dataset](http://www.niessnerlab.org/projects/roessler2018faceforensics.html)] [[Face Forensics  Image Recognition Suite](http://faceforensics.com/)]
+**CelebA-Spoof Challenge 2020 on Face Anti-Spoofing: Methods and Results.**<br>
+*Yuanhan Zhang, Zhenfei Yin, Jing Shao, Ziwei Liu, Shuo Yang, Yuanjun Xiong, Wei Xia, Yan Xu, Man Luo, Jian Liu, Jianshu Li, Zhijun Chen, Mingyu Guo, Hui Li, Junfu Liu, Pengfei Gao, Tianqi Hong, Hao Han, Shijie Liu, Xinhua Chen, Di Qiu, Cheng Zhen, Dashuang Liang, Yufeng Jin, Zhanlong Hao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12642)] [[Project](https://competitions.codalab.org/competitions/26210)]
+
+**The DeepFake Detection Challenge Dataset.**<br>
+*Brian Dolhansky, Joanna Bitton, Ben Pflaum, Jikuo Lu, Russ Howes, Menglin Wang, Cristian Canton Ferrer.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07397)] [[Dataset](http://ai.facebook.com/)]
+
+### Survey
+
+**Countering Malicious DeepFakes: Survey, Battleground, and Horizon.**<br>
+*Felix Juefei-Xu, Run Wang, Yihao Huang, Qing Guo, Lei Ma, Yang Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00218)]
 
 **DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection.**<br>
 *Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia.*<br>
 arxiv, 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 
-**CelebA-Spoof Challenge 2020 on Face Anti-Spoofing: Methods and Results.**<br>
-*Yuanhan Zhang, Zhenfei Yin, Jing Shao, Ziwei Liu, Shuo Yang, Yuanjun Xiong, Wei Xia, Yan Xu, Man Luo, Jian Liu, Jianshu Li, Zhijun Chen, Mingyu Guo, Hui Li, Junfu Liu, Pengfei Gao, Tianqi Hong, Hao Han, Shijie Liu, Xinhua Chen, Di Qiu, Cheng Zhen, Dashuang Liang, Yufeng Jin, Zhanlong Hao.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12642)] [[Project](https://competitions.codalab.org/competitions/26210)]
+**A Survey On Anti-Spoofing Methods For Face Recognition with RGB Cameras of Generic Consumer Devices.**<br>
+*Zuheng Ming, Muriel Visani, Muhammad Muzzamil Luqman, Jean-Christophe Burie.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
+
+### Paper
+
+**Cross Modal Focal Loss for RGBD Face Anti-Spoofing.**<br>
+*Anjith George, Sebastien Marcel.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.00948)]
+
+**FaceForensics++: Learning to Detect Manipulated Facial Images.**<br>
+*[Andreas Rössler](http://www.niessnerlab.org/members/andreas_roessler/profile.html), Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, [Matthias Nießner](http://www.niessnerlab.org/members/matthias_niessner/profile.html).*<br>
+[[PDF](https://arxiv.org/abs/1901.08971)] [[Github](https://github.com/ondyari/FaceForensics)] [[Homepage & Dataset](http://www.niessnerlab.org/projects/roessler2018faceforensics.html)] [[Face Forensics  Image Recognition Suite](http://faceforensics.com/)]
 
 **Self-Domain Adaptation for Face Anti-Spoofing.**<br>
 *Jingjing Wang, Jingyi Zhang, Ying Bian, Youyi Cai, Chunmao Wang, Shiliang Pu.*<br>
@@ -1736,10 +1794,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.07657)]
 *Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09737)]
 
-**A Survey On Anti-Spoofing Methods For Face Recognition with RGB Cameras of Generic Consumer Devices.**<br>
-*Zuheng Ming, Muriel Visani, Muhammad Muzzamil Luqman, Jean-Christophe Burie.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
-
 **What Makes Fake Images Detectable? Understanding Properties That Generalize.**<br>
 *Lucy Chai, David Bau, Ser-Nam Lim, Phillip Isola.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.10588)]  [[Github](https://chail.github.io/patch-forensics/)]
@@ -1747,10 +1801,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.10588)]  [[Github](https://chail.g
 **Two-branch Recurrent Network for Isolating Deepfakes in Videos.**<br>
 *Iacopo Masi, Aditya Killekar, Royston Marian Mascarenhas, Shenoy Pratik Gurudatt, Wael AbdAlmageed.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.03412)]
-
-**The DeepFake Detection Challenge Dataset.**<br>
-*Brian Dolhansky, Joanna Bitton, Ben Pflaum, Jikuo Lu, Russ Howes, Menglin Wang, Cristian Canton Ferrer.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07397)] [[Dataset](http://ai.facebook.com/)]
 
 **DeepFaceLab: A simple, flexible and extensible face swapping framework.**<br>
 *Ivan Petrov, Daiheng Gao, Nikolay Chervoniy, Kunlin Liu, Sugasa Marangonda, Chris Umé, Mr. Dpfks, Carl Shift Facenheim, Luis RP, Jian Jiang, Sheng Zhang, Pingyu Wu, Bo Zhou, Weiming Zhang.*<br>
@@ -1842,7 +1892,7 @@ arxiv, 3 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01279)] [[Github](https://g
 
 **Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples.**<br>
 *Paarth Neekhara, Shehzeen Hussain, Malhar Jere, Farinaz Koushanfar, Julian McAuley.*<br>
-arxiv,  9 Feb 2020. [[PDF](https://arxiv.org/abs/2002.12749)]
+WACV 2021. [[PDF](https://arxiv.org/abs/2002.12749)]
 
 **Real or Not Real, that is the Question.**<br>
 *Yuanbo Xiangli, Yubin Deng, Bo Dai, Chen Change Loy, Dahua Lin.*<br>

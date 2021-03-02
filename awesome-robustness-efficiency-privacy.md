@@ -37,6 +37,10 @@ ECCV 2020 Workshop. [[Homepage])(https://sites.google.com/view/ipcv2020/home)]
 
 ### Fairness
 
+**On the Fairness of Generative Adversarial Networks (GANs).**<br>
+*Patrik Joslin Kenfack, Daniil Dmitrievich Arapovy, Rasheed Hussain, S.M. Ahsan Kazmi, Adil Mehmood Khan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00950)]
+
 **Explaining Quantitative Measures of Fairness.**<br>
 *[Scott Lundberg](https://scottlundberg.com/).*<br>
 Fair & Responsible AI Workshop, CHI2020. [[PDF](https://scottlundberg.com/files/fairness_explanations.pdf)] [[Github](https://github.com/slundberg/shap/blob/master/notebooks/overviews/Explaining%20quantitative%20measures%20of%20fairness.ipynb)]
@@ -295,6 +299,16 @@ ICCV 2019 (Best Paper).
 *Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
 
+### Others
+
+**Ultra-Data-Efficient GAN Training: Drawing A Lottery Ticket First, Then Training It Toughly.**<br>
+*Tianlong Chen, Yu Cheng, Zhe Gan, Jingjing Liu, Zhangyang Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00397)]
+
+**Diversifying Sample Generation for Accurate Data-Free Quantization.**<br>
+*Xiangguo Zhang, Haotong Qin, Yifu Ding, Ruihao Gong, Qinghua Yan, Renshuai Tao, Yuhang Li, Fengwei Yu, Xianglong Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01049)]
+
 ## Data Bias
 
 *ML systems are biased when data is biased.* --Yann LeCun
@@ -424,6 +438,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1901.09764)]
 ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.com/jsyoon0823/GAIN)]
 
 ## Open-World and Out-of-Distribution Dataset
+
+**Counterfactual Zero-Shot and Open-Set Visual Recognition.**<br>
+*Zhongqi Yue, Tan Wang, Hanwang Zhang, Qianru Sun, Xian-Sheng Hua.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.00887)]
 
 **Open-World Semi-Supervised Learning.**<br>
 *Kaidi Cao, Maria Brbic, Jure Leskovec.*<br>

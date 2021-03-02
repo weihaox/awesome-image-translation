@@ -409,6 +409,10 @@ arxiv 2016. [[PDF](https://arxiv.org/abs/1606.03498)] [[Github](https://github.c
 
 ### IQA for IR
 
+**Deep Perceptual Image Quality Assessment for Compression.**<br>
+*Juan Carlos Mier, Eddie Huang, Hossein Talebi, Feng Yang, Peyman Milanfar.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01114)]
+
 **PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration.**<br>
 *Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, Jimmy Ren, Chao Dong.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.12142)] [[Project](https://www.jasongt.com/projectpages/pipal.html)]

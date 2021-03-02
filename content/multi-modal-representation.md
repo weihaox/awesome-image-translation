@@ -174,6 +174,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08779)] [[Project](https://google.
 
 ### Image-to-Video
 
+**Dual-MTGAN: Stochastic and Deterministic Motion Transfer for Image-to-Video Synthesis.**<br>
+*Fu-En Yang, Jing-Cheng Chang, Yuan-Hao Lee, Yu-Chiang Frank Wang.*<br>
+ICPR 2020. [[PDF](https://arxiv.org/abs/2102.13329)]
+
 **Animating Pictures with Eulerian Motion Fields.**<br>
 *[Aleksander Holynski](http://www.holynski.org/), [Brian Curless](https://homes.cs.washington.edu/~curless/), [Steven M. Seitz](https://homes.cs.washington.edu/~seitz/), [Richard Szeliski](http://szeliski.org/RichardSzeliski.htm).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15128)] [[Project](https://eulerian.cs.washington.edu/)] [[Video](https://www.youtube.com/watch?v=4zKliOMilGY)]
@@ -221,6 +225,10 @@ IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 IJCAI 2019. [[PDF](https://www.ijcai.org/proceedings/2019/0307.pdf)]
 
 ### Image-to-Text
+
+**Automatic Comic Generation with Stylistic Multi-page Layouts and Emotion-driven Text Balloon Generation.**<br>
+*Xin Yang, Zongliang Ma, Letian Yu, Ying Cao, Baocai Yin, Xiaopeng Wei, Qiang Zhang, Rynson W.H. Lau.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11111)]
 
 **VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining.**<br>
 *Jun Chen, Han Guo, Kai Yi, Boyang Li, Mohamed Elhoseiny.*<br>
