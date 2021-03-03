@@ -436,6 +436,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/multi-modal-representation.md#image-to-video).
 
+**Predicting Video with VQVAE.**<br>
+*Jacob Walker, Ali Razavi, Aäron van den Oord.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01950)]
+
 **One Shot Audio to Animated Video Generation.**<br>
 *Neeraj Kumar, Srishti Goel, Ankur Narang, Brejesh Lall, Mujtaba Hasan, Pranshu Agarwal, Dipankar Sarkar.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09737)]
@@ -663,6 +667,10 @@ CVPR 2020. [[PDF](https://avg.is.tuebingen.mpg.de/publications/liao2020cvpr)] [[
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github.com/autonomousvision/graf)]
 
 ## 3D Shape Generation and Manipulation
+
+**Diffusion Probabilistic Models for 3D Point Cloud Generation.**<br>
+*Shitong Luo, Wei Hu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.01458.pdf)] [[Github](https://github.com/luost26/diffusion-point-cloud)]
 
 **Learning to Infer Semantic Parameters for 3D Shape Editing.**<br>
 *Fangyin Wei, Elena Sizikova, Avneesh Sud, Szymon Rusinkiewicz, Thomas Funkhouser.*<br>
@@ -1761,6 +1769,10 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 
 ### Paper
+
+**Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain.**<br>
+*Honggu Liu, Xiaodan Li, Wenbo Zhou, Yuefeng Chen, Yuan He, Hui Xue, Weiming Zhang, Nenghai Yu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01856)]
 
 **Cross Modal Focal Loss for RGBD Face Anti-Spoofing.**<br>
 *Anjith George, Sebastien Marcel.*<br>

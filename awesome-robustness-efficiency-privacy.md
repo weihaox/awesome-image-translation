@@ -149,6 +149,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
 ### Data or Distribution Augmentation
 
+**Fixing Data Augmentation to Improve Adversarial Robustness.**<br>
+*Sylvestre-Alvise Rebuffi, Sven Gowal, Dan A. Calian, Florian Stimberg, Olivia Wiles, Timothy Mann.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01946)]
+
 **On Interaction Between Augmentations and Corruptions in Natural Corruption Robustness.**<br>
 *Eric Mintun, Alexander Kirillov, Saining Xie.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11273)] [[Github](https://github.com/facebookresearch/augmentation-corruption)]

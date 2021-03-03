@@ -547,6 +547,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Auto-Exposure Fusion for Single-Image Shadow Removal.**<br>
+*Lan Fu, Changqing Zhou, Qing Guo, Felix Juefei-Xu, Hongkai Yu, Wei Feng, Yang Liu, Song Wang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.01255)]
+
 **Progressive Depth Learning for Single Image Dehazing.**<br>
 *Yudong Liang, Bin Wang, Jiaying Liu, Deyu Li, Sanping Zhou, Wenqi Ren.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10514.pdf)]

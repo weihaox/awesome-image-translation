@@ -43,6 +43,13 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## 2021
 
+### CVPR 2021
+
+**Image-to-image Translation via Hierarchical Style Disentanglement.**[[PDF](https://arxiv.org/abs/2103.01456)] [[Github](https://github.com/imlixinyang/HiSD)]. <br>
+*Xinyang Li, Shengchuan Zhang, Jie Hu, Liujuan Cao, Xiaopeng Hong, Xudong Mao, Feiyue Huang, Yongjian Wu, Rongrong Ji.*<br>
+
+### Others
+
 **DINO: A Conditional Energy-Based GAN for Domain Translation.**<br>
 *Konstantinos Vougioukas, Stavros Petridis, Maja Pantic.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.09281)]
