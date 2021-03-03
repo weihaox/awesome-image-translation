@@ -547,6 +547,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**AdderSR: Towards Energy Efficient Image Super-Resolution.**<br>
+*Dehua Song, Yunhe Wang, Hanting Chen, Chang Xu, Chunjing Xu, DaCheng Tao.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2009.08891)] [[PDF](https://github.com/huawei-noah/AdderNet)]
+
 **Auto-Exposure Fusion for Single-Image Shadow Removal.**<br>
 *Lan Fu, Changqing Zhou, Qing Guo, Felix Juefei-Xu, Hongkai Yu, Wei Feng, Yang Liu, Song Wang.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.01255)]

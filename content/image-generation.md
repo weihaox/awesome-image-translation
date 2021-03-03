@@ -1009,6 +1009,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 #### Recognition and Classification
 
+**MIST: Multiple Instance Spatial Transformer Network.**<br>
+*Baptiste Angles, Yuhe Jin, Simon Kornblith, Andrea Tagliasacchi, Kwang Moo Yi.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/1811.10725)]
+
 **OmniNet: Omnidirectional Representations from Transformers.**<br>
 *Yi Tay, Mostafa Dehghani, Vamsi Aribandi, Jai Gupta, Philip Pham, Zhen Qin, Dara Bahri, Da-Cheng Juan, Donald Metzler.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.01075.pdf)]
@@ -1073,7 +1077,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00759)]
 
 **UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.**<br>
 *Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09094)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.09094)]
 
 **End-to-End Video Instance Segmentation with Transformers.**<br>
 *Yuqing Wang, Zhaoliang Xu, Xinlong Wang, Chunhua Shen, Baoshan Cheng, Hao Shen, Huaxia Xia.*<br>
@@ -1139,7 +1143,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12877)] [[Github](https://github.c
 
 **Transformer Interpretability Beyond Attention Visualization.**<br>
 *Hila Chefer, Shir Gur, Lior Wolf.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09838)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.09838)]
 
 **TSceneFormer: Indoor Scene Generation with Transformers.**<br>
 *Xinpeng Wang, Chandan Yeshwanth, Matthias Nießner.*<br>
@@ -1169,7 +1173,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.co
 
 **Pre-Trained Image Processing Transformer.**<br>
 *Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
 
 #### 3D 
 
