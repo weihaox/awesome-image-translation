@@ -97,6 +97,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 
 ### Change Where You Want
 
+**Anycost GANs for Interactive Image Synthesis and Editing.**<br>
+*Ji Lin, Richard Zhang, Frieder Ganz, Song Han, Jun-Yan Zhu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03243)] [[Github](https://github.com/mit-han-lab/anycost-gan)]
+
 **Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**<br>
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
@@ -104,6 +108,10 @@ ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
 **GAN-Control: Explicitly Controllable GANs.**<br>
 *Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2101.02477)]
+
+**Learning Asynchronous and Sparse Human-Object Interaction in Videos.**<br>
+*Romero Morais, Vuong Le, Svetha Venkatesh, Truyen Tran.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02758)]
 
 **HOI Analysis: Integrating and Decomposing Human-Object Interaction.**<br>
 *[Yong-Lu Li](https://dirtyharrylyl.github.io/), Xinpeng Liu, Xiaoqian Wu, Yizhuo Li, [Cewu Lu](http://mvig.sjtu.edu.cn/).*<br>
@@ -259,7 +267,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01466)]
 ECCV 2020.  [[Github](https://github.com/Ha0Tang/XingGAN)]
 
 **DEEPSim: Deep Single Image Manipulation.**<br>
-*[Yael Vinker](https://www.linkedin.com/in/yael-vinker-a91a00157/), [Eliahu Horwitz](https://www.linkedin.com/in/eliahu-horwitz), [Nir Zabari](), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
+*[Yael Vinker](https://www.linkedin.com/in/yael-vinker-a91a00157/), [Eliahu Horwitz](https://www.linkedin.com/in/eliahu-horwitz), Nir Zabari, [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01289)] [[Project](http://www.vision.huji.ac.il/deepsim/)] [[Github](https://github.com/eliahuhorwitz/DeepSIM)]
 
 **High-Resolution Neural Face Swapping for Visual Effects.**<br>
@@ -539,6 +547,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.03864)]
 
 ### Frame Interpolation and Extrapolation
 
+**Motion-blurred Video Interpolation and Extrapolation.**<br>
+*Dawit Mureja Argaw, Junsik Kim, Francois Rameau, In So Kweon.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2103.02984)]
+
 **Texture-aware Video Frame Interpolation.**<br>
 *Duolikun Danier, David Bull.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.13520)]
@@ -549,7 +561,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.05534)] [[Github](http://sniklaus.c
 
 **FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation.**<br>
 *Tarun Kalluri, Deepak Pathak, Manmohan Chandraker, Du Tran.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08512)] [[Project](https://tarun005.github.io/FLAVR/)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.08512)] [[Project](https://tarun005.github.io/FLAVR/)] [[Github](https://tarun005.github.io/FLAVR/Code)]
 
 **NSFF: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
 *Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang.*<br>
@@ -655,7 +667,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoam
 ICLR 2020. [[PDF](https://arxiv.org/abs/1909.12573)] [[Github](https://github.com/nogu-atsu/RGBD-GAN)]
 
 **SIREN: Implicit Neural Representations with Periodic Activation Functions.**<br>
-*[Vincent Sitzmann](https://vsitzmann.github.io/), [Julien N. P. Martel](http://www.jmartel.net/), [Alexander W. Bergman](http://alexanderbergman7.github.io/), [David B. Lindell](http://www.davidlindell.com/), [Gordon Wetzstein]()https://stanford.edu/~gordonwz/.*<br>
+*[Vincent Sitzmann](https://vsitzmann.github.io/), [Julien N. P. Martel](http://www.jmartel.net/), [Alexander W. Bergman](http://alexanderbergman7.github.io/), [David B. Lindell](http://www.davidlindell.com/), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.09661)] [[Project](https://vsitzmann.github.io/siren/)] [[Github](https://github.com/vsitzmann/siren)]
 
 **Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis.**<br>
@@ -759,7 +771,7 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyench
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00430)]
 
 **Dual Contradistinctive Generative Autoencoder.**<br>
-*[Gaurav Parmar](https://gauravparmar.com/), [Dacheng Li](), [Kwonjoon Lee](), [Zhuowen Tu](https://pages.ucsd.edu/~ztu/).*<br>
+*[Gaurav Parmar](https://gauravparmar.com/), Dacheng Li, Kwonjoon Lee, [Zhuowen Tu](https://pages.ucsd.edu/~ztu/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/pdf/2011.10063.pdf)]
 
 **FastGAN: Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis.**<br>
@@ -864,7 +876,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2001.06448)] [[Github](https://github.c
 
 **Guided Image Generation with Conditional Invertible Neural Networks.**<br>
 *Lynton Ardizzone, Carsten Lüth, Jakob Kruse, Carsten Rother, Ullrich Köthe.*<br>
-arxiv 2019. [[https://arxiv.org/abs/1907.02392]()] [[Github](https://github.com/VLL-HD/conditional_invertible_neural_networks)] [[Supplement](https://drive.google.com/file/d/1_OoiIGhLeVJGaZFeBt0OWOq8ZCtiI7li)]
+arxiv 2019. [[PDF](https://arxiv.org/abs/1907.02392)] [[Github](https://github.com/VLL-HD/conditional_invertible_neural_networks)] [[Supplement](https://drive.google.com/file/d/1_OoiIGhLeVJGaZFeBt0OWOq8ZCtiI7li)]
 
 **Invertible Residual Networks.**<br>
 *Jens Behrmann, Will Grathwohl, Ricky T. Q. Chen, David Duvenaud, Jörn-Henrik Jacobsen.*<br>
@@ -1772,7 +1784,11 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 *Zuheng Ming, Muriel Visani, Muhammad Muzzamil Luqman, Jean-Christophe Burie.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 
-### Paper
+### Methods
+
+**Multi-attentional Deepfake Detection.**<br>
+*Hanqing Zhao, Wenbo Zhou, Dongdong Chen, Tianyi Wei, Weiming Zhang, Nenghai Yu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02406)]
 
 **Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain.**<br>
 *Honggu Liu, Xiaodan Li, Wenbo Zhou, Yuefeng Chen, Yuan He, Hui Xue, Weiming Zhang, Nenghai Yu.*<br>
@@ -2088,7 +2104,7 @@ SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2006.01047)] [[Project](http://www.g
 
 **LinesToFacePhoto: Face Photo Generation from Lines with Conditional Self-Attention Generative Adversarial Network.**<br> 
 *Yuhang Li, [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/), Feng Wu, Zheng-Jun Zha.*<br> 
-ACM MM 2019. [[PDF](https://arxiv.org/abs/1910.08914)] [[Github]()]
+ACM MM 2019. [[PDF](https://arxiv.org/abs/1910.08914)]
 
 **Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation.**<br>
 *[Arnab Ghosh](https://arnabgho.github.io/), [Richard Zhang](https://richzhang.github.io/), [Puneet K. Dokania](https://puneetkdokania.github.io/), [Oliver Wang](http://www.oliverwang.info/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~tvg/index.php), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/).*<br>

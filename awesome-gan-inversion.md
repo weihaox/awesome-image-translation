@@ -61,6 +61,10 @@ ICLR 2018. [[PDF](https://arxiv.org/abs/1710.10196)] [[Offical TF](https://githu
 
 ## inversion paper
 
+**Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs.**<br>
+*Hui-Po Wang, Ning Yu, Mario Fritz.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.14107)]
+
 **Only a Matter of Style: Age Transformation Using a Style-Based Regression Model.**<br>
 *Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
@@ -145,6 +149,10 @@ SIGGRAPH Asia 2020. [[PDF](http://gvv.mpi-inf.mpg.de/projects/PIE/data/paper.pdf
 *Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2008.00951)] [[Github](https://github.com/eladrich/pixel2style2pixel)] [[Project](eladrich.github.io/pixel2style2pixel/)]
 
+**GAN-Control: Explicitly Controllable GANs.**<br>
+*Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02477)]
+
 **Understanding the Role of Individual Units in a Deep Neural Network.**<br>
 *David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
 National Academy of Sciences 2020. [[PDF](https://arxiv.org/abs/2009.05041)] [[Github](https://github.com/davidbau/dissect/)] [[Project](https://dissect.csail.mit.edu/)]
@@ -155,7 +163,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)]
 
 **SeFa: Closed-Form Factorization of Latent Semantics in GANs.**<br>
 *Yujun Shen, Bolei Zhou.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.06600)] [[Github](https://github.com/genforce/sefa)] [[Project](https://genforce.github.io/sefa/)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2007.06600)] [[Github](https://github.com/genforce/sefa)] [[Project](https://genforce.github.io/sefa/)]
 
 **Collaborative Learning for Faster StyleGAN Embedding.**<br>
 *Shanyan Guan, Ying Tai, Bingbing Ni, Feida Zhu, Feiyue Huang, Xiaokang Yang.*<br>

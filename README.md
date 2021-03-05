@@ -50,6 +50,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others
 
+**A Novel Application of Image-to-Image Translation: Chromosome Straightening Framework by Learning from a Single Image.**<br>
+*Sifan Song, Daiyun Huang, Yalun Hu, Chunxiao Yang, Jia Meng, Fei Ma, Jiaming Zhang, Jionglong Su.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02835)]
+
 **DINO: A Conditional Energy-Based GAN for Domain Translation.**<br>
 *Konstantinos Vougioukas, Stavros Petridis, Maja Pantic.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.09281)]

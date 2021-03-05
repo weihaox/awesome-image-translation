@@ -129,6 +129,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**A Deep Emulator for Secondary Motion of 3D Characters.**<br>
+*Mianlun Zheng, Yi Zhou, Duygu Ceylan, Jernej Barbic.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.01261)]
+
 **PVA: Pixel-aligned Volumetric Avatars.**<br>
 *Amit Raj, Michael Zollhoefer, Tomas Simon, Jason Saragih, Shunsuke Saito, James Hays, Stephen Lombardi.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02697)] [[Project](https://volumetric-avatars.github.io/)]

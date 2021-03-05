@@ -37,6 +37,10 @@ ECCV 2020 Workshop. [[Homepage])(https://sites.google.com/view/ipcv2020/home)]
 
 ### Fairness
 
+**Fair Attribute Classification through Latent Space De-biasing.**<br>
+*Vikram V. Ramaswamy, Sunnie S. Y. Kim, Olga Russakovsky.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2012.01469.pdf)] [[Github](https://github.com/princetonvisualai/gan-debiasing)]
+
 **On the Fairness of Generative Adversarial Networks (GANs).**<br>
 *Patrik Joslin Kenfack, Daniil Dmitrievich Arapovy, Rasheed Hussain, S.M. Ahsan Kazmi, Adil Mehmood Khan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00950)]
@@ -71,7 +75,23 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongro
 
 ### Privacy
 
-Federated Learning, Differential Privacy, Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense.
+Membership Inference, Federated Learning, Differential Privacy, Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense.
+
+**Differentially Private Learning with Small Public Data.**<br>
+*Jun Wang, Zhi-Hua Zhou.*<br>
+AAAI 2020. [[PDF](https://ojs.aaai.org//index.php/AAAI/article/view/6088)]
+
+**Limits of Private Learning with Access to Public Data.**<br>
+*Noga Alon, Raef Bassily, Shay Moran.*<br>
+NeurIPS 2019. [[PDF](https://papers.nips.cc/paper/2019/file/9a6a1aaafe73c572b7374828b03a1881-Paper.pdf)]
+
+**Do Not Let Privacy Overbill Utility: Gradient Embedding Perturbation for Private Learning.**<br>
+*Da Yu, Huishuai Zhang, Wei Chen, Tie-Yan Liu.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2102.12677)] [[Github](https://github.com/dayu11/Gradient-Embedding-Perturbation)]
+
+**How Does Data Augmentation Affect Privacy in Machine Learning?**<br>
+*Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2007.10567)] [[Github](https://github.com/dayu11/MI_with_DA)]
 
 **Federated f-Differential Privacy.**<br>
 *Qinqing Zheng, Shuxiao Chen, Qi Long, Weijie J. Su.*<br>
@@ -148,6 +168,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 ## Data Efficiency
 
 ### Data or Distribution Augmentation
+
+**Data Augmentation for Object Detection via Differentiable Neural Rendering.**<br>
+*Guanghan Ning, Guang Chen, Chaowei Tan, Si Luo, Liefeng Bo, Heng Huang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02852)]
 
 **Fixing Data Augmentation to Improve Adversarial Robustness.**<br>
 *Sylvestre-Alvise Rebuffi, Sven Gowal, Dan A. Calian, Florian Stimberg, Olivia Wiles, Timothy Mann.*<br>
@@ -251,7 +275,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08604)]
 
 **cGANTransfer: Efficient Conditional GAN Transfer with Knowledge Propagation across Classes.**<br>
 *Mohamad Shahbazi, Zhiwu Huang, Danda Pani Paudel, Ajad Chhatkuli, Luc Van Gool.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06696)] [[Github](https://github.com/mshahbazi72/cGANTransfer)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2102.06696)] [[Github](https://github.com/mshahbazi72/cGANTransfer)]
 
 **DeiT: Training Data-Efficient Image Transformers & Distillation Through Attention.**<br>
 *Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>
@@ -443,6 +467,10 @@ ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.co
 
 ## Open-World and Out-of-Distribution Dataset
 
+**OWOD: Towards Open World Object Detection.**<br>
+*K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02603)] [[Github](https://github.com/JosephKJ/OWOD)]
+
 **Counterfactual Zero-Shot and Open-Set Visual Recognition.**<br>
 *Zhongqi Yue, Tan Wang, Hanwang Zhang, Qianru Sun, Xian-Sheng Hua.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.00887)]
@@ -621,6 +649,22 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.13636)] [[Github](https://github
 NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]
 
 ## Domain Generalization
+
+**Generalizing to Unseen Domains: A Survey on Domain Generalization.**<br>
+*Jindong Wang, Cuiling Lan, Chang Liu, Yidong Ouyang, Tao Qin.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.03097)]
+
+**Domain Generalization: A Survey.**<br>
+*Kaiyang Zhou, Ziwei Liu, Yu Qiao, Tao Xiang, Chen Change Loy.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02503)]
+
+**Domain Generalization via Inference-time Label-Preserving Target Projections.**<br>
+*Prashant Pandey, Mrigank Raman, Sumanth Varambally, Prathosh AP.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.01134)]
+
+**FSDR: Frequency Space Domain Randomization for Domain Generalization.**<br>
+*Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02370)]
 
 **Domain Generalization Needs Stochastic Weight Averaging for Robustness on Domain Shifts.**<br>
 *Junbum Cha, Hancheol Cho, Kyungjae Lee, Seunghyun Park, Yunsung Lee, Sungrae Park.*<br>

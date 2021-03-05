@@ -323,7 +323,7 @@ AAAI 2020. [[PDF](https://arxiv.org/abs/1909.11409)] [[Github](https://github.co
 
 **CLEARER: Multi-Scale Neural Architecture Search for Image Restoration.**<br>
 *Yuanbiao Gou, Boyun Li, Zitao Liu, Songfan Yang, Xi Peng.*<br>
-NeurIPS 2020. [[PDF]()]
+NeurIPS 2020. [[PDF](https://papers.nips.cc/paper/2020/file/c6e81542b125c36346d9167691b8bd09-Paper.pdf)]
 
 **Auto Seg-Loss: Searching Metric Surrogates for Semantic Segmentation.**<br>
 *Hao Li, Chenxin Tao, Xizhou Zhu, Xiaogang Wang, Gao Huang, Jifeng Dai.*<br>
