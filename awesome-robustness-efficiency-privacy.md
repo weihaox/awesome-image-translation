@@ -303,13 +303,25 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06666)] [[Github](https://github.c
 
 ### Single-Image Training 
 
+**Morphologic-structure-aware Generative Learning from a Single Image.**<br>
+*Jinshu Chen, Qihui Xu, Qi Kang, MengChu Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02997)] [[Github](https://github.com/JinshuChen/MOGAN)]
+
+**ConSinGAN: Improved Techniques for Training Single-Image GANs.**<br>
+*Tobias Hinz, Matthew Fisher, Oliver Wang, Stefan Wermter.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2003.11512)]  [[Github](https://github.com/tohinz/ConSinGAN)]
+
+**Hierarchical Patch VAE-GAN: Generating Diverse Videos from a Single Sample.**<br>
+*[Shir Gur](http://www.gurshir.com/), [Sagie Benaim](https://sagiebenaim.github.io/), [Lior Wolf](http://www.cs.tau.ac.il/~wolf/).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.12226)] [[Project](https://shirgur.github.io/hp-vae-gan/)] [[Github](https://github.com/shirgur/hp-vae-gan)]
+
 **Blind Motion Deblurring through SinGAN Architecture.**<br>
 *Harshil Jain, Rohit Patil, Indra Deep Mastan, Shanmuganathan Raman.*<br>
 ECCV 2020 Workshop. [[PDF](https://arxiv.org/abs/2011.03705)]
 
-**ConSinGAN: Improved Techniques for Training Single-Image GANs.**<br>
-*Tobias Hinz, Matthew Fisher, Oliver Wang, Stefan Wermter.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.11512)]  [[Github](https://github.com/tohinz/ConSinGAN)]
+**TuiGAN: Learning Versatile Image-to-Image Translation with Two Unpaired Images.**<br>
+*Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2004.04634)] [[Github](https://github.com/linjx-ustc1106/TuiGAN-PyTorch)]
 
 **MSG-GAN: Multi-Scale Gradient GAN for Stable Image Synthesis.**<br>
 *Animesh Karnewar, Oliver Wang.*<br>
@@ -320,12 +332,7 @@ ICCV 2019. [[PDF](http://www.wisdom.weizmann.ac.il/~vision/ingan/resources/ingan
 
 **SinGAN: Learning a Generative Model from a Single Natural Image.**<br>
 *Tamar Rott Shaham, Tali Dekel, Tomer Michaeli.*<br>
-ICCV 2019 (Best Paper). 
-[[PDF](https://arxiv.org/abs/1905.01164)] [[UnOfficial](github.com/FriedRonaldo/SinGAN)] [[Official](github.com/tamarott/SinGAN)]
-
-**TuiGAN: Learning Versatile Image-to-Image Translation with Two Unpaired Images.**<br>
-*Jianxin Lin, Yingxue Pang, Yingce Xia, Zhibo Chen, Jiebo Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04634)]
+ICCV 2019 (Best Paper). [[PDF](https://arxiv.org/abs/1905.01164)] [[UnOfficial](github.com/FriedRonaldo/SinGAN)] [[Official](github.com/tamarott/SinGAN)]
 
 ### Others
 
