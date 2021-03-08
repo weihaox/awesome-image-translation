@@ -365,6 +365,12 @@ CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blin
 *Kede Ma, Wentao Liu, Tongliang Liu, Zhou Wang, Dacheng Tao.*<br>
 TIP 2017. [[PDF](https://ece.uwaterloo.ca/~k29ma/papers/17_TIP_dipIQ.pdf)] [[Code](https://ece.uwaterloo.ca/~k29ma/codes/dipIQ.rar)]
 
+### GAN Evaluation
+
+**On Self-Supervised Image Representations for GAN Evaluation.**<br>
+*Stanislav Morozov, Andrey Voynov, Artem Babenko.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=NeRdBeTionN)]
+
 ### Perceptual Quality
 
 **Subjective and Objective Visual Quality Assessment of Textured 3D Meshes.**<br>

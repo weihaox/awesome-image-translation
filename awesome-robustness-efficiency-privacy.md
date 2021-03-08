@@ -25,9 +25,11 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## Related Workshop and Tutorial
 
+**Open World Vision.**<br>
+CVPR 2021 Workshop. [[Homepage])(http://www.cs.cmu.edu/~shuk/open-world-vision.html#competition)]
+
 **L2ID: Learning from Limited and Imperfect Data.**<br>
 *[Zsolt Kira](https://www.cc.gatech.edu/~zk15/), [Shuai (Kyle) Zheng](https://kylezheng.org/), [Noel C. F. Codella](https://www.linkedin.com/in/noel-c-f-codella-ph-d-1b1b1723/), [Yunchao Wei](https://weiyc.github.io/), [Ming-Ming Cheng](https://mmcheng.net/cmm/), [Judy Hoffman](https://www.cc.gatech.edu/~judy/), [Tatiana Tommasi](http://www.tatianatommasi.com/), [Antonio Torralba](http://web.mit.edu/torralba/www/), [Xiaojuan Qi](https://xjqi.github.io/), [Sadeep Jayasumana](https://www.robots.ox.ac.uk/~sadeep/), [Hang Zhao](http://www.mit.edu/~hangzhao/), Liwei Wang, [Yunhui Guo](https://yunhuiguo.github.io/), Lin-Zhuo Chen.*<br>
-CVPR 2021 Workshop. [[Homepage])(https://l2id.github.io/)]
 
 **IPCV: Imbalance Problems in Computer Vision.**<br>
 *[Emre Akbas](https://user.ceng.metu.edu.tr/~emre/), Baris Can Cam, Sinan Kalkan, Kemal Oksuz, Nuno Vasconcelos.*<br>
@@ -36,6 +38,14 @@ ECCV 2020 Workshop. [[Homepage])(https://sites.google.com/view/ipcv2020/home)]
 ## Fairness, Accountability, Privacy, Transparency, and Ethics
 
 ### Fairness
+
+**FairBatch: Batch Selection for Model Fairness.**<br>  
+*Yuji Roh, Kangwook Lee, Steven Euijong Whang, Changho Suh.*<br> 
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=YNnpaAKeCfx)]
+
+**Fair Mixup: Fairness via Interpolation.**<br> 
+*Ching-Yao Chuang, Youssef Mroueh.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=DNl5s5BXeBn)]
 
 **Fair Attribute Classification through Latent Space De-biasing.**<br>
 *Vikram V. Ramaswamy, Sunnie S. Y. Kim, Olga Russakovsky.*<br>
@@ -73,9 +83,42 @@ ICML 2019. [[PDF](https://users.cs.duke.edu/~conitzer/strategicsamples18.pdf)]
 *Shengjia Zhao, Hongyu Ren, Arianna Yuan, Jiaming Song, Noah Goodman, [Stefano Ermon](https://cs.stanford.edu/~ermon/).*<br>
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongroup.github.io/blog/bias-and-generalization-dgm/)] [[Github](https://github.com/ermongroup/BiasAndGeneralization)]
 
+### Security
+
+Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense
+
+**Vulnerability-Aware Poisoning Mechanism for Online RL with Unknown Dynamics.**<br> 
+*Yanchao Sun, Da Huo, Furong Huang.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=9r30XCjf5Dt)]
+
+**Improving VAEs' Robustness to Adversarial Attack.**<br>
+*Matthew JF Willetts, Alexander Camuto, Tom Rainforth, S Roberts, Christopher C Holmes.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=-Hs_otp2RB)]
+
+**Dataset Inference: Ownership Resolution in Machine Learning.**<br>
+*Pratyush Maini, Mohammad Yaghini, Nicolas Papernot.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=hvdKKV2yt7T)]
+
+**Deep Leakage from Gradients.**<br>
+*Ligeng Zhu, Zhijian Liu, Song Han.*<br>
+NeurIPS 2019. [[PDF](https://arxiv.org/pdf/1906.08935.pdf)]
+
+**Defensive Quantization: When Efficiency Meets Robustness**<br>
+*Ji Lin, Chuang Gan, [Song Han](http://songhan.mit.edu/).*<br>
+ICLR 2019. [[PDF](https://arxiv.org/pdf/1904.08444.pdf)] [[Poster](https://www.dropbox.com/s/ugpcz41z8eosbd8/ICLR%20poster.pdf?dl=0)]
+
+
 ### Privacy
 
-Membership Inference, Federated Learning, Differential Privacy, Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense.
+Membership Inference, Federated Learning, Differential Privacy, *etc*.
+
+**Information Laundering for Model Privacy.**<br>
+*Xinran Wang, Yu Xiang, Jun Gao, Jie Ding.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=dyaIRud1zXg)]
+
+**Private Image Reconstruction from System Side Channels Using Generative Models.**<br>
+*Yuanyuan Yuan, Shuai Wang, Junping Zhang.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=y06VOYLcQXa)] [[Github](https://github.com/genSCA/genSCA)]
 
 **Differentially Private Learning with Small Public Data.**<br>
 *Jun Wang, Zhi-Hua Zhou.*<br>
@@ -129,10 +172,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06069)]
 *Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus.*<br>
 ICLR 2014. [[PDF](https://arxiv.org/pdf/1312.6199.pdf)]
 
-**Unlearnable Examples: Making Personal Data Unexploitable.**<br>
-*Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, Yisen Wang.*<br>
-ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04898)]
-
 **This Face Does Not Exist ... But It Might Be Yours! Identity Leakage in Generative Models.**<br>
 *Patrick Tinsley, Adam Czajka, Patrick Flynn.*<br>
 WACV 2021. [[PDF](https://arxiv.org/abs/2101.05084)]
@@ -140,14 +179,6 @@ WACV 2021. [[PDF](https://arxiv.org/abs/2101.05084)]
 **DataMix: Efficient Privacy-Preserving Edge-Cloud Inference.**<br>
 *[Zhijian Liu](http://zhijianliu.com/), [Zhanghao Wu](https://zhanghaowu.me/), Chuang Gan, Ligeng Zhu, and Song Han.*<br>
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560562.pdf)]
-
-**Deep Leakage from Gradients**<br>
-*Ligeng Zhu, Zhijian Liu, Song Han.*<br>
-NeurIPS 2019. [[PDF](https://arxiv.org/pdf/1906.08935.pdf)]
-
-**Defensive Quantization: When Efficiency Meets Robustness**<br>
-*Ji Lin, Chuang Gan, [Song Han](http://songhan.mit.edu/).*<br>
-ICLR 2019. [[PDF](https://arxiv.org/pdf/1904.08444.pdf)] [[Poster](https://www.dropbox.com/s/ugpcz41z8eosbd8/ICLR%20poster.pdf?dl=0)]
 
 ### Ethics
 
@@ -168,6 +199,30 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 ## Data Efficiency
 
 ### Data or Distribution Augmentation
+
+**Explaining the Efficacy of Counterfactually Augmented Data.**<br> 
+*Divyansh Kaushik, Amrith Setlur, Eduard H Hovy, Zachary Chase Lipton.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=HHiiQKWsOcV)]
+
+**Model Patching: Closing the Subgroup Performance Gap with Data Augmentation.**<br>  
+*Karan Goel, Albert Gu, Yixuan Li, Christopher Re.*<br> 
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=9YlaeLfuhJF)]
+
+**MODALS: Modality-agnostic Automated Data Augmentation in the Latent Space.**<br> 
+*Tsz-Him Cheung, Dit-Yan Yeung.*<br> 
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=XjYgR6gbCEc)]
+
+**Negative Data Augmentation.**<br> 
+*Abhishek Sinha, Kumar Ayush, Jiaming Song, Burak Uzkent, Hongxia Jin, Stefano Ermon.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=Ovp8dvB8IBH)]
+
+**How Does Mixup Help With Robustness and Generalization?**<br>
+*Linjun Zhang, Zhun Deng, Kenji Kawaguchi, Amirata Ghorbani, James Zou.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=hvdKKV2yt7T)]
+
+**Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels.**<br>
+*Denis Yarats, Ilya Kostrikov, Rob Fergus.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=GY6-6sTvGaf)]
 
 **Data Augmentation for Object Detection via Differentiable Neural Rendering.**<br>
 *Guanghan Ning, Guang Chen, Chaowei Tan, Si Luo, Liefeng Bo, Heng Huang.*<br>
@@ -269,6 +324,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1905.04899)] [[Github](https://github.co
 
 transfer learning, domain adaptation, *etc*.
 
+**Domain Generalization with MixStyle.**<br> 
+*Kaiyang Zhou, Yongxin Yang, Yu Qiao, Tao Xiang.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=6xHJ37MVxxp)]
+
 **Domain Generalization Needs Stochastic Weight Averaging for Robustness on Domain Shifts.**<br>
 *Junbum Cha, Hancheol Cho, Kyungjae Lee, Seunghyun Park, Yunsung Lee, Sungrae Park.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08604)]
@@ -302,6 +361,10 @@ ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04775)] [[Data and Code](https://gi
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06666)] [[Github](https://github.com/kdexd/virtex)]
 
 ### Single-Image Training 
+
+**GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images.**<br> 
+*Sungmin Cha, Taeeon Park, Byeongjoon Kim, Jongduk Baek, Taesup Moon.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=SHvF5xaueVn)]
 
 **Morphologic-structure-aware Generative Learning from a Single Image.**<br>
 *Jinshu Chen, Qihui Xu, Qi Kang, MengChu Zhou.*<br>
@@ -349,6 +412,22 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01049)]
 *ML systems are biased when data is biased.* --Yann LeCun
 
 active learning, metric learning, contrastive learning, label learning, *etc*.
+
+**Shape-Texture Debiased Neural Network Training.**<br> 
+*Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, Wei Shen, Alan Yuille, cihang xie.*<br> 
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=Db4yerZTYkz)]
+
+**Training GANs with Stronger Augmentations via Contrastive Discriminator.**<br> 
+*Jongheon Jeong, Jinwoo Shin.*<br> 
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=eo6U4CAwVmg)]
+
+**FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders.**<br> 
+*Pengyu Cheng, Weituo Hao, Siyang Yuan, Shijing Si, Lawrence Carin.*<br> 
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=N6JECD-PI5w)]
+
+**On Statistical Bias In Active Learning: How and When to Fix It.**<br> 
+*Sebastian Farquhar, Yarin Gal, Tom Rainforth.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=JiYq3eqTKY)]
 
 **VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining.**<br>
 *Jun Chen, Han Guo, Kai Yi, Boyang Li, Mohamed Elhoseiny.*<br>
@@ -474,6 +553,14 @@ ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.co
 
 ## Open-World and Out-of-Distribution Dataset
 
+**Understanding the failure modes of out-of-distribution generalization.**<br>  
+*Vaishnavh Nagarajan, Anders Andreassen, Behnam Neyshabur.*<br> 
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=fSTD6NFIW_b)]
+
+**Removing Undesirable Feature Contributions Using Out-of-Distribution Data.**<br> 
+*Saehyung Lee, Changhwa Park, Hyungyu Lee, Jihun Yi, Jonghyun Lee, Sungroh Yoon.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=eIHYL6fpbkA)]
+
 **OWOD: Towards Open World Object Detection.**<br>
 *K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02603)] [[Github](https://github.com/JosephKJ/OWOD)]
@@ -508,9 +595,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 
 ## Long-Tailed and Class-Imbalanced Dataset
 
-**Imbalance Problems in Computer Vision (IPCV).**<br>
-*[Emre Akbas](https://user.ceng.metu.edu.tr/~emre/), Baris Can Cam, Sinan Kalkan, Kemal Oksuz, Nuno Vasconcelos.*<br>
-ECCV2020 Workshop. [[Project])(https://sites.google.com/view/ipcv2020/home)]
+**Learning to Recombine and Resample Data For Compositional Generalization.**<br>
+*Ekin Akyürek, Afra Feyza Akyürek, Jacob Andreas.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=PS3IMnScugk)]
 
 **FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation.**<br>
 *Yuhang Zang, Chen Huang, Chen Change Loy.*<br>
@@ -623,6 +710,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00900)] [[Github](https://github.c
 
 ## Hard or Unfamiliar Example
 
+**Contrastive Learning with Hard Negative Samples.**<br> 
+*Joshua David Robinson, Ching-Yao Chuang, Suvrit Sra, Stefanie Jegelka.*<br>
+ICLR. 2021. [[PDF](https://openreview.net/pdf?id=CZ8Y3NzuVzO)]
+
 **Improving memory banks for unsupervised learning with large mini-batch,consistency and hard negative mining.**<br>
 *[Adrian Bulat](https://www.adrianbulat.com/), Enrique Sanchez, [Georgios Tzimiropoulos](http://www.cs.nott.ac.uk/~pszyt/).*<br>
 ICASSP 2021. [[PDF](https://arxiv.org/abs/2102.04442)]
@@ -656,6 +747,10 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.13636)] [[Github](https://github
 NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]
 
 ## Domain Generalization
+
+**In Search of Lost Domain Generalization.**<br> 
+*Ishaan Gulrajani, David Lopez-Paz.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=lQdXeXDoWtI)]
 
 **Generalizing to Unseen Domains: A Survey on Domain Generalization.**<br>
 *Jindong Wang, Cuiling Lan, Chang Liu, Yidong Ouyang, Tao Qin.*<br>

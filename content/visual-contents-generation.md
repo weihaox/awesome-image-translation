@@ -1,6 +1,6 @@
-# Controllable Image Generation
+# Visual Contents Generation and Manipulation
 
-This repository is about *controllable, interpretable, and generalizable visual contents generation*, which is primaly a collection of papers on image or video generation and manipulation with the guidance by text, audio, camera pose, or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
+This repository is about *controllable, interpretable, and generalizable visual contents generation*, which is primaly a collection of papers on image, video, 3D shape generation and manipulation with the guidance by text, audio, camera pose, or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
 
 ## Table of Contents
 - [Industry Demo or Product](#industry-demo-or-product)
@@ -99,7 +99,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 
 **Anycost GANs for Interactive Image Synthesis and Editing.**<br>
 *Ji Lin, Richard Zhang, Frieder Ganz, Song Han, Jun-Yan Zhu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03243)] [[Github](https://github.com/mit-han-lab/anycost-gan)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03243)] [[Github](https://github.com/mit-han-lab/anycost-gan)] [[Project](https://hanlab.mit.edu/projects/anycost-gan/)]
 
 **Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**<br>
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
@@ -182,7 +182,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10544)] [[Github](https://github.c
 **DisCo: Do Generative Models Know Disentanglement? Contrastive Learning is All You Need.**<br>
 *Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://github.com/xrenaa/DisCo)]<br>
-
 
 ### Guided Translation
 
@@ -444,6 +443,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/multi-modal-representation.md#image-to-video).
 
+**FloMo: Tractable Motion Prediction with Normalizing Flows.**<br>
+*Christoph Schöller, Alois Knoll.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.03614)]
+
+**A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
+*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
+
 **Predicting Video with VQVAE.**<br>
 *Jacob Walker, Ali Razavi, Aäron van den Oord.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01950)]
@@ -688,10 +695,6 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.01458.pdf)] [[Github](https://githu
 *Fangyin Wei, Elena Sizikova, Avneesh Sud, Szymon Rusinkiewicz, Thomas Funkhouser.*<br>
 3DV 2020. [[PDF](https://arxiv.org/abs/2011.04755)]
 
-**3DSNet: Unsupervised Shape-to-Shape 3D Style Transfer.**<br>
-*Mattia Segu, Margarita Grinvald, Roland Siegwart, Federico Tombari.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13388)]
-
 **Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence.**<br>
 *Yu Deng, Jiaolong Yang, Xin Tong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13650)] [[Github](https://github.com/microsoft/DIF-Net)]
@@ -711,6 +714,22 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.07982)] [[Github](https://github
 There are basicly two main types of generative models: likelihood based models, which include VAEs, flow based and autoregressive models; and implicit generative models such as Generative Adversarial Networks (GANs).
 
 #### VAE
+
+**Capturing Label Characteristics in VAEs.**<br>  
+*Tom Joy, Sebastian Schmon, Philip Torr, Siddharth N, Tom Rainforth.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=wQRlSUZ5V7B)]
+
+**Generalized Multimodal ELBO.**<br> 
+*Thomas Marco Sutter, Imant Daunhawer, Julia E Vogt.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=5Y21V0RDBV)]
+
+**Disentangled Recurrent Wasserstein Autoencoder.**<br>
+*Jun Han, Martin Renqiang Min, Ligong Han, Xuan Zhang, Li Erran Li.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=O7ms4LFdsX)]
+
+**Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images.**<br>
+*Rewon Child.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=RLRXCV6DbEJ)]
 
 **Taming Transformers for High-Resolution Image Synthesis.**<br>
 *[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
@@ -764,7 +783,41 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11576)]
 *Yen-Chi Cheng, Hsin-Ying Lee, Min Sun, Ming-Hsuan Yang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyenchicheng.github.io/SegVAE/)] [[Github](https://github.com/yccyenchicheng/SegVAE)]
 
+#### Frequency
+
+**Generating Images with Sparse Representations.**<br>
+*Charlie Nash, Jacob Menick, Sander Dieleman, Peter W. Battaglia.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.03841)]
+
+**Universal Adversarial Perturbations Through the Lens of Deep Steganography: Towards A Fourier Perspective.**<br>
+*Chaoning Zhang, Philipp Benz, Adil Karjauv, In So Kweon.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.06479)]
+
+**FcaNet: Frequency Channel Attention Networks.**<br>
+*Zequn Qin, Pengyi Zhang, Fei Wu, Xi Li.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11879)] [[Github](https://github.com/cfzd/FcaNet)]
+
+**Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
+*Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng.*<br>
+arxiv 2020. [[PDF]](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)] [[Github](https://github.com/tancik/fourier-feature-networks)]
+
+**Focal Frequency Loss for Generative Models.**<br>
+*Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy.*<br>
+arxiv 2020. [[PDF]](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
+
 #### GAN Improvement
+
+**GAN-LTH: GANs Can Play Lottery Tickets Too.**<br> 
+*Xuxi Chen, Zhenyu Zhang, Yongduo Sui, Tianlong Chen.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=1AoMhc_9jER)] [[Github](https://github.com/VITA-Group/GAN-LTH)]
+
+**Distributional Sliced-Wasserstein and Applications to Generative Modeling.**<br>
+*Khai Nguyen, Nhat Ho, Tung Pham, Hung Bui.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=QYjO70ACDK)]
+
+**Generating Images with Sparse Representations.**<br>
+*Charlie Nash, Jacob Menick, Sander Dieleman, Peter W. Battaglia.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.03841)]
 
 **Training Generative Adversarial Networks in One Stage.**<br>
 *Chengchao Shen, Youtan Yin, Xinchao Wang, Xubin LI, Jie Song, Mingli Song.*<br>
@@ -829,6 +882,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1904.00284)] [[Project](https://hubert05
 #### Invertible Neural Network (Flow-based Generative Model)
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
+
+**Implicit Normalizing Flows.**<br>
+*Cheng Lu, Jianfei Chen, Chongxuan Li, Qiuhao Wang, Jun Zhu.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=8PS8m9oYtNy)]
 
 **Network-to-Network Translation with Conditional Invertible Neural Networks.**<br>
 *[Robin Rombach](https://github.com/rromb), [Patrick Esser](https://github.com/pesser), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
@@ -901,6 +958,10 @@ arxiv 2014. [[PDF](https://arxiv.org/abs/1410.8516)] [[Github](https://github.co
 ### StyleGAN-Based Method
 
 [[awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)]
+
+**Style-based Point Generator with Adversarial Rendering for Point Cloud Completion.**<br>
+*Chulin Xie, Chuxin Wang, Bo Zhang, Hao Yang, Dong Chen, Fang Wen.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02535)]
 
 **AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation.**<br>
 *Bing Li, Yuanlue Zhu, Yitong Wang, Chia-Wen Lin, Bernard Ghanem, Linlin Shen.*<br>
@@ -1179,6 +1240,10 @@ ICML 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixe
 
 #### Restoration
 
+**Colorization Transformer.**<br> 
+*Manoj Kumar, Dirk Weissenborn, Nal Kalchbrenner.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=5NA1PinlGFu)]
+
 **TTSR: Learning Texture Transformer Network for Image Super-Resolution.**<br>
 *Fuzhi Yang, Huan Yang, Jianlong Fu, Hongtao Lu, Baining Guo.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.com/researchmm/TTSR)]
@@ -1268,6 +1333,10 @@ ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Enta
 
 #### Misc
 
+**UPDeT: Universal Multi-agent RL via Policy Decoupling with Transformers.**<br>
+*Siyi Hu, Fengda Zhu, Xiaojun Chang, Xiaodan Liang.*<br>
+ICLR 2021. [[PDF](https://openreview.net/forum?id=v9c7hr9ADKx)]
+
 **Generative Modelling of BRDF Textures from Flash Images.**<br>
 *Philipp Henzler, Valentin Deschaintre, Niloy J. Mitra, Tobias Ritschel.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11861)]
@@ -1316,7 +1385,7 @@ AAAI 2021. [[PDF](https://arxiv.org/abs/2012.03110)]
 
 **Creative Sketch Generation.**<br>
 *Songwei Ge, Vedanuj Goswami, C. Lawrence Zitnick, Devi Parikh.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10039)] [[Github](https://github.com/facebookresearch/DoodlerGAN)] [[Project](http://doodlergan.cloudcv.org/)]
+ICLR 2021. [[PDF](https://arxiv.org/abs/2011.10039)] [[Github](https://github.com/facebookresearch/DoodlerGAN)] [[Project](http://doodlergan.cloudcv.org/)]
 
 **CircleGAN: Generative Adversarial Learning across Spherical Circles.**<br>
 *Woohyeon Shim, Minsu Cho.*<br>

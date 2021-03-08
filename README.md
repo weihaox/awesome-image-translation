@@ -48,15 +48,29 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Image-to-image Translation via Hierarchical Style Disentanglement.**[[PDF](https://arxiv.org/abs/2103.01456)] [[Github](https://github.com/imlixinyang/HiSD)]. <br>
 *Xinyang Li, Shengchuan Zhang, Jie Hu, Liujuan Cao, Xiaopeng Hong, Xudong Mao, Feiyue Huang, Yongjian Wu, Rongrong Ji.*<br>
 
+**Teachers Do More Than Teach: Compressing Image-to-Image Models.**[[PDF](https://arxiv.org/abs/2103.03467)]<br>
+*Qing Jin, Jian Ren, Oliver J. Woodford, Jiazhuo Wang, Geng Yuan, Yanzhi Wang, Sergey Tulyakov.*<br>
+
+
+### ICLR 2021
+
+[[accepted paper list](https://openreview.net/group?id=ICLR.cc/2021/Conference)]
+
+**DINO: A Conditional Energy-Based GAN for Domain Translation.**[[PDF](https://arxiv.org/abs/2102.09281)]<br>
+*Konstantinos Vougioukas, Stavros Petridis, Maja Pantic.*<br>
+
+**Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**[[PDF](https://arxiv.org/abs/2102.01187)]<br>
+*Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
+
 ### Others
+
+**SAM: Only a Matter of Style-Age Transformation Using a Style-Based Regression Model.**<br>
+*Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
 
 **A Novel Application of Image-to-Image Translation: Chromosome Straightening Framework by Learning from a Single Image.**<br>
 *Sifan Song, Daiyun Huang, Yalun Hu, Chunxiao Yang, Jia Meng, Fei Ma, Jiaming Zhang, Jionglong Su.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02835)]
-
-**DINO: A Conditional Energy-Based GAN for Domain Translation.**<br>
-*Konstantinos Vougioukas, Stavros Petridis, Maja Pantic.*<br>
-ICLR 2021. [[PDF](https://arxiv.org/abs/2102.09281)]
 
 **Image-to-Image Translation: Methods and Applications.**<br>
 *Yingxue Pang, Jianxin Lin, Tao Qin, Zhibo Chen.*<br>

@@ -164,6 +164,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.c
 
 ### Audio-Visual Learning
 
+**Unsupervised Audiovisual Synthesis via Exemplar Autoencoders.**<br> 
+*Kangle Deng, Aayush Bansal, Deva Ramanan.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=43VKWxg_Sqr)]
+
 **Can audio-visual integration strengthen robustness under multimodal attacks?**<br>
 *[Yapeng Tian](http://yapengtian.org/) and Chenliang Xu.*<br>
 CVPR, 2021. 
@@ -337,7 +341,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)]
 
 **The Role of the Input in Natural Language Video Description.**<br>
 *Silvia Cascianelli, Gabriele Costante, Alessandro Devo, Thomas A. Ciarfuglia, Paolo Valigi, Mario L. Fravolini.*<br>
-TMM 2019. [[](https://arxiv.org/abs/2102.05067)]
+TMM 2019. [[PDF](https://arxiv.org/abs/2102.05067)]
 
 **Video Generation From Text.**<br>
 *Yitong Li, Martin Renqiang Min, Dinghan Shen, David Carlson, Lawrence Carin.*<br>
@@ -592,6 +596,18 @@ ICCV 2017. [[PDF](https://arxiv.org/abs/1707.06873)] [[Github](https://github.co
 ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.com/reedscot/icml2016)]
 
 ### Speech-and-Text
+
+**Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis.**<br>  
+*Rafael Valle, Kevin J. Shih, Ryan Prenger, Bryan Catanzaro.*<br> 
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=Ig53hpHxS4)]
+
+**Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech.**<br>  
+*Yoonhyung Lee, Joongbo Shin, Kyomin Jung.*<br> 
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=o3iritJHLfO)]
+
+**FastSpeech 2: Fast and High-Quality End-to-End Text to Speech.**<br> 
+*Yi Ren, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=piLPYqxtWuA)]
 
 **End-to-End Text-to-Speech using Latent Duration based on VQ-VAE.**<br>
 *Yusuke Yasuda, Xin Wang, Junichi Yamagishi.*<br>
