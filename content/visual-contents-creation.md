@@ -1,6 +1,6 @@
 # Visual Contents Generation and Manipulation
 
-This repository is about *controllable, interpretable, and generalizable visual contents generation*, which is primaly a collection of papers on image, video, 3D shape generation and manipulation with the guidance by text, audio, camera pose, or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
+This repository is about *controllable, interpretable, and generalizable visual contents creation*, which is primaly a collection of papers on image, video, 3D shape generation and manipulation with the guidance by text, audio, camera pose, or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
 
 ## Table of Contents
 - [Industry Demo or Product](#industry-demo-or-product)
@@ -95,7 +95,33 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
 
+### Human-Object Interaction
+
+**QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information.**<br>
+*Masato Tamura, Hiroki Ohashi, Tomoaki Yoshinaga.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.05399)]
+
+**DJRN: Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
+*Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
+
+**Learning Asynchronous and Sparse Human-Object Interaction in Videos.**<br>
+*Romero Morais, Vuong Le, Svetha Venkatesh, Truyen Tran.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02758)]
+
+**HOI Analysis: Integrating and Decomposing Human-Object Interaction.**<br>
+*[Yong-Lu Li](https://dirtyharrylyl.github.io/), Xinpeng Liu, Xiaoqian Wu, Yizhuo Li, [Cewu Lu](http://mvig.sjtu.edu.cn/).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://github.com/DirtyHarryLYL/HAKE-Action-Torch)] [[Github](http://github.com/DirtyHarryLYL/HAKE-Action-Torch/tree/IDN-(Integrating-Decomposing-Network))]
+
 ### Change Where You Want
+
+**DeFLOCNet: Deep Image Editing via Flexible Low-level Controls.**<br>
+*Hongyu Liu, Ziyu Wan, Wei Huang, Yibing Song, Xintong Han, Jing Liao, Bin Jiang, and Wei Liu.*<br>
+CVPR 2021. [[PDF]()]
+
+**ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows.**<br>
+*Jie An, [Siyu Huang](https://siyuhuang.github.io/), Yibing Song, Dejing Dou, Wei Liu, and Jiebo Luo.*<br>
+CVPR 2021. [[PDF]()]
 
 **Anycost GANs for Interactive Image Synthesis and Editing.**<br>
 *Ji Lin, Richard Zhang, Frieder Ganz, Song Han, Jun-Yan Zhu.*<br>
@@ -108,14 +134,6 @@ ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
 **GAN-Control: Explicitly Controllable GANs.**<br>
 *Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2101.02477)]
-
-**Learning Asynchronous and Sparse Human-Object Interaction in Videos.**<br>
-*Romero Morais, Vuong Le, Svetha Venkatesh, Truyen Tran.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02758)]
-
-**HOI Analysis: Integrating and Decomposing Human-Object Interaction.**<br>
-*[Yong-Lu Li](https://dirtyharrylyl.github.io/), Xinpeng Liu, Xiaoqian Wu, Yizhuo Li, [Cewu Lu](http://mvig.sjtu.edu.cn/).*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://github.com/DirtyHarryLYL/HAKE-Action-Torch)] [[Github](http://github.com/DirtyHarryLYL/HAKE-Action-Torch/tree/IDN-(Integrating-Decomposing-Network))]
 
 **SymNet: Symmetry and Group in Attribute-Object Compositions.**<br>
 *Yong-Lu Li, [Yue Xu](https://silicx.github.io/), Xiaohan Mao, Cewu Lu.*<br>
@@ -184,6 +202,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10544)] [[Github](https://github.c
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://github.com/xrenaa/DisCo)]<br>
 
 ### Guided Translation
+
+**PISE: Person Image Synthesis and Editing with Decoupled GAN.**<br>
+*Jinsong Zhang, Kun Li, Yu-Kun Lai, Jingyu Yang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04023)] [[Github](https://github.com/Zhangjinso/PISE)]
 
 **MeInGame: Create a Game Character Face from a Single Portrait.**<br>
 *Jiangke Lin, Yi Yuan, Zhengxia Zou.*<br>
@@ -713,6 +735,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.07982)] [[Github](https://github
 
 There are basicly two main types of generative models: likelihood based models, which include VAEs, flow based and autoregressive models; and implicit generative models such as Generative Adversarial Networks (GANs).
 
+**Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models.**<br> 
+*Sam Bond-Taylor, Adam Leach, Yang Long, Chris G. Willcocks.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.04922)]
+
 #### VAE
 
 **Capturing Label Characteristics in VAEs.**<br>  
@@ -882,6 +908,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1904.00284)] [[Project](https://hubert05
 #### Invertible Neural Network (Flow-based Generative Model)
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
+
+**iFlowGAN: An Invertible Flow-based Generative Adversarial Network For Unsupervised Image-to-Image Translation.**<br>
+*Longquan Dai, Jinhui Tang.*<br>
+TPAMI 2021. [[PDF](https://www.computer.org/csdl/journal/tp/5555/01/09367012/1rDQXw8mKnC)]
 
 **Implicit Normalizing Flows.**<br>
 *Cheng Lu, Jianfei Chen, Chongxuan Li, Qiuhao Wang, Jun Zhu.*<br>
@@ -1115,6 +1145,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 #### Tracking, Detection and Segmentation
+
+**End-to-End Human Object Interaction Detection with HOI Transformer.**<br>
+*Cheng Zou, Bohan Wang, Yue Hu, Junqi Liu, Qian Wu, Yu Zhao, Boxun Li, Chenguang Zhang, Chi Zhang, Yichen Wei, Jian Sun.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04503v1)] [[Github](https://github.com/bbepoch/HoiTransformer)]
 
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.**<br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
@@ -1815,6 +1849,10 @@ Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 
 ### Dataset, Challenge, and Benchmark
 
+**ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis.**<br>
+*[Yinan He](ttps://yinanhe.github.io), Bei Gan, Siyu Chen, Yichun Zhou, Guojun Yin, Luchuan Song, Lu Sheng, Jing Shao, Ziwei Liu.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.05630)] [[Project](https://yinanhe.github.io/projects/forgerynet.html)] [[Github](https://github.com/yinanhe/forgerynet)]
+
 **DeeperForensics Challenge 2020 on Real-World Face Forgery Detection: Methods and Results.**<br>
 *Liming Jiang, Zhengkui Guo, Wayne Wu, Zhaoyang Liu, Ziwei Liu, Chen Change Loy, Shuo Yang, Yuanjun Xiong, Wei Xia, Baoying Chen, Peiyu Zhuang, Sili Li, Shen Chen, Taiping Yao, Shouhong Ding, Jilin Li, Feiyue Huang, Liujuan Cao, Rongrong Ji, Changlei Lu, Ganchao Tan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09471)] [[Project](https://competitions.codalab.org/competitions/25228)]
@@ -1861,7 +1899,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02406)]
 
 **Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain.**<br>
 *Honggu Liu, Xiaodan Li, Wenbo Zhou, Yuefeng Chen, Yuan He, Hui Xue, Weiming Zhang, Nenghai Yu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01856)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.01856)]
 
 **Cross Modal Focal Loss for RGBD Face Anti-Spoofing.**<br>
 *Anjith George, Sebastien Marcel.*<br>

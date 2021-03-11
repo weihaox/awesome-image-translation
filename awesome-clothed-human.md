@@ -361,6 +361,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
 
+**Disentangled Cycle Consistency for Highly-realistic Virtual Try-On.**<br>
+*Chongjian Ge, Yibing Song, Yuying Ge, Han Yang, Wei Liu, and Ping Luo.*<br>
+CVPR 2021. [[PDF]()]
+
+**PF-AFN: Parser-Free Virtual Try-on via Distilling Appearance Flows.**<br>
+*Yuying Ge, Yibing Song, Ruimao Zhang, Chongjian Ge, Wei Liu, Ping Luo.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04559)] [[Github](https://github.com/geyuying/PF-AFN)] 
+
 **Style and Pose Control for Image Synthesis of Humans from a Single Monocular View.**<br>
 *Kripasindhu Sarkar, Vladislav Golyanik, Lingjie Liu, Christian Theobalt.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11263)]

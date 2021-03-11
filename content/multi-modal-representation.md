@@ -160,7 +160,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05691)] [[Github](https://github.c
 
 **Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning.**<br>
 *Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, Han Hu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.com/lucidrains/pixel-level-contrastive-learning)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.com/lucidrains/pixel-level-contrastive-learning)]
 
 ### Audio-Visual Learning
 

@@ -87,6 +87,22 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongro
 
 Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense
 
+**Stabilized Medical Image Attacks.**<br> 
+*Gege Qi, Lijun Gong, Yibing Song, Kai Ma, Yefeng Zheng.*<br> 
+ICLR 2021. [[PDF](https://arxiv.org/abs/2103.05232)]
+
+**BASAR: Black-box Attack on Skeletal Action Recognition.**<br> 
+*Yunfeng Diao, Tianjia Shao, Yong-Liang Yang, Kun Zhou, He Wang.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.05266)]
+
+**Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World.**<br> 
+*Jiakai Wang, Aishan Liu, Zixin Yin, Shunchang Liu, Shiyu Tang, Xianglong Liu.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01050)] [[Github](https://github.com/nlsde-safety-team/DualAttentionAttack)]
+
+**Deep Model Intellectual Property Protection via Deep Watermarking.**<br> 
+*Jie Zhang, Dongdong Chen, Jing Liao, Weiming Zhang, Huamin Feng, Gang Hua, Nenghai Yu.*<br> 
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.04980)]
+
 **Vulnerability-Aware Poisoning Mechanism for Online RL with Unknown Dynamics.**<br> 
 *Yanchao Sun, Da Huo, Furong Huang.*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=9r30XCjf5Dt)]
@@ -111,6 +127,10 @@ ICLR 2019. [[PDF](https://arxiv.org/pdf/1904.08444.pdf)] [[Poster](https://www.d
 ### Privacy
 
 Membership Inference, Federated Learning, Differential Privacy, *etc*.
+
+**PECAM: Privacy-Enhanced Video Streaming and Analytics via Securely-Reversible Transformation.**<br>
+*Hao Wu, Xuejin Tian, Minghao Li, Yunxin Liu, Ganesh Ananthanarayanan, Fengyuan Xu, and Sheng Zhong.*<br>
+MobiCom 2021. [[PDF](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-pecam.pdf)]
 
 **Information Laundering for Model Privacy.**<br>
 *Xinran Wang, Yu Xiang, Jun Gao, Jie Ding.*<br>
@@ -817,6 +837,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
+
+**MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation.**<br>
+*Xiaoqing Guo, Chen Yang, Baopu Li, Yixuan Yuan.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.05254)]
 
 **Domain Adaptation for Learning Generator from Paired Few-Shot Data.**<br>
 *Chun-Chih Teng, Pin-Yu Chen, Wei-Chen Chiu.*<br>

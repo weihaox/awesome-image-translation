@@ -435,8 +435,12 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ### Video Restoration
 
+**ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring.**<br>
+*Dongxu Li, Chenchen Xu, Kaihao Zhang, Xin Yu, Yiran Zhong, Wenqi Ren, Hanna Suominen, Hongdong Li.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04260)]
+
 **Frame Difference-Based Temporal Loss for Video Stylization.**<br>
-J*ianjin Xu, Zheyang Xiong, Xiaolin Hu.*<br>
+*Jianjin Xu, Zheyang Xiong, Xiaolin Hu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05822)]
 
 **Deep Online Fused Video Stabilization.**<br>

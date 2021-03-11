@@ -51,7 +51,6 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Teachers Do More Than Teach: Compressing Image-to-Image Models.**[[PDF](https://arxiv.org/abs/2103.03467)]<br>
 *Qing Jin, Jian Ren, Oliver J. Woodford, Jiazhuo Wang, Geng Yuan, Yanzhi Wang, Sergey Tulyakov.*<br>
 
-
 ### ICLR 2021
 
 [[accepted paper list](https://openreview.net/group?id=ICLR.cc/2021/Conference)]
@@ -63,6 +62,14 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
 
 ### Others
+
+**iFlowGAN: An Invertible Flow-based Generative Adversarial Network For Unsupervised Image-to-Image Translation.**<br>
+*[Longquan Dai](https://dailongquan.github.io/), [Jinhui Tang](https://imag-njust.net/jinhui-tang/).*<br>
+TPAMI 2021. [[PDF](https://www.computer.org/csdl/journal/tp/5555/01/09367012/1rDQXw8mKnC)]
+
+**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation.**<br>
+*[Fei Gao](http://aiart.live/), Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao.*<br>
+TIP 2021. [[PDF](https://ieeexplore.ieee.org/document/9366371)] [[Project](https://fei-hdu.github.io/chan/)]
 
 **SAM: Only a Matter of Style-Age Transformation Using a Style-Based Regression Model.**<br>
 *Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
