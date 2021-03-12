@@ -45,8 +45,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2021
 
-**(oral) CoMoGAN: Continuous Model-guided Image-to-image Translation.**[[PDF](https://arxiv.org/abs/2103.06879)]<br>
-*Fabio Pizzati, Pietro Cerri, Raoul de Charette.*<br>
+**(oral) CoMoGAN: Continuous Model-guided Image-to-image Translation.**[[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://github.com/cv-rits/CoMoGAN)]<br>
+*[Fabio Pizzati](https://fabvio.github.io/), Pietro Cerri, [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
 
 
 **ASAPNet: Spatially-Adaptive Pixelwise Networks for Fast Image Translatio.**[[PDF](https://arxiv.org/abs/2012.02992)] [[Project](https://tamarott.github.io/ASAPNet_web/)]. <br>
