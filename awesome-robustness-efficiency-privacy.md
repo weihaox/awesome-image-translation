@@ -535,6 +535,10 @@ STOC 2020. [[PDF](https://arxiv.org/abs/1906.05271)]
 
 ## Data Imputation
 
+**SMIL: Multimodal Learning with Severely Missing Modality.**<br>
+*Mengmeng Ma, Jian Ren, Long Zhao, Sergey Tulyakov, Cathy Wu, Xi Peng.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2103.05677)] [[Github](https://github.com/mengmenm/SMIL)]
+
 **Delving into Deep Imbalanced Regression.**<br>
 *Yuzhe Yang, Kaiwen Zha, Ying-Cong Chen, Hao Wang, Dina Katabi.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09554)] [[Code and Data](https://github.com/YyzHarry/imbalanced-regression)]

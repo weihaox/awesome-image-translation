@@ -435,6 +435,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ### Video Restoration
 
+**DeFMO: Deblurring and Shape Recovery of Fast Moving Objects.**<br>
+*Denys Rozumnyi, Martin R. Oswald, Vittorio Ferrari, Jiri Matas, Marc Pollefeys.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00595)] [[Github](https://github.com/rozumden/DeFMO)]
+
 **ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring.**<br>
 *Dongxu Li, Chenchen Xu, Kaihao Zhang, Xin Yu, Yiran Zhong, Wenqi Ren, Hanna Suominen, Hongdong Li.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04260)]

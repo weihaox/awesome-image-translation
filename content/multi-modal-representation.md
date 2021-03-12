@@ -150,6 +150,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
 
 ### Unsupervised Visual Representation Learning
 
+**VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples.**<br>
+*Tian Pan, Yibing Song, Tianyu Yang, Wenhao Jiang, Wei Liu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.05905)]
+
 **VinVL: Making Visual Representations Matter in Vision-Language Models.**<br>
 *Pengchuan Zhang, Xiujun Li, Xiaowei Hu, Jianwei Yang, Lei Zhang, Lijuan Wang, Yejin Choi, Jianfeng Gao.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00529)]

@@ -422,6 +422,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
 
+**Diverse Semantic Image Synthesis via Probability Distribution Modeling.**<br> 
+*Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Bin Liu, Gang Hua, Nenghai Yu.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06878)]
+
 **Graph2Plan: Learning Floorplan Generation from Layout Graphs.**<br>
 *Ruizhen Hu, Zeyu Huang, Yuhan Tang, Oliver van Kaick, Hao Zhang, Hui Huang.*<br>
 ACM Transactions on Graphics 2020. [[PDF](https://arxiv.org/abs/2004.13204)]
@@ -675,6 +679,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 
 ## 3D-Aware Image Synthesis
 
+**DiscoFaceGAN: Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
+*Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/pdf/2004.11660.pdf)] [[Github](https://github.com/microsoft/DiscoFaceGAN)] 
+
 **Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
 *[Yichun Shi(https://seasonsh.github.io/), Divyansh Aggarwal, [Anil K. Jain](http://www.cse.msu.edu/~jain/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
@@ -713,13 +721,13 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github
 *Shitong Luo, Wei Hu.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.01458.pdf)] [[Github](https://github.com/luost26/diffusion-point-cloud)]
 
+**Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence.**<br>
+*Yu Deng, [Jiaolong Yang](https://jlyang.org/), [Xin Tong](https://www.microsoft.com/en-us/research/people/xtong/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13650)] [[Github](https://github.com/microsoft/DIF-Net)]
+
 **Learning to Infer Semantic Parameters for 3D Shape Editing.**<br>
 *Fangyin Wei, Elena Sizikova, Avneesh Sud, Szymon Rusinkiewicz, Thomas Funkhouser.*<br>
 3DV 2020. [[PDF](https://arxiv.org/abs/2011.04755)]
-
-**Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence.**<br>
-*Yu Deng, Jiaolong Yang, Xin Tong.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13650)] [[Github](https://github.com/microsoft/DIF-Net)]
 
 **3DSNet: Unsupervised Shape-to-Shape 3D Style Transfer.**<br>
 *Mattia Segu, Margarita Grinvald, Roland Siegwart, Federico Tombari.*<br>

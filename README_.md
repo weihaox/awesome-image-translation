@@ -368,6 +368,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 
 ### Segmentation or Label Map Guided
 
+**Diverse Semantic Image Synthesis via Probability Distribution Modeling.**<br> 
+*Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Bin Liu, Gang Hua, Nenghai Yu.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06878)]
+
 **World-Consistent Video-to-Video Synthesis.**<br> 
 *Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br> 
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08509)] [[Github](https://nvlabs.github.io/wc-vid2vid/)]
