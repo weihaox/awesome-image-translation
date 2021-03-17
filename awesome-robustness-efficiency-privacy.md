@@ -128,6 +128,14 @@ ICLR 2019. [[PDF](https://arxiv.org/pdf/1904.08444.pdf)] [[Poster](https://www.d
 
 Membership Inference, Federated Learning, Differential Privacy, *etc*.
 
+**Is Medical Chest X-ray Data Anonymous?**<br>
+*Kai Packhäuser, Sebastian Gündel, Nicolas Münster, Christopher Syben, Vincent Christlein, Andreas Maier.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.08562)]
+
+**DP-Image: Differential Privacy for Image Data in Feature Space.**<br>
+*Bo Liu, Ming Ding, Hanyu Xue, Tianqing Zhu, Dayong Ye, Li Song, Wanlei Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07073)]
+
 **PECAM: Privacy-Enhanced Video Streaming and Analytics via Securely-Reversible Transformation.**<br>
 *Hao Wu, Xuejin Tian, Minghao Li, Yunxin Liu, Ganesh Ananthanarayanan, Fengyuan Xu, and Sheng Zhong.*<br>
 MobiCom 2021. [[PDF](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-pecam.pdf)]
@@ -433,6 +441,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01049)]
 
 active learning, metric learning, contrastive learning, label learning, *etc*.
 
+**Permuted AdaIN: Reducing the Bias Towards Global Statistics in Image Classification.**<br>
+*Oren Nuriel, Sagie Benaim, Lior Wolf.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2010.05785)] [[Github](https://github.com/onuriel/PermutedAdaIN)]
+
 **Shape-Texture Debiased Neural Network Training.**<br> 
 *Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, Wei Shen, Alan Yuille, cihang xie.*<br> 
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=Db4yerZTYkz)]
@@ -484,10 +496,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04842)] [[Project](https://genforc
 **Positional Encoding as Spatial Inductive Bias in GANs.**<br>
 *Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
-
-**Permuted AdaIN: Reducing the Bias Towards Global Statistics in Image Classification.**<br>
-*Oren Nuriel, Sagie Benaim, Lior Wolf.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05785)] [[Github](https://github.com/onuriel/PermutedAdaIN)]
 
 **A Note on Data Biases in Generative Models.**<br>
 *[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
@@ -771,6 +779,10 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.13636)] [[Github](https://github
 NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github.com/3D-FRONT-FUTURE/IBSR-texture)]
 
 ## Domain Generalization
+
+**Uncertainty-guided Model Generalization to Unseen Domains.**<br> 
+*Fengchun Qiao, Xi Peng.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.07531)]
 
 **In Search of Lost Domain Generalization.**<br> 
 *Ishaan Gulrajani, David Lopez-Paz.*<br>

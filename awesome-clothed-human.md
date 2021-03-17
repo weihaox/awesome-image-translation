@@ -129,6 +129,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**Monocular Real-time Full Body Capture with Inter-part Correlations.**<br>
+*[Yuxiao Zhou](https://calciferzh.github.io/), [Marc Habermann](https://people.mpi-inf.mpg.de/~mhaberma/), Ikhsanul Habibie, Ayush Tewari, [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Feng Xu](http://xufeng.site/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.06087)]
+
 **SMPLicit: Topology-aware Generative Model for Clothed People.**<br>
 *Enric Corona, Albert Pumarola, Guillem Alenyà, Gerard Pons-Moll, Francesc Moreno-Noguer.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06871)]
@@ -368,6 +372,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**HumanGAN: A Generative Model of Humans Images.**<br>
+*Kripasindhu Sarkar, Lingjie Liu, Vladislav Golyanik, Christian Theobalt.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.06902.pdf)] [[Project](http://gvv.mpi-inf.mpg.de/projects/HumanGAN/)]
 
 **Disentangled Cycle Consistency for Highly-realistic Virtual Try-On.**<br>
 *Chongjian Ge, Yibing Song, Yuying Ge, Han Yang, Wei Liu, and Ping Luo.*<br>

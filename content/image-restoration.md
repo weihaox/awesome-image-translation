@@ -561,6 +561,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar.**<br>
+*Peike Li, Xin Yu, Yi Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.08863)]
+
 **AdderSR: Towards Energy Efficient Image Super-Resolution.**<br>
 *Dehua Song, Yunhe Wang, Hanting Chen, Chang Xu, Chunjing Xu, DaCheng Tao.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2009.08891)] [[PDF](https://github.com/huawei-noah/AdderNet)]

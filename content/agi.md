@@ -30,9 +30,21 @@ Feedback and contributions are welcome!
 
 This direction includes Data Efficiency, Data Bias (class-imbalanced data, long-tailed data, etc.), and AI Fairness.
 
+## Model Generalization
+
+**The Deep Bootstrap Framework: Good Online Learners are Good Offline Generalizers.**<br>
+*Preetum Nakkiran, Behnam Neyshabur, Hanie Sedghi.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2010.08127)]
+
 ## Explainable AI
 
-This direction includes GAN Inversion, etc.
+**Neuron Shapley: Discovering the Responsible Neurons.**<br>
+*Amirata Ghorbani, James Zou.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2002.09815)]
+
+**Understanding the Role of Individual Units in a Deep Neural Network.**<br>
+*David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
+National Academy of Sciences (PNAS) 2020. [[PDF](https://arxiv.org/abs/2009.05041)] [[Github](https://github.com/davidbau/dissect/)] [[Project](https://dissect.csail.mit.edu/)]
 
 **SHAP: A Unified Approach to Interpreting Model Predictions.**<br>
 *Scott M. Lundberg, Su-In Lee.*<br>

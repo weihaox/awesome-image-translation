@@ -65,6 +65,16 @@ ACM SIGGRAPH Outstanding Doctoral Dissertation Award.<br>
 David J. Sakrison Memorial Prize for outstanding doctoral research, by the UC Berkeley EECS Dept.<br>
 December, 2017. [Thesis](https://www.cs.cmu.edu/~junyanz/pdf/thesis_highres.pdf) | [Talk](https://youtu.be/MkluiD2lYCc?t=1h16m58s) | [News](https://www.siggraph.org/outstanding-doctoral-dissertation-award-jun-yan-zhu) | [Cover](https://www.cs.cmu.edu/~junyanz/pdf/thesis_cover.pdf)
 
+## Classical Method Revisiting
+
+**Revisiting ResNets: Improved Training and Scaling Strategies.**<br>
+*Irwan Bello, William Fedus, Xianzhi Du, Ekin D. Cubuk, Aravind Srinivas, Tsung-Yi Lin, Jonathon Shlens, Barret Zoph.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07579)] [[Github](https://github.com/tensorflow/models/tree/master/official/vision/beta)] [[ResNet_RS](https://github.com/tensorflow/tpu/tree/master/models/official/resnet/resnet_rs)]
+
+**RepVGG: Making VGG-style ConvNets Great Again.**<br>
+*Xiaohan Ding, Xiangyu Zhang, Ningning Ma, Jungong Han, Guiguang Ding, Jian Sun.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03697)] [[Github](https://github.com/megvii-model/RepVGG)]
+
 ## Interactive and Controllable Image Manipulation
 
 ### Highlight Component 
@@ -96,6 +106,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
 
 ### Human-Object Interaction
+
+**Detecting Human-Object Interaction via Fabricated Compositional Learning.**<br>
+*Zhi Hou, Baosheng Yu, Yu Qiao, Xiaojiang Peng, Dacheng Tao.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.08214)]
 
 **QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information.**<br>
 *Masato Tamura, Hiroki Ohashi, Tomoaki Yoshinaga.*<br>
@@ -203,9 +217,13 @@ arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://gith
 
 ### Guided Translation
 
+**PhotoApp: Photorealistic Appearance Editing of Head Portraits.**<br>
+*Mallikarjun B R, Ayush Tewari, Abdallah Dib, Tim Weyrich, Bernd Bickel, Hans-Peter Seidel, Hanspeter Pfister, Wojciech Matusik, Louis Chevallier, Mohamed Elgharib, Christian Theobalt.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07658)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PhotoApp/)]
+
 **PISE: Person Image Synthesis and Editing with Decoupled GAN.**<br>
-*Jinsong Zhang, Kun Li, Yu-Kun Lai, Jingyu Yang.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04023)] [[Github](https://github.com/Zhangjinso/PISE)]
+*[Jinsong Zhang](https://zhangjinso.github.io/), [Kun Li](http://cic.tju.edu.cn/faculty/likun/), [Yu-Kun Lai](http://users.cs.cf.ac.uk/Yukun.Lai/), [Jingyu Yang](http://tju.iirlab.org/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04023)] [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PISE/)] [[Github](https://github.com/Zhangjinso/PISE)]
 
 **MeInGame: Create a Game Character Face from a Single Portrait.**<br>
 *Jiangke Lin, Yi Yuan, Zhengxia Zou.*<br>
@@ -749,6 +767,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.04922)]
 
 #### VAE
 
+**Spatial Dependency Networks: Neural Layers for Improved Generative Image Modeling.**<br> 
+*[Đorđe Miladinović](https://djordjemila.github.io/), [Aleksandar Stanić](https://astanic.github.io/), [Stefan Bauer](https://www.is.mpg.de/~sbauer), [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/), [Joachim M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).*<br> 
+ICLR 2021. [[PDF](https://openreview.net/forum?id=I4c4K9vBNny)] [[Github](https://github.com/djordjemila/sdn)]
+
 **Capturing Label Characteristics in VAEs.**<br>  
 *Tom Joy, Sebastian Schmon, Philip Torr, Siddharth N, Tom Rainforth.*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=wQRlSUZ5V7B)]
@@ -818,6 +840,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11576)]
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyenchicheng.github.io/SegVAE/)] [[Github](https://github.com/yccyenchicheng/SegVAE)]
 
 #### Frequency
+
+**Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection.**<br>
+*Jiaming Li, Hongtao Xie, Jiahong Li, Zhongyuan Wang, Yongdong Zhang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.09096)]
+
+**Learning Frequency-aware Dynamic Network for Efficient Super-Resolution.**<br>
+*Wenbin Xie, Dehua Song, Chang Xu, Chunjing Xu, Hui Zhang, Yunhe Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.08357)]
 
 **Generating Images with Sparse Representations.**<br>
 *Charlie Nash, Jacob Menick, Sander Dieleman, Peter W. Battaglia.*<br>
@@ -1119,6 +1149,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12556)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 #### Recognition and Classification
+
+**TimeSformer: Is Space-Time Attention All You Need for Video Understanding?**<br>
+*Gedas Bertasius, Heng Wang, Lorenzo Torresani.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05095)] [[Github](https://github.com/lucidrains/TimeSformer-pytorch)]
 
 **MIST: Multiple Instance Spatial Transformer Network.**<br>
 *Baptiste Angles, Yuhe Jin, Simon Kornblith, Andrea Tagliasacchi, Kwang Moo Yi.*<br>
@@ -1900,6 +1934,10 @@ arxiv, 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 
 ### Methods
+
+**Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection.**<br>
+*Jiaming Li, Hongtao Xie, Jiahong Li, Zhongyuan Wang, Yongdong Zhang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.09096)]
 
 **Multi-attentional Deepfake Detection.**<br>
 *Hanqing Zhao, Wenbo Zhou, Dongdong Chen, Tianyi Wei, Weiming Zhang, Nenghai Yu.*<br>

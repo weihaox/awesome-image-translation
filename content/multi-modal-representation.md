@@ -168,11 +168,19 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.co
 
 ### Audio-Visual Learning
 
+**Seeking the Shape of Sound: An Adaptive Framework for Learning Voice-Face Association.**<br> 
+*Peisong Wen, Qianqian Xu, Yangbangyan Jiang, Zhiyong Yang, Yuan He, Qingming Huang.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07293)]
+
+**Audio-Driven Emotional Video Portraits.**<br> 
+*Xinya Ji, Hang Zhou, Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu.*<br> 
+CVPR, 2021. [[PDF](http://xufeng.site/publications/2021/Audio-Driven%20Emotional%20Video%20Portraits.pdf)]
+
 **Unsupervised Audiovisual Synthesis via Exemplar Autoencoders.**<br> 
 *Kangle Deng, Aayush Bansal, Deva Ramanan.*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=43VKWxg_Sqr)]
 
-**Can audio-visual integration strengthen robustness under multimodal attacks?**<br>
+**Can audio-visual Integration Strengthen robustness under multimodal attacks?**<br>
 *[Yapeng Tian](http://yapengtian.org/) and Chenliang Xu.*<br>
 CVPR, 2021. 
   

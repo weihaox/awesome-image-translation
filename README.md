@@ -45,9 +45,14 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2021
 
-**(oral) CoMoGAN: Continuous Model-guided Image-to-image Translation.**[[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://github.com/cv-rits/CoMoGAN)]<br>
-*[Fabio Pizzati](https://fabvio.github.io/), Pietro Cerri, [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
+**DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network.**[[PDF](https://arxiv.org/pdf/2103.07893.pdf)] [[GitHub](https://github.com/ruiliu-ai/DivCo)]<br> 
+*Rui Liu, Yixiao Ge, Ching Lam Choi, Xiaogang Wang, Hongsheng Li.*<br>
 
+**(oral) CoMoGAN: Continuous Model-guided Image-to-image Translation.**[[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://github.com/cv-rits/CoMoGAN)]<br>
+*[Fabio Pizzati](https://fabvio.github.io/), [Pietro Cerri](https://scholar.google.fr/citations?user=MEidJHwAAAAJ), [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
+
+**PISE: Person Image Synthesis and Editing with Decoupled GAN.**[[PDF](https://arxiv.org/abs/2103.04023)] [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PISE/)] [[Github](https://github.com/Zhangjinso/PISE)]<br>
+*[Jinsong Zhang](https://zhangjinso.github.io/), [Kun Li](http://cic.tju.edu.cn/faculty/likun/), [Yu-Kun Lai](http://users.cs.cf.ac.uk/Yukun.Lai/), [Jingyu Yang](http://tju.iirlab.org/).*<br>
 
 **ASAPNet: Spatially-Adaptive Pixelwise Networks for Fast Image Translatio.**[[PDF](https://arxiv.org/abs/2012.02992)] [[Project](https://tamarott.github.io/ASAPNet_web/)]. <br>
 *[Tamar Rott Shaham](https://tamarott.github.io/), [Michael Gharbi](http://www.mgharbi.com/), Richard Zhang, Eli Shechtman, Tomer Michaeli.*<br>
@@ -154,8 +159,8 @@ WACV 2021. [[PDF](https://openaccess.thecvf.com/content/WACV2021/html/Lin_Attent
 **Informative Sample Mining Network for Multi-Domain Image-to-Image Translation.**[[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640392.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640392-supp.pdf)]<br>
 *Jie Cao, Huaibo Huang, Yi Li, Ran He, Zhenan Sun.*<br> 
 
-**Neural Wireframe Renderer: Learning Wireframe to Image Translations.**[[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710273.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710273-supp.pdf)]<br>
-*Yuan Xue, Zihan Zhou, Xiaolei Huang.*<br> 
+**Neural Wireframe Renderer: Learning Wireframe to Image Translations.**[[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710273.pdf)] [[Github](https://github.com/YuanXue1993/WireframeRenderer)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710273-supp.pdf)]<br>
+*Yuan Xue, [Zihan Zhou](http://faculty.ist.psu.edu/zzhou/Home.html), Xiaolei Huang.*<br> 
 
 **ForkGAN: Seeing into the Rainy Night.**[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf)]
 *Ziqiang Zheng, Yang Wu, Xinran Han, Jianbo Shi.*<br> 
