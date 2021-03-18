@@ -54,10 +54,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **PISE: Person Image Synthesis and Editing with Decoupled GAN.**[[PDF](https://arxiv.org/abs/2103.04023)] [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PISE/)] [[Github](https://github.com/Zhangjinso/PISE)]<br>
 *[Jinsong Zhang](https://zhangjinso.github.io/), [Kun Li](http://cic.tju.edu.cn/faculty/likun/), [Yu-Kun Lai](http://users.cs.cf.ac.uk/Yukun.Lai/), [Jingyu Yang](http://tju.iirlab.org/).*<br>
 
-**ASAPNet: Spatially-Adaptive Pixelwise Networks for Fast Image Translatio.**[[PDF](https://arxiv.org/abs/2012.02992)] [[Project](https://tamarott.github.io/ASAPNet_web/)]. <br>
+**ASAPNet: Spatially-Adaptive Pixelwise Networks for Fast Image Translation.**[[PDF](https://arxiv.org/abs/2012.02992)] [[Project](https://tamarott.github.io/ASAPNet_web/)]<br>
 *[Tamar Rott Shaham](https://tamarott.github.io/), [Michael Gharbi](http://www.mgharbi.com/), Richard Zhang, Eli Shechtman, Tomer Michaeli.*<br>
 
-**Image-to-image Translation via Hierarchical Style Disentanglement.**[[PDF](https://arxiv.org/abs/2103.01456)] [[Github](https://github.com/imlixinyang/HiSD)]. <br>
+**Image-to-image Translation via Hierarchical Style Disentanglement.**[[PDF](https://arxiv.org/abs/2103.01456)] [[Github](https://github.com/imlixinyang/HiSD)]<br>
 *Xinyang Li, Shengchuan Zhang, Jie Hu, Liujuan Cao, Xiaopeng Hong, Xudong Mao, Feiyue Huang, Yongjian Wu, Rongrong Ji.*<br>
 
 **Teachers Do More Than Teach: Compressing Image-to-Image Models.**[[PDF](https://arxiv.org/abs/2103.03467)]<br>

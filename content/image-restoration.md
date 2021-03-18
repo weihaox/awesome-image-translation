@@ -562,7 +562,7 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 ### Image Restoration
 
 **Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar.**<br>
-*Peike Li, Xin Yu, Yi Yang.*<br>
+*[Peike Li](https://peikeli.com/), Xin Yu, [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.08863)]
 
 **AdderSR: Towards Energy Efficient Image Super-Resolution.**<br>
@@ -642,7 +642,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10997)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08987)]
 
 **Hyperspectral Image Super-Resolution with Spectral Mixup and Heterogeneous Datasets.**<br>
-*Ke Li, Dengxin Dai, Ender Konukoglu, Luc Van Gool.*<br>
+*[Ke Li](https://ee.ethz.ch/the-department/people-a-z/person-detail.MjIxMzEy.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html), Dengxin Dai, Ender Konukoglu, Luc Van Gool.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.07589)]
 
 **Collaboration among Image and Object Level Features for Image Colourisation.**<br>
