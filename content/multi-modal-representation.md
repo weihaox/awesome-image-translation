@@ -86,6 +86,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.10915)]
 
 [a collection of Image-Text Matching (Visual-Semantic/Lingustic Embedding)](https://blog.csdn.net/weixin_42/article/details/104275300)
 
+**Learning Multimodal Affinities for Textual Editing in Images.**<br>
+*Or Perel, Oron Anschel, Omri Ben-Eliezer, Shai Mazor, Hadar Averbuch-Elor.*<br>
+SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2103.10139)]
+
 **Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.**<br>
 *Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05918)] [[Github]()]

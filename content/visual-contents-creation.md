@@ -1007,6 +1007,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1904.00284)] [[Project](https://hubert05
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
 
+**Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks.**<br>
+*[Despoina Paschalidou](https://paschalidoud.github.io/), [Angelos Katharopoulos](https://angeloskath.github.io/), [Andreas Geiger](http://cvlibs.net/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.10429.pdf)] [[Github](https://github.com/paschalidoud/neural_parts)] [[Project](https://paschalidoud.github.io/neural_parts)]
+
 **iFlowGAN: An Invertible Flow-based Generative Adversarial Network For Unsupervised Image-to-Image Translation.**<br>
 *Longquan Dai, Jinhui Tang.*<br>
 TPAMI 2021. [[PDF](https://www.computer.org/csdl/journal/tp/5555/01/09367012/1rDQXw8mKnC)]
@@ -1423,6 +1427,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 #### Multi-modality
+
+**DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer.**<br>
+*Buyu Li, Yongchi Zhao, Lu Sheng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10206)] 
 
 **Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer.**<br>
 *[Ronghang Hu](https://ronghanghu.com/), Amanpreet Singh.*<br>

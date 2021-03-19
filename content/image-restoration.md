@@ -561,6 +561,14 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE.**<br>
+*Jialun Peng, Dong Liu, Songcen Xu, Houqiang Li.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.10022)]
+
+**Large Scale Image Completion via Co-Modulated Generative Adversarial Networks.**<br>
+*Shengyu Zhao, Jonathan Cui, Yilun Sheng, Yue Dong, Xiao Liang, Eric I Chang, Yan Xu.*<br>
+ICLR 2021 (Spotlight). [[PDF](https://arxiv.org/abs/2103.10428)] [[Github](https://github.com/zsyzzsoft/co-mod-gan)] [[Project](https://comodgan.ml/)]
+
 **Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar.**<br>
 *[Peike Li](https://peikeli.com/), Xin Yu, [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.08863)]

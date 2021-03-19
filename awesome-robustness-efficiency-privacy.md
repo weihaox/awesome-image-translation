@@ -525,6 +525,10 @@ CVPR 2011. [[PDF](https://people.csail.mit.edu/torralba/publications/datasets_cv
 
 Memorization is the tendency to memorize the labels of the training data.
 
+**The Low-Rank Simplicity Bias in Deep Networks.**<br>
+*[Minyoung Huh](http://minyounghuh.com/), Hossein Mobahi, Richard Zhang, Brian Cheung, Pulkit Agrawal, Phillip Isola.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10427)] [[Github](https://github.com/minyoungg/overparam)] [[Project](https://minyoungg.github.io/overparam/)]
+
 **What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation.**<br>
 *Vitaly Feldman, Chiyuan Zhang.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2008.03703)] [[Github](https://github.com/google-research/heldout-influence-estimation)] [[Project](https://pluskid.github.io/influence-memorization/)]
