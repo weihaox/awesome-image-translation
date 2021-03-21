@@ -589,6 +589,10 @@ ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.co
 
 ## Open-World and Out-of-Distribution Dataset
 
+**OWOD: Towards Open World Object Detection.**<br> 
+*K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian.*<br> 
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.02603)] [[Github](https://github.com/JosephKJ/OWOD)]
+
 **Understanding the failure modes of out-of-distribution generalization.**<br>  
 *Vaishnavh Nagarajan, Anders Andreassen, Behnam Neyshabur.*<br> 
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=fSTD6NFIW_b)]

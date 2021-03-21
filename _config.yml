@@ -8,11 +8,12 @@ relative_links:
 include:
   - README.md
   - README_.md
-  - awesome-gan-inversion.md
+  - awesome-clothed-human.md
+  - awesome-robustness-efficiency-privacy.md
   - content/agi.md
   - content/cv-lab.md
   - content/dataset.md
-  - content/image-generation.md
+  - content/over-domain-gap.md
   - content/image-restoration.md
-  - content/data-efficiency.md
+  - content/visual-contents-creation.md
   - content/multi-modal-representation.md

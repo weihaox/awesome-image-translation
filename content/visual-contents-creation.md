@@ -143,6 +143,10 @@ SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https:/
 *Jiyang Yu, Ravi Ramamoorthi, Keli Cheng, Michel Sarkis, Ning Bi.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2009.02007)]
 
+**NeRViS: Neural Re-rendering for Full-frame Video Stabilization.**<br>
+*[Yu-Lun Liu](https://www.cmlab.csie.ntu.edu.tw/~nothinglo/), [Wei-Sheng Lai](https://www.wslai.net/), [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06205)] [[Github](https://alex04072000.github.io/NeRViS/)]
+
 ### Rearrange and Retiming
 
 **Layered Neural Rendering for Retiming People in Video.**<br>
@@ -881,7 +885,7 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.00653)] [[Github](https://github
 
 **Learning Latent Representations Across Multiple Data Domains Using Lifelong VAEGAN.**<br> 
 *Fei Ye, Adrian G. Bors.*<br> 
-[[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650766.pdf)]
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650766.pdf)]
 
 **NVAE: A Deep Hierarchical Variational Autoencoder.**<br>
 *[Arash Vahdat](http://latentspace.cc/arash_vahdat/), [Jan Kautz](http://jankautz.com/).*<br>
@@ -890,6 +894,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03898)] [[Github](https://github.c
 **NestedVAE: Isolating Common Factors via Weak Supervision.**<br>
 *Matthew J. Vowels, Necati Cihan Camgoz, Richard Bowden.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2002.11576)]
+
+**ALAE: Adversarial Latent Autoencoders.**<br>
+*[Stanislav Pidhorskyi](https://podgorskiy.com/), Donald A. Adjeroh, Gianfranco Doretto.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04467)] [[Github](https://github.com/podgorskiy/ALAE)]
 
 **Controllable Image Synthesis via SegVAE.**<br>
 *Yen-Chi Cheng, Hsin-Ying Lee, Min Sun, Ming-Hsuan Yang.*<br>
@@ -1918,10 +1926,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2005.02671)] [[Github](https://github.c
 **Panoptic-based Image Synthesis.**<br>
 *Aysegul Dundar, Karan Sapra, Guilin Liu, Andrew Tao, Bryan Catanzaro.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.10289)]
-
-**ALAE: Adversarial Latent Autoencoders.**<br>
-*[Stanislav Pidhorskyi](https://podgorskiy.com/), Donald A. Adjeroh, Gianfranco Doretto.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04467)] [[Github](https://github.com/podgorskiy/ALAE)]
 
 **LAG: Creating High Resolution Images with a Latent Adversarial Generator.**<br>
 *David Berthelot, Peyman Milanfar, Ian Goodfellow.*<br>
