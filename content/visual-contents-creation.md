@@ -185,6 +185,14 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://githu
 
 ### Change Where You Want
 
+**Paint by Word.**<br>
+*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
+
+**Using Latent Space Regression to Analyze and Leverage Compositionality in GANs.**<br> 
+*Lucy Chai, Jonas Wulff, Phillip Isola.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)]
+
 **DeFLOCNet: Deep Image Editing via Flexible Low-level Controls.**<br>
 *Hongyu Liu, Ziyu Wan, Wei Huang, Yibing Song, Xintong Han, Jing Liao, Bin Jiang, and Wei Liu.*<br>
 CVPR 2021. [[PDF]()]
@@ -292,6 +300,10 @@ Computer Graphics Forum 2020. [[PDF](https://diglib.eg.org/handle/10.1111/cgf139
 **MoGlow: Probabilistic and Controllable Motion Synthesis Using Normalising Flows.**<br>
 *Gustav Eje Henter, Simon Alexanderson, Jonas Beskow.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/1905.06598)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
+
+**Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization.**<br>
+*Zhe Chen, Wenhai Wang, Enze Xie, Tong Lu, Ping Luo.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11784)]
 
 **Domain-Specific Mappings for Generative Adversarial Style Transfers.**<br>
 *Hsin-Yu Chang, Zhixiang Wang, Yung-Yu Chuangs.*<br>
@@ -496,6 +508,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
 
+**Progressive and Aligned Pose Attention Transfer for Person Image Generation.**<br> 
+*Zhen Zhu, Tengteng Huang, Mengde Xu, Baoguang Shi, Wenqing Cheng, Xiang Bai.*<br> 
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.11622)]
+
+**Progressive Pose Attention Transfer for Person Image Generation.**<br> 
+*Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai.*<br> 
+CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1904.03349)] [[Github](https://github.com/tengteng95/Pose-Transfer.git)]
+
 **Diverse Semantic Image Synthesis via Probability Distribution Modeling.**<br> 
 *Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Bin Liu, Gang Hua, Nenghai Yu.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06878)]
@@ -530,6 +550,10 @@ CVPR 2020. [[PDF](http://cseweb.ucsd.edu/~mkchandraker/pdf/cvpr20_peekaboo.pdf)]
 **Self-Supervised Scene De-occlusion.**<br>
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), [Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Github](https://github.com/XiaohangZhan/deocclusion/)]
+
+**Human De-occlusion: Invisible Perception and Recovery for Humans.**<br>
+*[Qiang Zhou](https://scholar.google.com/citations?user=8NIZGJcAAAAJ&hl=en), Shiyin Wang, [Yitong Wang](https://scholar.google.com/citations?user=NfFTKfYAAAAJ&hl=en), [Zilong Huang](https://speedinghzl.github.io/), [Xinggang Wang](http://xinggangw.info/).*<br>
+CVPR 2021. [[PDF](https://sydney0zq.github.io/ahp/files/human_deocclusion-cvpr2021.pdf)] [[Github](https://sydney0zq.github.io/ahp/)]
 
 **Efficient Non-Line-of-Sight Imaging from Transient Sinograms.**<br>
 *Mariko Isogawa, Dorian Chan, Ye Yuan, Kris Kitani, Matthew O'Toole.*<br>
@@ -1222,6 +1246,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 #### Recognition and Classification
 
+**DeepViT: Towards Deeper Vision Transformer.**<br>
+*Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Qibin Hou, Jiashi Fengv.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11886)]
+
+**ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases.**<br>
+*Stéphane d'Ascoli, Hugo Touvron, Matthew Leavitt, Ari Morcos, Giulio Biroli, Levent Sagun.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10697)]
+
 **TimeSformer: Is Space-Time Attention All You Need for Video Understanding?**<br>
 *Gedas Bertasius, Heng Wang, Lorenzo Torresani.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05095)] [[Github](https://github.com/lucidrains/TimeSformer-pytorch)]
@@ -1259,6 +1291,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 #### Tracking, Detection and Segmentation
+
+**Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking.**<br>
+*Ning Wang, Wengang Zhou, Jie Wang, Houqaing Li.*<br>
+CVPR 2021 (Oral). [[PDF](https://arxiv.org/abs/2103.11681)]
 
 **End-to-End Human Object Interaction Detection with HOI Transformer.**<br>
 *Cheng Zou, Bohan Wang, Yue Hu, Junqi Liu, Qian Wu, Yu Zhao, Boxun Li, Chenguang Zhang, Chi Zhang, Yichen Wei, Jian Sun.*<br>
@@ -1484,6 +1520,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github
 ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf)]
 
 #### Misc
+
+**Multimodal Motion Prediction with Stacked Transformers.**<br>
+*Yicheng Liu, Jinghuai Zhang, Liangji Fang, Qinhong Jiang, Bolei Zhou.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.11624)]
 
 **UPDeT: Universal Multi-agent RL via Policy Decoupling with Transformers.**<br>
 *Siyi Hu, Fengda Zhu, Xiaojun Chang, Xiaodan Liang.*<br>

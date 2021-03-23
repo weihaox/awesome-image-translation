@@ -666,6 +666,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1908.06616)]
 
 ### Layout or Structure Guided
 
+**Context-Aware Layout to Image Generation with Enhanced Object Appearance.**<br>
+*Sen He, Wentong Liao, Michael Ying Yang, Yongxin Yang, Yi-Zhe Song, Bodo Rosenhahn, Tao Xiang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.11897)]
+
 **Structural-analogy from a Single Image Pair.**<br>
 *Sagie Benaim, Ron Mokady, Amit Bermano, Daniel Cohen-Or, Lior Wolf.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02222)]

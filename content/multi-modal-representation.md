@@ -90,7 +90,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.10915)]
 *Or Perel, Oron Anschel, Omri Ben-Eliezer, Shai Mazor, Hadar Averbuch-Elor.*<br>
 SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2103.10139)]
 
-**Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.**<br>
+**ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.**<br>
 *Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05918)] [[Github]()]
 
@@ -488,6 +488,14 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)] 
 
 ### Text-to-Image
+
+**Paint by Word.**<br>
+*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
+
+**ClawCraneNet: Leveraging Object-level Relation for Text-based Video Segmentation.**<br>
+*Chen Liang, Yu Wu, Yawei Luo, Yi Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10702)]
 
 **DALL-E: Zero-Shot Text-to-Image Generation.**<br>
 *Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever.*<br>

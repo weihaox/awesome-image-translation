@@ -39,13 +39,13 @@ ECCV 2020 Workshop. [[Homepage])(https://sites.google.com/view/ipcv2020/home)]
 
 ### Fairness
 
-**FairBatch: Batch Selection for Model Fairness.**<br>  
+**Fair Mixup: Fairness via Interpolation.**<br> 
+*Ching-Yao Chuang, Youssef Mroueh.*<br> 
+ICLR 2021. [[PDF](https://arxiv.org/pdf/2103.06503.pdf)] [[Github](https://github.com/chingyaoc/fair-mixup)]
+
+**FairBatch: Batch Selection for Model Fairness.**<br> 
 *Yuji Roh, Kangwook Lee, Steven Euijong Whang, Changho Suh.*<br> 
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=YNnpaAKeCfx)]
-
-**Fair Mixup: Fairness via Interpolation.**<br> 
-*Ching-Yao Chuang, Youssef Mroueh.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=DNl5s5BXeBn)]
 
 **Fair Attribute Classification through Latent Space De-biasing.**<br>
 *Vikram V. Ramaswamy, Sunnie S. Y. Kim, Olga Russakovsky.*<br>
@@ -861,6 +861,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
+
+**Dynamic Transfer for Multi-Source Domain Adaptation.**<br>
+*Yunsheng Li, Lu Yuan, Yinpeng Chen, Pei Wang, Nuno Vasconcelos.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.10583)]
 
 **MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation.**<br>
 *Xiaoqing Guo, Chen Yang, Baopu Li, Yixuan Yuan.*<br>

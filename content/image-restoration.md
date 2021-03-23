@@ -561,6 +561,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Degrade is Upgrade: Learning Degradation for Low-light Image Enhancement.**<br>
+*Kui Jiang, Zhongyuan Wang, Zheng Wang, Peng Yi, Xiao Wang, Yansheng Qiu, Chen Chen, Chia-Wen Lin.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10621)]
+
 **Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE.**<br>
 *Jialun Peng, Dong Liu, Songcen Xu, Houqiang Li.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.10022)]
