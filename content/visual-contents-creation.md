@@ -13,13 +13,6 @@ This repository is about *controllable, interpretable, and generalizable visual 
   * [Guided Translation](#guided-translation)
   * [Individual Object Manipulation](#individual-object-manipulation)
   * [Generating Accurate Descriptions](#generating-accurate-descriptions)
-  * [Attribute Editing](#attribute-editing)
-  * [Guided Image-to-image translation](#guided-image-to-image-translation)
-  * [Image-Based Virtual Try-On](#image-based-virtual-try-on)
-  * [Texture and Surface Mapping](#texture-and-surface-mapping)
-  * [Novel-View Synthesis](#novel-view-synthesis)
-  * [Motion Transfer, Retargeting, Reenactment, Dubbing and Animation](#motion-transfer--retargeting--reenactment--dubbing-and-animation)
-  * [3D Pose Transfer](#3d-pose-transfer)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
   * [Video Generation and Future Prediction](#video-generation-and-future-prediction)
@@ -32,7 +25,6 @@ This repository is about *controllable, interpretable, and generalizable visual 
   * [StyleGAN-Based Method](#stylegan-based-method)
   * [Transformer-Based Method](#transformer-based)
   * [misc](#misc)
-- [DeepFake and Forensic](#deepfake-and-forensic)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
 - [Free-Hand Sketch](#free-hand-sketch)
   * [2D Sketch to 3D Model](#2d-sketch-to-3d-model)
@@ -66,6 +58,14 @@ David J. Sakrison Memorial Prize for outstanding doctoral research, by the UC Be
 December, 2017. [Thesis](https://www.cs.cmu.edu/~junyanz/pdf/thesis_highres.pdf) | [Talk](https://youtu.be/MkluiD2lYCc?t=1h16m58s) | [News](https://www.siggraph.org/outstanding-doctoral-dissertation-award-jun-yan-zhu) | [Cover](https://www.cs.cmu.edu/~junyanz/pdf/thesis_cover.pdf)
 
 ## Classical Method Revisiting
+
+**Involution: Inverting the Inherence of Convolution for Visual Recognition.**<br>
+*Duo Li, Jie Hu, Changhu Wang, Xiangtai Li, Qi She, Lei Zhu, Tong Zhang, Qifeng Chen.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06255)] [[Github](https://github.com/d-li14/involution)]
+
+**Characterizing Signal Propagation to Close the Performance Gap in Unnormalized ResNets.**<br>
+*Andrew Brock, Soham De, and Samuel L. Smith.*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2102.06171)] [[Github](https://github.com/deepmind/deepmind-research/tree/master/nfnets)]
 
 **Revisiting ResNets: Improved Training and Scaling Strategies.**<br>
 *Irwan Bello, William Fedus, Xianzhi Du, Ekin D. Cubuk, Aravind Srinivas, Tsung-Yi Lin, Jonathon Shlens, Barret Zoph.*<br>
@@ -183,6 +183,20 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02758)]
 *[Yong-Lu Li](https://dirtyharrylyl.github.io/), Xinpeng Liu, Xiaoqian Wu, Yizhuo Li, [Cewu Lu](http://mvig.sjtu.edu.cn/).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://github.com/DirtyHarryLYL/HAKE-Action-Torch)] [[Github](http://github.com/DirtyHarryLYL/HAKE-Action-Torch/tree/IDN-(Integrating-Decomposing-Network))]
 
+### Continuous Image Representation
+
+**LIIF: Learning Continuous Image Representation with Local Implicit Image Function.**<br>
+*Yinbo Chen, Sifei Liu, Xiaolong Wang.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.09161)] [[Github](https://github.com/yinboc/liif)] [[Project](https://yinboc.github.io/liif/)]
+
+**INR: Adversarial Generation of Continuous Images.**<br>
+*Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.com/universome/inr-gan)]
+
+**CoMoGAN: Continuous Model-guided Image-to-image Translation.**<br>
+*[Fabio Pizzati](https://fabvio.github.io/), [Pietro Cerri](https://scholar.google.fr/citations?user=MEidJHwAAAAJ), [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://github.com/cv-rits/CoMoGAN)]
+
 ### Change Where You Want
 
 **Paint by Word.**<br>
@@ -195,7 +209,7 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)]
 
 **DeFLOCNet: Deep Image Editing via Flexible Low-level Controls.**<br>
 *Hongyu Liu, Ziyu Wan, Wei Huang, Yibing Song, Xintong Han, Jing Liao, Bin Jiang, and Wei Liu.*<br>
-CVPR 2021. [[PDF]()]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.12723)] [[Github](https://github.com/KumapowerLIU/DeFLOCNet)]
 
 **ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows.**<br>
 *Jie An, [Siyu Huang](https://siyuhuang.github.io/), Yibing Song, Dejing Dou, Wei Liu, and Jiebo Luo.*<br>
@@ -269,6 +283,30 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.14615)]
 *Faeze Brahman, Alexandru Petrusca, Snigdha Chaturvedi.*<br>
 AACL 2020. [[PDF](https://arxiv.org/abs/2010.09935)]
 
+**FaceController: Controllable Attribute Editing for Face in the Wild.**<br>
+*Zhiliang Xu, Xiyu Yu, Zhibin Hong, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.11464)]
+
+**MorphNet: One-Shot Face Synthesis GAN for Detecting Recognition Bias.**<br>
+*Nataniel Ruiz, Barry-John Theobald, Anurag Ranjan, Ahmed Hussein Abdelaziz, Nicholas Apostoloff.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05225)]
+
+**Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
+*Yichun Shi, Divyansh Aggarwal, Anil K. Jain.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
+
+**Legacy Photo Editing with Learned Noise Prior.**<br>
+*Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Kangcheng Liu, Yujia Zhang, Wing-Yin Yu, Pengfei Xian, Jingjing Xiong.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.11309)] [[Github](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior)]
+
+**Disentangling Latent Space for Unsupervised Semantic Face Editing.**<br>
+*Kanglin Liu, Gaofeng Cao, Fei Zhou, Bozhi Liu, Jiang Duan, Guoping Qiu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02638)] [[Github](https://github.com/max-liu-112/STGAN-WO)]
+
+**Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
+*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
+
 ### Disentanglement
 
 **CS-DisMo: Rethinking Content and Style - Exploring Bias for Unsupervised Disentanglement.**<br>
@@ -280,6 +318,12 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10544)] [[Github](https://github.c
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://github.com/xrenaa/DisCo)]<br>
 
 ### Guided Translation
+
+Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
+
+**Progressive and Aligned Pose Attention Transfer for Person Image Generation.**<br> 
+*Zhen Zhu, Tengteng Huang, Mengde Xu, Baoguang Shi, Wenqing Cheng, Xiang Bai.*<br> 
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.11622)]
 
 **PhotoApp: Photorealistic Appearance Editing of Head Portraits.**<br>
 *Mallikarjun B R, Ayush Tewari, Abdallah Dib, Tim Weyrich, Bernd Bickel, Hans-Peter Seidel, Hanspeter Pfister, Wojciech Matusik, Louis Chevallier, Mohamed Elgharib, Christian Theobalt.*<br>
@@ -409,6 +453,19 @@ TOG 2020 (SIGGRAPH 2020) [[PDF](https://ondrejtexler.github.io/res/Texler20-SIG_
 *Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
 
+
+**Progressive Pose Attention Transfer for Person Image Generation.**<br> 
+*Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai.*<br> 
+CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1904.03349)] [[Github](https://github.com/tengteng95/Pose-Transfer.git)]
+
+**Diverse Semantic Image Synthesis via Probability Distribution Modeling.**<br> 
+*Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Bin Liu, Gang Hua, Nenghai Yu.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06878)]
+
+**Graph2Plan: Learning Floorplan Generation from Layout Graphs.**<br>
+*Ruizhen Hu, Zeyu Huang, Yuhan Tang, Oliver van Kaick, Hao Zhang, Hui Huang.*<br>
+ACM Transactions on Graphics 2020. [[PDF](https://arxiv.org/abs/2004.13204)]
+
 ### Individual Object Manipulation
 
 **Neural Scene Graphs for Dynamic Scenes.**<br>
@@ -477,68 +534,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.
 *Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
 
-### Attribute Editing
-part of the *Attribute Editing and Makeup Transfer* can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#attribute-editing).
-
-**FaceController: Controllable Attribute Editing for Face in the Wild.**<br>
-*Zhiliang Xu, Xiyu Yu, Zhibin Hong, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2102.11464)]
-
-**MorphNet: One-Shot Face Synthesis GAN for Detecting Recognition Bias.**<br>
-*Nataniel Ruiz, Barry-John Theobald, Anurag Ranjan, Ahmed Hussein Abdelaziz, Nicholas Apostoloff.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05225)]
-
-**Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
-*Yichun Shi, Divyansh Aggarwal, Anil K. Jain.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
-
-**Legacy Photo Editing with Learned Noise Prior.**<br>
-*Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Kangcheng Liu, Yujia Zhang, Wing-Yin Yu, Pengfei Xian, Jingjing Xiong.*<br>
-WACV 2021. [[PDF](https://arxiv.org/abs/2011.11309)] [[Github](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior)]
-
-**Disentangling Latent Space for Unsupervised Semantic Face Editing.**<br>
-*Kanglin Liu, Gaofeng Cao, Fei Zhou, Bozhi Liu, Jiang Duan, Guoping Qiu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02638)] [[Github](https://github.com/max-liu-112/STGAN-WO)]
-
-**Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
-*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
-
-### Guided Image-to-image translation
-
-Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
-
-**Progressive and Aligned Pose Attention Transfer for Person Image Generation.**<br> 
-*Zhen Zhu, Tengteng Huang, Mengde Xu, Baoguang Shi, Wenqing Cheng, Xiang Bai.*<br> 
-TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.11622)]
-
-**Progressive Pose Attention Transfer for Person Image Generation.**<br> 
-*Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai.*<br> 
-CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1904.03349)] [[Github](https://github.com/tengteng95/Pose-Transfer.git)]
-
-**Diverse Semantic Image Synthesis via Probability Distribution Modeling.**<br> 
-*Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Bin Liu, Gang Hua, Nenghai Yu.*<br> 
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06878)]
-
-**Graph2Plan: Learning Floorplan Generation from Layout Graphs.**<br>
-*Ruizhen Hu, Zeyu Huang, Yuhan Tang, Oliver van Kaick, Hao Zhang, Hui Huang.*<br>
-ACM Transactions on Graphics 2020. [[PDF](https://arxiv.org/abs/2004.13204)]
-
-### Image-Based Virtual Try-On
-*Image-Based Virtual Try-On* can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/clothed-human.md#image-based-virtual-try-on).
-
-### Texture and Surface Mapping
-*Texture and Surface Mapping* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#texture-and-surface-mapping).
-
-### Novel-View Synthesis
-*Novel-View Synthesis* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#novel-view-synthesis).
-
-### Motion Transfer, Retargeting, Reenactment, Dubbing and Animation
-*Motion Transfer, Retargeting, Reenactment, Dubbing and Animation* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#motion-transfer--retargeting--reenactment--dubbing-and-animation).
-
-### 3D Pose Transfer
-*3D Pose Transfer* can be found [here](https://github.com/xiaweihao/awesome-neural-rendering/blob/master/README.md#attribute-editing).
-
 ## Prediction and Reasoning 
 
 ### Occlusion Reasoning
@@ -566,6 +561,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 [[Video Generation SOTA](https://paperswithcode.com/task/video-generation)]
 
 Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/multi-modal-representation.md#image-to-video).
+
+**Playable Video Generation.**<br>
+*Willi Menapace, Stéphane Lathuilière, Sergey Tulyakov, Aliaksandr Siarohin, Elisa Ricci.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2101.12195)] [[Github](https://github.com/willi-menapace/PlayableVideoGeneration)]
 
 **The Invertible U-Net for Optical-Flow-free Video Interframe Generation.**<br>
 *Saem Park, Donghun Han, Nojun Kwak.*<br>
@@ -598,10 +597,6 @@ SIGGRAPH 2020. [[PDF](https://arxiv.org/abs/2102.04942)]
 **Controllable and Progressive Image Extrapolation.**<br>
 *Yijun Li, Lu Jiang, Ming-Hsuan Yang.*<br>
 WACV 2021. [[PDF](https://openaccess.thecvf.com/content/WACV2021/html/Li_Controllable_and_Progressive_Image_Extrapolation_WACV_2021_paper.html)]
-
-**Playable Video Generation.**<br>
-*Willi Menapace, Stéphane Lathuilière, Sergey Tulyakov, Aliaksandr Siarohin, Elisa Ricci.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.12195)] [[Github](https://github.com/willi-menapace/PlayableVideoGeneration)]
 
 **Learning to Anticipate Egocentric Actions by Imagination.**<br>
 *Yu Wu, Linchao Zhu, Xiaohan Wang, Yi Yang, Fei Wu.*<br>
@@ -1204,355 +1199,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 *Kasperi Palkama, Lauri Juvela, Alexander Ilin.*<br>
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
-### Transformer-Based
-
-#### Improvement
-
-##### Long-Range
-
-**LambdaNetworks: Modeling Long-Range Interactions Without Attention.**<br>
-*Irwan Bello.*<br>
-ICLR 2021. [[PDF](https://arxiv.org/abs/2102.08602)]
-
-**Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention.**<br>
-*Yunyang Xiong, Zhanpeng Zeng, Rudrasis Chakraborty, Mingxing Tan, Glenn Fung, Yin Li, Vikas Singh.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2102.03902v1)] [[Github](https://github.com/mlpen/Nystromformer)]
-
-##### Postion Encoding
-
-**Do We Really Need Explicit Position Encodings for Vision Transformers?**<br>
-*Xiangxiang Chu, Bo Zhang, Zhi Tian, Xiaolin Wei, Huaxia Xia.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10882)]
-
-##### Accelerate
-
-**Transformer in Transformer.**<br>
-*Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00112)] [[Github](https://github.com/huawei-noah/noah-research/tree/master/TNT)]
-
-**Optimizing Inference Performance of Transformers on CPUs.**<br>
-*Dave Dice, Alex Kogan.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06621)]
-
-#### Survey
-
-**A Survey on Visual Transformer.**<br>
-*Kai Han, Yunhe Wang, Hanting Chen, Xinghao Chen, Jianyuan Guo, Zhenhua Liu, Yehui Tang, An Xiao, Chunjing Xu, Yixing Xu, Zhaohui Yang, Yiman Zhang, Dacheng Tao.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12556)]
-
-**Transformers in Vision: A Survey.**<br>
-*Salman Khan, Muzammal Naseer, Munawar Hayat, Syed Waqas Zamir, Fahad Shahbaz Khan, Mubarak Shah.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
-
-#### Recognition and Classification
-
-**DeepViT: Towards Deeper Vision Transformer.**<br>
-*Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Qibin Hou, Jiashi Fengv.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11886)]
-
-**ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases.**<br>
-*Stéphane d'Ascoli, Hugo Touvron, Matthew Leavitt, Ari Morcos, Giulio Biroli, Levent Sagun.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10697)]
-
-**TimeSformer: Is Space-Time Attention All You Need for Video Understanding?**<br>
-*Gedas Bertasius, Heng Wang, Lorenzo Torresani.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05095)] [[Github](https://github.com/lucidrains/TimeSformer-pytorch)]
-
-**MIST: Multiple Instance Spatial Transformer Network.**<br>
-*Baptiste Angles, Yuhe Jin, Simon Kornblith, Andrea Tagliasacchi, Kwang Moo Yi.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/1811.10725)]
-
-**OmniNet: Omnidirectional Representations from Transformers.**<br>
-*Yi Tay, Mostafa Dehghani, Vamsi Aribandi, Jai Gupta, Philip Pham, Zhen Qin, Dara Bahri, Da-Cheng Juan, Donald Metzler.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.01075.pdf)]
-
-**Relaxed Transformer Decoders for Direct Action Proposal Generation.**<br>
-*Jing Tan, Jiaqi Tang, Limin Wang, Gangshan Wu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01894)]
-
-**Video Transformer Network.**<br>
-*Daniel Neimark, Omri Bar, Maya Zohar, Dotan Asselmann.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.00719)
-
-**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet.**<br>
-*Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Francis EH Tay, Jiashi Feng, Shuicheng Yan.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11986)] [[Github](https://github.com/yitu-opensource/T2T-ViT)]
-
-**Vision Transformer-An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.**<br>
-*Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby.*<br>
-ICLR 2021. [[PDF](https://arxiv.org/abs/2010.11929)] [[Official](https://github.com/google-research/vision_transformer)] [[Github](https://github.com/lukemelas/PyTorch-Pretrained-ViT)] [[Github](https://github.com/lucidrains/vit-pytorch)] [[Github](https://github.com/gupta-abhay/ViT)] [[Code Collection](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers)]
-
-**Temporal-Relational CrossTransformers for Few-Shot Action Recognition.**<br>
-*Toby Perrett, Alessandro Masullo, Tilo Burghardt, Majid Mirmehdi, Dima Damen.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
-
-**Bottleneck Transformers for Visual Recognition.**<br>
-*Aravind Srinivas, Tsung-Yi Lin, Niki Parmar, Jonathon Shlens, Pieter Abbeel, Ashish Vaswani.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
-
-#### Tracking, Detection and Segmentation
-
-**Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking.**<br>
-*Ning Wang, Wengang Zhou, Jie Wang, Houqaing Li.*<br>
-CVPR 2021 (Oral). [[PDF](https://arxiv.org/abs/2103.11681)]
-
-**End-to-End Human Object Interaction Detection with HOI Transformer.**<br>
-*Cheng Zou, Bohan Wang, Yue Hu, Junqi Liu, Qian Wu, Yu Zhao, Boxun Li, Chenguang Zhang, Chi Zhang, Yichen Wei, Jian Sun.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04503v1)] [[Github](https://github.com/bbepoch/HoiTransformer)]
-
-**TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.**<br>
-*Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.04306)] [[Github](https://github.com/Beckschen/TransUNet)]
-
-**Segmenting Transparent Object in the Wild with Transformer.**<br>
-*Enze Xie, Wenjia Wang, Wenhai Wang, Peize Sun, Hang Xu, Ding Liang, Ping Luo.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08461)]
-
-**LSTR: End-to-end Lane Shape Prediction with Transformers.**<br>
-*Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong.*<br>
-WACV 2021. [[PDF](https://arxiv.org/abs/2011.04233)] [[Github](https://github.com/liuruijin17/LSTR)]
-
-**Line Segment Detection Using Transformers without Edges.**<br>
-*Yifan Xu, Weijian Xu, David Cheung, Zhuowen Tu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01909)]
-
-**SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers.**<br>
-*Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip H.S. Torr, Li Zhang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15840)] [[Project](https://fudan-zvg.github.io/SETR/)]
-
-**TrackFormer: Multi-Object Tracking with Transformers.**<br>
-*Tim Meinhardt, Alexander Kirillov, Laura Leal-Taixe, Christoph Feichtenhofer.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02702)]
-
-**TransTrack: Multiple-Object Tracking with Transformer.**<br>
-*Peize Sun, Yi Jiang, Rufeng Zhang, Enze Xie, Jinkun Cao, Xinting Hu, Tao Kong, Zehuan Yuan, Changhu Wang, Ping Luo.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15460)]
-
-**MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers.**<br>
-*Huiyu Wang, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00759)]
-
-**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.**<br>
-*Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2011.09094)]
-
-**End-to-End Video Instance Segmentation with Transformers.**<br>
-*Yuqing Wang, Zhaoliang Xu, Xinlong Wang, Chunhua Shen, Baoshan Cheng, Hao Shen, Huaxia Xia.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.14503)]
-
-**Visual Transformers: Token-based Image Representation and Processing for Computer Vision.**<br>
-*Bichen Wu, Chenfeng Xu, Xiaoliang Dai, Alvin Wan, Peizhao Zhang, Zhicheng Yan, Masayoshi Tomizuka, Joseph Gonzalez, Kurt Keutzer, Peter Vajda.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.03677)] [[Github](https://github.com/tahmid0007/VisualTransformers)]
-
-**Deformable DETR: Deformable Transformers for End-to-End Object Detection.**<br>
-*Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04159)]
-
-**Topological Planning with Transformers for Vision-and-Language Navigation.**<br>
-*Kevin Chen, Junshen K. Chen, Jo Chuang, Marynel Vázquez, Silvio Savarese.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05292)]
-
-**RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder.**<br>
-*Cheng Chi, Fangyun Wei, Han Hu.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
-
-#### Generation
-
-**Single-Shot Motion Completion with Transformer.**<br>
-*Yinglin Duan, Tianyang Shi, Zhengxia Zou, Yenan Lin, Zhehui Qian, Bohan Zhang, Yi Yuan.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00776)] [[Project](https://github.com/FuxiCV/SSMCT)]
-
-**Generative Adversarial Transformers.**<br>
-*Drew A. Hudson, C. Lawrence Zitnick.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.01209.pdf)]
-
-**IBRNet: Learning Multi-View Image-Based Rendering.**<br>
-*Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.13090)]
-
-**Deepfake Video Detection Using Convolutional Vision Transformer.**<br>
-*Deressa Wodajo, Solomon Atnafu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11126)]
-
-**TransGAN: Two Transformers Can Make One Strong GAN.**<br>
-*Yifan Jiang, Shiyu Chang, Zhangyang Wang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07074)] [[Github](https://github.com/VITA-Group/TransGAN)]
-
-**Transformer for Image Quality Assessment.**<br>
-*Junyong You, Jari Korhonen.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01097)]
-
-**ConvTransformer: A Convolutional Transformer Network for Video Frame Synthesis.**<br>
-*Zhouyong Liu, Shun Luo, Wubin Li, Jingben Lu, Yufan Wu, Chunguo Li, Luxi Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10185)]
-
-**General Invertible Transformations for Flow-based Generative Modeling.**<br>
-*Jakub M. Tomczak.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.15056v1)] [[Github](https://github.com/jmtomczak/git_flow)]
-
-**Taming Transformers for High-Resolution Image Synthesis.**<br>
-*[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
-
-**DeiT: Training Data-efficient Image Transformers & Distillation through Attention.**<br>
-*Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12877)] [[Github](https://github.com/facebookresearch/deit)]
-
-**Transformer Interpretability Beyond Attention Visualization.**<br>
-*Hila Chefer, Shir Gur, Lior Wolf.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2012.09838)]
-
-**TSceneFormer: Indoor Scene Generation with Transformers.**<br>
-*Xinpeng Wang, Chandan Yeshwanth, Matthias Nießner.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09793)]
-
-**Synthesizer: Rethinking Self-Attention in Transformer Models.**<br>
-*Yi Tay, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2005.00743)] [[Github](https://github.com/10-zin/Synthesizer)]
-
-**Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network.**<br>
-*Jiayi Ji, Yunpeng Luo, Xiaoshuai Sun, Fuhai Chen, Gen Luo, Yongjian Wu, Yue Gao, Rongrong Ji.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2012.07061)]
-
-**Image-GPT: Generative Pretraining from Pixels.**<br>
-*Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
-Tech Report 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
-
-**Generative Pretraining from Pixels.**<br>
-*Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever.*<br>
-ICML 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[Github](https://github.com/openai/image-gpt)]
-
-#### Restoration
-
-**Colorization Transformer.**<br> 
-*Manoj Kumar, Dirk Weissenborn, Nal Kalchbrenner.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=5NA1PinlGFu)]
-
-**TTSR: Learning Texture Transformer Network for Image Super-Resolution.**<br>
-*Fuzhi Yang, Huan Yang, Jianlong Fu, Hongtao Lu, Baining Guo.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.com/researchmm/TTSR)]
-
-**Pre-Trained Image Processing Transformer.**<br>
-*Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
-
-#### 3D 
-
-**Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry.**<br>
-*Xiangyu Li, Yonghong Hou, Pichao Wang, Zhimin Gao, Mingliang Xu, Wanqing Li.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.02143)]
-
-**Spherical Transformer: Adapting Spherical Signal to Convolutional Networks.**<br>
-*Haikuan Du, Hui Cao, Shen Cai, Junchi Yan, Siyu Zhang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03848)]
-
-**Human Mesh Recovery from Multiple Shots.**<br>
-*Georgios Pavlakos, Jitendra Malik, Angjoo Kanazawa.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2012.09843.pdf)] [[Github](https://geopavlakos.github.io/multishot)]
-
-**PCT: PCT: Point Cloud Transformer.**<br>
-*Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09688)] [[Github](https://github.com/MenghaoGuo/PCT)]
-
-**Point Transformer.**<br>
-*Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09164)]
-
-**Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers.**<br>
-*Zhaoshuo Li, Xingtong Liu, Francis X. Creighton, Russell H. Taylor, Mathias Unberath.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02910)] [[Github](https://github.com/mli0603/stereo-transformer)]
-
-**TransPose: Towards Explainable Human Pose Estimation by Transformer.**<br>
-*Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
-
-**End-to-End Human Pose and Mesh Reconstruction with Transformers.**<br>
-*Kevin Lin, Lijuan Wang, Zicheng Liu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
-
-#### Multi-modality
-
-**DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer.**<br>
-*Buyu Li, Yongchi Zhao, Lu Sheng.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10206)] 
-
-**Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer.**<br>
-*[Ronghang Hu](https://ronghanghu.com/), Amanpreet Singh.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10772)] [[Project](https://mmf.sh/)] [[Github](https://github.com/facebookresearch/mmf)]
-
-**End-to-end Audio-visual Speech Recognition with Conformers.**<br>
-*Pingchuan Ma, Stavros Petridis, Maja Pantic.*<br>
-ICASSP 2021. [[PDF](https://arxiv.org/abs/2102.06657)]
-
-**ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision.**<br>
-*Wonjae Kim, Bokyung Son, Ildoo Kim.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03334)]
-
-**Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers.**<br>
-*Lisa Anne Hendricks, John Mellor, Rosalia Schneider, Jean-Baptiste Alayrac, Aida Nematzadeh.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.00529)]
-
-**CPTR: Full Transformer Network for Image Captioning.**<br>
-*Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10804)]
-
-**Dual-Level Collaborative Transformer for Image Captioning.**<br>
-*Yunpeng Luo, Jiayi Ji, Xiaoshuai Sun, Liujuan Cao, Yongjian Wu, Feiyue Huang, Chia-Wen Lin, Rongrong Ji.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2101.06462)]
-
-**DALL·E: Creating Images from Text.**<br>
-*OpenAI.*<br> [[Blog](https://openai.com/blog/dall-e/#fn1)] [[Github](https://github.com/lucidrains/DALLE-pytorch)]
-
-**CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
-*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
-2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)] [[Colab](https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Text2Image_v3.ipynb)]
-
-**VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search.**<br>
-*Xiaopeng Lu, Tiancheng Zhao, Kyusong Lee.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00265)]
-
-**COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning.**<br>
-*Simon Ging, Mohammadreza Zolfaghari, Hamed Pirsiavash, Thomas Brox.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github.com/gingsi/coot-videotext)]
-
-**Entangled Transformer for Image Captioning.**<br>
-*Guang Li Linchao Zhu Ping Liu Yi Yang.*<br>
-ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf)]
-
-#### Misc
-
-**Multimodal Motion Prediction with Stacked Transformers.**<br>
-*Yicheng Liu, Jinghuai Zhang, Liangji Fang, Qinhong Jiang, Bolei Zhou.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.11624)]
-
-**UPDeT: Universal Multi-agent RL via Policy Decoupling with Transformers.**<br>
-*Siyi Hu, Fengda Zhu, Xiaojun Chang, Xiaodan Liang.*<br>
-ICLR 2021. [[PDF](https://openreview.net/forum?id=v9c7hr9ADKx)]
-
-**Generative Modelling of BRDF Textures from Flash Images.**<br>
-*Philipp Henzler, Valentin Deschaintre, Niloy J. Mitra, Tobias Ritschel.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11861)]
-
-**AttentionLite: Towards Efficient Self-Attention Models for Vision.**<br>
-*Souvik Kundu, Sairam Sundaresan.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2101.05216)]
-
-**Transformer Interpretability Beyond Attention Visualization.**<br>
-*Hila Chefer, Shir Gur, Lior Wolf.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09838)] [[Github](https://github.com/hila-chefer/Transformer-Explainability)]
-
-**FPT: Feature Pyramid Transformer.**<br>
-*Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09451)] [[Github](https://github.com/ZHANGDONG-NJUST/FPT)]
-
-**R-Transformer: Recurrent Neural Network Enhanced Transformer.**<br>
-*Zhiwei Wang, Yao Ma, Zitao Liu, Jiliang Tang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/1907.05572)] [[Github](https://github.com/DSE-MSU/R-transformer)]
-
-**Rethinking Attention with Performers.**<br>
-*Krzysztof Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy Colwell, Adrian Weller.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2009.14794)] [[Github](https://github.com/google-research/google-research/tree/master/performer)]
-
 ### misc
 
 **Generative Max-Mahalanobis Classifiers for Image Classification, Generation and More.**<br>
@@ -1995,245 +1641,6 @@ arxiv, 10 Jan 2020. [[PDF](https://arxiv.org/pdf/2001.03640.pdf)]
 *Kfir Aberman, Mingyi Shi, Jing Liao, Dani Lischinski, Daniel Cohen-Or, Chen Baoquan.*<br>
 Eurographics 2019. [[PDF](https://arxiv.org/pdf/1808.06847.pdf)]
 
-## DeepFake and Forensic
-
-[[FaceForensics Benchmark](http://kaldir.vc.in.tum.de/faceforensics_benchmark/)]
-[[awesome-deepfakes-materials](https://github.com/datamllab/awesome-deepfakes-materials)]
-[[Awesome-GANS-and-Deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes)]
-
-### Dataset, Challenge, and Benchmark
-
-**ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis.**<br>
-*[Yinan He](ttps://yinanhe.github.io), Bei Gan, Siyu Chen, Yichun Zhou, Guojun Yin, Luchuan Song, Lu Sheng, Jing Shao, Ziwei Liu.*<br>
-CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.05630)] [[Project](https://yinanhe.github.io/projects/forgerynet.html)] [[Github](https://github.com/yinanhe/forgerynet)]
-
-**DeeperForensics Challenge 2020 on Real-World Face Forgery Detection: Methods and Results.**<br>
-*Liming Jiang, Zhengkui Guo, Wayne Wu, Zhaoyang Liu, Ziwei Liu, Chen Change Loy, Shuo Yang, Yuanjun Xiong, Wei Xia, Baoying Chen, Peiyu Zhuang, Sili Li, Shen Chen, Taiping Yao, Shouhong Ding, Jilin Li, Feiyue Huang, Liujuan Cao, Rongrong Ji, Changlei Lu, Ganchao Tan.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09471)] [[Project](https://competitions.codalab.org/competitions/25228)]
-
-**WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection.**<br>
-*Bojia Zi, Minghao Chang, Jingjing Chen, Xingjun Ma, Yu-Gang Jiang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01456)]
-
-**DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.**<br>
-*[Liming Jiang](https://liming-jiang.com/), [Wayne Wu](https://wywu.github.io/), [Ren Li](https://liren2515.github.io/page/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
-arxiv 2020.
-[[PDF](https://arxiv.org/abs/2001.03024)] 
-[[Project](https://liming-jiang.com/projects/DrF1/DrF1.html)]
-[[DeeperForensics-1.0 Dataset](https://github.com/EndlessSora/DeeperForensics-1.0)]
-[[PDF](https://github.com/EndlessSora/DeeperForensics-1.0)]
-
-**CelebA-Spoof Challenge 2020 on Face Anti-Spoofing: Methods and Results.**<br>
-*Yuanhan Zhang, Zhenfei Yin, Jing Shao, Ziwei Liu, Shuo Yang, Yuanjun Xiong, Wei Xia, Yan Xu, Man Luo, Jian Liu, Jianshu Li, Zhijun Chen, Mingyu Guo, Hui Li, Junfu Liu, Pengfei Gao, Tianqi Hong, Hao Han, Shijie Liu, Xinhua Chen, Di Qiu, Cheng Zhen, Dashuang Liang, Yufeng Jin, Zhanlong Hao.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12642)] [[Project](https://competitions.codalab.org/competitions/26210)]
-
-**The DeepFake Detection Challenge Dataset.**<br>
-*Brian Dolhansky, Joanna Bitton, Ben Pflaum, Jikuo Lu, Russ Howes, Menglin Wang, Cristian Canton Ferrer.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07397)] [[Dataset](http://ai.facebook.com/)]
-
-### Survey
-
-**Countering Malicious DeepFakes: Survey, Battleground, and Horizon.**<br>
-*Felix Juefei-Xu, Run Wang, Yihao Huang, Qing Guo, Lei Ma, Yang Liu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00218)]
-
-**DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection.**<br>
-*Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia.*<br>
-arxiv, 2020. [[PDF](https://arxiv.org/abs/2001.00179)]
-
-**A Survey On Anti-Spoofing Methods For Face Recognition with RGB Cameras of Generic Consumer Devices.**<br>
-*Zuheng Ming, Muriel Visani, Muhammad Muzzamil Luqman, Jean-Christophe Burie.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
-
-### Methods
-
-**Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection.**<br>
-*Jiaming Li, Hongtao Xie, Jiahong Li, Zhongyuan Wang, Yongdong Zhang.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.09096)]
-
-**Multi-attentional Deepfake Detection.**<br>
-*Hanqing Zhao, Wenbo Zhou, Dongdong Chen, Tianyi Wei, Weiming Zhang, Nenghai Yu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02406)]
-
-**Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain.**<br>
-*Honggu Liu, Xiaodan Li, Wenbo Zhou, Yuefeng Chen, Yuan He, Hui Xue, Weiming Zhang, Nenghai Yu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.01856)]
-
-**Cross Modal Focal Loss for RGBD Face Anti-Spoofing.**<br>
-*Anjith George, Sebastien Marcel.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.00948)]
-
-**FaceForensics++: Learning to Detect Manipulated Facial Images.**<br>
-*[Andreas Rössler](http://www.niessnerlab.org/members/andreas_roessler/profile.html), Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, [Matthias Nießner](http://www.niessnerlab.org/members/matthias_niessner/profile.html).*<br>
-[[PDF](https://arxiv.org/abs/1901.08971)] [[Github](https://github.com/ondyari/FaceForensics)] [[Homepage & Dataset](http://www.niessnerlab.org/projects/roessler2018faceforensics.html)] [[Face Forensics  Image Recognition Suite](http://faceforensics.com/)]
-
-**Self-Domain Adaptation for Face Anti-Spoofing.**<br>
-*Jingjing Wang, Jingyi Zhang, Ying Bian, Youyi Cai, Chunmao Wang, Shiliang Pu.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2102.12129)]
-
-**Aurora Guard: Reliable Face Anti-Spoofing via Mobile Lighting System.**<br>
-*Jian Zhang, Ying Tai, Taiping Yao, Jia Meng, Shouhong Ding, Chengjie Wang, Jilin Li, Feiyue Huang, Rongrong Ji.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.00713)]
-
-**NAS-FAS: Static-Dynamic Central Difference Network Search for Face Anti-Spoofing.**<br>
-*Zitong Yu, Jun Wan, Yunxiao Qin, Xiaobai Li, Stan Z. Li, Guoying Zhao.*<br>
-TPAMI 2020. [[PDF](https://arxiv.org/abs/2011.02062)] [[CASIA-SURF 3DMask Dataset](http://www.cbsr.ia.ac.cn/users/jwan/database/3DMask.pdf)]
-
-**Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review.**<br>
-*Ajian Liu, Xuan Li, Jun Wan, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10998)]
-
-**Lips Don't Lie: A Generalisable and Robust Approach to Face Forgery Detection.**<br>
-*Alexandros Haliassos, Konstantinos Vougioukas, Stavros Petridis, Maja Pantic.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.07657)]
-
-**Face Forgery Detection by 3D Decomposition.**<br>
-*Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09737)]
-
-**What Makes Fake Images Detectable? Understanding Properties That Generalize.**<br>
-*Lucy Chai, David Bau, Ser-Nam Lim, Phillip Isola.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.10588)]  [[Github](https://chail.github.io/patch-forensics/)]
-
-**Two-branch Recurrent Network for Isolating Deepfakes in Videos.**<br>
-*Iacopo Masi, Aditya Killekar, Royston Marian Mascarenhas, Shenoy Pratik Gurudatt, Wael AbdAlmageed.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.03412)]
-
-**DeepFaceLab: A simple, flexible and extensible face swapping framework.**<br>
-*Ivan Petrov, Daiheng Gao, Nikolay Chervoniy, Kunlin Liu, Sugasa Marangonda, Chris Umé, Mr. Dpfks, Carl Shift Facenheim, Luis RP, Jian Jiang, Sheng Zhang, Pingyu Wu, Bo Zhou, Weiming Zhang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2005.05535)] [[Github](https://github.com/iperov/DeepFaceLab/)]
-
-**Not My Deepfake: Towards Plausible Deniability for Machine-Generated Media.**<br>
-*Baiwu Zhang, Jin Peng Zhou, Ilia Shumailov, Nicolas Papernot.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09194)]
-
-**Face Anti-Spoofing Via Disentangled Representation Learning.**<br>
-*Ke-Yue Zhang, Taiping Yao, Jian Zhang, Ying Tai, Shouhong Ding, Jilin Li, Feiyue Huang, Haichuan Song, Lizhuang Ma.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08250)]
-
-**Face Anti-Spoofing with Human Material Perception.**<br>
-*Zitong Yu, Xiaobai Li, Xuesong Niu, Jingang Shi, Guoying Zhao.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02157)]
-
-**Look Locally Infer Globally: A Generalizable Face Anti-Spoofing Approach.**<br>
-*Debayan Deb, Anil K. Jain.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.02834)]
-
-**Learning Meta Model for Zero- and Few-shot Face Anti-Spoofing.**<br>
-*Yunxiao Qin, Chenxu Zhao, Xiangyu Zhu, Zezheng Wang, Zitong Yu, Tianyu Fu, Feng Zhou, Jingping Shi, Zhen Lei.*<br>
-AAAI 2020. [[PDF](https://arxiv.org/abs/1904.12490)] [[Gtihub](https://github.com/qyxqyx/AIM_FAS)]
-
-**Detecting CNN-Generated Facial Images in Real-World Scenarios.**<br>
-*Nils Hulzebosch, Sarah Ibrahimi, Marcel Worring.*<br>
-Media Forensics at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.05632)]
-
-**Deepfake Video Forensics based on Transfer Learning.**<br>
-*Rahul U, Ragul M, Raja Vignesh K, Tejeswinee K.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.14178)]
-
-**Single-Side Domain Generalization for Face Anti-Spoofing.**<br>
-*Yunpei Jia, Jie Zhang, Shiguang Shan, Xilin Chen.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.14043)]
-
-**Preliminary Forensics Analysis of DeepFake Images.**<br>
-*Luca Guarnera, Oliver Giudice, Cristina Nastasi, Sebastiano Battiato.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.12626)]
-
-**Deep Face Forgery Detection.**<br>
-*Nika Dogonadze, Jana Obernosterer, Ji Hou.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.11804)]
-
-**PipeNet: Selective Modal Pipeline of Fusion Network for Multi-Modal Face Anti-Spoofing.**<br>
-*Qing Yang, Xia Zhu, Jong-Kae Fwu, Yun Ye, Ganmei You, Yuan Zhu.*<br>
-CVPR 2020 WMF. [[PDF](https://arxiv.org/abs/2004.11744)]
-
-**Warwick Image Forensics Dataset for Device Fingerprinting In Multimedia Forensics.**<br>
-*Yijun Quan, Chang-Tsun Li, Yujue Zhou, Li Li.*<br>
-ICME 2020. [[PDF](https://arxiv.org/abs/2004.10469)]
-
-**DeepFake Detection by Analyzing Convolutional Traces.**<br>
-*Luca Guarnera, Oliver Giudice, Sebastiano Battiato.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10448)]
-
-**DeepFakes Evolution: Analysis of Facial Regions and Fake Detection Performance.**<br>
-*Ruben Tolosana, Sergio Romero-Tapiador, Julian Fierrez, Ruben Vera-Rodriguez.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07532)]
-
-**CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition.**<br>
-*Yuge Huang, Yuhan Wang, Ying Tai, Xiaoming Liu, Pengcheng Shen, Shaoxin Li, Jilin Li, Feiyue Huang.*<br>
-CVPR 2020. [[PDF](https://github.com/HuangYG123/CurricularFace/blob/master)] [[Github](https://github.com/HuangYG123/CurricularFace)]
-
-**Deep Spatial Gradient and Temporal Depth Learning for Face Anti-spoofing.**<br>
-*Zezheng Wang, Zitong Yu, Chenxu Zhao, Xiangyu Zhu, Yunxiao Qin, Qiusheng Zhou, Feng Zhou, Zhen Lei.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08061)]
-
-**Evading Deepfake-Image Detectors with White- and Black-Box Attacks.**<br>
-*Nicholas Carlini, Hany Farid.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00622)]
-
-**One-Shot GAN Generated Fake Face Detection.**<br>
-*Hadi Mansourifar, Weidong Shi.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.12244)]
-
-**Global Texture Enhancement for Fake Face Detection in the Wild.**<br>
-*Zhengzhe Liu, Xiaojuan Qi, Philip H.S. Torr.*<br>
-CVPR 2020. [[PDF](https://xjqi.github.io/real_fake.pdf)]
-
-**Leveraging Frequency Analysis for Deep Fake Image Recognition.**<br>
-*Joel Frank, Thorsten Eisenhofer, Lea Schönherr, Asja Fischer, Dorothea Kolossa, Thorsten Holz.*<br>
-arxiv, 19 Mar 2020. [[PDF](https://arxiv.org/abs/2003.08685)] [[Github](https://github.com/RUB-SysSec/GANDCTAnalysis)]
-
-**Disrupting DeepFakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems.**<br>
-*[Nataniel Ruiz](https://natanielruiz.github.io/), [Sarah Adel Bargal](https://cs-people.bu.edu/sbargal/), [Stan Sclaroff](http://www.cs.bu.edu/~sclaroff/).*<br>
-arxiv, 3 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01279)] [[Github](https://github.com/natanielruiz/disrupting-deepfakes)]
-
-**Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples.**<br>
-*Paarth Neekhara, Shehzeen Hussain, Malhar Jere, Farinaz Koushanfar, Julian McAuley.*<br>
-WACV 2021. [[PDF](https://arxiv.org/abs/2002.12749)]
-
-**Real or Not Real, that is the Question.**<br>
-*Yuanbo Xiangli, Yubin Deng, Bo Dai, Chen Change Loy, Dahua Lin.*<br>
-ICLR 2020. [[PDF](https://openreview.net/forum?id=B1lPaCNtPB)] [[Github](https://github.com/kam1107/RealnessGAN)] 
-
-**Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models.**<br>
-*Shawn Shan, Emily Wenger, Jiayun Zhang, Huiying Li, Haitao Zheng, Ben Y. Zhao.*<br>
-arxiv, 19 Feb 2020. [[PDF](https://arxiv.org/abs/2002.08327)]
-
-**FakeLocator: Robust Localization of GAN-Based Face Manipulations via Semantic Segmentation Networks with Bells and Whistles.**<br>
-*Yihao Huang, Felix Juefei-Xu, Run Wang, Xiaofei Xie, Lei Ma, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu.*<br>
-arxiv, 27 Jan 2020. [[PDF](https://arxiv.org/abs/2001.09598)]
-
-**Face X-ray for More General Face Forgery Detection.**<br>
-*Lingzhi Li, Jianmin Bao, Ting Zhang, Hao Yang, Dong Chen, Fang Wen, Baining Guo.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/1912.13458)]
-
-**FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping.**<br>
-*Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/1912.13457)]
-
-**Scalable Fine-grained Generated Image Classification Based on Deep Metric Learning.**<br>
-*Xinsheng Xuan, Bo Peng, Wei Wang, Jing Dong.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/1912.11082)]
-
-**Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints.**<br>
-*Ning Yu, Larry Davis, [Mario Fritz](https://cispa.saarland/people/mario.fritz/).*<br>
-ICCV 2019.
-[[PDF](https://arxiv.org/abs/1811.08180)] [[Github](https://github.com/ningyu1991/GANFingerprints)] [[Group of Mario Fritz at CISPA](https://cispa.saarland/group/fritz/)] [[Media Coverage](https://mp.weixin.qq.com/s/se1ZyR_gfzliWB5X72OZ1Q)]
-
-**CNNDetection: CNN-Generated Images Are Surprisingly Easy to Spot...For Now.**<br>
-*[Sheng-Yu Wang](https://peterwang512.github.io), [Oliver Wang](http://www.oliverwang.info/), [Richard Zhang](http://richzhang.github.io/), [Andrew Owens](http://andrewowens.com/), [Alexei A. Efros](http://www.eecs.berkeley.edu/~efros/).*<br>
-CVPR 2020.
-[[PDF](https://arxiv.org/abs/1906.05856)]  [[Code](https://github.com/peterwang512/FALdetector)]  [[Project](https://peterwang512.github.io/FALdetector)] 
-
-**Detecting Photoshopped Faces by Scripting Photoshop.**<br>
-*Sheng-Yu Wang, Oliver Wang, Andrew Owens, Richard Zhang, Alexei A. Efros.*<br>
-ICCV, 2019.
-[[PDF](https://arxiv.org/abs/1912.11035)]  [[Code](https://github.com/peterwang512/CNNDetection)]  [[Project](https://peterwang512.github.io/CNNDetection/)] [[Adobe Max](https://youtu.be/21lj8tCSMkg)]
-
-**Fighting Fake News: Image Splice Detection via Learned Self-Consistency.**<br>
-*Minyoung Huh, Andrew Liu, Andrew Owens, Alexei A. Efros.*<br>
-ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
-
 ## 2D to 3D Convertion
 
 **Solid Texture Synthesis using Generative Adversarial Networks.**<br>
@@ -2295,7 +1702,6 @@ SIGGRAPH Asia 2018. [[Project](http://haopan.github.io/sketchCNN.html)] [[PDF](h
 **BendSketch: Modeling Freeform Surfaces Through 2D Sketching.**<br>
 *[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
 SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
-
 
 ## Free-Hand Sketch
 

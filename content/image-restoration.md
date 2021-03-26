@@ -435,6 +435,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ### Video Restoration
 
+**BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond.**<br>
+*[Kelvin C.K. Chan](https://ckkelvinchan.github.io/), Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.02181)] [[Project](https://ckkelvinchan.github.io/projects/BasicVSR)] [[Github](https://github.com/ckkelvinchan/BasicVSR-IconVSR)]
+
 **DeFMO: Deblurring and Shape Recovery of Fast Moving Objects.**<br>
 *Denys Rozumnyi, Martin R. Oswald, Vittorio Ferrari, Jiri Matas, Marc Pollefeys.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00595)] [[Github](https://github.com/rozumden/DeFMO)]
@@ -560,6 +564,30 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**BSRGAN: Designing a Practical Degradation Model for Deep Blind Image Super-Resolution.**<br>
+*Kai Zhang, Jingyun Liang, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14006)] [[Github](https://github.com/cszn/BSRGAN)]
+
+**ICT: High-Fidelity Pluralistic Image Completion with Transformers.**<br>
+*Ziyu Wan, Jingbo Zhang, Dongdong Chen, Jing Liao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14031)] [[Project](http://raywzy.com/ICT)]
+
+**From Shadow Generation to Shadow Removal.**<br>
+*Zhihao Liu, Hui Yin, Xinyi Wu, Zhenyao Wu, Yang Mi, Song Wang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.12997)]
+
+**GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.**<br>
+*[Kelvin C.K. Chan](https://ckkelvinchan.github.io/), Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00739)] [[Project](https://ckkelvinchan.github.io/projects/GLEAN)] [[Github]()]
+
+**GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior.**<br>
+*[Xintao Wang](https://xinntao.github.io/), [Yu Li](https://yu-li.github.io/), [Honglun Zhang](https://scholar.google.com/citations?hl=en&user=KjQLROoAAAAJ), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04061)] [[Project](https://xinntao.github.io/)]
+
+**Robust Reference-based Super-Resolution via C²-Matching.**<br>
+*Yuming Jiang, Kelvin C.K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu.*<br>
+CVPR 2021. [[PDF]()]
 
 **Degrade is Upgrade: Learning Degradation for Low-light Image Enhancement.**<br>
 *Kui Jiang, Zhongyuan Wang, Zheng Wang, Peng Yi, Xiao Wang, Yansheng Qiu, Chen Chen, Chia-Wen Lin.*<br>

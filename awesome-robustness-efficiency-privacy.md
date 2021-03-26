@@ -228,6 +228,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
 ### Data or Distribution Augmentation
 
+**Transferable Semantic Augmentation for Domain Adaptation.**<br> 
+*Shuang Li, Mixue Xie, Kaixiong Gong, Chi Harold Liu, Yulin Wang, Wei Li.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.12562)] [[Github](https://github.com/BIT-DA/TSA)]
+
+**MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition.**<br> 
+*Shuang Li, Kaixiong Gong, Chi Harold Liu, Yulin Wang, Feng Qiao, Xinjing Cheng.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.12579)] [[Github](https://github.com/BIT-DA/TSA)]
+
 **Explaining the Efficacy of Counterfactually Augmented Data.**<br> 
 *Divyansh Kaushik, Amrith Setlur, Eduard H Hovy, Zachary Chase Lipton.*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=HHiiQKWsOcV)]
@@ -255,6 +263,10 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=GY6-6sTvGaf)]
 **Data Augmentation for Object Detection via Differentiable Neural Rendering.**<br>
 *Guanghan Ning, Guang Chen, Chaowei Tan, Si Luo, Liefeng Bo, Heng Huang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02852)]
+
+**AutoMix: Unveiling the Power of Mixup.**<br>
+*Zicheng Liu, Siyuan Li, Di Wu, Zhiyuan Chen, Lirong Wu, Jianzhu Guo, Stan Z. Li.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.13027)]
 
 **Fixing Data Augmentation to Improve Adversarial Robustness.**<br>
 *Sylvestre-Alvise Rebuffi, Sven Gowal, Dan A. Calian, Florian Stimberg, Olivia Wiles, Timothy Mann.*<br>
@@ -389,6 +401,10 @@ ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04775)] [[Data and Code](https://gi
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06666)] [[Github](https://github.com/kdexd/virtex)]
 
 ### Single-Image Training 
+
+**One-Shot GAN: Learning to Generate Samples from Single Images and Videos.**<br> 
+*Vadim Sushko, Juergen Gall, Anna Khoreva.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.13389)]
 
 **GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images.**<br> 
 *Sungmin Cha, Taeeon Park, Byeongjoon Kim, Jongduk Baek, Taesup Moon.*<br>
@@ -593,7 +609,11 @@ ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.co
 *K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian.*<br> 
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.02603)] [[Github](https://github.com/JosephKJ/OWOD)]
 
-**Understanding the failure modes of out-of-distribution generalization.**<br>  
+**Few-shot Open-set Recognition by Transformation Consistency.**<br>
+*Minki Jeong, Seokeon Choi, Changick Kim.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.01537)]
+
+**Understanding the failure modes of out-of-distribution generalization.**<br>
 *Vaishnavh Nagarajan, Anders Andreassen, Behnam Neyshabur.*<br> 
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=fSTD6NFIW_b)]
 
@@ -607,7 +627,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02603)] [[Github](https://github.co
 
 **Counterfactual Zero-Shot and Open-Set Visual Recognition.**<br>
 *Zhongqi Yue, Tan Wang, Hanwang Zhang, Qianru Sun, Xian-Sheng Hua.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.00887)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.00887)] [[Github](https://github.com/yue-zhongqi/gcm-cf)]
 
 **Open-World Semi-Supervised Learning.**<br>
 *Kaidi Cao, Maria Brbic, Jure Leskovec.*<br>
@@ -861,6 +881,22 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
+
+**DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation.**<br>
+*Seunghun Lee, Sunghyun Cho, Sunghoon Im.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.13447)]
+
+**MetaAlign: Coordinating Domain Alignment and Classification for Unsupervised Domain Adaptation.**<br>
+*Guoqiang Wei, Cuiling Lan, Wenjun Zeng, Zhibo Chen.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.13575)]
+
+**Gradient Regularized Contrastive Learning for Continual Domain Adaptation.**<br>
+*Shixiang Tang, Peng Su, Dapeng Chen, Wanli Ouyang.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2103.12294)]
+
+**Generalized Domain Conditioned Adaptation Network.**<br>
+*Shuang Li, Binhui Xie, Qiuxia Lin, Chi Harold Liu, Gao Huang, Guoren Wang.*<br>
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.12339)] [[Github](https://github.com/BIT-DA/GDCAN)]
 
 **Dynamic Transfer for Multi-Source Domain Adaptation.**<br>
 *Yunsheng Li, Lu Yuan, Yinpeng Chen, Pei Wang, Nuno Vasconcelos.*<br>

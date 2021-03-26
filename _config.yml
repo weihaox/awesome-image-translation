@@ -16,4 +16,6 @@ include:
   - content/over-domain-gap.md
   - content/image-restoration.md
   - content/visual-contents-creation.md
+  - content/vision-transformer.md
+  - content/deepfake-forensic.md
   - content/multi-modal-representation.md

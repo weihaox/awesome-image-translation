@@ -90,6 +90,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.10915)]
 *Or Perel, Oron Anschel, Omri Ben-Eliezer, Shai Mazor, Hadar Averbuch-Elor.*<br>
 SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2103.10139)]
 
+**Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts.**<br>
+*Soravit Changpinyo, Piyush Sharma, Nan Ding, Radu Soricut.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2102.08981.pdf)]
+
 **ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.**<br>
 *Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05918)] [[Github]()]

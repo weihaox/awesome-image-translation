@@ -670,6 +670,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1908.06616)]
 *Sen He, Wentong Liao, Michael Ying Yang, Yongxin Yang, Yi-Zhe Song, Bodo Rosenhahn, Tao Xiang.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.11897)]
 
+**AttrLostGAN: Attribute Controlled Image Synthesis from Reconfigurable Layout and Style.**<br>
+*Stanislav Frolov, Avneesh Sharma, Jörn Hees, Tushar Karayil, Federico Raue, Andreas Dengel.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.13722)]
+
 **Structural-analogy from a Single Image Pair.**<br>
 *Sagie Benaim, Ron Mokady, Amit Bermano, Daniel Cohen-Or, Lior Wolf.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.02222)]
