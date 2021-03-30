@@ -75,6 +75,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others
 
+**Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
+*Yuki Endo, Yoshihiro Kanamori.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)]
+
 **iFlowGAN: An Invertible Flow-based Generative Adversarial Network For Unsupervised Image-to-Image Translation.**<br>
 *[Longquan Dai](https://dailongquan.github.io/), [Jinhui Tang](https://imag-njust.net/jinhui-tang/).*<br>
 TPAMI 2021. [[PDF](https://www.computer.org/csdl/journal/tp/5555/01/09367012/1rDQXw8mKnC)]

@@ -87,6 +87,10 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongro
 
 Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense
 
+**Capsule Network is Not More Robust than Convolutional Network.**<br> 
+*Jindong Gu, Volker Tresp, Han Hu.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15459)]
+
 **Stabilized Medical Image Attacks.**<br> 
 *Gege Qi, Lijun Gong, Yibing Song, Kai Ma, Yefeng Zheng.*<br> 
 ICLR 2021. [[PDF](https://arxiv.org/abs/2103.05232)]
@@ -605,6 +609,10 @@ ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.co
 
 ## Open-World and Out-of-Distribution Dataset
 
+**Learning Placeholders for Open-Set Recognition.**<br> 
+*Da-Wei Zhou, Han-Jia Ye, De-Chuan Zhan.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15086)]
+
 **OWOD: Towards Open World Object Detection.**<br> 
 *K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian.*<br> 
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.02603)] [[Github](https://github.com/JosephKJ/OWOD)]
@@ -655,6 +663,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 
 ## Long-Tailed and Class-Imbalanced Dataset
 
+**Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification.**<br>
+*Peng Wang, Kai Han, Xiu-Shen Wei, Lei Zhang, Lei Wang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.14267)]
+
 **Learning to Recombine and Resample Data For Compositional Generalization.**<br>
 *Ekin Akyürek, Afra Feyza Akyürek, Jacob Andreas.*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=PS3IMnScugk)]
@@ -673,7 +685,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09554)] [[Code and Data](https://g
 
 **CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning.**<br>
 *Chen Wei, Kihyuk Sohn, Clayton Mellina, Alan Yuille, Fan Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09559)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2102.09559)]
 
 **A Mixed Focal Loss Function for Handling Class Imbalanced Medical Image Segmentation.**<br>
 *Michael Yeung, Evis Sala, Carola-Bibiane Schönlieb, Leonardo Rundo.*<br>
@@ -881,6 +893,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
+
+**From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation.**<br>
+*Chen Li, Gim Hee Lee.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.14843)]
+
+**Unsupervised Robust Domain Adaptation without Source Data.**<br>
+*Peshal Agarwal, Danda Pani Paudel, Jan-Nico Zaech, Luc Van Gool.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14577)]
 
 **DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation.**<br>
 *Seunghun Lee, Sunghyun Cho, Sunghoon Im.*<br>

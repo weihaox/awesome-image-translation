@@ -368,6 +368,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 
 ### Segmentation or Label Map Guided
 
+**Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
+*Yuki Endo, Yoshihiro Kanamori.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)]
+
 **Diverse Semantic Image Synthesis via Probability Distribution Modeling.**<br> 
 *Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Bin Liu, Gang Hua, Nenghai Yu.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06878)]

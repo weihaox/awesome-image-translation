@@ -54,6 +54,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 *Zhi Wang, Yiwen Guo, Wangmeng Zuo.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.13567)]
 
+**MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes.**<br>
+*Zhikai Chen, Lingxi Xie, Shanmin Pang, Yong He, Bo Zhang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.14211)]
+
 **Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection.**<br>
 *Jiaming Li, Hongtao Xie, Jiahong Li, Zhongyuan Wang, Yongdong Zhang.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.09096)]

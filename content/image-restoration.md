@@ -17,6 +17,10 @@
 
 ## Replacing ISP
 
+**Invertible Image Signal Processing.**<br>
+*Yazhou Xing, Zian Qian, Qifeng Chen.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15061)] [[Github](https://github.com/yzxing87/Invertible-ISP)]
+
 **Mobile Computational Photography: A Tour.**<br>
 *Mauricio Delbracio, Damien Kelly, Michael S. Brown, Peyman Milanfar.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09000)]
@@ -447,6 +451,11 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00595)] [[Github](https://github.co
 *Dongxu Li, Chenchen Xu, Kaihao Zhang, Xin Yu, Yiran Zhong, Wenqi Ren, Hanna Suominen, Hongdong Li.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04260)]
 
+
+**Omniscient Video Super-Resolution.**<br>
+*Peng Yi, Zhongyuan Wang, Kui Jiang, Junjun Jiang, Tao Lu, Xin Tian, Jiayi Ma.*<br>
+arxvi 2021. [[PDF](https://arxiv.org/abs/2103.15683)]
+
 **Frame Difference-Based Temporal Loss for Video Stylization.**<br>
 *Jianjin Xu, Zheyang Xiong, Xiaolin Hu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05822)]
@@ -565,6 +574,14 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Best-Buddy GANs for Highly Detailed Image Super-Resolution.**<br>
+*Wenbo Li, Kun Zhou, Lu Qi, Liying Lu, Nianjuan Jiang, Jiangbo Lu, Jiaya Jia.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15295)]
+
+**Training a Better Loss Function for Image Restoration.**<br>
+*Aamir Mustafa, Aliaksei Mikhailiuk, Dan Andrei Iliescu, Varun Babbar, Rafal K. Mantiuk.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14616)]
+
 **BSRGAN: Designing a Practical Degradation Model for Deep Blind Image Super-Resolution.**<br>
 *Kai Zhang, Jingyun Liang, Luc Van Gool, Radu Timofte.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14006)] [[Github](https://github.com/cszn/BSRGAN)]
@@ -572,6 +589,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14006)] [[Github](https://github.c
 **ICT: High-Fidelity Pluralistic Image Completion with Transformers.**<br>
 *Ziyu Wan, Jingbo Zhang, Dongdong Chen, Jing Liao.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14031)] [[Project](http://raywzy.com/ICT)]
+
+**Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images.**<br>
+*[Tao Huang](https://taohuang2018.github.io/), Songjiang Li, Xu Jia, [Huchuan Lu](https://ice.dlut.edu.cn/lu/), [Jianzhuang Liu](http://people.ucas.ac.cn/~jzliu?language=en).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2101.02824)] [[Github](https://github.com/TaoHuang2018/Neighbor2Neighbor)]
 
 **From Shadow Generation to Shadow Removal.**<br>
 *Zhihao Liu, Hui Yin, Xinyi Wu, Zhenyao Wu, Yang Mi, Song Wang.*<br>

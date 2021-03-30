@@ -199,6 +199,10 @@ CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://gi
 
 ### Change Where You Want
 
+**High-Fidelity and Arbitrary Face Editing.**<br>
+*Yue Gao, Fangyun Wei, Jianmin Bao, Shuyang Gu, Dong Chen, Fang Wen, Zhouhui Lian.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15814)]
+
 **Paint by Word.**<br>
 *David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]

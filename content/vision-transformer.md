@@ -40,6 +40,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 ## Recognition and Classification
 
+**Face Transformer for Recognition.**<br>
+*Yaoyao Zhong, Weihong Deng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14803)]
+
 **DeepViT: Towards Deeper Vision Transformer.**<br>
 *Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Qibin Hou, Jiashi Fengv.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11886)]
@@ -85,6 +89,22 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 ## Tracking, Detection and Segmentation
+
+**Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers.**<br>
+*Tianyu Zhu, Markus Hiller, Mahsa Ehsanpour, Rongkai Ma, Tom Drummond, Hamid Rezatofighi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14829)]
+
+**TransCenter: Transformers with Dense Queries for Multiple-Object Tracking.**<br>
+*Yihong Xu, Yutong Ban, Guillaume Delorme, Chuang Gan, Daniela Rus, Xavier Alameda-Pineda.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15145)]
+
+**TFPose: Direct Human Pose Estimation with Transformers.**<br>
+*Weian Mao, Yongtao Ge, Chunhua Shen, Zhi Tian, Xinlong Wang, Zhibin Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15320)]
+
+**Transformer Tracking.**<br>
+*Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15436)]
 
 **Vision Transformers for Dense Prediction.**<br>
 *René Ranftl, Alexey Bochkovskiy, [Vladlen Koltun](http://vladlen.info/).*<br>
@@ -155,6 +175,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05292)]
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
 
 ## Generation
+
+**Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding.**<br>
+*Pengchuan Zhang, Xiyang Dai, Jianwei Yang, Bin Xiao, Lu Yuan, Lei Zhang, Jianfeng Gao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15358)]
 
 **Single-Shot Motion Completion with Transformer.**<br>
 *Yinglin Duan, Tianyang Shi, Zhengxia Zou, Yenan Lin, Zhehui Qian, Bohan Zhang, Yi Yuan.*<br>
@@ -274,6 +298,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 ## Multi-modality
 
+**Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers.**<br>
+*Hila Chefer, Shir Gur, Lior Wolf.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15679)] [[Github](https://github.com/hila-chefer/Transformer-MM-Explainability)]
+
 **Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning.**<br>
 *Amaia Salvador, Erhan Gundogdu, Loris Bazzani, Michael Donoser.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.13061)] [[Github](https://github.com/amzn/image-to-recipe-transformers)]
@@ -326,6 +354,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github
 ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf)]
 
 ## Misc
+
+**On the Adversarial Robustness of Visual Transformers.**<br>
+*Rulin Shao, Zhouxing Shi, Jinfeng Yi, Pin-Yu Chen, Cho-Jui Hsieh.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15670)]
 
 **Multimodal Motion Prediction with Stacked Transformers.**<br>
 *Yicheng Liu, Jinghuai Zhang, Liangji Fang, Qinhong Jiang, Bolei Zhou.*<br>
