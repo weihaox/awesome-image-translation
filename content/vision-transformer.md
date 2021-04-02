@@ -90,6 +90,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 ## Tracking, Detection and Segmentation
 
+**Swin Transformer: Hierarchical Vision Transformer using Shifted Windows.**<br>
+*Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14030)] [[Github](https://github.com/microsoft/Swin-Transformer)]
+
 **Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers.**<br>
 *Tianyu Zhu, Markus Hiller, Mahsa Ehsanpour, Rongkai Ma, Tom Drummond, Hamid Rezatofighi.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14829)]
@@ -297,6 +301,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 ## Multi-modality
+
+**Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers.**<br>
+*Antoine Miech, Jean-Baptiste Alayrac, Ivan Laptev, Josef Sivic, Andrew Zisserman.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16553)]
 
 **Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers.**<br>
 *Hila Chefer, Shir Gur, Lior Wolf.*<br>

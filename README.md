@@ -45,6 +45,12 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2021
 
+**Smoothing the Disentangled Latent Style Space for Unsupervised Image-to-Image Translation.**<br>
+*Yahui Liu, Enver Sangineto, Yajing Chen, Linchao Bao, Haoxian Zhang, Nicu Sebe, Bruno Lepri, Wei Wang, Marco De Nada.*<br>
+
+**ReMix: Towards Image-to-Image Translation with Limited Data.[[PDF](https://arxiv.org/pdf/2103.16835.pdf)]**<br> 
+*Jie Cao, Luanxuan Hou, Ming-Hsuan Yang, Ran He, Zhenan Sun.*<br>
+
 **DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network.**[[PDF](https://arxiv.org/pdf/2103.07893.pdf)] [[GitHub](https://github.com/ruiliu-ai/DivCo)]<br> 
 *Rui Liu, Yixiao Ge, Ching Lam Choi, Xiaogang Wang, Hongsheng Li.*<br>
 

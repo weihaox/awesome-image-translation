@@ -149,6 +149,22 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06205)] [[Github](https://alex0407
 
 ### Rearrange and Retiming
 
+**Learning by Aligning Videos in Time.**<br>
+*Sanjay Haresh, Sateesh Kumar, Huseyin Coskun, Shahram Najam Syed, Andrey Konin, Muhammad Zeeshan Zia, Quoc-Huy Tran.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.17260)]
+
+**Repopulating Street Scenes.**<br>
+*Yifan Wang, Andrew Liu, Richard Tucker, Jiajun Wu, Brian L. Curless, Steven M. Seitz, Noah Snavely.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16183)]
+
+**Visual Room Rearrangement.**<br>
+*Luca Weihs, Matt Deitke, Aniruddha Kembhavi, Roozbeh Mottaghi.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16544)]
+
+**Human De-occlusion: Invisible Perception and Recovery for Humans.**<br>
+*[Qiang Zhou](https://scholar.google.com/citations?user=8NIZGJcAAAAJ&hl=en), Shiyin Wang, [Yitong Wang](https://scholar.google.com/citations?user=NfFTKfYAAAAJ&hl=en), [Zilong Huang](https://speedinghzl.github.io/), [Xinggang Wang](http://xinggangw.info/).*<br>
+CVPR 2021. [[PDF](https://sydney0zq.github.io/ahp/files/human_deocclusion-cvpr2021.pdf)] [[Github](https://sydney0zq.github.io/ahp/)]
+
 **Layered Neural Rendering for Retiming People in Video.**<br>
 *Erika Lu, Forrester Cole, Tali Dekel, Weidi Xie, Andrew Zisserman, David Salesin, William T. Freeman, Michael Rubinstein.*<br>
 SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https://retiming.github.io/)]
@@ -780,6 +796,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 
 ## 3D-Aware Image Synthesis
 
+**CAMPARI: Camera-Aware Decomposed Generative Neural Radiance Fields.**<br>
+*Michael Niemeyer, Andreas Geiger.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.17269)]
+
 **DiscoFaceGAN: Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
 *Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/pdf/2004.11660.pdf)] [[Github](https://github.com/microsoft/DiscoFaceGAN)] 
@@ -1204,6 +1224,15 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### misc
+
+**Exploiting Relationship for Complex-scene Image Generation.**<br>
+*Tianyu Hua, Hongdong Zheng, Yalong Bai, Wei Zhang, Xiao-Ping Zhang, Tao Mei.*<br>
+arxiv 2021. [[](https://arxiv.org/abs/2104.00356)]
+
+**TrajeVAE -- Controllable Human Motion Generation from Trajectories.**<br>
+*Kacper Kania, Marek Kowalski, Tomasz Trzciński.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00351)]
+
 
 **Generative Max-Mahalanobis Classifiers for Image Classification, Generation and More.**<br>
 *Xiulong Yang, Hui Ye, Yang Ye, Xiang Li, Shihao Ji.*<br>
@@ -1748,6 +1777,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09694)] [[Project](http://pwang.pw
 SIGGRAPH Asia 2018. [[PDF](https://dl.acm.org/doi/10.1145/3272127.3275051)] [[Project](http://haopan.github.io/sketchCNN.html)] [[Github](https://github.com/Enigma-li/SketchCNN)]
 
 ### 2D Sketch to 2D Image
+
+**Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches.**<br>
+*Benoit Guillard, Edoardo Remelli, Pierre Yvernay, Pascal Fua.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00482)]
 
 **Self-Supervised Sketch-to-Image Synthesis.**<br>
 *Bingchen Liu, Yizhe Zhu, Kunpeng Song, Ahmed Elgammal.*<br>

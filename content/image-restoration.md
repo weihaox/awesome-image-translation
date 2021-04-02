@@ -255,6 +255,10 @@ arxiv, 3 Jun 2019. [[PDF](https://arxiv.org/abs/1906.00651)] [[Github](https://g
 
 ## Deep Image Prior 
 
+**Rank-One Prior: Toward Real-Time Scene Recovery.**<br>
+*Jun Liu, Ryan Wen Liu, Jianing Sun, Tieyong Zeng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.17126)]
+
 **Blind Video Temporal Consistency via Deep Video Prior.**<br>
 *[Chenyang Lei](https://chenyanglei.github.io/), Yazhou Xing, [Qifeng Chen](https://cqf.io/).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.11838)] [[Poject](https://chenyanglei.github.io/DVP/index.html)] [[Github](https://github.com/ChenyangLEI/deep-video-prior)]
@@ -573,6 +577,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Explore Image Deblurring via Blur Kernel Space.**<br>
+*Phong Tran, Anh Tran, Quynh Phung, Minh Hoai.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00317)]
+
+**Unsupervised Degradation Representation Learning for Blind Super-Resolution.**<br>
+*Longguang Wang, Yingqian Wang, Xiaoyu Dong, Qingyu Xu, Jungang Yang, Wei An, Yulan Guo.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00416)]
+
+**FKP: Flow-based Kernel Prior with Application to Blind Super-Resolution.**<br>
+*Jingyun Liang, Kai Zhang, Shuhang Gu, Luc Van Gool, Radu Timofte.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15977)] [[Github](https://github.com/JingyunLiang/FKP)]
 
 **Best-Buddy GANs for Highly Detailed Image Super-Resolution.**<br>
 *Wenbo Li, Kun Zhou, Lu Qi, Liying Lu, Nianjuan Jiang, Jiangbo Lu, Jiaya Jia.*<br>

@@ -39,6 +39,10 @@ ECCV 2020 Workshop. [[Homepage])(https://sites.google.com/view/ipcv2020/home)]
 
 ### Fairness
 
+**Embracing Uncertainty: Decoupling and De-bias for Robust Temporal Grounding.**<br> 
+*Hao Zhou, Chongyang Zhang, Yan Luo, Yanjun Chen, Chuanping Hu.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16848)]
+
 **Fair Mixup: Fairness via Interpolation.**<br> 
 *Ching-Yao Chuang, Youssef Mroueh.*<br> 
 ICLR 2021. [[PDF](https://arxiv.org/pdf/2103.06503.pdf)] [[Github](https://github.com/chingyaoc/fair-mixup)]
@@ -127,10 +131,13 @@ NeurIPS 2019. [[PDF](https://arxiv.org/pdf/1906.08935.pdf)]
 *Ji Lin, Chuang Gan, [Song Han](http://songhan.mit.edu/).*<br>
 ICLR 2019. [[PDF](https://arxiv.org/pdf/1904.08444.pdf)] [[Poster](https://www.dropbox.com/s/ugpcz41z8eosbd8/ICLR%20poster.pdf?dl=0)]
 
-
 ### Privacy
 
 Membership Inference, Federated Learning, Differential Privacy, *etc*.
+
+**ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows.**<br> 
+*Jie An, Siyu Huang, Yibing Song, Dejing Dou, Wei Liu, Jiebo Luo.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16877)] [[Github](https://github.com/pkuanjie/ArtFlow)]
 
 **Is Medical Chest X-ray Data Anonymous?**<br>
 *Kai Packhäuser, Sebastian Gündel, Nicolas Münster, Christopher Syben, Vincent Christlein, Andreas Maier.*<br>
@@ -447,6 +454,10 @@ ICCV 2019 (Best Paper). [[PDF](https://arxiv.org/abs/1905.01164)] [[UnOfficial](
 
 ### Others
 
+**Learning Representational Invariances for Data-Efficient Action Recognition.**<br>
+*Yuliang Zou, Jinwoo Choi, Qitong Wang, Jia-Bin Huang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.16565)] [[Github](https://yuliang.vision/video-data-aug)]
+
 **Ultra-Data-Efficient GAN Training: Drawing A Lottery Ticket First, Then Training It Toughly.**<br>
 *Tianlong Chen, Yu Cheng, Zhe Gan, Jingjing Liu, Zhangyang Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00397)]
@@ -609,6 +620,14 @@ ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.co
 
 ## Open-World and Out-of-Distribution Dataset
 
+**Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction.**<br> 
+*Shanyan Guan, Jingwei Xu, Yunbo Wang, Bingbing Ni, Xiaokang Yang.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16449)] [[Github](https://sites.google.com/view/humanmeshboa)]
+
+**Benchmarking Representation Learning for Natural World Image Collections.**<br> 
+*Grant Van Horn, Elijah Cole, Sara Beery, Kimberly Wilber, Serge Belongie, Oisin Mac Aodha.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16483)]
+
 **Learning Placeholders for Open-Set Recognition.**<br> 
 *Da-Wei Zhou, Han-Jia Ye, De-Chuan Zhan.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15086)]
@@ -662,6 +681,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 
 ## Long-Tailed and Class-Imbalanced Dataset
+
+**Improving Calibration for Long-Tailed Recognition.**<br>
+*Zhisheng Zhong, Jiequan Cui, Shu Liu, Jiaya Jia.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00466)]
+
+**Distribution Alignment: A Unified Framework for Long-tail Visual Recognitionv.**<br>
+*Songyang Zhang, Zeming Li, Shipeng Yan, Xuming He, Jian Sun.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16370)]
 
 **Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification.**<br>
 *Peng Wang, Kai Han, Xiu-Shen Wei, Lei Zhang, Lei Wang.*<br>
@@ -820,6 +847,10 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github
 
 ## Domain Generalization
 
+**Progressive Domain Expansion Network for Single Domain Generalization.**<br>
+*Lei Li, Ke Gao, Juan Cao, Ziyao Huang, Yepeng Weng, Xiaoyue Mi, Zhengze Yu, Xiaoya Li, Boyang xia.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16050)]
+
 **Uncertainty-guided Model Generalization to Unseen Domains.**<br> 
 *Fengchun Qiao, Xi Peng.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.07531)]
@@ -893,6 +924,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
+
+**Dynamic Domain Adaptation for Efficient Inference.**<br>
+*Shuang Li, Jinming Zhang, Wenxuan Ma, Chi Harold Liu, Wei Li.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16403)]
 
 **From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation.**<br>
 *Chen Li, Gim Hee Lee.*<br>

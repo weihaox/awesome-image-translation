@@ -50,6 +50,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 
 ### Methods
 
+**FFIW: Face Forensics in the Wild.**<br>
+*Tianfei Zhou, Wenguan Wang, Zhiyuan Liang, Jianbing Shen.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16076)] [[Github](https://github.com/tfzhou/FFIW)]
+
 **Deepfake Forensics via An Adversarial Game.**<br>
 *Zhi Wang, Yiwen Guo, Wangmeng Zuo.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.13567)]

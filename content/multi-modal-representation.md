@@ -497,9 +497,17 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)]
 *David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
 
+**StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery.**<br>
+*Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.17249)] [[Github](https://github.com/orpatashnik/StyleCLIP)]
+
 **ClawCraneNet: Leveraging Object-level Relation for Text-based Video Segmentation.**<br>
 *Chen Liang, Yu Wu, Yawei Luo, Yi Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10702)]
+
+**Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark.**<br>
+*Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16746)]
 
 **DALL-E: Zero-Shot Text-to-Image Generation.**<br>
 *Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever.*<br>
