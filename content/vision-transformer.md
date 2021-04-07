@@ -20,6 +20,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10882)]
 
 ### Accelerate
 
+**LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference.**<br>
+*Ben Graham, Alaaeldin El-Nouby, Hugo Touvron, Pierre Stock, Armand Joulin, Hervé Jégou, Matthijs Douze.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.01136)]
+
 **Transformer in Transformer.**<br>
 *Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00112)] [[Github](https://github.com/huawei-noah/noah-research/tree/master/TNT)]
@@ -27,6 +31,12 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00112)] [[Github](https://github.c
 **Optimizing Inference Performance of Transformers on CPUs.**<br>
 *Dave Dice, Alex Kogan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06621)]
+
+### Training
+
+**An Empirical Study of Training Self-Supervised Visual Transformers.**<br>
+*Xinlei Chen, Saining Xie, Kaiming He.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
 
 ## Survey
 
@@ -180,6 +190,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github
 
 ## Generation
 
+**Variational Transformer Networks for Layout Generation.**<br>
+*Diego Martin Arroyo, Janis Postels, Federico Tombari.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02416)]
+
 **Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding.**<br>
 *Pengchuan Zhang, Xiyang Dai, Jianwei Yang, Bin Xiao, Lu Yuan, Lei Zhang, Jianfeng Gao.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15358)]
@@ -264,6 +278,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
 
 ## 3D 
 
+**Group-Free 3D Object Detection via Transformers.**<br>
+*[Ze Liu](https://github.com/zeliu98), [Zheng Zhang](https://github.com/stupidZZ), [Yue Cao](https://github.com/caoyue10), [Han Hu](https://github.com/ancientmooner), [Xin Tong](http://www.xtong.info/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00678)] [[Github](https://github.com/zeliu98/Group-Free-3D)]
+
 **Multi-view 3D Reconstruction with Transformer.**<br>
 *Dan Wang, Xinrui Cui, Xun Chen, Zhengxia Zou, Tianyang Shi, Septimiu Salcudean, Z. Jane Wang, Rabab Ward.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.12957)]
@@ -301,6 +319,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 ## Multi-modality
+
+**Language-based Video Editing via Multi-Modal Multi-Level Transformer.**<br>
+*Tsu-Jui Fu, Xin Eric Wang, Scott T. Grafton, Miguel P. Eckstein, William Yang Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.01122)]
 
 **Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers.**<br>
 *Antoine Miech, Jean-Baptiste Alayrac, Ivan Laptev, Josef Sivic, Andrew Zisserman.*<br>
@@ -361,11 +383,17 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github
 *Guang Li Linchao Zhu Ping Liu Yi Yang.*<br>
 ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf)]
 
-## Misc
+## Security
+
+**On the Robustness of Vision Transformers to Adversarial Examples.**<br>
+*Kaleel Mahmood, Rigel Mahmood, Marten van Dijk.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02610)]
 
 **On the Adversarial Robustness of Visual Transformers.**<br>
 *Rulin Shao, Zhouxing Shi, Jinfeng Yi, Pin-Yu Chen, Cho-Jui Hsieh.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15670)]
+
+## Misc
 
 **Multimodal Motion Prediction with Stacked Transformers.**<br>
 *Yicheng Liu, Jinghuai Zhang, Liangji Fang, Qinhong Jiang, Bolei Zhou.*<br>

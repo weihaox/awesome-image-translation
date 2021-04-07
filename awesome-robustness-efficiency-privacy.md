@@ -239,6 +239,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
 ### Data or Distribution Augmentation
 
+**Defending Against Image Corruptions Through Adversarial Augmentations.**<br>
+*Dan A. Calian, Florian Stimberg, Olivia Wiles, Sylvestre-Alvise Rebuffi, Andras Gyorgy, Timothy Mann, Sven Gowal.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.01086)
+
+**On Interaction Between Augmentations and Corruptions in Natural Corruption Robustness.**<br>
+*Eric Mintun, Alexander Kirillov, Saining Xie.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11273)] [[Github](https://github.com/facebookresearch/augmentation-corruption)]
+
 **Transferable Semantic Augmentation for Domain Adaptation.**<br> 
 *Shuang Li, Mixue Xie, Kaixiong Gong, Chi Harold Liu, Yulin Wang, Wei Li.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.12562)] [[Github](https://github.com/BIT-DA/TSA)]
@@ -282,10 +290,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.13027)]
 **Fixing Data Augmentation to Improve Adversarial Robustness.**<br>
 *Sylvestre-Alvise Rebuffi, Sven Gowal, Dan A. Calian, Florian Stimberg, Olivia Wiles, Timothy Mann.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01946)]
-
-**On Interaction Between Augmentations and Corruptions in Natural Corruption Robustness.**<br>
-*Eric Mintun, Alexander Kirillov, Saining Xie.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11273)] [[Github](https://github.com/facebookresearch/augmentation-corruption)]
 
 **Contrastive Learning Inverts the Data Generating Process.**<br>
 *Roland S. Zimmermann, Yash Sharma, Steffen Schneider, Matthias Bethge, Wieland Brendel.*<br>
@@ -377,7 +381,7 @@ transfer learning, domain adaptation, *etc*.
 
 **Domain Generalization with MixStyle.**<br> 
 *Kaiyang Zhou, Yongxin Yang, Yu Qiao, Tao Xiang.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=6xHJ37MVxxp)]
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=6xHJ37MVxxp)] [[Github](https://github.com/KaiyangZhou/mixstyle-release)]
 
 **Domain Generalization Needs Stochastic Weight Averaging for Robustness on Domain Shifts.**<br>
 *Junbum Cha, Hancheol Cho, Kyungjae Lee, Seunghyun Park, Yunsung Lee, Sungrae Park.*<br>
@@ -682,6 +686,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 
 ## Long-Tailed and Class-Imbalanced Dataset
 
+**Adversarial Robustness under Long-Tailed Distribution.**<br>
+*Tong Wu, Ziwei Liu, Qingqiu Huang, Yu Wang, Dahua Lin.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02703)]
+
 **Improving Calibration for Long-Tailed Recognition.**<br>
 *Zhisheng Zhong, Jiequan Cui, Shu Liu, Jiaya Jia.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00466)]
@@ -924,6 +932,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
+
+**Unsupervised Multi-source Domain Adaptation Without Access to Source Data.**<br>
+*Sk Miraj Ahmed, Dripta S. Raychaudhuri, Sujoy Paul, Samet Oymak, Amit K. Roy-Chowdhury.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.01845)]
+
+**Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation.**<br>
+*Subhankar Roy, Evgeny Krivosheev, Zhun Zhong, Nicu Sebe, Elisa Ricci.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00808)]
 
 **Dynamic Domain Adaptation for Efficient Inference.**<br>
 *Shuang Li, Jinming Zhang, Wenxuan Ma, Chi Harold Liu, Wei Li.*<br>

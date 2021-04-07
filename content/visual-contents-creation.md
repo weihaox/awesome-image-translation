@@ -235,10 +235,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.12723)] [[Github](https://github.co
 *Jie An, [Siyu Huang](https://siyuhuang.github.io/), Yibing Song, Dejing Dou, Wei Liu, and Jiebo Luo.*<br>
 CVPR 2021. [[PDF]()]
 
-**Anycost GANs for Interactive Image Synthesis and Editing.**<br>
-*Ji Lin, Richard Zhang, Frieder Ganz, Song Han, Jun-Yan Zhu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03243)] [[Github](https://github.com/mit-han-lab/anycost-gan)] [[Project](https://hanlab.mit.edu/projects/anycost-gan/)]
-
 **Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**<br>
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
@@ -554,6 +550,16 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.
 *Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
 
+### GAN Compression
+
+**Anycost GANs for Interactive Image Synthesis and Editing.**<br>
+*Ji Lin, Richard Zhang, Frieder Ganz, Song Han, Jun-Yan Zhu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03243)] [[Github](https://github.com/mit-han-lab/anycost-gan)] [[Project](https://hanlab.mit.edu/projects/anycost-gan/)]
+
+**Content-Aware GAN Compression.**<br>
+*Yuchen Liu, Zhixin Shu, Yijun Li, Zhe Lin, Federico Perazzi, S.Y. Kung.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02244)]
+
 ## Prediction and Reasoning 
 
 ### Occlusion Reasoning
@@ -581,6 +587,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 [[Video Generation SOTA](https://paperswithcode.com/task/video-generation)]
 
 Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/multi-modal-representation.md#image-to-video).
+
+**Deep Animation Video Interpolation in the Wild.**<br>
+*Li Siyao, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02495)] [[Github](https://github.com/lisiyao21/AnimeInterp/)]
 
 **Playable Video Generation.**<br>
 *Willi Menapace, Stéphane Lathuilière, Sergey Tulyakov, Aliaksandr Siarohin, Elisa Ricci.*<br>
@@ -977,6 +987,10 @@ arxiv 2020. [[PDF]](https://arxiv.org/abs/2006.10739)] [[Project](https://people
 arxiv 2020. [[PDF]](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
 
 #### GAN Improvement
+
+**Partition-Guided GANs.**<br> 
+*Mohammadreza Armandpour, Ali Sadeghian, Chunyuan Li, Mingyuan Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00816)]
 
 **ContraD: Training GANs with Stronger Augmentations via Contrastive Discriminator.**<br> 
 *[Jongheon Jeong](https://sites.google.com/view/jongheonj) and [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html).*<br>

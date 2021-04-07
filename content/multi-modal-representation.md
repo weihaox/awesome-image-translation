@@ -186,17 +186,25 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.co
 *Peisong Wen, Qianqian Xu, Yangbangyan Jiang, Zhiyong Yang, Yuan He, Qingming Huang.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07293)]
 
+**Strumming to the Beat: Audio-Conditioned Contrastive Video Textures.**<br>
+*[Medhini Narasimhan](https://people.eecs.berkeley.edu/~medhini/), [Shiry Ginosar](https://people.eecs.berkeley.edu/~shiry/), [Andrew Owens](http://andrewowens.com/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/).*<br>
+arxiv 2021. [[PDF](https://medhini.github.io/audio_video_textures/)] [[Project](https://medhini.github.io/audio_video_textures)] [[Github](https://github.com/medhini/audio-video-textures)]
+
+**Localizing Visual Sounds the Hard Way.**<br>
+*Honglie Chen, Weidi Xie, Triantafyllos Afouras, Arsha Nagrani, Andrea Vedaldi, Andrew Zisserman.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02691)] [[Project](http://www.robots.ox.ac.uk/~vgg/research/lvs/)]
+
 **VisualVoice: Audio-Visual Speech Separation with Cross-Modal Consistency.**<br>
 *[Ruohan Gao](https://arxiv.org/pdf/2101.03149.pdf), Kristen Grauman.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2101.03149)] [[Project](http://vision.cs.utexas.edu/projects/VisualVoice/)]
 
 **Can audio-visual Integration Strengthen robustness under multimodal attacks?**<br>
 *[Yapeng Tian](http://yapengtian.org/) and Chenliang Xu.*<br>
-CVPR, 2021. 
+CVPR 2021. 
   
 **Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation.**<br>
 *Yapeng Tian, Di Hu, and Chenliang Xu.*<br>
-CVPR, 2021.
+CVPR, 2021. [[PDF](https://arxiv.org/abs/2104.02026)]
 
 **Audio-Driven Emotional Video Portraits.**<br> 
 *Xinya Ji, Hang Zhou, Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu.*<br> 
