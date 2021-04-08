@@ -335,10 +335,6 @@ ICLR 2021. [[PDF](https://openreview.net/forum?id=JWOiYxMG92s)] [[Github](https:
 *Shaoli Huang, Xinchao Wang, Dacheng Tao.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2012.04846)] [[Github](https://github.com/Shaoli-Huang/SnapMix.git)]
 
-**StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
-*Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada)]
-
 **Differentiable Augmentation for Data-Efficient GAN Training.**<br>
 *[Shengyu Zhao](https://scholar.google.com/citations?user=gLCdw70AAAAJ), [Zhijian Liu](http://zhijianliu.com/), [Ji Lin](http://linji.me/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Song Han](https://songhan.mit.edu/).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10738)] [[Project](https://data-efficient-gans.mit.edu/)] [[Github](https://github.com/mit-han-lab/data-efficient-gans)] [[Video](https://www.youtube.com/watch?v=SsqcjS6SVM0)]
@@ -530,7 +526,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04842)] [[Project](https://genforc
 
 **Positional Encoding as Spatial Inductive Bias in GANs.**<br>
 *Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
 
 **A Note on Data Biases in Generative Models.**<br>
 *[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
@@ -622,7 +618,26 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1901.09764)]
 *Jinsung Yoon, James Jordon, Mihaela van der Schaar.*<br>
 ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.com/jsyoon0823/GAIN)]
 
+## Limited Data
+
+**Regularizing Generative Adversarial Networks under Limited Data.**<br> 
+*Hung-Yu Tseng, Lu Jiang, Ce Liu, Ming-Hsuan Yang, Weilong Yang.*<br> 
+CVPR 2021. [[PDF]()] [[Github](https://github.com/google/lecam-gan)] [[Project](https://hytseng0509.github.io/lecam-gan)]
+
+**ReMix: Towards Image-to-Image Translation with Limited Data.**<br> 
+*Jie Cao, Luanxuan Hou, Ming-Hsuan Yang, Ran He, Zhenan Sun.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.16835.pdf)]
+
+**StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
+*Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada)]
+
+
 ## Open-World and Out-of-Distribution Dataset
+
+**OpenGAN: Open-Set Recognition via Open Data Generation.**<br> 
+*Shu Kong, Deva Ramanan.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02939)] [[Github](https://github.com/aimerykong/OpenGAN)]
 
 **Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction.**<br> 
 *Shanyan Guan, Jingwei Xu, Yunbo Wang, Bingbing Ni, Xiaokang Yang.*<br> 

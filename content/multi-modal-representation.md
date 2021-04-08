@@ -86,6 +86,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.10915)]
 
 [a collection of Image-Text Matching (Visual-Semantic/Lingustic Embedding)](https://blog.csdn.net/weixin_42/article/details/104275300)
 
+**Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning.**<br>
+*Zhicheng Huang, Zhaoyang Zeng, Yupan Huang, Bei Liu, Dongmei Fu, Jianlong Fu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03135)]
+
 **Learning Multimodal Affinities for Textual Editing in Images.**<br>
 *Or Perel, Oron Anschel, Omri Ben-Eliezer, Shai Mazor, Hadar Averbuch-Elor.*<br>
 SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2103.10139)]
@@ -182,6 +186,14 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.co
 
 ### Audio-Visual Learning
 
+**Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br> 
+*H. Zhou, Y. Sun, W. Wu, C. C. Loy, X. Wang, Z. Li.*<br> 
+CVPR 2021. [[PDF]()]
+
+**Looking into Your Speech: Learning Cross-modal Affinity for Audio-visual Speech Separation.**<br> 
+*Jiyoung Lee, Soo-Whan Chung, Sunok Kim, Hong-Goo Kang, Kwanghoon Sohn.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02775)] [[Project](https://caffnet.github.io/)]
+
 **Seeking the Shape of Sound: An Adaptive Framework for Learning Voice-Face Association.**<br> 
 *Peisong Wen, Qianqian Xu, Yangbangyan Jiang, Zhiyong Yang, Yuan He, Qingming Huang.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07293)]
@@ -208,7 +220,7 @@ CVPR, 2021. [[PDF](https://arxiv.org/abs/2104.02026)]
 
 **Audio-Driven Emotional Video Portraits.**<br> 
 *Xinya Ji, Hang Zhou, Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu.*<br> 
-CVPR, 2021. [[PDF](http://xufeng.site/publications/2021/Audio-Driven%20Emotional%20Video%20Portraits.pdf)]
+CVPR 2021. [[PDF](http://xufeng.site/publications/2021/Audio-Driven%20Emotional%20Video%20Portraits.pdf)]
 
 **Universal MelGAN: A Robust Neural Vocoder for High-Fidelity Waveform Generation in Multiple Domains.**<br>
 *Won Jang, Dan Lim, Jaesam Yoon.*<br>

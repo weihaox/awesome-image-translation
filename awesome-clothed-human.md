@@ -129,6 +129,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks.**<br>
+*Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03313)] [[Github](https://www.cs.cmu.edu/~aayushb/SST/)]
+
 **Semi-supervised Synthesis of High-Resolution Editable Textures for 3D Humans.**<br>
 *Bindita Chaudhuri, Nikolaos Sarafianos, Linda Shapiro, Tony Tung.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.17266)]

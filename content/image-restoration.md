@@ -158,7 +158,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.04583)]
 BMVC 2020. [[PDF](https://arxiv.org/abs/2009.04286)]
 
 **Blind Face Restoration via Deep Multi-scale Component Dictionaries.**<br> 
-*Xiaoming Li, Chaofeng Chen, Shangchen Zhou, Xianhui Lin, Wangmeng Zuo, Lei Zhang.*<br> 
+*Xiaoming Li, [Chaofeng Chen](https://chaofengc.github.io/), Shangchen Zhou, Xianhui Lin, Wangmeng Zuo, Lei Zhang.*<br> 
 ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540375-supp.pdf)]
 
 **Unpaired Learning of Deep Image Denoising.**<br>
@@ -578,6 +578,14 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Robust Reference-based Super-Resolution via C2-Matching.**<br>
+*Y. Jiang, K. C. K. Chan, X. Wang, C. C. Loy, Z. Liu.*<br>
+CVPR 2021. [[PDF]()]
+
+**Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation.**<br>
+*C. Li, C. Guo, C. C. Loy.*<br>
+TPAMI 2021. [[PDF](https://ieeexplore.ieee.org/document/9369102/)] [[Project](https://li-chongyi.github.io/Proj_Zero-DCE.html)] [[Github](https://github.com/Li-Chongyi/Zero-DCE_extension)]
+
 **Explore Image Deblurring via Blur Kernel Space.**<br>
 *Phong Tran, Anh Tran, Quynh Phung, Minh Hoai.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00317)]
@@ -814,10 +822,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02381)]
 *Yu Zeng, Zhe Lin, Huchuan Lu, Vishal M. Patel.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12836)] [[Github](https://github.com/zengxianyu/crfill)]
 
-**Learning Spatial Attention for Face Super-Resolution.**<br>
-*Chaofeng Chen, Dihong Gong, Hao Wang, Zhifeng Li, Kwan-Yee K. Wong.*<br>
-TIP 2020. [[PDF](https://arxiv.org/abs/2012.01211)] [[Github](https://github.com/chaofengc/Face-SPARNet)]
-
 **GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.**<br>
 *[Kelvin C.K. Chan](https://ckkelvinchan.github.io/), Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00739)] [[Project](https://ckkelvinchan.github.io/)]
@@ -928,7 +932,11 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.00809)] [[Github](https://github.c
 
 **Progressive Semantic-Aware Style Transformation for Blind Face Restoration.**<br>
 *Chaofeng Chen, Xiaoming Li, Lingbo Yang, Xianhui Lin, Lei Zhang, Kwan-Yee K. Wong.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2009.08709)] [[Github](https://github.com/chaofengc/PSFRGAN)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2009.08709)] [[Github](https://github.com/chaofengc/PSFRGAN)]
+
+**Learning Spatial Attention for Face Super-Resolution.**<br>
+*Chaofeng Chen, Dihong Gong, Hao Wang, Zhifeng Li, Kwan-Yee K. Wong.*<br>
+TIP 2020. [[PDF](https://arxiv.org/abs/2012.01211)] [[Github](https://github.com/chaofengc/Face-SPARNet)]
 
 **HiFic: High-Fidelity Generative Image Compression.**<br>
 *Fabian Mentzer, George Toderici, Michael schannen, Eirikur Agustsson.*<br>
