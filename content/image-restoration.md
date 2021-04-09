@@ -443,6 +443,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ### Video Restoration
 
+**Progressive Temporal Feature Alignment Network for Video Inpainting.**<br>
+*Xueyan Zou, Linjie Yang, Ding Liu, Yong Jae Lee.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03507)]
+
 **BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond.**<br>
 *[Kelvin C.K. Chan](https://ckkelvinchan.github.io/), Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.02181)] [[Project](https://ckkelvinchan.github.io/projects/BasicVSR)] [[Github](https://github.com/ckkelvinchan/BasicVSR-IconVSR)]
@@ -454,7 +458,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00595)] [[Github](https://github.co
 **ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring.**<br>
 *Dongxu Li, Chenchen Xu, Kaihao Zhang, Xin Yu, Yiran Zhong, Wenqi Ren, Hanna Suominen, Hongdong Li.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04260)]
-
 
 **Omniscient Video Super-Resolution.**<br>
 *Peng Yi, Zhongyuan Wang, Kui Jiang, Junjun Jiang, Tao Lu, Xin Tian, Jiayi Ma.*<br>
@@ -577,6 +580,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Interpreting Super-Resolution Networks with Local Attribution Maps.**<br>
+*Jinjin Gu, Chao Dong.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.11036)] [[Project](https://x-lowlevel-vision.github.io/lam.html)]
+
+**Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes.**<br>
+*Zhihang Zhong, Yinqiang Zheng, Imari Sato.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.01601)] [[Github](https://github.com/zzh-tech/RSCD)] [[BS-RSCD](https://drive.google.com/file/d/1hgzibaez7EipmPSN-3GzQO0_mlyruKGa/view?usp=sharing)]
 
 **Robust Reference-based Super-Resolution via C2-Matching.**<br>
 *Y. Jiang, K. C. K. Chan, X. Wang, C. C. Loy, Z. Liu.*<br>

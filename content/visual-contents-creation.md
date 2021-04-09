@@ -127,6 +127,25 @@ NeurIPS 2019. [[PDF](https://arxiv.org/abs/1905.01067)] [[Github]()]
 *[Jonathan Frankle](http://www.jfrankle.com/), Michael Carbin.*<br> 
 ICLR 2019 (Best paper award). [[PDF](https://arxiv.org/abs/1803.03635)] [[Github](https://github.com/facebookresearch/open_lth)]
 
+
+## High-Resolution
+
+**In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
+*Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
+
+**InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
+*Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0527.github.io/infinityGAN/)]
+
+**Taming Transformers for High-Resolution Image Synthesis.**<br>
+*[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
+
+**A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
+*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
+
 ## Interactive and Controllable Image Manipulation
 
 ### Highlight Component 
@@ -604,10 +623,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.09576)]
 *Christoph Schöller, Alois Knoll.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.03614)]
 
-**A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
-*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
-
 **Predicting Video with VQVAE.**<br>
 *Jacob Walker, Ali Razavi, Aäron van den Oord.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01950)]
@@ -934,7 +949,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02917)]
 
 **Swapping Autoencoder for Deep Image Manipulation.**<br>
 *Taesung Park, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei Efros, Richard Zhang.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.00653)] [[Github](https://github.com/zhangqianhui/Swapping-Autoencoder-tf)]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.00653)] [[PyTorch](https://github.com/taesungp/swapping-autoencoder-pytorch)] [[TensorFlow](https://github.com/zhangqianhui/Swapping-Autoencoder-tf)] 
 
 **Learning Latent Representations Across Multiple Data Domains Using Lifelong VAEGAN.**<br> 
 *Fei Ye, Adrian G. Bors.*<br> 

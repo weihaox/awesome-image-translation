@@ -622,7 +622,7 @@ ICML 2018. [[PDF](https://arxiv.org/abs/1806.02920)] [[Github](https://github.co
 
 **Regularizing Generative Adversarial Networks under Limited Data.**<br> 
 *Hung-Yu Tseng, Lu Jiang, Ce Liu, Ming-Hsuan Yang, Weilong Yang.*<br> 
-CVPR 2021. [[PDF]()] [[Github](https://github.com/google/lecam-gan)] [[Project](https://hytseng0509.github.io/lecam-gan)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.03310)] [[Github](https://github.com/google/lecam-gan)] [[Project](https://hytseng0509.github.io/lecam-gan)]
 
 **ReMix: Towards Image-to-Image Translation with Limited Data.**<br> 
 *Jie Cao, Luanxuan Hou, Ming-Hsuan Yang, Ran He, Zhenan Sun.*<br>

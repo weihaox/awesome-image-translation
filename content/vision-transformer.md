@@ -38,6 +38,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06621)]
 *Xinlei Chen, Saining Xie, Kaiming He.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
 
+**SiT: Self-supervised vIsion Transformer.**<br>
+*Sara Atito, Muhammad Awais, Josef Kittler.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
+
 ## Survey
 
 **A Survey on Visual Transformer.**<br>
