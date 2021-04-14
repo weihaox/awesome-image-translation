@@ -14,6 +14,10 @@ AAAI 2021. [[PDF](https://arxiv.org/abs/2102.03902v1)] [[Github](https://github.
 
 ### Postion Encoding
 
+**LocalViT: Bringing Locality to Vision Transformers.**<br>
+*Yawei Li, Kai Zhang, Jiezhang Cao, Radu Timofte, Luc Van Gool.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05707)]
+
 **Do We Really Need Explicit Position Encodings for Vision Transformers?**<br>
 *Xiangxiang Chu, Bo Zhang, Zhi Tian, Xiaolin Wei, Huaxia Xia.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10882)]
@@ -194,6 +198,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github
 
 ## Generation
 
+**Cloth Interactive Transformer for Virtual Try-On.**<br>
+*Bin Ren, Hao Tang, Fanyang Meng, Runwei Ding, Ling Shao, Philip H.S. Torr, Nicu Sebe.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05519)]
+
 **Variational Transformer Networks for Layout Generation.**<br>
 *Diego Martin Arroyo, Janis Postels, Federico Tombari.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02416)]
@@ -281,6 +289,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.co
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
 
 ## 3D 
+
+**Action-Conditioned 3D Human Motion Synthesis with Transformer VAE.**<br>
+*Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05670)]
 
 **Group-Free 3D Object Detection via Transformers.**<br>
 *[Ze Liu](https://github.com/zeliu98), [Zheng Zhang](https://github.com/stupidZZ), [Yue Cao](https://github.com/caoyue10), [Han Hu](https://github.com/ancientmooner), [Xin Tong](http://www.xtong.info/).*<br>

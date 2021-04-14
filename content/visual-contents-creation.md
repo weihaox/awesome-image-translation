@@ -5,14 +5,20 @@ This repository is about *controllable, interpretable, and generalizable visual 
 ## Table of Contents
 - [Industry Demo or Product](#industry-demo-or-product)
 - [PhD Thesis and Dissertation](#phd-thesis-and-dissertation)
+- [Classical Method Revisiting](#classical-method-revisiting)
+- [Lottery Tickets Hypothesis](#lottery-tickets-hypothesis)
 - [Interactive and Controllable Image Manipulation](#interactive-and-controllable-image-manipulation)
   * [Highlight Component](#highlight-component)
   * [Rearrange and Retiming](#rearrange-and-retiming)
+  * [Human-Object Interaction](#human-object-interaction)
+  * [Continuous Image Representation](#continuous-image-representation)
   * [Change Where You Want](#change-where-you-want)
   * [Disentanglement](#disentanglement)
   * [Guided Translation](#guided-translation)
   * [Individual Object Manipulation](#individual-object-manipulation)
   * [Generating Accurate Descriptions](#generating-accurate-descriptions)
+- [High-Resolution](#high-resolution)
+- [Lightweight High-Resolution Image Synthesis](#lightweight-high-resolution-image-synthesis)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
   * [Video Generation and Future Prediction](#video-generation-and-future-prediction)
@@ -23,7 +29,6 @@ This repository is about *controllable, interpretable, and generalizable visual 
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
   * [Generative Models](#generative-models)
   * [StyleGAN-Based Method](#stylegan-based-method)
-  * [Transformer-Based Method](#transformer-based)
   * [misc](#misc)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
 - [Free-Hand Sketch](#free-hand-sketch)
@@ -75,8 +80,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07579)] [[Github](https://github.c
 *Xiaohan Ding, Xiangyu Zhang, Ningning Ma, Jungong Han, Guiguang Ding, Jian Sun.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03697)] [[Github](https://github.com/megvii-model/RepVGG)]
 
-### Sparsity
-
 ## Lottery Tickets Hypothesis
 
 **The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models.**<br>
@@ -126,25 +129,6 @@ NeurIPS 2019. [[PDF](https://arxiv.org/abs/1905.01067)] [[Github]()]
 **The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks.**<br> 
 *[Jonathan Frankle](http://www.jfrankle.com/), Michael Carbin.*<br> 
 ICLR 2019 (Best paper award). [[PDF](https://arxiv.org/abs/1803.03635)] [[Github](https://github.com/facebookresearch/open_lth)]
-
-
-## High-Resolution
-
-**In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
-*Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
-
-**InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
-*Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0527.github.io/infinityGAN/)]
-
-**Taming Transformers for High-Resolution Image Synthesis.**<br>
-*[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
-
-**A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
-*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
 
 ## Interactive and Controllable Image Manipulation
 
@@ -569,7 +553,29 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.
 *Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
 
-### GAN Compression
+## High-Resolution
+
+**In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
+*Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
+
+**InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
+*Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0527.github.io/infinityGAN/)]
+
+**Taming Transformers for High-Resolution Image Synthesis.**<br>
+*[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
+
+**A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
+*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
+
+## Lightweight High-Resolution Image Synthesis
+
+**Lite-HRNet: A Lightweight High-Resolution Network.**<br>
+*Changqian Yu, Bin Xiao, Changxin Gao, Lu Yuan, Lei Zhang, Nong Sang, Jingdong Wang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06403)]
 
 **Anycost GANs for Interactive Image Synthesis and Editing.**<br>
 *Ji Lin, Richard Zhang, Frieder Ganz, Song Han, Jun-Yan Zhu.*<br>
@@ -578,6 +584,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03243)] [[Github](https://github.co
 **Content-Aware GAN Compression.**<br>
 *Yuchen Liu, Zhixin Shu, Yijun Li, Zhe Lin, Federico Perazzi, S.Y. Kung.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02244)]
+
+**MobileStyleGAN: A Lightweight Convolutional Neural Network for High-Fidelity Image Synthesis.**<br>
+*Sergei Belousov.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.04767)] [[Github](https://github.com/bes-dev/MobileStyleGAN.pytorch)]
 
 ## Prediction and Reasoning 
 
@@ -820,6 +830,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08429)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 
 ## 3D-Aware Image Synthesis
+
+**VariTex: Variational Neural Face Textures.**<br>
+*Marcel C. Bühler, Abhimitra Meka, Gengyan Li, Thabo Beeler, Otmar Hilliges.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05988)]
 
 **CAMPARI: Camera-Aware Decomposed Generative Neural Radiance Fields.**<br>
 *Michael Niemeyer, Andreas Geiger.*<br>

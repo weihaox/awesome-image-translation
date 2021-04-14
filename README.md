@@ -45,6 +45,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2021
 
+**Memory-guided Unsupervised Image-to-image Translation.[[PDF](https://arxiv.org/abs/2104.05170)]**<br> 
+*Somi Jeong, Youngjung Kim, Eungbean Lee, Kwanghoon Sohn.*<br>
+
 **Smoothing the Disentangled Latent Style Space for Unsupervised Image-to-Image Translation.**<br>
 *Yahui Liu, Enver Sangineto, Yajing Chen, Linchao Bao, Haoxian Zhang, Nicu Sebe, Bruno Lepri, Wei Wang, Marco De Nada.*<br>
 

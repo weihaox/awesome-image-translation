@@ -129,6 +129,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**Dynamic Surface Function Networks for Clothed Human Bodies.**<br>
+*Andrei Burov, Matthias Nießner, Justus Thies.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03978)] [[Video](https://youtu.be/4wbSi9Sqdm4)] [[Github](https://github.com/andreiburov/DSFN)]
+
 **SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks.**<br>
 *Shunsuke Saito, Jinlong Yang, Qianli Ma, Michael J. Black.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03313)] [[Github](https://www.cs.cmu.edu/~aayushb/SST/)]
@@ -380,6 +384,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**Cloth Interactive Transformer for Virtual Try-On.**<br>
+*Bin Ren, Hao Tang, Fanyang Meng, Runwei Ding, Ling Shao, Philip H.S. Torr, Nicu Sebe.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05519)]
 
 **VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization.**<br>
 *Seunghwan Choi, Sunghyun Park, Minsoo Lee, Jaegul Choo.*<br>

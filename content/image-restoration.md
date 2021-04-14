@@ -17,6 +17,10 @@
 
 ## Replacing ISP
 
+**Neural Camera Simulators.**<br>
+*Hao Ouyang, Zifan Shi, Chenyang Lei, Ka Lung Law, Qifeng Chen.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05237)]
+
 **Invertible Image Signal Processing.**<br>
 *Yazhou Xing, Zian Qian, Qifeng Chen.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15061)] [[Github](https://github.com/yzxing87/Invertible-ISP)]

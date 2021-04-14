@@ -239,6 +239,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
 ### Data or Distribution Augmentation
 
+**Direct Differentiable Augmentation Search.**<br>
+*Aoming Liu, Zehao Huang, Zhiwu Huang, Naiyan Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.04282)]
+
 **Defending Against Image Corruptions Through Adversarial Augmentations.**<br>
 *Dan A. Calian, Florian Stimberg, Olivia Wiles, Sylvestre-Alvise Rebuffi, Andras Gyorgy, Timothy Mann, Sven Gowal.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.01086)
@@ -412,6 +416,10 @@ ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04775)] [[Data and Code](https://gi
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06666)] [[Github](https://github.com/kdexd/virtex)]
 
 ### Single-Image Training 
+
+**IMAGINE: Image Synthesis by Image-Guided Model Inversion.**<br> 
+*Pei Wang, Yijun Li, Krishna Kumar Singh, Jingwan Lu, Nuno Vasconcelos.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.05895.pdf)]
 
 **One-Shot GAN: Learning to Generate Samples from Single Images and Videos.**<br> 
 *Vadim Sushko, Juergen Gall, Anna Khoreva.*<br> 
