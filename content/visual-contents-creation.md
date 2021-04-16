@@ -575,7 +575,7 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
 
 **Lite-HRNet: A Lightweight High-Resolution Network.**<br>
 *Changqian Yu, Bin Xiao, Changxin Gao, Lu Yuan, Lei Zhang, Nong Sang, Jingdong Wang.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06403)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06403)] [[Github](https://github.com/HRNet/Lite-HRNet)]
 
 **Anycost GANs for Interactive Image Synthesis and Editing.**<br>
 *Ji Lin, Richard Zhang, Frieder Ganz, Song Han, Jun-Yan Zhu.*<br>

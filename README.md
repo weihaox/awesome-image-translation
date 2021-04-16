@@ -45,6 +45,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2021
 
+**Few-shot Image Generation via Cross-domain Correspondence.**[[PDF](https://arxiv.org/abs/2104.06820)] [[Project](https://utkarshojha.github.io/few-shot-gan-adaptation/)] [[Github](https://github.com/utkarshojha/few-shot-gan-adaptation)] <br>
+*Utkarsh Ojha, Yijun Li, Jingwan Lu, Alexei A. Efros, Yong Jae Lee, Eli Shechtman, Richard Zhang.*<br>
+
+
 **Memory-guided Unsupervised Image-to-image Translation.[[PDF](https://arxiv.org/abs/2104.05170)]**<br> 
 *Somi Jeong, Youngjung Kim, Eungbean Lee, Kwanghoon Sohn.*<br>
 
@@ -133,8 +137,8 @@ WACV 2021. [[PDF](https://openaccess.thecvf.com/content/WACV2021/html/Lin_Attent
 **Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild.**[[PDF](https://homes.esat.kuleuven.be/~liqianma/pdf/ECCV20_Unselfie.pdf)] <br>
 *[Liqian Ma](https://homes.esat.kuleuven.be/~liqianma), Zhe Lin, Connelly Barnes, Alexei A. Efros, Jingwan Lu.*<br>
 
-**TSIT: A Simple and Versatile Framework for Image-to-Image Translation.** [[PDF](https://arxiv.org/abs/2007.12072)]<br>
-*Liming Jiang, Changxu Zhang, Mingyang Huang, Chunxiao Liu, Jianping Shi, Chen Change Loy.*<br>
+**TSIT: A Simple and Versatile Framework for Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2007.12072)][[Github](https://github.com/EndlessSora/TSIT)]<br>
+*[Liming Jiang](https://liming-jiang.com/), [Changxu Zhang](http://zhangcx.top/), Mingyang Huang, Chunxiao Liu, Jianping Shi, [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
 
 **LEED: Label-Free Expression Editing via Disentanglement.**[[PDF](https://arxiv.org/abs/2007.08971)]<br>
 *Rongliang Wu, Shijian Lu.*<br> 

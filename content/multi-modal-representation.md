@@ -187,8 +187,12 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.co
 ### Audio-Visual Learning
 
 **Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br> 
-*H. Zhou, Y. Sun, W. Wu, C. C. Loy, X. Wang, Z. Li.*<br> 
-CVPR 2021. [[PDF]()]
+*Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu.*<br> 
+CVPR 2021. [[PDF]()] [[Project](https://hangz-nju-cuhk.github.io/)]
+
+**EVP: Audio-Driven Emotional Video Portraits.**<br> 
+*[Xinya Ji](https://jixinya.github.io), [Hang Zhou](https://hangz-nju-cuhk.github.io/), Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.07452)] [[Project](https://jixinya.github.io/projects/evp/)] [[ithub](https://github.com/jixinya/EVP/)]
 
 **Looking into Your Speech: Learning Cross-modal Affinity for Audio-visual Speech Separation.**<br> 
 *Jiyoung Lee, Soo-Whan Chung, Sunok Kim, Hong-Goo Kang, Kwanghoon Sohn.*<br> 
@@ -216,15 +220,11 @@ CVPR 2021.
   
 **Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation.**<br>
 *Yapeng Tian, Di Hu, and Chenliang Xu.*<br>
-CVPR, 2021. [[PDF](https://arxiv.org/abs/2104.02026)]
-
-**Audio-Driven Emotional Video Portraits.**<br> 
-*Xinya Ji, Hang Zhou, Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu.*<br> 
-CVPR 2021. [[PDF](http://xufeng.site/publications/2021/Audio-Driven%20Emotional%20Video%20Portraits.pdf)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02026)]
 
 **Universal MelGAN: A Robust Neural Vocoder for High-Fidelity Waveform Generation in Multiple Domains.**<br>
 *Won Jang, Dan Lim, Jaesam Yoon.*<br>
-ICASSP, 2021. [[PDF](https://arxiv.org/abs/2011.09631)]
+ICASSP 2021. [[PDF](https://arxiv.org/abs/2011.09631)]
 
 **Unsupervised Audiovisual Synthesis via Exemplar Autoencoders.**<br> 
 *Kangle Deng, Aayush Bansal, Deva Ramanan.*<br>

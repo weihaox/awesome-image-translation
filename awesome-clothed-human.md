@@ -129,6 +129,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements.**<br>
+*Qianli Ma, Shunsuke Saito, Jinlong Yang, Siyu Tang, Michael J. Black.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.07660)] [[Project](https://qianlim.github.io/SCALE)]
+
 **Dynamic Surface Function Networks for Clothed Human Bodies.**<br>
 *Andrei Burov, Matthias Nießner, Justus Thies.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03978)] [[Video](https://youtu.be/4wbSi9Sqdm4)] [[Github](https://github.com/andreiburov/DSFN)]
@@ -384,6 +388,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 ## Image-Based Virtual Try-On
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+
+**Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing.**<br>
+*Aiyu Cui, Daniel McKee, Svetlana Lazebnik.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.07021)]
 
 **Cloth Interactive Transformer for Virtual Try-On.**<br>
 *Bin Ren, Hao Tang, Fanyang Meng, Runwei Ding, Ling Shao, Philip H.S. Torr, Nicu Sebe.*<br>

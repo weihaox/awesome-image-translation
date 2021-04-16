@@ -585,6 +585,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Learning to Jointly Deblur, Demosaick and Denoise Raw Images.**<br>
+*Thomas Eboli, Jian Sun, Jean Ponce.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06459)]
+
 **Interpreting Super-Resolution Networks with Local Attribution Maps.**<br>
 *Jinjin Gu, Chao Dong.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.11036)] [[Project](https://x-lowlevel-vision.github.io/lam.html)]
