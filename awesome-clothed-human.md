@@ -393,9 +393,9 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 *Aiyu Cui, Daniel McKee, Svetlana Lazebnik.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.07021)]
 
-**Cloth Interactive Transformer for Virtual Try-On.**<br>
+**CIT: Cloth Interactive Transformer for Virtual Try-On.**<br>
 *Bin Ren, Hao Tang, Fanyang Meng, Runwei Ding, Ling Shao, Philip H.S. Torr, Nicu Sebe.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05519)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05519)] [[Github](https://github.com/Amazingren/CIT)]
 
 **VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization.**<br>
 *Seunghwan Choi, Sunghyun Park, Minsoo Lee, Jaegul Choo.*<br>
@@ -405,9 +405,9 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16874)]
 *Kripasindhu Sarkar, Lingjie Liu, Vladislav Golyanik, Christian Theobalt.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.06902.pdf)] [[Project](http://gvv.mpi-inf.mpg.de/projects/HumanGAN/)]
 
-**Disentangled Cycle Consistency for Highly-realistic Virtual Try-On.**<br>
+**DCTON: Disentangled Cycle Consistency for Highly-realistic Virtual Try-On.**<br>
 *Chongjian Ge, Yibing Song, Yuying Ge, Han Yang, Wei Liu, and Ping Luo.*<br>
-CVPR 2021. [[PDF]()]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.09479)] [[Github](https://github.com/ChongjianGE/DCTON)]
 
 **PF-AFN: Parser-Free Virtual Try-on via Distilling Appearance Flows.**<br>
 *Yuying Ge, Yibing Song, Ruimao Zhang, Chongjian Ge, Wei Liu, Ping Luo.*<br>
@@ -423,7 +423,7 @@ TNNLS 2021. [[PDF](https://arxiv.org/abs/2102.03503)]
 
 **Unpaired Person Image Generation with Semantic Parsing Transformation.**<br>
 *Sijie Song, Wei Zhang, Jiaying Liuv, Zongming Guo, Tao Mei.*<br>
-TPAMI 2020. [[arxiv ](https://arxiv.org/abs/1912.06324)] [[CVPR 2019](https://arxiv.org/abs/1904.03379)] [[TPAMI 2020](https://ieeexplore.ieee.org/document/9085915/authors#authors)] [[Github](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving)]
+TPAMI 2020. [[PDF](https://arxiv.org/abs/1912.06324)] [[CVPR 2019](https://arxiv.org/abs/1904.03379)] [[TPAMI 2020](https://ieeexplore.ieee.org/document/9085915/authors#authors)] [[Github](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving)]
 
 **Do Not Mask What You Do Not Need to Mask: a Parser-Free Virtual Try-On.**<br>
 *Thibaut Issenhuth, Jérémie Mary, Clément Calauzènes.*<br>
@@ -444,10 +444,6 @@ ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.04592)] [[Project](http://mslab.e
 **Learning Color Compatibility in Fashion Outfits.**<br>
 *Heming Zhang, Xuewen Yang, Jianchao Tan, Chi-Hao Wu, Jue Wang, C.-C. Jay Kuo.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.02388)]
-
-**Do Not Mask What You Do Not Need to Mask: a Parser-Free Virtual Try-On.**<br>
-*Thibaut Issenhuth, Jérémie Mary, Clément Calauzènes.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02721)]
 
 **Toward Characteristic-Preserving Image-based Virtual Try-On Network.**<br>
 *Bochao Wang, Huabin Zheng, Xiaodan Liang, Yimin Chen, Liang Lin, Meng Yang.*<br>
@@ -471,19 +467,19 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.05863)] [[Github](https://github.co
 
 **PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer.**<br>
 *Wentao Jiang, Si Liu, Chen Gao, Jie Cao, Ran He, Jiashi Feng, Shuicheng Yan.*<br>
-CVPR2020. [[PDF](https://arxiv.org/abs/1909.06956)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/1909.06956)]
 
 **GarmentGAN: Photo-realistic Adversarial Fashion Transfer.**<br>
 *Amir Hossein Raffiee, Michael Sollami.*<br>
-arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.01894)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.01894)]
 
 **TailorGAN: Making User-Defined Fashion Designs.**<br>
 *Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh.*<br>
-arxiv, 17 Jan 2019. [[PDF](https://arxiv.org/abs/2001.06427)]
+arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06427)]
 
 **SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On.**<br>
 *Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy.*<br>
-arxiv, 17 Jan 2019. [[PDF](https://arxiv.org/abs/2001.06265)]
+arxiv 2019. [[PDF](https://arxiv.org/abs/2001.06265)]
 
 **Generating High-Resolution Fashion Model Images Wearing Custom Outfits.**<br> 
 *Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann.*<br> 
