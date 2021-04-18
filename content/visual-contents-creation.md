@@ -18,7 +18,6 @@ This repository is about *controllable, interpretable, and generalizable visual 
   * [Individual Object Manipulation](#individual-object-manipulation)
   * [Generating Accurate Descriptions](#generating-accurate-descriptions)
 - [High-Resolution](#high-resolution)
-- [Lightweight High-Resolution Image Synthesis](#lightweight-high-resolution-image-synthesis)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
   * [Video Generation and Future Prediction](#video-generation-and-future-prediction)
@@ -553,11 +552,23 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.
 *Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
 
-## High-Resolution
+## High-Resolution Image Synthesis
+
+### Toward 1024-Resolution
 
 **In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
 *Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
+
+**A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
+*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
+
+### Toward Infinite-Resolution
+
+**Aligning Latent and Image Spaces to Connect the Unconnectable.**<br>
+*Ivan Skorokhodov, Grigorii Sotnikov, Mohamed Elhoseiny.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06954)] [[Github](https://universome.github.io/alis)]
 
 **InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
 *Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
@@ -566,10 +577,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0
 **Taming Transformers for High-Resolution Image Synthesis.**<br>
 *[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
-
-**A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
-*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
 
 ## Lightweight High-Resolution Image Synthesis
 
@@ -1268,9 +1275,13 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### misc
 
+**DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort.**<br>
+*Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06490)]
+
 **Exploiting Relationship for Complex-scene Image Generation.**<br>
 *Tianyu Hua, Hongdong Zheng, Yalong Bai, Wei Zhang, Xiao-Ping Zhang, Tao Mei.*<br>
-arxiv 2021. [[](https://arxiv.org/abs/2104.00356)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00356)]
 
 **TrajeVAE -- Controllable Human Motion Generation from Trajectories.**<br>
 *Kacper Kania, Marek Kowalski, Tomasz Trzciński.*<br>
