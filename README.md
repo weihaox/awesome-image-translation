@@ -48,7 +48,6 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Few-shot Image Generation via Cross-domain Correspondence.**[[PDF](https://arxiv.org/abs/2104.06820)] [[Project](https://utkarshojha.github.io/few-shot-gan-adaptation/)] [[Github](https://github.com/utkarshojha/few-shot-gan-adaptation)] <br>
 *Utkarsh Ojha, Yijun Li, Jingwan Lu, Alexei A. Efros, Yong Jae Lee, Eli Shechtman, Richard Zhang.*<br>
 
-
 **Memory-guided Unsupervised Image-to-image Translation.[[PDF](https://arxiv.org/abs/2104.05170)]**<br> 
 *Somi Jeong, Youngjung Kim, Eungbean Lee, Kwanghoon Sohn.*<br>
 
@@ -87,6 +86,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
 
 ### Others
+
+**Dual Contrastive Learning for Unsupervised Image-to-Image Translation.**<br>
+*Junlin Han, Mehrdad Shoeiby, Lars Petersson, Mohammad Ali Armin.*<br>
+CVPR NTIRE Workshop 2021. [[PDF](https://arxiv.org/abs/2104.07689)] [[Github](https://github.com/JunlinHan/DCLGAN)]
 
 **Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
 *Yuki Endo, Yoshihiro Kanamori.*<br>

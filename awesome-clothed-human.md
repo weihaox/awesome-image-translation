@@ -37,9 +37,13 @@ Highavenue: Turn yourself into a 3D model.
 
 ## 3D People Dressing and Clothing Draping
 
+**Point-Based Modeling of Human Clothing.**<br>
+*Ilya Zakharkin, Kirill Mazur, Artur Grigoriev, Victor Lempitsky.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08230)]
+
 **Deep Deformation Detail Synthesis for Thin Shell Models.**<br>
 *Lan Chen, Lin Gao, Jie Yang, Shibiao Xu, Juntao Ye, Xiaopeng Zhang, Yu-Kun Lai.*<br>
-arxiv 20211. [[PDF](https://arxiv.org/abs/2102.11541)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11541)]
 
 **Neural 3D Clothes Retargeting from a Single Image.**<br>
 *Jae Shin Yoon, Kihwan Kim, Jan Kautz, Hyun Soo Park.*<br>
@@ -128,6 +132,10 @@ ACM Transactions on Graphics (TOG) 2012.
 ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
+
+**Learning Implicit 3D Representations of Dressed Humans from Sparse Views.**<br>
+*Pierre Zins, Yuanlu Xu, Edmond Boyer, Stefanie Wuhrer, Tony Tung.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08013)]
 
 **SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements.**<br>
 *Qianli Ma, Shunsuke Saito, Jinlong Yang, Siyu Tang, Michael J. Black.*<br>
@@ -303,11 +311,11 @@ CVPR 2020. [[PDF](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/data/pa
 
 **Learning to Transfer Texture from Clothing Images to 3D Humans.**<br>
 *Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll.*<br>
-arxiv, 4 Mar 2020. [[PDF](https://arxiv.org/abs/2003.02050)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.02050)]
 
 **PeelNet: Textured 3D reconstruction of human body using single view RGB image.**<br>
 *Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan.*<br>
-arxiv, 16 Feb 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2002.06664)]
 
 **BCNet: Learning Body and Cloth Shape from A Single Image.**<br>
 *Boyi Jiang, Juyong Zhang, Yang Hong, Jinhao Luo, Ligang Liu, Hujun Bao.*<br>
@@ -459,7 +467,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2004.00562)]
 
 **Toward Accurate and Realistic Virtual Try-on Through Shape Matching and Multiple Warps.**<br>
 *Kedan Li, Min Jin Chong, Jingen Liu, David Forsyth.*<br>
-arxiv, 22 Mar 2020. [[PDF](https://arxiv.org/abs/2003.10817)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.10817)]
 
 **Towards Photo-Realistic Virtual Try-On by Adaptively Generating Preserving Image Content.**<br>
 *Han Yang, Ruimao Zhang, Xiaobao Guo, Wei Liu, Wangmeng Zuo, Ping Luo.*<br>
