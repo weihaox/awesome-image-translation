@@ -233,10 +233,6 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)]
 *Hongyu Liu, Ziyu Wan, Wei Huang, Yibing Song, Xintong Han, Jing Liao, Bin Jiang, and Wei Liu.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.12723)] [[Github](https://github.com/KumapowerLIU/DeFLOCNet)]
 
-**ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows.**<br>
-*Jie An, [Siyu Huang](https://siyuhuang.github.io/), Yibing Song, Dejing Dou, Wei Liu, and Jiebo Luo.*<br>
-CVPR 2021. [[PDF]()]
-
 **Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**<br>
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
@@ -335,33 +331,19 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10544)] [[Github](https://github.c
 *Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://github.com/xrenaa/DisCo)]<br>
 
-### Guided Translation
+### Image Style Transfer
 
-Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
+**Rethinking and Improving the Robustness of Image Style Transfer.**<br>
+*Pei Wang, Yijun Li, Nuno Vasconcelos.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.05623)]
 
-**Progressive and Aligned Pose Attention Transfer for Person Image Generation.**<br> 
-*Zhen Zhu, Tengteng Huang, Mengde Xu, Baoguang Shi, Wenqing Cheng, Xiang Bai.*<br> 
-TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.11622)]
+**Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer.**<br>
+*Tianwei Lin, Zhuoqi Ma, Fu Li, Dongliang He, Xin Li, Errui Ding, Nannan Wang, Jie Li, Xinbo Gao.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05376)] [[Github](https://github.com/PaddlePaddle/PaddleGAN/)]
 
-**PhotoApp: Photorealistic Appearance Editing of Head Portraits.**<br>
-*Mallikarjun B R, Ayush Tewari, Abdallah Dib, Tim Weyrich, Bernd Bickel, Hans-Peter Seidel, Hanspeter Pfister, Wojciech Matusik, Louis Chevallier, Mohamed Elgharib, Christian Theobalt.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07658)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PhotoApp/)]
-
-**PISE: Person Image Synthesis and Editing with Decoupled GAN.**<br>
-*[Jinsong Zhang](https://zhangjinso.github.io/), [Kun Li](http://cic.tju.edu.cn/faculty/likun/), [Yu-Kun Lai](http://users.cs.cf.ac.uk/Yukun.Lai/), [Jingyu Yang](http://tju.iirlab.org/).*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04023)] [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PISE/)] [[Github](https://github.com/Zhangjinso/PISE)]
-
-**MeInGame: Create a Game Character Face from a Single Portrait.**<br>
-*Jiangke Lin, Yi Yuan, Zhengxia Zou.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2102.02371)]
-
-**Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows.**<br>
-*Alexanderson, Simon and Henter, Gustav Eje and Kucherenko, Taras and Beskow, Jonas.*<br>
-Computer Graphics Forum 2020. [[PDF](https://diglib.eg.org/handle/10.1111/cgf13946)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
-
-**MoGlow: Probabilistic and Controllable Motion Synthesis Using Normalising Flows.**<br>
-*Gustav Eje Henter, Simon Alexanderson, Jonas Beskow.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/1905.06598)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
+**ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows.**<br>
+*Jie An, [Siyu Huang](https://siyuhuang.github.io/), Yibing Song, Dejing Dou, Wei Liu, and Jiebo Luo.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.16877.pdf)] [[Github](https://github.com/pkuanjie/ArtFlow)]
 
 **Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization.**<br>
 *Zhe Chen, Wenhai Wang, Enze Xie, Tong Lu, Ping Luo.*<br>
@@ -390,6 +372,46 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11337)]
 **Global Image Sentiment Transfer.**<br>
 *Jie An, Tianlang Chen, Songyang Zhang, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11989)]
+
+**Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration.**<br>
+*Lu Sheng, Ziyi Lin, Jing Shao, Xiaogang Wang.*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1805.03857)] [[Project](https://lucassheng.github.io/avatar-net/)] [[Github](https://github.com/LucasSheng/avatar-net)]
+
+**AdaIN: Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization.**<br>
+*Xun Huang, Serge Belongie.*<br>
+ICCV 2017 (Oral). [[PDF](https://arxiv.org/abs/1703.06868)] [[Github](https://github.com/xunhuang1995/AdaIN-style)]
+
+**WCT: Universal Style Transfer via Feature Transforms.**<br>
+*Yijun Li, Chen Fang, Jimei Yang, Zhaowen Wang, Xin Lu, Ming-Hsuan Yang.*<br>
+NIPS 2017. [[PDF](https://arxiv.org/abs/1705.08086)] [[Github](https://github.com/Yijunmaverick/UniversalStyleTransfer)]
+
+### Guided Translation
+
+Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
+
+**Progressive and Aligned Pose Attention Transfer for Person Image Generation.**<br> 
+*Zhen Zhu, Tengteng Huang, Mengde Xu, Baoguang Shi, Wenqing Cheng, Xiang Bai.*<br> 
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.11622)]
+
+**PhotoApp: Photorealistic Appearance Editing of Head Portraits.**<br>
+*Mallikarjun B R, Ayush Tewari, Abdallah Dib, Tim Weyrich, Bernd Bickel, Hans-Peter Seidel, Hanspeter Pfister, Wojciech Matusik, Louis Chevallier, Mohamed Elgharib, Christian Theobalt.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07658)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PhotoApp/)]
+
+**PISE: Person Image Synthesis and Editing with Decoupled GAN.**<br>
+*[Jinsong Zhang](https://zhangjinso.github.io/), [Kun Li](http://cic.tju.edu.cn/faculty/likun/), [Yu-Kun Lai](http://users.cs.cf.ac.uk/Yukun.Lai/), [Jingyu Yang](http://tju.iirlab.org/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04023)] [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PISE/)] [[Github](https://github.com/Zhangjinso/PISE)]
+
+**MeInGame: Create a Game Character Face from a Single Portrait.**<br>
+*Jiangke Lin, Yi Yuan, Zhengxia Zou.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.02371)]
+
+**Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows.**<br>
+*Alexanderson, Simon and Henter, Gustav Eje and Kucherenko, Taras and Beskow, Jonas.*<br>
+Computer Graphics Forum 2020. [[PDF](https://diglib.eg.org/handle/10.1111/cgf13946)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
+
+**MoGlow: Probabilistic and Controllable Motion Synthesis Using Normalising Flows.**<br>
+*Gustav Eje Henter, Simon Alexanderson, Jonas Beskow.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1905.06598)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
 
 **MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
 *Zhentao Tan, [Menglei Chai](https://mlchai.com/), Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*
@@ -568,7 +590,11 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
 
 **Aligning Latent and Image Spaces to Connect the Unconnectable.**<br>
 *Ivan Skorokhodov, Grigorii Sotnikov, Mohamed Elhoseiny.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06954)] [[Github](https://universome.github.io/alis)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06954)] [[Project](https://universome.github.io/alis)]
+
+**In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
+*Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
 
 **InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
 *Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
@@ -576,7 +602,15 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0
 
 **Taming Transformers for High-Resolution Image Synthesis.**<br>
 *[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
+CVPR 2021 (Oral). [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
+
+**Boundless: Generative Adversarial Networks for Image Extension.**<br>
+*Piotr Teterwak, Aaron Sarna, Dilip Krishnan, Aaron Maschinot, David Belanger, Ce Liu, William T. Freeman.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/pdf/1908.07007.pdf)] [[Project](https://sites.google.com/view/boundless-iccv/home)] [[Github](https://github.com/recong/Boundless-in-Pytorch)]
+
+**NS-Outpainting: Very Long Natural Scenery Image Prediction by Outpainting.**<br>
+*Zongxin Yang, Jian Dong, Ping Liu, Yi Yang, Shuicheng Yan.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/pdf/1912.12688.pdf)] [[Github](https://github.com/z-x-yang/NS-Outpainting)]
 
 ## Lightweight High-Resolution Image Synthesis
 
@@ -1023,6 +1057,10 @@ arxiv 2020. [[PDF]](https://arxiv.org/abs/2006.10739)] [[Project](https://people
 arxiv 2020. [[PDF]](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
 
 #### GAN Improvement
+
+**Positional Encoding as Spatial Inductive Bias in GANs.**<br>
+*Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
 
 **Partition-Guided GANs.**<br> 
 *Mohammadreza Armandpour, Ali Sadeghian, Chunyuan Li, Mingyuan Zhou.*<br>

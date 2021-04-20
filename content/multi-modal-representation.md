@@ -186,13 +186,9 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.co
 
 ### Audio-Visual Learning
 
-**Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br> 
-*Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu.*<br> 
-CVPR 2021. [[PDF]()] [[Project](https://hangz-nju-cuhk.github.io/)]
-
 **EVP: Audio-Driven Emotional Video Portraits.**<br> 
 *[Xinya Ji](https://jixinya.github.io), [Hang Zhou](https://hangz-nju-cuhk.github.io/), Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu.*<br> 
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.07452)] [[Project](https://jixinya.github.io/projects/evp/)] [[ithub](https://github.com/jixinya/EVP/)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.07452)] [[Project](https://jixinya.github.io/projects/evp/)] [[Github](https://github.com/jixinya/EVP/)]
 
 **Looking into Your Speech: Learning Cross-modal Affinity for Audio-visual Speech Separation.**<br> 
 *Jiyoung Lee, Soo-Whan Chung, Sunok Kim, Hong-Goo Kang, Kwanghoon Sohn.*<br> 
@@ -216,11 +212,11 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2101.03149)] [[Project](http://vision.cs
 
 **Can audio-visual Integration Strengthen robustness under multimodal attacks?**<br>
 *[Yapeng Tian](http://yapengtian.org/) and Chenliang Xu.*<br>
-CVPR 2021. 
+CVPR 2021.  [[PDF](https://arxiv.org/pdf/2104.02000.pdf)]  [[Github](https://github.com/YapengTian/AV-Robustness-CVPR21)]
   
 **Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation.**<br>
 *Yapeng Tian, Di Hu, and Chenliang Xu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02026)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02026)] [[Github](https://github.com/YapengTian/CCOL-CVPR21)]
 
 **Universal MelGAN: A Robust Neural Vocoder for High-Fidelity Waveform Generation in Multiple Domains.**<br>
 *Won Jang, Dan Lim, Jaesam Yoon.*<br>
@@ -284,11 +280,7 @@ ICPR 2020. [[PDF](https://arxiv.org/abs/2011.02631)]
 
 **Learning Representations from Audio-Visual Spatial Alignment.**<br>
 *Pedro Morgado, Yi Li, Nuno Vasconcelos.*<br>
-NeurIPS, 2020. [[PDF](https://arxiv.org/abs/2011.01819)]
-
-**MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
-*Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
-SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2004.12992)] [[Github](https://github.com/adobe-research/MakeItTalk)]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.01819)]
 
 **Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis.**<br>
 *K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar.*<br>

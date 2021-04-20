@@ -585,6 +585,18 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Contrastive Learning for Compact Single Image Dehazing.**<br>
+*Haiyan Wu, Yanyun Qu, Shaohui Lin, Jian Zhou, Ruizhi Qiao, Zhizhong Zhang, Yuan Xie, Lizhuang Ma.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09367)] [[Github](https://github.com/GlassyWu/AECR-Net)]
+
+**Image Inpainting with External-internal Learning and Monochromic Bottleneck.**<br>
+*Tengfei Wang, Hao Ouyang, Qifeng Chen.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09068)]
+
+**Kernel Agnostic Real-world Image Super-resolution.**<br>
+*Hu Wang, Congbo Ma, Chunhua Shen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.09008)]
+
 **Learning to Jointly Deblur, Demosaick and Denoise Raw Images.**<br>
 *Thomas Eboli, Jian Sun, Jean Ponce.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06459)]

@@ -24,6 +24,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10882)]
 
 ### Accelerate
 
+**Visual Transformer Pruning.**<br>
+*Mingjian Zhu, Kai Han, Yehui Tang, Yunhe Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08500)]
+
 **LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference.**<br>
 *Ben Graham, Alaaeldin El-Nouby, Hugo Touvron, Pierre Stock, Armand Joulin, Hervé Jégou, Matthijs Douze.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.01136)]

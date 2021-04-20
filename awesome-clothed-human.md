@@ -133,6 +133,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**Multi-person Implicit Reconstruction from a Single Image.**<br>
+*Armin Mustafa, Akin Caliskan, Lourdes Agapito, Adrian Hilton.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09283)]
+
+**StylePeople: A Generative Model of Fullbody Human Avatars.**<br>
+*Artur Grigorev, Karim Iskakov, Anastasia Ianina, Renat Bashirov, Ilya Zakharkin, Alexander Vakhitov, Victor Lempitsky.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.08363)]
+
 **Learning Implicit 3D Representations of Dressed Humans from Sparse Views.**<br>
 *Pierre Zins, Yuanlu Xu, Edmond Boyer, Stefanie Wuhrer, Tony Tung.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08013)]
