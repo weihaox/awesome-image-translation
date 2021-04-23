@@ -112,6 +112,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 ## Tracking, Detection and Segmentation
 
+**Multi-Modal Fusion Transformer for End-to-End Autonomous Driving.**<br>
+*Aditya Prakash, Kashyap Chitta, Andreas Geiger.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09224)]
+
 **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows.**<br>
 *Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14030)] [[Github](https://github.com/microsoft/Swin-Transformer)]

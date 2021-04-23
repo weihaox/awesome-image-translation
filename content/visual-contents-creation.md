@@ -333,6 +333,10 @@ arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://gith
 
 ### Image Style Transfer
 
+**Style-Aware Normalized Loss for Improving Arbitrary Style Transfer.**<br>
+*Jiaxin Cheng, Ayush Jaiswal, Yue Wu, Pradeep Natarajan, Prem Natarajan.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.10064)]
+
 **Rethinking and Improving the Robustness of Image Style Transfer.**<br>
 *Pei Wang, Yijun Li, Nuno Vasconcelos.*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.05623)]
@@ -658,6 +662,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/multi-modal-representation.md#image-to-video).
 
+**VideoGPT: Video Generation using VQ-VAE and Transformers.**<br>
+*Wilson Yan, Yunzhi Zhang, Pieter Abbeel, Aravind Srinivas.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10157)] [[Project](https://wilson1yan.github.io/videogpt/index.html)]
+
 **Deep Animation Video Interpolation in the Wild.**<br>
 *Li Siyao, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02495)] [[Github](https://github.com/lisiyao21/AnimeInterp/)]
@@ -871,6 +879,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08429)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 
 ## 3D-Aware Image Synthesis
+
+**Cross-Domain and Disentangled Face Manipulation with 3D Guidance.**<br>
+*Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11228)]
 
 **VariTex: Variational Neural Face Textures.**<br>
 *Marcel C. Bühler, Abhimitra Meka, Gengyan Li, Thabo Beeler, Otmar Hilliges.*<br>

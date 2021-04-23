@@ -513,6 +513,10 @@ arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
 *Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.17249)] [[Github](https://github.com/orpatashnik/StyleCLIP)]
 
+**RefContrast: Understanding Synonymous Referring Expressions via Contrastive Features.**<br>
+*Yi-Wen Chen, Yi-Hsuan Tsai, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10156)] [[Github](https://github.com/wenz116/RefContrast)]
+
 **ClawCraneNet: Leveraging Object-level Relation for Text-based Video Segmentation.**<br>
 *Chen Liang, Yu Wu, Yawei Luo, Yi Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10702)]
@@ -702,6 +706,10 @@ arxiv, 20 Nov 2019. [[PDF](https://arxiv.org/abs/1911.12760v1)]
 ### Image-and-Voice
 
 See Audio-Visual Representations
+
+**Voice2Mesh: Cross-Modal 3D Face Model Generation from Voices.**<br>
+*Cho-Ying Wu, Ke Xu, Chin-Cheng Hsu, Ulrich Neumann.*<br>
+arxiv 2201. [[PDF](https://arxiv.org/abs/2104.10299)] [[Project](https://choyingw.github.io/works/Voice2Mesh/index.html)]
 
 ### Voice-to-Voice
 

@@ -385,6 +385,10 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=NeRdBeTionN)]
 
 ### Perceptual Quality
 
+**On Buggy Resizing Libraries and Surprising Subtleties in FID Calculation.**<br>
+*[Gaurav Parmar](https://gauravparmar.com/), [Richard Zhang](https://richzhang.github.io/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11222)] [[Github](https://github.com/GaParmar/clean-fid)] [[Project](https://www.cs.cmu.edu/~clean-fid/)]
+
 **Subjective and Objective Visual Quality Assessment of Textured 3D Meshes.**<br>
 *Jinjiang Guo, Vincent Vidal, Irene Cheng, Anup Basu, Atilla Baskurt, Guillaume Lavoue.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03982)]
@@ -446,6 +450,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 ## Misc
 
 ### Video Restoration
+
+**Temporal Modulation Network for Controllable Space-Time Video Super-Resolution.**<br>
+*Gang Xu, Jun Xu, Zhen Li, Liang Wang, Xing Sun, Ming-Ming Cheng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10642)]
 
 **Progressive Temporal Feature Alignment Network for Video Inpainting.**<br>
 *Xueyan Zou, Linjie Yang, Ding Liu, Yong Jae Lee.*<br>
@@ -584,6 +592,18 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Lighting the Darkness in the Deep Learning Era.**<br>
+*Chongyi Li, Chunle Guo, Linghao Han, Jun Jiang, Ming-Ming Cheng, Jinwei Gu, Chen Change Loy.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10729)] [[Github](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open)]
+
+**SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation.**<br>
+*Sanghyun Son, Kyoung Mu Lee.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.10325)]
+
+**Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network.**<br>
+*Ruicheng Feng, Chongyi Li, Huaijin Chen, Shuai Li, Chen Change Loy, Jinwei Gu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09556)]
 
 **Contrastive Learning for Compact Single Image Dehazing.**<br>
 *Haiyan Wu, Yanyun Qu, Shaohui Lin, Jian Zhou, Ruizhi Qiao, Zhizhong Zhang, Yuan Xie, Lizhuang Ma.*<br>
