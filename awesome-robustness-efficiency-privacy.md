@@ -468,7 +468,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.16565)] [[Github](https://yuliang.
 
 **Ultra-Data-Efficient GAN Training: Drawing A Lottery Ticket First, Then Training It Toughly.**<br>
 *Tianlong Chen, Yu Cheng, Zhe Gan, Jingjing Liu, Zhangyang Wang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00397)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00397)] [[Github](https://github.com/VITA-Group/Ultra-Data-Efficient-GAN-Training)]
 
 **Diversifying Sample Generation for Accurate Data-Free Quantization.**<br>
 *Xiangguo Zhang, Haotong Qin, Yifu Ding, Ruihao Gong, Qinghua Yan, Renshuai Tao, Yuhang Li, Fengwei Yu, Xianglong Liu.*<br>

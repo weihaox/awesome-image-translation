@@ -81,9 +81,17 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03697)] [[Github](https://github.c
 
 ## Lottery Tickets Hypothesis
 
+**A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br>
+*Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06790)] [[Github](https://github.com/VITA-Group/Unified-LTH-GNN)]
+
 **The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models.**<br>
 *Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Michael Carbin, [Zhangyang Wang](https://vita-group.github.io/).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.06908)] [[Github](https://github.com/VITA-Group/CV_LTH_Pre-training)]
+
+**Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning.**<br>
+*Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang.*<br>
+ICLR 2021. [[PDF](https://openreview.net/forum?id=LXMSvPmsm0g)] [[Github](https://github.com/VITA-Group/Lifelong-Learning-LTH)]
 
 **GAN-LTH: GANs Can Play Lottery Tickets Too.**<br> 
 *Xuxi Chen, Zhenyu Zhang, Yongduo Sui, Tianlong Chen.*<br>
@@ -93,9 +101,13 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=1AoMhc_9jER)] [[Github](https://
 *James Diffenderfer, Bhavya Kailkhura.*<br> 
 ICLR 2021. [[PDF](https://openreview.net/forum?id=U_mat0b9iv)] [[Github](https://github.com/chrundle/biprop)]
 
+**The Lottery Ticket Hypothesis for Pre-trained BERT Networks.**<br> 
+*Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin.*<br> 
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.12223)] [[Github](https://github.com/VITA-Group/BERT-Tickets)]
+
 **The Early Phase of Neural Network Training.**<br> 
 *Jonathan Frankle, David J. Schwab, Ari S. Morcos.*<br> 
-ICLR 2020. [[PDF](https://openreview.net/forum?id=Hkl1iRNFwS)]
+ICLR 2020. [[PDF](https://openreview.net/forum?id=Hkl1iRNFwS)] [[Github](https://github.com/VITA-Group/Early-Bird-Tickets)]
 
 **Comparing Rewinding and Fine-tuning in Neural Network Pruning.**<br> 
 *Alex Renda, Jonathan Frankle, Michael Carbin.*<br> 
@@ -1089,6 +1101,10 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=1AoMhc_9jER)] [[Github](https://
 **Distributional Sliced-Wasserstein and Applications to Generative Modeling.**<br>
 *Khai Nguyen, Nhat Ho, Tung Pham, Hung Bui.*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=QYjO70ACDK)]
+
+**Ultra-Data-Efficient GAN Training: Drawing A Lottery Ticket First, Then Training It Toughly.**<br>
+*Tianlong Chen, Yu Cheng, Zhe Gan, Jingjing Liu, Zhangyang Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00397)] [[Github](https://github.com/VITA-Group/Ultra-Data-Efficient-GAN-Training)]
 
 **Generating Images with Sparse Representations.**<br>
 *Charlie Nash, Jacob Menick, Sander Dieleman, Peter W. Battaglia.*<br>
