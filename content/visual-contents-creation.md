@@ -942,6 +942,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github
 
 ## 3D Shape Generation and Manipulation
 
+**KeypointDeformer: Unsupervised 3D Keypoint Discovery for Shape Control.**<br>
+*Tomas Jakab, Richard Tucker, Ameesh Makadia, Jiajun Wu, Noah Snavely, Angjoo Kanazawa.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.11224)] [[Project](http://tomasjakab.github.io/KeypointDeformer)]
+
 **Diffusion Probabilistic Models for 3D Point Cloud Generation.**<br>
 *Shitong Luo, Wei Hu.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.01458.pdf)] [[Github](https://github.com/luost26/diffusion-point-cloud)]

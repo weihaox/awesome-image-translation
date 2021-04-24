@@ -22,6 +22,12 @@ This repository is about Multi-modal Representation Learning and Application.
   
 ## Multi-modal Representation Learning and Application
 
+### Multimodal Representation
+
+**VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text.**<br>
+*Hassan Akbari, Linagzhe Yuan, Rui Qian, Wei-Hong Chuang, Shih-Fu Chang, Yin Cui, Boqing Gong.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11178)] 
+
 ### Visual Representation Learning
 
 **SEER: Self-supervised Pretraining of Visual Features in the Wild.**<br>

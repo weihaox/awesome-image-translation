@@ -62,6 +62,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 ## Recognition and Classification
 
+**Multiscale Vision Transformers.**<br>
+*Haoqi Fan, Bo Xiong, Karttikeya Mangalam, Yanghao Li, Zhicheng Yan, Jitendra Malik, Christoph Feichtenhofer.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11227)] [[Github](https://github.com/facebookresearch/SlowFast)]
+
 **Face Transformer for Recognition.**<br>
 *Yaoyao Zhong, Weihong Deng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14803)]
@@ -343,6 +347,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 ## Multi-modality
+
+**VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text.**<br>
+*Hassan Akbari, Linagzhe Yuan, Rui Qian, Wei-Hong Chuang, Shih-Fu Chang, Yin Cui, Boqing Gong.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11178)]
 
 **Language-based Video Editing via Multi-Modal Multi-Level Transformer.**<br>
 *Tsu-Jui Fu, Xin Eric Wang, Scott T. Grafton, Miguel P. Eckstein, William Yang Wang.*<br>
