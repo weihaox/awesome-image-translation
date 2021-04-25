@@ -91,6 +91,10 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongro
 
 Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense
 
+**Protecting Intellectual Property of Generative Adversarial Networks from Ambiguity Attack.**<br> 
+*Ding Sheng Ong, Chee Seng Chan, Kam Woh Ng, Lixin Fan, Qiang Yang.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2102.04362)] [[Github](https://github.com/dingsheng-ong/ipr-gan)]
+
 **Capsule Network is Not More Robust than Convolutional Network.**<br> 
 *Jindong Gu, Volker Tresp, Han Hu.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15459)]
