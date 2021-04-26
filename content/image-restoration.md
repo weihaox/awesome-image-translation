@@ -113,6 +113,14 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**FKP: Flow-based Kernel Prior with Application to Blind Super-Resolution.**<br>
+*Jingyun Liang, Kai Zhang, Shuhang Gu, Luc Van Gool, Radu Timofte.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15977)] [[Github](https://github.com/JingyunLiang/FKP)]
+
+**BSRGAN: Designing a Practical Degradation Model for Deep Blind Image Super-Resolution.**<br>
+*Kai Zhang, Jingyun Liang, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14006)] [[Github](https://github.com/cszn/BSRGAN)]
+
 **DeFlow: Learning Complex Image Degradations from Unpaired Data with Conditional Flows.**<br>
 *Valentin Wolf, Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.05796)]
@@ -597,6 +605,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 *Chongyi Li, Chunle Guo, Linghao Han, Jun Jiang, Ming-Ming Cheng, Jinwei Gu, Chen Change Loy.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10729)] [[Github](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open)]
 
+**Exploring Sparsity in Image Super-Resolution for Efficient Inference.**<br>
+*Longguang Wang, Xiaoyu Dong, [Yingqian Wang](https://yingqianwang.github.io/), Xinyi Ying, Zaiping Lin, Wei An, Yulan Guo.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2006.09603)] [[Github](https://github.com/LongguangWang/SMSR)]
+
 **SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation.**<br>
 *Sanghyun Son, Kyoung Mu Lee.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.10325)]
@@ -641,14 +653,6 @@ TPAMI 2021. [[PDF](https://ieeexplore.ieee.org/document/9369102/)] [[Project](ht
 *Phong Tran, Anh Tran, Quynh Phung, Minh Hoai.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00317)]
 
-**Unsupervised Degradation Representation Learning for Blind Super-Resolution.**<br>
-*Longguang Wang, Yingqian Wang, Xiaoyu Dong, Qingyu Xu, Jungang Yang, Wei An, Yulan Guo.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00416)]
-
-**FKP: Flow-based Kernel Prior with Application to Blind Super-Resolution.**<br>
-*Jingyun Liang, Kai Zhang, Shuhang Gu, Luc Van Gool, Radu Timofte.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15977)] [[Github](https://github.com/JingyunLiang/FKP)]
-
 **Best-Buddy GANs for Highly Detailed Image Super-Resolution.**<br>
 *Wenbo Li, Kun Zhou, Lu Qi, Liying Lu, Nianjuan Jiang, Jiangbo Lu, Jiaya Jia.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15295)]
@@ -657,9 +661,9 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15295)]
 *Aamir Mustafa, Aliaksei Mikhailiuk, Dan Andrei Iliescu, Varun Babbar, Rafal K. Mantiuk.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14616)]
 
-**BSRGAN: Designing a Practical Degradation Model for Deep Blind Image Super-Resolution.**<br>
-*Kai Zhang, Jingyun Liang, Luc Van Gool, Radu Timofte.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14006)] [[Github](https://github.com/cszn/BSRGAN)]
+**Unsupervised Degradation Representation Learning for Blind Super-Resolution.**<br>
+*Longguang Wang, Yingqian Wang, Xiaoyu Dong, Qingyu Xu, Jungang Yang, Wei An, Yulan Guo.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.00416)]
 
 **ICT: High-Fidelity Pluralistic Image Completion with Transformers.**<br>
 *Ziyu Wan, Jingbo Zhang, Dongdong Chen, Jing Liao.*<br>
