@@ -43,7 +43,7 @@ Feedback and contributions are welcome!
 - [Applications](#applications)
   * [Photo Animation](#photo-animation)
   * [Image Restoration](#image-restoration)
-  * [Image ynthesis](#image-synthesis)
+  * [Image Synthesis](#image-synthesis)
   * [Retargeting and 3D Vision](#retargeting-and-3d-vision)
   * [Attribute Editing](#attribute-editing)
   * [Data Augmentation](#data-augmentation)
