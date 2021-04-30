@@ -62,6 +62,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 ## Recognition and Classification
 
+**Visformer: The Vision-friendly Transformer.**<br>
+*Zhengsu Chen, Lingxi Xie, Jianwei Niu, Xuefeng Liu, Longhui Wei, Qi Tian.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2104.12533.pdf)] [[Github](https://github.com/danczs/Visformer)]
+
 **Multiscale Vision Transformers.**<br>
 *Haoqi Fan, Bo Xiong, Karttikeya Mangalam, Yanghao Li, Zhicheng Yan, Jitendra Malik, Christoph Feichtenhofer.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11227)] [[Github](https://github.com/facebookresearch/SlowFast)]
@@ -119,6 +123,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 **Multi-Modal Fusion Transformer for End-to-End Autonomous Driving.**<br>
 *Aditya Prakash, Kashyap Chitta, Andreas Geiger.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09224)]
+
+**HOTR: End-to-End Human-Object Interaction Detection with Transformers.**<br>
+*Bumsoo Kim, Junhyun Lee, Jaewoo Kang, Eun-Sol Kim, Hyunwoo J. Kim.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.13682)]
+
+**Twins: Revisiting Spatial Attention Design in Vision Transformers.**<br>
+*Xiangxiang Chu, Zhi Tian, Yuqing Wang, Bo Zhang, Haibing Ren, Xiaolin Wei, Huaxia Xia, Chunhua Shen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.13840)]
 
 **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows.**<br>
 *Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo.*<br>

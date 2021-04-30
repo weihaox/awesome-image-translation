@@ -81,6 +81,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03697)] [[Github](https://github.c
 
 ## Lottery Tickets Hypothesis
 
+**Playing Lottery Tickets with Vision and Language.**<br>
+*Zhe Gan, Yen-Chun Chen, Linjie Li, Tianlong Chen, Yu Cheng, Shuohang Wang, Jingjing Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11832)]
+
 **A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br>
 *Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06790)] [[Github](https://github.com/VITA-Group/Unified-LTH-GNN)]
@@ -891,6 +895,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2003.08429)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 
 ## 3D-Aware Image Synthesis
+
+**Exemplar-Based 3D Portrait Stylization.**<br>
+*Fangzhou Han, Shuquan Ye, Mingming He, Menglei Chai, Jing Liao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.14559)] [[Project](https://halfjoe.github.io/projs/3DPS/index.html)]
 
 **Cross-Domain and Disentangled Face Manipulation with 3D Guidance.**<br>
 *Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao.*<br>

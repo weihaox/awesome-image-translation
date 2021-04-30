@@ -459,6 +459,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ### Video Restoration
 
+**BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment.**<br>
+*Kelvin C.K. Chan, Shangchen Zhou, Xiangyu Xu, Chen Change Loy.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.13371)]
+
 **Temporal Modulation Network for Controllable Space-Time Video Super-Resolution.**<br>
 *Gang Xu, Jun Xu, Zhen Li, Liang Wang, Xing Sun, Ming-Ming Cheng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10642)]
@@ -600,6 +604,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Clean Images are Hard to Reblur: A New Clue for Deblurring.**<br>
+*Seungjun Nah, Sanghyun Son, Jaerin Lee, Kyoung Mu Lee.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.12665)]
 
 **Lighting the Darkness in the Deep Learning Era.**<br>
 *Chongyi Li, Chunle Guo, Linghao Han, Jun Jiang, Ming-Ming Cheng, Jinwei Gu, Chen Change Loy.*<br>

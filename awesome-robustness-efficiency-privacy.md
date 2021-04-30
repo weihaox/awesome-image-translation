@@ -39,6 +39,10 @@ ECCV 2020 Workshop. [[Homepage])(https://sites.google.com/view/ipcv2020/home)]
 
 ### Fairness
 
+**Discover the Unknown Biased Attribute of an Image Classifier.**<br> 
+*Zhiheng Li, Chenliang Xu.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.14556)] [[Github](https://github.com/hubertlee915/discover_unknown_biases)]
+
 **Embracing Uncertainty: Decoupling and De-bias for Robust Temporal Grounding.**<br> 
 *Hao Zhou, Chongyang Zhang, Yan Luo, Yanjun Chen, Chuanping Hu.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16848)]
@@ -138,6 +142,10 @@ ICLR 2019. [[PDF](https://arxiv.org/pdf/1904.08444.pdf)] [[Poster](https://www.d
 ### Privacy
 
 Membership Inference, Federated Learning, Differential Privacy, *etc*.
+
+**Privacy-Preserving Portrait Matting.**<br> 
+*Jizhizi Li, Sihan Ma, Jing Zhang, Dacheng Tao.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.14222)]
 
 **ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows.**<br> 
 *Jie An, Siyu Huang, Yibing Song, Dejing Dou, Wei Liu, Jiebo Luo.*<br> 
