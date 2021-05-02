@@ -3,10 +3,13 @@
 This repository is about Multi-modal Representation Learning and Application.
 
 ## Table of Contents
+- [Unsupervised Visual Representation Learning](#unsupervised-visual-representation-learning)
+- [Spatiotemporal Representation Learning](#spatiotemporal-representation-learning)
 - [Multi-modal Representation Learning and Application](#multi-modal-representation-learning-and-application)
+  * [Multimodal Representation](#multimodal-representation)
   * [Visual Representation Learning](#visual-representation-learning)
+  * [Audio Representation](#audio-representation)
   * [Image-Text Matching (Visual-Semantic/Lingustic Embedding)](#image-text-matching--visual-semantic-lingustic-embedding-)
-  * [Unsupervised Visual Representation Learning](#unsupervised-visual-representation-learning)
   * [Audio-Visual Learning](#audio-visual-learning)
 - [Multi-Modality Translation](#multi-modality-translation)
   * [Others-to-3D](#others-to-3d)
@@ -19,6 +22,54 @@ This repository is about Multi-modal Representation Learning and Application.
   * [Voice-to-Voice](#voice-to-voice)
   * [Scene Graph Generation](#scene-graph-generation)
   * [Speech Synthesis](#speech-synthesis)
+
+## Unsupervised Visual Representation Learning
+
+**VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples.**<br>
+*Tian Pan, Yibing Song, Tianyu Yang, Wenhao Jiang, Wei Liu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.05905)]
+
+**Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning.**<br>
+*Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, Han Hu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.com/lucidrains/pixel-level-contrastive-learning)]
+
+**VinVL: Making Visual Representations Matter in Vision-Language Models.**<br>
+*Pengchuan Zhang, Xiujun Li, Xiaowei Hu, Jianwei Yang, Lei Zhang, Lijuan Wang, Yejin Choi, Jianfeng Gao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00529)]
+
+**Learning Spatiotemporal Features via Video and Text Pair Discrimination.**<br>
+*Tianhao Li, [Limin Wang](https://wanglimin.github.io/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05691)] [[Github](https://github.com/MCG-NJU/CPD-Video)]
+
+**(BYOL) Bootstrap your own latent: A new approach to self-supervised Learning.**<br>
+*Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.07733)]
+
+**SimCLRv2: Big Self-Supervised Models are Strong Semi-Supervised Learners.**<br>
+*Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10029)] [[Github](https://github.com/google-research/simclr)]
+
+**SimCLR: A Simple Framework for Contrastive Learning of Visual Representations.**<br>
+*Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/2002.05709)] [[Github](https://github.com/google-research/simclr)]
+
+**MoCov3: An Empirical Study of Training Self-Supervised Vision Transformers.**<br>
+*Xinlei Chen, Saining Xie, Kaiming He.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
+
+**MoCov2: Improved Baselines with Momentum Contrastive Learning.**<br>
+*Xinlei Chen, Haoqi Fan, Ross Girshick, Kaiming He.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.04297)]
+
+**MoCo: Momentum Contrast for Unsupervised Visual Representation Learning.**<br>
+*Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/1911.05722)] [[Github](https://github.com/facebookresearch/moco)]
+
+## Spatiotemporal Representation Learning
+
+**SlowFast: A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning.**<br>
+*Christoph Feichtenhofer, Haoqi Fan, Bo Xiong, Ross Girshick, Kaiming He.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14558)] [[Github](https://github.com/facebookresearch/SlowFast)]
   
 ## Multi-modal Representation Learning and Application
 
@@ -171,24 +222,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.07922)]
 **Learning Visual Representations for Transfer Learning by Suppressing Texture.**<br>
 *Shlok Mishra, Anshul Shah, Ankan Bansal, Jonghyun Choi, Abhinav Shrivastava, Abhishek Sharma, David Jacobs.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
-
-### Unsupervised Visual Representation Learning
-
-**VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples.**<br>
-*Tian Pan, Yibing Song, Tianyu Yang, Wenhao Jiang, Wei Liu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.05905)]
-
-**VinVL: Making Visual Representations Matter in Vision-Language Models.**<br>
-*Pengchuan Zhang, Xiujun Li, Xiaowei Hu, Jianwei Yang, Lei Zhang, Lijuan Wang, Yejin Choi, Jianfeng Gao.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00529)]
-
-**Learning Spatiotemporal Features via Video and Text Pair Discrimination.**<br>
-*Tianhao Li, [Limin Wang](https://wanglimin.github.io/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2001.05691)] [[Github](https://github.com/MCG-NJU/CPD-Video)]
-
-**Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning.**<br>
-*Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, Han Hu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2011.10043)] [[Github](https://github.com/lucidrains/pixel-level-contrastive-learning)]
 
 ### Audio-Visual Learning
 
