@@ -225,6 +225,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
 
 ### Audio-Visual Learning
 
+**Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br> 
+*Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.11116)] [[Github](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)] [[Project](https://hangz-nju-cuhk.github.io/projects/PC-AVS)]
+
 **EVP: Audio-Driven Emotional Video Portraits.**<br> 
 *[Xinya Ji](https://jixinya.github.io), [Hang Zhou](https://hangz-nju-cuhk.github.io/), Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.07452)] [[Project](https://jixinya.github.io/projects/evp/)] [[Github](https://github.com/jixinya/EVP/)]

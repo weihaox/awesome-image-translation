@@ -95,6 +95,10 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)] [[Blog](https://ermongro
 
 Attack (Adversarial Attack, Data Poisoning Attack, *etc*) and Defense
 
+**See through Gradients: Image Batch Recovery via GradInversion.**<br> 
+*Hongxu Yin, Arun Mallya, Arash Vahdat, Jose M. Alvarez, Jan Kautz, Pavlo Molchanov.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.07586)]
+
 **Protecting Intellectual Property of Generative Adversarial Networks from Ambiguity Attack.**<br> 
 *Ding Sheng Ong, Chee Seng Chan, Kam Woh Ng, Lixin Fan, Qiang Yang.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2102.04362)] [[Github](https://github.com/dingsheng-ong/ipr-gan)]

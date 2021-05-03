@@ -1270,6 +1270,10 @@ arxiv 2014. [[PDF](https://arxiv.org/abs/1410.8516)] [[Github](https://github.co
 
 [[awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)]
 
+**StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing.**<br>
+*Hyunsu Kim, Yunjey Choi, Junho Kim, Sungjoo Yoo, Youngjung Uh.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.14754)] [[Github](https://github.com/naver-ai/StyleMapGAN)]
+
 **Style-based Point Generator with Adversarial Rendering for Point Cloud Completion.**<br>
 *Chulin Xie, Chuxin Wang, Bo Zhang, Hao Yang, Dong Chen, Fang Wen.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02535)]
@@ -1361,10 +1365,9 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06490)]
 *Tianyu Hua, Hongdong Zheng, Yalong Bai, Wei Zhang, Xiao-Ping Zhang, Tao Mei.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00356)]
 
-**TrajeVAE -- Controllable Human Motion Generation from Trajectories.**<br>
+**TrajeVAE: Controllable Human Motion Generation from Trajectories.**<br>
 *Kacper Kania, Marek Kowalski, Tomasz Trzciński.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00351)]
-
 
 **Generative Max-Mahalanobis Classifiers for Image Classification, Generation and More.**<br>
 *Xiulong Yang, Hui Ye, Yang Ye, Xiang Li, Shihao Ji.*<br>
