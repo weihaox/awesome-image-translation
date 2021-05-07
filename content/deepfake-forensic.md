@@ -50,6 +50,22 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 
 ### Methods
 
+**Generalizable Representation Learning for Mixture Domain Face Anti-Spoofing.**<br>
+*Zhihong Chen, Taiping Yao, Kekai Sheng, Shouhong Ding, Ying Tai, Jilin Li, Feiyue Huang, Xinyu Jin.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2105.02453)]
+
+**Local Relation Learning for Face Forgery Detection.**<br>
+*Shen Chen, Taiping Yao, Yang Chen, Shouhong Ding, Jilin Li, Rongrong Ji.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2105.02577)]
+
+**Dual-Cross Central Difference Network for Face Anti-Spoofing.**<br>
+*Zitong Yu, Yunxiao Qin, Hengshuang Zhao, Xiaobai Li, Guoying Zhao.*<br>
+IJCAI 2021. [[PDF](https://arxiv.org/abs/2105.01290)]
+
+**An Examination of Fairness of AI Models for Deepfake Detection.**<br>
+*Loc Trinh, Yan Liu.*<br>
+IJCAI 2021. [[PDF](https://arxiv.org/abs/2105.00558)]
+
 **FFIW: Face Forensics in the Wild.**<br>
 *Tianfei Zhou, Wenguan Wang, Zhiyuan Liang, Jianbing Shen.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16076)] [[Github](https://github.com/tfzhou/FFIW)]

@@ -113,6 +113,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**Asymmetric CNN for image super-resolution.**<br>
+*Chunwei Tian, Yong Xu, Wangmeng Zuo, Chia-Wen Lin, David Zhang.*<br>
+IEEE Transactions on Systmes, Man, and Cybernetics: Systems (IEEE TSMC) 2021. [[PDF](https://arxiv.org/pdf/2103.13634.pdf)] [[Github](https://github.com/hellloxiaotian/ACNet)]
+
 **Unsupervised Real-world Image Super Resolution via Domain-distance Aware Training.**<br>
 *Yunxuan Wei, [Shuhang Gu](https://shuhanggu.github.io/), Yawei Li, Longcun Jin.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2004.01178)] [[Github](https://github.com/ShuhangGu/DASR)]
@@ -457,7 +461,11 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ## Misc
 
-### Video Restoration
+### Video Restorationv
+
+**COMISR: Compression-Informed Video Super-Resolution.**<br>
+*Yinxiao Li, Pengchong Jin, Feng Yang, Ce Liu, Ming-Hsuan Yang, Peyman Milanfar.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.01237)]
 
 **BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment.**<br>
 *Kelvin C.K. Chan, Shangchen Zhou, Xiangyu Xu, Chen Change Loy.*<br>
@@ -604,6 +612,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**PD-GAN: Probabilistic Diverse GAN for Image Inpainting.**<br>
+*Hongyu Liu, Ziyu Wan, Wei Huang, Yibing Song, Xintong Han, Jing Liao.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.02201)]
 
 **Clean Images are Hard to Reblur: A New Clue for Deblurring.**<br>
 *Seungjun Nah, Sanghyun Son, Jaerin Lee, Kyoung Mu Lee.*<br>

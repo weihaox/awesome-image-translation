@@ -1064,6 +1064,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyench
 
 #### Frequency
 
+**High-Fidelity and Arbitrary Face Editing.**<br>
+*Yue Gao, Fangyun Wei, Jianmin Bao, Shuyang Gu, Dong Chen, Fang Wen, Zhouhui Lian.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15814)]
+
 **Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection.**<br>
 *Jiaming Li, Hongtao Xie, Jiahong Li, Zhongyuan Wang, Yongdong Zhang.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.09096)]

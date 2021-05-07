@@ -133,6 +133,18 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**Learning Skeletal Articulations with Neural Blend Shapes.**<br>
+*Peizhuo Li, Kfir Aberman, Rana Hanocka, Libin Liu, Olga Sorkine-Hornung, Baoquan Chen.*<br>
+SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2105.02451)] [[Video](https://youtu.be/antc20EFh6k)] [[Project](https://peizhuoli.github.io/neural-blend-shapes/)]
+
+**Animatable Neural Radiance Fields for Human Body Modeling.**<br>
+*Sida Peng, Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.02872)] [[Project](https://zju3dv.github.io/animatable_nerf/)]
+
+**Real-time Deep Dynamic Characters.**<br>
+*Marc Habermann, Lingjie Liu, Weipeng Xu, Michael Zollhoefer, Gerard Pons-Moll, Christian Theobalt.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.01794)]
+
 **Multi-person Implicit Reconstruction from a Single Image.**<br>
 *Armin Mustafa, Akin Caliskan, Lourdes Agapito, Adrian Hilton.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09283)]

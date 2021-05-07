@@ -81,6 +81,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11178)]
 
 ### Visual Representation Learning
 
+**Unsupervised Visual Representation Learning by Tracking Patches in Video.**<br>
+*Guangting Wang, Yizhou Zhou, Chong Luo, Wenxuan Xie, Wenjun Zeng, Zhiwei Xiong.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.02545)] [[Github](github.com/microsoft/CtP)]
+
 **SEER: Self-supervised Pretraining of Visual Features in the Wild.**<br>
 *Priya Goyal, Mathilde Caron, Benjamin Lefaudeux, Min Xu, Pengchao Wang, Vivek Pai, Mannat Singh, Vitaliy Liptchinsky, Ishan Misra, Armand Joulin, Piotr Bojanowski.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01988)]
