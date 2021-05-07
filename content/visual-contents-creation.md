@@ -63,6 +63,18 @@ December, 2017. [Thesis](https://www.cs.cmu.edu/~junyanz/pdf/thesis_highres.pdf)
 
 ## Classical Method Revisiting
 
+**MLP-Mixer: An all-MLP Architecture for Vision.**<br>
+*Ilya Tolstikhin, Neil Houlsby, Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Thomas Unterthiner, Jessica Yung, Daniel Keysers, Jakob Uszkoreit, Mario Lucic, Alexey Dosovitskiy.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.01601)]
+
+**Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet.**<br>
+*Luke Melas-Kyriazi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.02723)] [[Github](https://github.com/lukemelas/do-you-even-need-attention)]
+
+**Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks.**<br>
+*Meng-Hao Guo, Zheng-Ning Liu, Tai-Jiang Mu, Shi-Min Hu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.02358)]
+
 **Involution: Inverting the Inherence of Convolution for Visual Recognition.**<br>
 *Duo Li, Jie Hu, Changhu Wang, Xiangtai Li, Qi She, Lei Zhu, Tong Zhang, Qifeng Chen.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06255)] [[Github](https://github.com/d-li14/involution)]
