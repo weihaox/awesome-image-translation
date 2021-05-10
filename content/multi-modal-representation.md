@@ -428,6 +428,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)]
 
 ### Text-and-Video
 
+**GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions.**<br>
+*Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.14806)]
+
 **The Role of the Input in Natural Language Video Description.**<br>
 *Silvia Cascianelli, Gabriele Costante, Alessandro Devo, Thomas A. Ciarfuglia, Paolo Valigi, Mario L. Fravolini.*<br>
 TMM 2019. [[PDF](https://arxiv.org/abs/2102.05067)]
@@ -445,6 +449,10 @@ IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 IJCAI 2019. [[PDF](https://www.ijcai.org/proceedings/2019/0307.pdf)]
 
 ### Image-to-Text
+
+**Towards Accurate Text-based Image Captioning with Content Diversity Exploration.**<br>
+*Guanghui Xu, Shuaicheng Niu, Mingkui Tan, Yucheng Luo, Qing Du, Qi Wu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.03236)]
 
 **Scan2Cap: Context-aware Dense Captioning in RGB-D Scans.**<br>
 *Dave Zhenyu Chen, Ali Gholami, Matthias Nießner, Angel X. Chang.*<br>

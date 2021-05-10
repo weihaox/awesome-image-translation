@@ -613,6 +613,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Toward Interactive Modulation for Photo-Realistic Image Restoration.**<br>
+*Haoming Cai, Jingwen He, Qiao Yu, Chao Dong.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.03085)]
+
 **PD-GAN: Probabilistic Diverse GAN for Image Inpainting.**<br>
 *Hongyu Liu, Ziyu Wan, Wei Huang, Yibing Song, Xintong Han, Jing Liao.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2105.02201)]

@@ -87,6 +87,14 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others
 
+**Conditional Invertible Neural Networks for Diverse Image-to-Image Translation.**<br>
+*Lynton Ardizzone, Jakob Kruse, Carsten Lüth, Niels Bracher, Carsten Rother, Ullrich Köthe.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/1907.02392)]
+
+**Contrastive Learning for Unsupervised Image-to-Image Translation.**<br>
+*Hanbit Lee, Jinseok Seol, Sang-goo Lee.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.03117)]
+
 **Dual Contrastive Learning for Unsupervised Image-to-Image Translation.**<br>
 *Junlin Han, Mehrdad Shoeiby, Lars Petersson, Mohammad Ali Armin.*<br>
 CVPR NTIRE Workshop 2021. [[PDF](https://arxiv.org/abs/2104.07689)] [[Github](https://github.com/JunlinHan/DCLGAN)]

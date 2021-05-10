@@ -133,6 +133,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/1912.02792v1)]
 
 ## Clothed People Digitalization
 
+**LASR: Learning Articulated Shape Reconstruction from a Monocular Video.**<br>
+*Gengshan Yang, Deqing Sun, Varun Jampani, Daniel Vlasic, Forrester Cole, Huiwen Chang, Deva Ramanan, William T. Freeman, Ce Liu.*<br>
+CVPR 20201. [[PDF](https://arxiv.org/abs/2105.02976)] [[Project](https://lasr-google.github.io/)]
+
 **Learning Skeletal Articulations with Neural Blend Shapes.**<br>
 *Peizhuo Li, Kfir Aberman, Rana Hanocka, Libin Liu, Olga Sorkine-Hornung, Baoquan Chen.*<br>
 SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2105.02451)] [[Video](https://youtu.be/antc20EFh6k)] [[Project](https://peizhuoli.github.io/neural-blend-shapes/)]
