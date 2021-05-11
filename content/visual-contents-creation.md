@@ -159,6 +159,16 @@ ICLR 2019 (Best paper award). [[PDF](https://arxiv.org/abs/1803.03635)] [[Github
 
 ## Interactive and Controllable Image Manipulation
 
+### Heterogeneous Face Translation
+
+**FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains.**<br>
+*Jia Li, Zhaoyang Li, Jie Cao, Xingguan Song, Ran He.*<br>
+CVPR 2021.
+
+**Few-shot Image Generation via Cross-domain Correspondence.**<br>
+*[Utkarsh Ojha](https://utkarshojha.github.io/), [Yijun Li](https://yijunmaverick.github.io/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Richard Zhang](https://richzhang.github.io/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06820)] [[Project](https://utkarshojha.github.io/few-shot-gan-adaptation/)] [[Github](https://github.com/utkarshojha/few-shot-gan-adaptation)]
+
 ### Highlight Component 
 
 **Zoom-in to the Details of Human-Centric Videos.**<br>
@@ -589,6 +599,10 @@ AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1812.02350v1)] [[Project](https://research.nvidia.com/publication/2018-10_Context-aware-Synthesis-and)]
 
 ### Generating Accurate Descriptions
+
+**e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks.**<br>
+*Maxime Kayser, Oana-Maria Camburu, Leonard Salewski, Cornelius Emde, Virginie Do, Zeynep Akata, Thomas Lukasiewicz.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.03761)]
 
 **Describing Textures using Natural Language.**<br>
 *Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
@@ -1285,6 +1299,10 @@ arxiv 2014. [[PDF](https://arxiv.org/abs/1410.8516)] [[Github](https://github.co
 ### StyleGAN-Based Method
 
 [[awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)]
+
+**Few-shot Image Generation via Cross-domain Correspondence.**<br>
+*[Utkarsh Ojha](https://utkarshojha.github.io/), [Yijun Li](https://yijunmaverick.github.io/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Richard Zhang](https://richzhang.github.io/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06820)] [[Project](https://utkarshojha.github.io/few-shot-gan-adaptation/)] [[Github](https://github.com/utkarshojha/few-shot-gan-adaptation)]
 
 **StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing.**<br>
 *Hyunsu Kim, Yunjey Choi, Junho Kim, Sungjoo Yoo, Youngjung Uh.*<br>
