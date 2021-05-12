@@ -229,6 +229,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01901)]
 
 ### Audio-Visual Learning
 
+**Spoken Moments: Learning Joint Audio-Visual Representations from Video Descriptions.**<br> 
+*Mathew Monfort, SouYoung Jin, Alexander Liu, David Harwath, Rogerio Feris, James Glass, Aude Oliva.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.04489)]
+
 **Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br> 
 *Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.11116)] [[Github](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)] [[Project](https://hangz-nju-cuhk.github.io/projects/PC-AVS)]
@@ -393,6 +397,10 @@ NeurIPS 2017. [[PDF](https://jiajunwu.com/papers/fastsound_nips.pdf)] [[Project]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08779)] [[Project](https://google.github.io/aichoreographer/)] [[Code](https://google.github.io/aistplusplus_dataset/)]
 
 ### Image-to-Video
+
+**Stochastic Image-to-Video Synthesis using cINNs.**<br>
+*Michael Dorkenwald, Timo Milbich, Andreas Blattmann, Robin Rombach, Konstantinos G. Derpanis, Björn Ommer.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.04551)]
 
 **Dual-MTGAN: Stochastic and Deterministic Motion Transfer for Image-to-Video Synthesis.**<br>
 *Fu-En Yang, Jing-Cheng Chang, Yuan-Hao Lee, Yu-Chiang Frank Wang.*<br>

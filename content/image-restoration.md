@@ -461,7 +461,11 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ## Misc
 
-### Video Restorationv
+### Video Restoration
+
+**FastDVDnet: Towards Real-Time Deep Video Denoising Without Flow Estimation.**<br>
+*Matias Tassano, Julie Delon, Thomas Veit.*<br>
+CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Tassano_FastDVDnet_Towards_Real-Time_Deep_Video_Denoising_Without_Flow_Estimation_CVPR_2020_paper.html)] [[Github](https://github.com/m-tassano/fastdvdnet)]
 
 **COMISR: Compression-Informed Video Super-Resolution.**<br>
 *Yinxiao Li, Pengchong Jin, Feng Yang, Ce Liu, Ming-Hsuan Yang, Peyman Milanfar.*<br>

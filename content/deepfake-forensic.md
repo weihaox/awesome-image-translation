@@ -264,3 +264,9 @@ ICCV, 2019.
 **Fighting Fake News: Image Splice Detection via Learned Self-Consistency.**<br>
 *Minyoung Huh, Andrew Liu, Andrew Owens, Alexei A. Efros.*<br>
 ECCV 2018. [[Github](https://github.com/minyoungg/selfconsistency)] [[Project](https://minyoungg.github.io/selfconsistency/)]
+
+### Deepfake
+
+**One Shot Face Swapping on Megapixels.**<br>
+*Yuhao Zhu, Qi Li, Jian Wang, Chengzhong Xu, Zhenan Sun.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2105.04932.pdf)]
