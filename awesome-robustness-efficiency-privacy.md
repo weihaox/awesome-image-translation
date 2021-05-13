@@ -652,8 +652,11 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.16835.pdf)]
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github.com/NVlabs/stylegan2-ada)] [[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada)]
 
-
 ## Open-World and Out-of-Distribution Dataset
+
+**Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions with Superior OOD Generalization.**<br> 
+*Damien Teney, Ehsan Abbasnejad, Simon Lucey, Anton van den Hengel.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.05612)]
 
 **OpenGAN: Open-Set Recognition via Open Data Generation.**<br> 
 *Shu Kong, Deva Ramanan.*<br> 

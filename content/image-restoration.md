@@ -17,6 +17,10 @@
 
 ## Replacing ISP
 
+**CameraNet: A Two-Stage Framework for Effective Camera ISP Learning.**<br>
+*[Zhetong Liang](https://scholar.google.com/citations?user=fCnuU9YAAAAJ&hl=en), [Jianrui Cai](https://csjcai.github.io/), [Zisheng Cao](https://www.linkedin.com/in/zisheng-cao-66973360/?originalSubdomain=hk), [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/).*<br>
+TIP 2021. [[PDF](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CameraNet.pdf)] [[Github](https://github.com/ilegendforever/CameraNet_official)]
+
 **Neural Camera Simulators.**<br>
 *Hao Ouyang, Zifan Shi, Chenyang Lei, Ka Lung Law, Qifeng Chen.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05237)]
@@ -24,6 +28,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05237)]
 **Invertible Image Signal Processing.**<br>
 *Yazhou Xing, Zian Qian, Qifeng Chen.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15061)] [[Github](https://github.com/yzxing87/Invertible-ISP)]
+
+**Pseudo-ISP: Learning Pseudo In-camera Signal Processing Pipeline from A Color Image Denoiser.**<br>
+*Yue Cao, Xiaohe Wu, Shuran Qi, Xiao Liu, Zhongqin Wu, Wangmeng Zuo.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10234)] [[Github](https://github.com/happycaoyue/Pseudo-ISP)]
 
 **Mobile Computational Photography: A Tour.**<br>
 *Mauricio Delbracio, Damien Kelly, Michael S. Brown, Peyman Milanfar.*<br>
@@ -616,6 +624,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**Enhancing Photorealism Enhancement.**<br>
+*Stephan R. Richter, Hassan Abu AlHaija, Vladlen Koltun.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2105.04619.pdf)] [[Github](https://github.com/intel-isl/PhotorealismEnhancement)]  [[Video](https://youtu.be/P1IcaBn3ej0)]
 
 **Toward Interactive Modulation for Photo-Realistic Image Restoration.**<br>
 *Haoming Cai, Jingwen He, Qiao Yu, Chao Dong.*<br>

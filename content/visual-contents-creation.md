@@ -636,7 +636,7 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
 
 **Aligning Latent and Image Spaces to Connect the Unconnectable.**<br>
 *Ivan Skorokhodov, Grigorii Sotnikov, Mohamed Elhoseiny.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06954)] [[Project](https://universome.github.io/alis)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06954)] [[Project](https://universome.github.io/alis)] [[Github](https://github.com/universome/alis)]
 
 **In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
 *Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
@@ -1946,6 +1946,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09694)] [[Project](http://pwang.pw
 SIGGRAPH Asia 2018. [[PDF](https://dl.acm.org/doi/10.1145/3272127.3275051)] [[Project](http://haopan.github.io/sketchCNN.html)] [[Github](https://github.com/Enigma-li/SketchCNN)]
 
 ### 2D Sketch to 2D Image
+
+**Adversarial Open Domain Adaption for Sketch-to-Photo Synthesis.**<br>
+*Xiaoyu Xiang, Ding Liu, Xiao Yang, Yiheng Zhu, Xiaohui Shen, Jan P. Allebach.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2104.05703v1.pdf)] [[AODA](https://github.com/Mukosame/AODA)] [[Anime2Sketch](https://github.com/Mukosame/Anime2Sketch)]
 
 **Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches.**<br>
 *Benoit Guillard, Edoardo Remelli, Pierre Yvernay, Pascal Fua.*<br>
