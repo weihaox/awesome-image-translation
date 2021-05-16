@@ -789,9 +789,9 @@ ICLR 2021. [[PDF](https://openreview.net/forum?id=5NA1PinlGFu)] [[Github](https:
 *Yadong Lu, Yinhao Zhu, Yang Yang, Amir Said, Taco S Cohen.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02913)]
 
-**Multi-Stage Progressive Image Restoration.**<br>
+**MPRNet: Multi-Stage Progressive Image Restoration.**<br>
 *Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang, Ling Shao.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02808)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2102.02808)] [[Github](https://github.com/swz30/MPRNet)]
 
 **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data.**<br>
 *Ru Li, Chuan Wang, Shuaicheng Liu, Jue Wang, Guanghui Liu, Bing Zeng.*<br>

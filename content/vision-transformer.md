@@ -441,7 +441,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15670)]
 
 **Multimodal Motion Prediction with Stacked Transformers.**<br>
 *Yicheng Liu, Jinghuai Zhang, Liangji Fang, Qinhong Jiang, Bolei Zhou.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.11624)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.11624)] [[Github](https://github.com/decisionforce/mmTransformer)] [[Project](https://decisionforce.github.io/mmTransformer/)]
 
 **UPDeT: Universal Multi-agent RL via Policy Decoupling with Transformers.**<br>
 *Siyi Hu, Fengda Zhu, Xiaojun Chang, Xiaodan Liang.*<br>

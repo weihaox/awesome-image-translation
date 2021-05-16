@@ -431,6 +431,10 @@ NIPS 2017. [[PDF](https://arxiv.org/abs/1705.08086)] [[Github](https://github.co
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
 
+**HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms.**<br> 
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Marcus A. Brubaker](https://mbrubake.github.io/), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.11731)] [[Github](https://github.com/mahmoudnafifi/HistoGAN)]
+
 **Progressive and Aligned Pose Attention Transfer for Person Image Generation.**<br> 
 *Zhen Zhu, Tengteng Huang, Mengde Xu, Baoguang Shi, Wenqing Cheng, Xiang Bai.*<br> 
 TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.11622)]
@@ -1162,7 +1166,7 @@ arxiv 2020. [[PDF](https://arxiv.org/pdf/2011.10063.pdf)]
 
 **FastGAN: Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis.**<br>
 *Bingchen Liu, Yizhe Zhu, Kunpeng Song, Ahmed Elgammal.*<br>
-ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04775)] [[Data and Code](https://github.com/odegeasslbc/FastGAN-pytorch)]
+ICLR 2021. [[PDF](https://arxiv.org/abs/2101.04775)] [[Github](https://github.com/lucidrains/lightweight-gan)] [[Data](https://github.com/odegeasslbc/FastGAN-pytorch)]
 
 **Focal Frequency Loss for Generative Models.**<br>
 *[Liming Jiang](https://liming-jiang.com/), [Bo Dai](http://daibo.info/), [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).*<br>
@@ -1390,6 +1394,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### misc
+
+**Diffusion Models Beat GANs on Image Synthesis.**<br>
+*Prafulla Dhariwal, Alex Nichol.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.05233)] [[Github](https://github.com/openai/guided-diffusion)]
 
 **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort.**<br>
 *Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler.*<br>
