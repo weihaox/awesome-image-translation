@@ -121,6 +121,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**End-to-end Alternating Optimization for Blind Super Resolution.**<br>
+*Zhengxiong Luo, Yan Huang, Shang Li, Liang Wang, Tieniu Tan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2010.02631)] [[Github](https://github.com/greatlog/DAN.git)]
+
 **Asymmetric CNN for image super-resolution.**<br>
 *Chunwei Tian, Yong Xu, Wangmeng Zuo, Chia-Wen Lin, David Zhang.*<br>
 IEEE Transactions on Systmes, Man, and Cybernetics: Systems (IEEE TSMC) 2021. [[PDF](https://arxiv.org/pdf/2103.13634.pdf)] [[Github](https://github.com/hellloxiaotian/ACNet)]
@@ -1162,8 +1166,8 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00448)] [[Github](https://github.co
 CVPR 2020. [[PDF](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval_/02197.pdf)] [[Github](https://github.com/alex04072000/ObstructionRemoval)] [[Project](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/ObstructionRemoval)]
 
 **DeepLPF: Deep Local Parametric Filters for Image Enhancement.**<br>
-*Sean Moran, Pierre Marza, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)]
+*[Sean Moran](http://www.seanjmoran.com/), Pierre Marza, [Steven McDonagh](https://smcdonagh.github.io/), [Sarah Parisot](https://parisots.github.io/), [Gregory Slabaugh](http://gregslabaugh.net/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13985)] [[Github](https://github.com/sjmoran/DeepLPF)]
 
 **EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network.**<br>
 *Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang.*<br>
@@ -1448,6 +1452,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16673)]
 **End-to-End Differentiable Learning to HDR Image Synthesis for Multi-Exposure Images.**<br>
 *Jung Hee Kim, Siyeong Lee, Soyeon Jo, Suk-Ju Kang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.15833)]
+
+**CFSNet: Toward a Controllable Feature Space for Image Restoration.**<br>
+*Wei Wang, Ruiming Guo, Yapeng Tian, Wenming Yang.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1904.00634)] [[Github](https://github.com/qibao77/CFSNet)]
 
 ## Challenge and Survey
 

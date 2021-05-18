@@ -51,6 +51,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Few-shot Image Generation via Cross-domain Correspondence.**[[PDF](https://arxiv.org/abs/2104.06820)] [[Project](https://utkarshojha.github.io/few-shot-gan-adaptation/)] [[Github](https://github.com/utkarshojha/few-shot-gan-adaptation)] <br>
 *Utkarsh Ojha, Yijun Li, Jingwan Lu, Alexei A. Efros, Yong Jae Lee, Eli Shechtman, Richard Zhang.*<br>
 
+**Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2008.00951)] [[Github](https://github.com/eladrich/pixel2style2pixel)] [[Project](eladrich.github.io/pixel2style2pixel/)]<br>
+*Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
+
 **Memory-guided Unsupervised Image-to-image Translation.[[PDF](https://arxiv.org/abs/2104.05170)]**<br> 
 *Somi Jeong, Youngjung Kim, Eungbean Lee, Kwanghoon Sohn.*<br>
 
@@ -405,10 +408,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.12568)] [[Github](https://github.c
 **BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
 *Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
 arxiv 2020.[[PDF](https://arxiv.org/abs/2010.02036)]
-
-**Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
-*Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.00951)] [[Github](https://github.com/eladrich/pixel2style2pixel)] [[Project](eladrich.github.io/pixel2style2pixel/)]
 
 **Semantically Adaptive Image-to-image Translation for Domain Adaptation of Semantic Segmentation.**<br>
 *Luigi Musto, Andrea Zinelli.*<br>

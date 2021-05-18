@@ -63,6 +63,14 @@ December, 2017. [Thesis](https://www.cs.cmu.edu/~junyanz/pdf/thesis_highres.pdf)
 
 ## Classical Method Revisiting
 
+**Rethinking "Batch" in BatchNorm.**<br>
+*Yuxin Wu, Justin Johnson.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.07576)]
+
+**Pay Attention to MLPs.**<br>
+*Hanxiao Liu, Zihang Dai, David R. So, Quoc V. Le.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.08050)]
+
 **MLP-Mixer: An all-MLP Architecture for Vision.**<br>
 *Ilya Tolstikhin, Neil Houlsby, Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Thomas Unterthiner, Jessica Yung, Daniel Keysers, Jakob Uszkoreit, Mario Lucic, Alexey Dosovitskiy.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.01601)]
@@ -360,6 +368,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02638)] [[Github](https://github.c
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
 
 ### Disentanglement
+
+**Omnimatte: Associating Objects and Their Effects in Video.**<br>
+*Erika Lu, Forrester Cole, Tali Dekel, Andrew Zisserman, William T. Freeman, Michael Rubinstein.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.06993)] [[Github](https://omnimatte.github.io/)]
 
 **CS-DisMo: Rethinking Content and Style - Exploring Bias for Unsupervised Disentanglement.**<br>
 *Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
@@ -1920,6 +1932,10 @@ SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https
 [[TorchSketch](https://github.com/PengBoXiangShang/torchsketch)] is an open source software library for free-hand sketch oriented deep learning research, which is built on the top of PyTorch.
 
 ### 2D Sketch to 3D Model
+
+**Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches.**<br>
+*Song-Hai Zhang, Yuan-Chen Guo, Qing-Wen Gu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.06663)]
 
 **Sketch2CAD: Sequential CAD Modeling by Sketching in Context.**<br>
 *[Changjian Li](https://enigma-li.github.io/), [Hao Pan](http://haopan.github.io/), [Adrien Bousseau](http://www-sop.inria.fr/members/Adrien.Bousseau/), [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).*<br>

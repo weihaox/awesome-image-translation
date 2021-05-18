@@ -971,9 +971,13 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
 
+**Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation.**<br>
+*Suman Saha, Anton Obukhov, Danda Pani Paudel, Menelaos Kanakis, Yuhua Chen, Stamatios Georgoulis, Luc Van Gool.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09415)]
+
 **Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation.**<br>
 *Jichang Li, Guanbin Li, Yemin Shi, Yizhou Yu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09415)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.07830)]
 
 **Unsupervised Multi-source Domain Adaptation Without Access to Source Data.**<br>
 *Sk Miraj Ahmed, Dripta S. Raychaudhuri, Sujoy Paul, Samet Oymak, Amit K. Roy-Chowdhury.*<br>
