@@ -433,9 +433,13 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06666)] [[Github](https://github.c
 
 ### Single-Image Training 
 
+**ExSinGAN: Learning an Explainable Generative Model from a Single Image.**<br> 
+*ZiCheng Zhang, CongYing Han, TianDe Guo.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.07350)]
+
 **IMAGINE: Image Synthesis by Image-Guided Model Inversion.**<br> 
 *Pei Wang, Yijun Li, Krishna Kumar Singh, Jingwan Lu, Nuno Vasconcelos.*<br> 
-CVPR 2021. [[PDF](https://arxiv.org/pdf/2104.05895.pdf)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05895)]
 
 **One-Shot GAN: Learning to Generate Samples from Single Images and Videos.**<br> 
 *Vadim Sushko, Juergen Gall, Anna Khoreva.*<br> 
@@ -567,6 +571,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2004.03355)]
 **Bias and Generalization in Deep Generative Models: An Empirical Study.**<br>
 *Shengjia Zhao, Hongyu Ren, Arianna Yuan, Jiaming Song, Noah Goodman, Stefano Ermon.*<br>
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1811.03259)]
+
+**Undoing the Damage of Dataset Bias.**<br>
+*A Khosla, T Zhou, T Malisiewicz, A Efros, A Torralba.*<br>
+ECCV 2012. [[PDF](https://link.springer.com/content/pdf/10.1007/978-3-642-33718-5_12.pdf)]
 
 **Unbiased Look at Dataset Bias.**<br>
 *Antonio Torralba, Alexei A. Efros.*<br>

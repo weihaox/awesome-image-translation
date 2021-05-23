@@ -1106,6 +1106,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyench
 
 #### Frequency
 
+**LPTN: High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network.**<br>
+*Jie Liang, Hui Zeng, Lei Zhang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.09188)] [[Github](https://arxiv.org/pdf/2105.09188.pdf)]
+
 **High-Fidelity and Arbitrary Face Editing.**<br>
 *Yue Gao, Fangyun Wei, Jianmin Bao, Shuyang Gu, Dong Chen, Fang Wen, Zhouhui Lian.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15814)]

@@ -458,6 +458,10 @@ IJCAI 2019. [[PDF](https://www.ijcai.org/proceedings/2019/0307.pdf)]
 
 ### Image-to-Text
 
+**Dependent Multi-Task Learning with Causal Intervention for Image Captioning.**<br>
+*Wenqing Chen, Jidong Tian, Caoyun Fan, Hao He, Yaohui Jin.*<br>
+IJCAI 2021. [[PDF](https://arxiv.org/abs/2105.08573)]
+
 **Towards Accurate Text-based Image Captioning with Content Diversity Exploration.**<br>
 *Guanghui Xu, Shuaicheng Niu, Mingkui Tan, Yucheng Luo, Qing Du, Qi Wu.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2105.03236)]

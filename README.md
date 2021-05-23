@@ -45,6 +45,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2021
 
+**LPTN: High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network.** [[PDF](https://arxiv.org/abs/2105.09188)] [[Github](https://arxiv.org/pdf/2105.09188.pdf)]<br>
+*Jie Liang, Hui Zeng, Lei Zhang.*<br>
+
 **CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation.**[[PDF](https://arxiv.org/abs/2012.02047)]<br> 
 *Xingran Zhou, Bo Zhang, Ting Zhang, [Pan Zhang](https://panzhang0212.github.io/), Jianmin Bao, Dong Chen, Zhongfei Zhang, Fang Wen.*<br>
 
