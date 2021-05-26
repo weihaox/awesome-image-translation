@@ -121,6 +121,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**FBI-Denoiser: Fast Blind Image Denoiser for Poisson-Gaussian Noise.**<br>
+*Jaeseok Byun, Sungmin Cha, Taesup Moon.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.10967)]
+
 **End-to-end Alternating Optimization for Blind Super Resolution.**<br>
 *Zhengxiong Luo, Yan Huang, Shang Li, Liang Wang, Tieniu Tan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2010.02631)] [[Github](https://github.com/greatlog/DAN.git)]
@@ -571,7 +575,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.04482)]
 *[Xiaohong Liu](https://xiaohongliu.ca), Kangdi Shi, Zhe Wang, Jun Chen.*<br>
 TIP 2020. [[PDF](https://arxiv.org/abs/2008.10710)]
 
-**Low light video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping.**<br>
+**Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping.**<br>
 *Danai Triantafyllidou, Sean Moran, Steven McDonagh, Sarah Parisot, Gregory Slabaugh.*<br> 
 ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103.pdf)] [[Supplement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580103-supp.zip)]
 

@@ -390,6 +390,21 @@ NeurIPS 2017. [[PDF](https://jiajunwu.com/papers/fastsound_nips.pdf)] [[Project]
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
 [[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
 
+### Music to Dance
+
+**ChoreoMaster: Choreography-Oriented Music-Driven Dance Synthesis.**<br>
+*Chen Kang, Zhipeng Tan, Jin Lei, Song-Hai Zhang, Yuan-Chen Guo, Weidong Zhang, Shi-Min Hu.*<br>
+SIGGRAPH 2021. [[PDF]()] [[Video](https://www.youtube.com/watch?v=V8MlYa_yhF0)]
+
+**ChoreoNet: Towards Music to Dance Synthesis with Choreographic Action Unit.**<br>
+*Zijie Ye, Haozhe Wu, Jia Jia, Yaohua Bu, Wei Chen, Fanbo Meng, Yanfeng Wang.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.07637)]
+
+**Self-supervised Dance Video Synthesis Conditioned on Music.**<br>
+(**Music-oriented Dance Video Synthesis with Pose Perceptual Loss.**<br>)
+*[Xuanchi Ren](https://xuanchiren.com/), Haoran Li, Zijian Huang, Qifeng Chen.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/1912.06606)] [[Github](https://github.com/xrenaa/Music-Dance-Video-Synthesis)]
+
 ### Others-to-3D
 
 **Learn to Dance with AIST++: Music Conditioned 3D Dance Generation.**<br>

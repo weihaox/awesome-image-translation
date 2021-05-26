@@ -439,6 +439,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15670)]
 
 ## Misc
 
+**Intriguing Properties of Vision Transformers.**<br>
+*Muzammal Naseer, Kanchana Ranasinghe, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.10497)] [[Github](https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers)]
+
 **Multimodal Motion Prediction with Stacked Transformers.**<br>
 *Yicheng Liu, Jinghuai Zhang, Liangji Fang, Qinhong Jiang, Bolei Zhou.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.11624)] [[Github](https://github.com/decisionforce/mmTransformer)] [[Project](https://decisionforce.github.io/mmTransformer/)]

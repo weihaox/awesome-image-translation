@@ -147,6 +147,10 @@ ICLR 2019. [[PDF](https://arxiv.org/pdf/1904.08444.pdf)] [[Poster](https://www.d
 
 Membership Inference, Federated Learning, Differential Privacy, *etc*.
 
+**High Fidelity Fingerprint Generation: Quality, Uniqueness, and Privacy.**<br> 
+*Keivan Bahmani, Richard Plesh, Peter Johnson, Stephanie Schuckers, Timothy Swyka.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.10403)]
+
 **Privacy-Preserving Portrait Matting.**<br> 
 *Jizhizi Li, Sihan Ma, Jing Zhang, Dacheng Tao.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.14222)]
