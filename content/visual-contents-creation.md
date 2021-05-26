@@ -1409,11 +1409,25 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 *Kasperi Palkama, Lauri Juvela, Alexander Ilin.*<br>
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
-### misc
+### Diffusion Probabilistic Models
 
 **Diffusion Models Beat GANs on Image Synthesis.**<br>
-*Prafulla Dhariwal, Alex Nichol.*<br>
+*[Prafulla Dhariwal](https://prafulladhariwal.com/), Alex Nichol.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2105.05233)] [[Github](https://github.com/openai/guided-diffusion)]
+
+**Improved Denoising Diffusion Probabilistic Models.**<br>
+*Alex Nichol, Prafulla Dhariwal.*<br>
+ICLM 2021. [[PDF](https://arxiv.org/abs/2102.09672)] [[Github](https://github.com/openai/improved-diffusion)]
+
+**DDPM: Denoising Diffusion Probabilistic Models.**<br>
+*[Jonathan Ho](http://www.jonathanho.me/), [Ajay Jain](https://www.ajayjain.net/), [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11239)] [[Project](https://hojonathanho.github.io/diffusion)] [[Github](https://github.com/hojonathanho/diffusion)]
+
+**DDIM: Denoising Diffusion Implicit Models.**<br>
+*Jiaming Song, Chenlin Meng, Stefano Ermon.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02502)] [[Github](https://github.com/ermongroup/ddim)]
+
+### misc
 
 **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort.**<br>
 *Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler.*<br>
