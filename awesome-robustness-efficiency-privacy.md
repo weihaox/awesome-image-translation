@@ -504,6 +504,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01049)]
 
 active learning, metric learning, contrastive learning, label learning, *etc*.
 
+**On the Bias Against Inductive Biases.**<br>
+*George Cazenavette, Simon Lucey.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14077)]
+
+**StyTr^2: Unbiased Image Style Transfer with Transformers.**<br>
+*Yingying Deng, Fan Tang, Xingjia Pan, Weiming Dong, ChongyangMa, Changsheng Xu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14576)]
+
 **Permuted AdaIN: Reducing the Bias Towards Global Statistics in Image Classification.**<br>
 *Oren Nuriel, Sagie Benaim, Lior Wolf.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2010.05785)] [[Github](https://github.com/onuriel/PermutedAdaIN)]

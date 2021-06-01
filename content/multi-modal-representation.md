@@ -413,6 +413,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08779)] [[Project](https://google.
 
 ### Image-to-Video
 
+**Image-to-Video Generation via 3D Facial Dynamics.**<br>
+*Xiaoguang Tu, Yingtian Zou, Jian Zhao, Wenjie Ai, Jian Dong, Yuan Yao, Zhikang Wang, Guodong Guo, Zhifeng Li, Wei Liu, Jiashi Feng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14678)]
+
 **Stochastic Image-to-Video Synthesis using cINNs.**<br>
 *Michael Dorkenwald, Timo Milbich, Andreas Blattmann, Robin Rombach, Konstantinos G. Derpanis, Björn Ommer.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2105.04551)]
@@ -586,6 +590,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)] 
 
 ### Text-to-Image
+
+**CogView: Mastering Text-to-Image Generation via Transformers.**<br>
+*Ming Ding, Zhuoyi Yang, Wenyi Hong, Wendi Zheng, Chang Zhou, Da Yin, Junyang Lin, Xu Zou, Zhou Shao, Hongxia Yang, Jie Tang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.13290)] [[Github](https://github.com/THUDM/CogView)] [[Demo](https://lab.aminer.cn/cogview/index.html)]
 
 **Paint by Word.**<br>
 *David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>

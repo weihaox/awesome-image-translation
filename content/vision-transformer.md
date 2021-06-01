@@ -50,6 +50,12 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
 *Sara Atito, Muhammad Awais, Josef Kittler.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
+### Others
+
+**An Attention Free Transformer.**<br>
+*Shuangfei Zhai, Walter Talbott, Nitish Srivastava, Chen Huang, Hanlin Goh, Ruixiang Zhang, Josh Susskind.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14103)]
+
 ## Survey
 
 **A Survey on Visual Transformer.**<br>
@@ -119,6 +125,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 ## Tracking, Detection and Segmentation
+
+**SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers.**<br>
+*Enze Xie, Wenhai Wang, Zhiding Yu, Anima Anandkumar, Jose M. Alvarez, Ping Luo.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.15203)]
 
 **Multi-Modal Fusion Transformer for End-to-End Autonomous Driving.**<br>
 *Aditya Prakash, Kashyap Chitta, Andreas Geiger.*<br>
@@ -221,6 +231,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05292)]
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
 
 ## Generation
+
+**StyTr^2: Unbiased Image Style Transfer with Transformers.**<br>
+*Yingying Deng, Fan Tang, Xingjia Pan, Weiming Dong, ChongyangMa, Changsheng Xu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14576)]
 
 **Cloth Interactive Transformer for Virtual Try-On.**<br>
 *Bin Ren, Hao Tang, Fanyang Meng, Runwei Ding, Ling Shao, Philip H.S. Torr, Nicu Sebe.*<br>
@@ -359,6 +373,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 ## Multi-modality
+
+**UFC-BERT: Unifying Multi-Modal Controls for Conditional Image Synthesis.**<br>
+*Zhu Zhang, Jianxin Ma, Chang Zhou, Rui Men, Zhikang Li, Ming Ding, Jie Tang, Jingren Zhou, Hongxia Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14211)]
+
+**CogView: Mastering Text-to-Image Generation via Transformers.**<br>
+*Ming Ding, Zhuoyi Yang, Wenyi Hong, Wendi Zheng, Chang Zhou, Da Yin, Junyang Lin, Xu Zou, Zhou Shao, Hongxia Yang, Jie Tang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.13290)] [[Github](https://github.com/THUDM/CogView)] [[Demo](https://lab.aminer.cn/cogview/index.html)]
 
 **VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text.**<br>
 *Hassan Akbari, Linagzhe Yuan, Rui Qian, Wei-Hong Chuang, Shih-Fu Chang, Yin Cui, Boqing Gong.*<br>

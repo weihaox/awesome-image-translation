@@ -443,6 +443,14 @@ NIPS 2017. [[PDF](https://arxiv.org/abs/1705.08086)] [[Github](https://github.co
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
 
+**UFC-BERT: Unifying Multi-Modal Controls for Conditional Image Synthesis.**<br>
+*Zhu Zhang, Jianxin Ma, Chang Zhou, Rui Men, Zhikang Li, Ming Ding, Jie Tang, Jingren Zhou, Hongxia Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14211)]
+
+**Controllable Person Image Synthesis with Spatially-Adaptive Warped Normalization.**<br> 
+*Jichao Zhang, Aliaksandr Siarohin, Hao Tang, Jingjing Chen, Enver Sangineto, Wei Wang, Nicu Sebe.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14739)]
+
 **HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms.**<br> 
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Marcus A. Brubaker](https://mbrubake.github.io/), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.11731)] [[Github](https://github.com/mahmoudnafifi/HistoGAN)]
@@ -992,6 +1000,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github
 
 ## 3D Shape Generation and Manipulation
 
+**Scene-aware Generative Network for Human Motion Synthesis.**<br>
+*Jingbo Wang, Sijie Yan, Bo Dai, Dahua Lin.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.14804)]
+
 **KeypointDeformer: Unsupervised 3D Keypoint Discovery for Shape Control.**<br>
 *Tomas Jakab, Richard Tucker, Ameesh Makadia, Jiajun Wu, Noah Snavely, Angjoo Kanazawa.*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.11224)] [[Project](http://tomasjakab.github.io/KeypointDeformer)]
@@ -1413,7 +1425,7 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 **Diffusion Models Beat GANs on Image Synthesis.**<br>
 *[Prafulla Dhariwal](https://prafulladhariwal.com/), Alex Nichol.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2105.05233)] [[Github](https://github.com/openai/guided-diffusion)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.05233)] [[Github](https://github.com/openai/guided-diffusion)]
 
 **Improved Denoising Diffusion Probabilistic Models.**<br>
 *Alex Nichol, Prafulla Dhariwal.*<br>

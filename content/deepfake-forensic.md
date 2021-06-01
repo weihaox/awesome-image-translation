@@ -50,6 +50,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 
 ### Methods
 
+**Beyond the Spectrum: Detecting Deepfakes via Re-Synthesis.**<br>
+*Yang He, Ning Yu, Margret Keuper, Mario Fritz.*<br>
+IJCAI 2021. [[PDF](https://arxiv.org/abs/2105.14376)] [[Github](https://github.com/SSAW14/BeyondtheSpectrum)]
+
 **Unsupervised Compound Domain Adaptation for Face Anti-Spoofing.**<br>
 *Ankush Panwar, Pratyush Singh, Suman Saha, Danda Pani Paudel, Luc Van Gool.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.08463)]

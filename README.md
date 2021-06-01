@@ -96,6 +96,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others
 
+**MixerGAN: An MLP-Based Architecture for Unpaired Image-to-Image Translation.**<br>
+*George Cazenavette, Manuel Ladron De Guevara.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14110)]
+
 **Conditional Invertible Neural Networks for Diverse Image-to-Image Translation.**<br>
 *Lynton Ardizzone, Jakob Kruse, Carsten Lüth, Niels Bracher, Carsten Rother, Ullrich Köthe.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/1907.02392)]
