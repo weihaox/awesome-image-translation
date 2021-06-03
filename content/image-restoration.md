@@ -633,6 +633,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Fourier Space Losses for Efficient Perceptual Image Super-Resolution.**<br>
+*Dario Fuoli, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.00783)]
+
 **Enhancing Photorealism Enhancement.**<br>
 *Stephan R. Richter, Hassan Abu AlHaija, Vladlen Koltun.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2105.04619.pdf)] [[Github](https://github.com/intel-isl/PhotorealismEnhancement)]  [[Video](https://youtu.be/P1IcaBn3ej0)]

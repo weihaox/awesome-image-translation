@@ -515,7 +515,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.07396)] [[Project](https://artemis
 
 **XMC-GA: Cross-Modal Contrastive Learning for Text-to-Image Generation.**<br>
 *Han Zhang, Jing Yu Koh, Jason Baldridge, Honglak Lee, Yinfei Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04702)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2101.04702)]
 
 **Semantic Grouping Network for Video Captioning.**<br>
 *Hobin Ryu, Sunghun Kang, Haeyong Kang, Chang D. Yoo.*<br>
@@ -590,6 +590,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
 CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)] 
 
 ### Text-to-Image
+
+**Language-Driven Image Style Transfer.**<br>
+*Tsu-Jui Fu, Xin Eric Wang, William Yang Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2106.00178.pdf)]
 
 **CogView: Mastering Text-to-Image Generation via Transformers.**<br>
 *Ming Ding, Zhuoyi Yang, Wenyi Hong, Wendi Zheng, Chang Zhou, Da Yin, Junyang Lin, Xu Zou, Zhou Shao, Hongxia Yang, Jie Tang.*<br>

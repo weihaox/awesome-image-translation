@@ -10,6 +10,10 @@
 *[Yinan He](ttps://yinanhe.github.io), Bei Gan, Siyu Chen, Yichun Zhou, Guojun Yin, Luchuan Song, Lu Sheng, Jing Shao, Ziwei Liu.*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.05630)] [[Project](https://yinanhe.github.io/projects/forgerynet.html)] [[Github](https://github.com/yinanhe/forgerynet)]
 
+**DFGC 2021: A DeepFake Game Competition.**<br>
+*Bo Peng, Hongxing Fan, Wei Wang, Jing Dong, Yuezun Li, Siwei Lyu, Qi Li, Zhenan Sun, Han Chen, Baoying Chen, Yanjie Hu, Shenghai Luo, Junrui Huang, Yutong Yao, Boyuan Liu, Hefei Ling, Guosheng Zhang, Zhiliang Xu, Changtao Miao, Changlei Lu, Shan He, Xiaoyan Wu, Wanyi Zhuang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.01217)]
+
 **DeeperForensics Challenge 2020 on Real-World Face Forgery Detection: Methods and Results.**<br>
 *Liming Jiang, Zhengkui Guo, Wayne Wu, Zhaoyang Liu, Ziwei Liu, Chen Change Loy, Shuo Yang, Yuanjun Xiong, Wei Xia, Baoying Chen, Peiyu Zhuang, Sili Li, Shen Chen, Taiping Yao, Shouhong Ding, Jilin Li, Feiyue Huang, Liujuan Cao, Rongrong Ji, Changlei Lu, Ganchao Tan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.09471)] [[Project](https://competitions.codalab.org/competitions/25228)]

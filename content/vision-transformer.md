@@ -126,6 +126,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 ## Tracking, Detection and Segmentation
 
+**You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection.**<br>
+*Yuxin Fang, Bencheng Liao, Xinggang Wang, Jiemin Fang, Jiyang Qi, Rui Wu, Jianwei Niu, Wenyu Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.00666)]
+
+**TransVOS: Video Object Segmentation with Transformers.**<br>
+*Jianbiao Mei, Mengmeng Wang, Yeneng Lin, Yong Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.00588)]
+
 **SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers.**<br>
 *Enze Xie, Wenhai Wang, Zhiding Yu, Anima Anandkumar, Jose M. Alvarez, Ping Luo.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.15203)]

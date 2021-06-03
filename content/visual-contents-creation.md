@@ -1130,6 +1130,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15814)]
 *Jiaming Li, Hongtao Xie, Jiahong Li, Zhongyuan Wang, Yongdong Zhang.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.09096)]
 
+**Fourier Space Losses for Efficient Perceptual Image Super-Resolution.**<br>
+*Dario Fuoli, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.00783)]
+
 **Learning Frequency-aware Dynamic Network for Efficient Super-Resolution.**<br>
 *Wenbin Xie, Dehua Song, Chang Xu, Chunjing Xu, Hui Zhang, Yunhe Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.08357)]
