@@ -54,6 +54,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 
 ### Methods
 
+**Imperceptible Adversarial Examples for Fake Image Detection.**<br>
+*Quanyu Liao, Yuezun Li, Xin Wang, Bin Kong, Bin Zhu, Siwei Lyu, Youbing Yin, Qi Song, Xi Wu.*<br>
+ICIP 2021. [[PDF](https://arxiv.org/abs/2106.01615)]
+
 **Beyond the Spectrum: Detecting Deepfakes via Re-Synthesis.**<br>
 *Yang He, Ning Yu, Margret Keuper, Mario Fritz.*<br>
 IJCAI 2021. [[PDF](https://arxiv.org/abs/2105.14376)] [[Github](https://github.com/SSAW14/BeyondtheSpectrum)]

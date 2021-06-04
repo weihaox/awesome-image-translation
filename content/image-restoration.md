@@ -715,7 +715,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.01601)] [[Github](https://github.co
 
 **Robust Reference-based Super-Resolution via C2-Matching.**<br>
 *Yuming Jiang, Kelvin C.K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu.*<br>
-CVPR 2021. [[PDF]()]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.01863)] [[Github](https://github.com/yumingj/C2-Matching)]
 
 **Explore Image Deblurring via Blur Kernel Space.**<br>
 *Phong Tran, Anh Tran, Quynh Phung, Minh Hoai.*<br>

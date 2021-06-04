@@ -14,6 +14,10 @@ AAAI 2021. [[PDF](https://arxiv.org/abs/2102.03902v1)] [[Github](https://github.
 
 ### Postion Encoding
 
+**DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification.**<br>
+*Yongming Rao, Wenliang Zhao, Benlin Liu, Jiwen Lu, Jie Zhou, Cho-Jui Hsieh.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02034)] [[Project](https://dynamicvit.ivg-research.xyz/)]
+
 **LocalViT: Bringing Locality to Vision Transformers.**<br>
 *Yawei Li, Kai Zhang, Jiezhang Cao, Radu Timofte, Luc Van Gool.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05707)]
@@ -51,6 +55,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
 ### Others
+
+**When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations.**<br>
+*Xiangning Chen, Cho-Jui Hsieh, Boqing Gong.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.01548)]
 
 **An Attention Free Transformer.**<br>
 *Shuangfei Zhai, Walter Talbott, Nitish Srivastava, Chen Huang, Hanlin Goh, Ruixiang Zhang, Josh Susskind.*<br>

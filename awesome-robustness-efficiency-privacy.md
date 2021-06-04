@@ -913,6 +913,10 @@ NeurlPS 2020. [[PDF](https://arxiv.org/abs/2010.12238)] [[Github](https://github
 
 ## Domain Generalization
 
+**Adversarially Adaptive Normalization for Single Domain Generalization.**<br>
+*Xinjie Fan, Qifei Wang, Junjie Ke, Feng Yang, Boqing Gong, Mingyuan Zhou.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.01899)]
+
 **Progressive Domain Expansion Network for Single Domain Generalization.**<br>
 *Lei Li, Ke Gao, Juan Cao, Ziyao Huang, Yepeng Weng, Xiaoyue Mi, Zhengze Yu, Xiaoya Li, Boyang xia.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16050)]
@@ -990,6 +994,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.02454)]
 ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
+
+**Generalized Domain Adaptation.**<br>
+*Yu Mitsuzumi, Go Irie, Daiki Ikami, Takashi Shibata.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.01656)] [[Github](https://github.com/nttcslab/Generalized-Domain-Adaptation)]
 
 **Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation.**<br>
 *Suman Saha, Anton Obukhov, Danda Pani Paudel, Menelaos Kanakis, Yuhua Chen, Stamatios Georgoulis, Luc Van Gool.*<br>
