@@ -135,7 +135,7 @@ ICLR 2021. [[PDF](https://openreview.net/forum?id=LXMSvPmsm0g)] [[Github](https:
 *Xuxi Chen, Zhenyu Zhang, Yongduo Sui, Tianlong Chen.*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=1AoMhc_9jER)] [[Github](https://github.com/VITA-Group/GAN-LTH)]
 
-**Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network.**<br>  
+**Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network.**<br>
 *James Diffenderfer, Bhavya Kailkhura.*<br> 
 ICLR 2021. [[PDF](https://openreview.net/forum?id=U_mat0b9iv)] [[Github](https://github.com/chrundle/biprop)]
 
@@ -1054,7 +1054,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.04922)]
 
 #### VAE
 
-
 **Hierarchical VAEs Know What They Don’t Know.**<br> 
 *Jakob Havtorn (Technical University of Denmark) · Jes Frellsen (Technical University of Denmark) · Søren Hauberg (Technical University of Denmark) · Lars Maaløe.*<br>
 ICML 2021. [[PDF]()]
@@ -1066,7 +1065,6 @@ ICML 2021. [[PDF]()]
 **BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders.**<br>
 *Dominic Danks (Alan Turing Institute) · Christopher Yau.*<br>
 ICML 2021. [[PDF]()]
-
 
 **Autoencoding Under Normalization Constraints.**<br> 
 *Sangwoong Yoon, Yung-Kyun Noh, Frank Chongwoo Park.*<br>
