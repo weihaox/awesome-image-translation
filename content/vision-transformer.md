@@ -14,6 +14,10 @@ AAAI 2021. [[PDF](https://arxiv.org/abs/2102.03902v1)] [[Github](https://github.
 
 ### Postion Encoding
 
+**Relative Positional Encoding for Transformers with Linear Complexity.**<br>
+*Antoine Liutkus, Ondřej Cífka, Shih-Lun Wu, Umut Simsekli, Yi-Hsuan Yang, Gaël RICHARD.*<br>
+ICML 2021. [[PDF]()]
+
 **DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification.**<br>
 *Yongming Rao, Wenliang Zhao, Benlin Liu, Jiwen Lu, Jie Zhou, Cho-Jui Hsieh.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02034)] [[Project](https://dynamicvit.ivg-research.xyz/)]
@@ -55,6 +59,50 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
 ### Others
+
+**ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision.**<br> 
+*Wonjae Kim, Bokyung Son, Ildoo Kim.*<br>
+ICML 2021. [[PDF]()]
+
+**MSA Transformer.**<br> 
+*Roshan Rao, Jason Liu, Robert Verkuil, Joshua Meier, John Canny, Pieter Abbeel, Tom Sercu, Alexander Rives.*<br>
+ICML 2021. [[PDF]()]
+
+**Thinking Like Transformers.**<br> 
+*Gail Weiss, Yoav Goldberg, Eran Yahav.*<br>
+ICML 2021. [[PDF]()]
+
+**Generative Adversarial Transformers.**<br> 
+*Dor Arad, Larry Zitnick.*<br>
+ICML 2021. [[PDF]()]
+
+**PipeTransformer: Automated Elastic Pipelining for Distributed Training of Transformers.**<br> 
+*Chaoyang He, Shen Li, Mahdi Soltanolkotabi, Salman Avestimehr.*<br>
+ICML 2021. [[PDF]()]
+
+**LieTransformer: Equivariant Self-Attention for Lie Groups.**<br> 
+*Michael Hutchinson, Charline Le Lan, Sheheryar Zaidi, Emilien Dupont, Yee Whye Teh, Hyunjik Kim.*<br>
+ICML 2021. [[PDF]()]
+
+**PixelTransformer: Sample Conditioned Signal Generation.**<br> 
+*Shubham Tulsiani, Abhinav Gupta.*<br>
+ICML 2021. [[PDF]()]
+
+**CATE: Computation-aware Neural Architecture Encoding with Transformers.**<br> 
+*Shen Yan, Kaiqiang Song, Fei Liu, Mi Zhang.*<br> 
+ICML 2021. [[PDF]()]
+
+**TFix: Learning to Fix Coding Errors with a Text-to-Text Transformer.**<br> 
+*Berkay Berabi, Jingxuan He, Veselin Raychev, Martin Vechev.*<br>
+ICML 2021. [[PDF]()]
+
+**Differentiable Spatial Planning using Transformers.**<br> 
+*Devendra Singh Chaplot, Deepak Pathak, Jitendra Malik.*<br>
+ICML 2021. [[PDF]()]
+
+**Catformer: Designing Stable Transformers via Sensitivity Analysis.**<br>
+*Jared Quincy Davis, Albert Gu, Tri Dao, Krzysztof Choromanski, Christopher Re, Percy Liang, Chelsea Finn.*<br>
+ICML 2021. [[PDF]()]
 
 **When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations.**<br>
 *Xiangning Chen, Cho-Jui Hsieh, Boqing Gong.*<br>

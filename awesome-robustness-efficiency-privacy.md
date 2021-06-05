@@ -39,6 +39,10 @@ ECCV 2020 Workshop. [[Homepage])(https://sites.google.com/view/ipcv2020/home)]
 
 ### Fairness
 
+**Fairness for Image Generation with Uncertain Sensitive Attributes.**<br> 
+*Ajil Jalal, Sushrut Karmalkar, Jessica Hoffmann, Alexandros Dimakis, Eric Price.*<br> 
+ICML 2021. [[PDF]()]
+
 **Discover the Unknown Biased Attribute of an Image Classifier.**<br> 
 *Zhiheng Li, Chenliang Xu.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.14556)] [[Github](https://github.com/hubertlee915/discover_unknown_biases)]
@@ -246,6 +250,10 @@ ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12356
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07213)]
 
 ## Neural Network Interpretability
+
+**What does LIME really see in images?**<br> 
+*Damien Garreau， Dina Mardaoui.*<br> 
+ICML 2021. [[PDF]()]
 
 **A Survey on Neural Network Interpretability.**<br>
 *Yu Zhang, Peter Tiňo, Aleš Leonardis, Ke Tang.*<br>
@@ -674,6 +682,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github
 
 ## Open-World and Out-of-Distribution Dataset
 
+**Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization.**<br> 
+*John Miller, Rohan Taori, Aditi Raghunathan, Shiori Sagawa, Pang Wei Koh, Vaishaal Shankar, Percy Liang, Yair Carmon, Ludwig Schmidt.*<br>
+ICML 2021. [[PDF]()]
+
 **Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions with Superior OOD Generalization.**<br> 
 *Damien Teney, Ehsan Abbasnejad, Simon Lucey, Anton van den Hengel.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.05612)]
@@ -743,6 +755,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.co
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
 
 ## Long-Tailed and Class-Imbalanced Dataset
+
+**Delving into Deep Imbalanced Regression.**<br> 
+*Yuzhe Yang, Kaiwen Zha, Yingcong Chen, Hao Wang, Dina Katabi.*<br>
+ICML 2021. [[PDF]()]
 
 **Adversarial Robustness under Long-Tailed Distribution.**<br>
 *Tong Wu, Ziwei Liu, Qingqiu Huang, Yu Wang, Dahua Lin.*<br>

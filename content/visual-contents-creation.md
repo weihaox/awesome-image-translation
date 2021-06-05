@@ -99,7 +99,21 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07579)] [[Github](https://github.c
 *Xiaohan Ding, Xiangyu Zhang, Ningning Ma, Jungong Han, Guiguang Ding, Jian Sun.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03697)] [[Github](https://github.com/megvii-model/RepVGG)]
 
+## Network Subspace
+
+**Learning Neural Network Subspaces.**<br> 
+*Mitchell Wortsman, Maxwell Horton, Carlos Guestrin, Ali Farhadi, Mohammad Rastegari.*<br>
+ICML 2021. [[PDF]()]
+
 ## Lottery Tickets Hypothesis
+
+**A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br> 
+*Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
+ICML 2021. [[PDF]()]
+
+**Efficient Lottery Ticket Finding: Less Data is More.**<br> 
+*Zhenyu Zhang, Xuxi Chen, Tianlong Chen, Zhangyang Wang.*<br>
+ICML 2021. [[PDF]()]
 
 **Playing Lottery Tickets with Vision and Language.**<br>
 *Zhe Gan, Yen-Chun Chen, Linjie Li, Tianlong Chen, Yu Cheng, Shuohang Wang, Jingjing Liu.*<br>
@@ -1040,6 +1054,40 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.04922)]
 
 #### VAE
 
+
+**Hierarchical VAEs Know What They Don’t Know.**<br> 
+*Jakob Havtorn (Technical University of Denmark) · Jes Frellsen (Technical University of Denmark) · Søren Hauberg (Technical University of Denmark) · Lars Maaløe.*<br>
+ICML 2021. [[PDF]()]
+
+**Monte Carlo Variational Auto-Encoders.**<br> 
+*Achille Thin, Nikita Kotelevskii, Arnaud Doucet, Alain Durmus, Eric Moulines, Maxim Panov.*<br>
+ICML 2021. [[PDF]()]
+
+**BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders.**<br>
+*Dominic Danks (Alan Turing Institute) · Christopher Yau.*<br>
+ICML 2021. [[PDF]()]
+
+
+**Autoencoding Under Normalization Constraints.**<br> 
+*Sangwoong Yoon, Yung-Kyun Noh, Frank Chongwoo Park.*<br>
+ICML 2021. [[PDF]()]
+
+**Unified Robust Semi-Supervised Variational Autoencoder.**<br> 
+*Xu Chen.*<br> 
+ICML 2021. [[PDF]()]
+
+**Ornstein-Uhlenbeck Smoothing for Hierarchical Variational Autoencoders.**<br> 
+*Adeel Pervez, Efstratios Gavves.*<br>
+ICML 2021. [[PDF]()]
+
+**Lie Group VAE for Disentanglement Learning.**<br> 
+*Xinqi Zhu, Chang Xu, Dacheng Tao.*<br>
+ICML 2021. [[PDF]()]
+
+**Autoencoder Image Interpolation by Shaping the Latent Space.**<br> 
+*Alon Oring, Zohar Yakhini (Herzliya Interdisciplinary Center) · Yacov Hel-Or.*<br>
+ICML 2021. [[PDF]()]
+
 **Spatial Dependency Networks: Neural Layers for Improved Generative Image Modeling.**<br> 
 *[Đorđe Miladinović](https://djordjemila.github.io/), [Aleksandar Stanić](https://astanic.github.io/), [Stefan Bauer](https://www.is.mpg.de/~sbauer), [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/), [Joachim M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).*<br> 
 ICLR 2021. [[PDF](https://openreview.net/forum?id=I4c4K9vBNny)] [[Github](https://github.com/djordjemila/sdn)]
@@ -1160,6 +1208,26 @@ arxiv 2020. [[PDF]](https://arxiv.org/abs/2012.12821)] [[Github](https://github.
 
 #### GAN Improvement
 
+**Pareto GAN: Extending the Representational Power of GANs to Heavy-Tailed Distributions.**<br> 
+*Todd Huster, Jeremy Cohen, Zinan Lin, Kevin Chan, Charles Kamhoua, Nandi O. Leslie, Cho-Yu Chiang, Vyas Sekar.*<br>
+ICML 2021. [[PDF]()]
+
+**WGAN with an Infinitely Wide Generator Has No Spurious Stationary Points.**<br> 
+*Albert No (Hongik University) · TaeHo Yoon, Kwon Sehyun, Ernest Ryu.*<br>
+ICML 2021. [[PDF]()]
+
+**Functional Space Analysis of Local GAN Convergence.**<br> 
+*Valentin Khrulkov (Skolkovo Institute Of Science And Technology) · Artem Babenko, Ivan Oseledets.*<br>
+ICML 2021. [[PDF]()]
+
+**Understanding Noise Injection in GANs.**<br> 
+*Ruili Feng, Deli Zhao, Zheng-Jun Zha.*<br>
+ICML 2021. [[PDF]()]
+
+**Uncertainty Principles of Encoding GANs.**<br> 
+*Ruili Feng, Zhouchen Lin, Jiapeng Zhu, Deli Zhao, Jingren Zhou, Zheng-Jun Zha.*<br> 
+ICML 2021. [[PDF]()]
+
 **Positional Encoding as Spatial Inductive Bias in GANs.**<br>
 *Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
@@ -1251,6 +1319,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1904.00284)] [[Project](https://hubert05
 #### Invertible Neural Network (Flow-based Generative Model)
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
+
+**Self Normalizing Flows.**<br> 
+*Thomas Keller, Jorn Peters, Priyank Jaini, Emiel Hoogeboom, Patrick Forré, Max Welling.*<br>
+ICML 2021. [[PDF]()]
 
 **Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks.**<br>
 *[Despoina Paschalidou](https://paschalidoud.github.io/), [Angelos Katharopoulos](https://angeloskath.github.io/), [Andreas Geiger](http://cvlibs.net/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).*<br>

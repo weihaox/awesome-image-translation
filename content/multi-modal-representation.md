@@ -161,7 +161,7 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2102.08981.pdf)]
 
 **ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.**<br>
 *Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05918)] [[Github]()]
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.05918)] [[Github]()]
 
 **CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
 *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
@@ -621,7 +621,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16746)]
 
 **DALL-E: Zero-Shot Text-to-Image Generation.**<br>
 *Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12092)] [[Blog](https://openai.com/blog/dall-e/)] [[Github](https://github.com/openai/DALL-E)]
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.12092)] [[Blog](https://openai.com/blog/dall-e/)] [[Github](https://github.com/openai/DALL-E)]
 
 **Semantic Object Accuracy for Generative Text-to-Image Synthesis.**<br>
 *Tobias Hinz, Stefan Heinrich, Stefan Wermter.*<br>

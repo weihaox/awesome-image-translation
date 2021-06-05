@@ -633,6 +633,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Markpainting: Adversarial Machine Learning meets Inpainting.**<br> 
+*David G Khachaturov, Ilia Shumailov, Yiren Zhao, Nicolas Papernot, Ross Anderson.*<br>
+ICML 2021. [[PDF]()]
+
 **Fourier Space Losses for Efficient Perceptual Image Super-Resolution.**<br>
 *Dario Fuoli, Luc Van Gool, Radu Timofte.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.00783)]
