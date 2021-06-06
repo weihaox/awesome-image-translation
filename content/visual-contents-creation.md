@@ -105,6 +105,32 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03697)] [[Github](https://github.c
 *Mitchell Wortsman, Maxwell Horton, Carlos Guestrin, Ali Farhadi, Mohammad Rastegari.*<br>
 ICML 2021. [[PDF]()]
 
+## Deep Learning Explaination
+
+**What does LIME really see in images?**<br>
+*Damien Garreau, Dina Mardaoui.*<br>
+ICML 2021. [[PDF](https://arxiv.org/pdf/2102.06307.pdf)]
+
+**ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction.**<br>
+*[Kwan Ho Ryan Chan](https://ryanchankh.github.io/), [Yaodong Yu](https://yaodongyu.github.io/), [Chong You](https://sites.google.com/view/cyou), [Haozhi Qi](https://haozhi.io/), [John Wright](http://www.columbia.edu/~jw2966/), [Yi Ma](http://people.eecs.berkeley.edu/~yima/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.10446)] [[Github](https://github.com/Ma-Lab-Berkeley/ReduNet)]
+
+**Neuron Shapley: Discovering the Responsible Neurons.**<br>
+*Amirata Ghorbani, James Zou.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2002.09815)]
+
+**Understanding the Role of Individual Units in a Deep Neural Network.**<br>
+*David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
+National Academy of Sciences (PNAS) 2020. [[PDF](https://arxiv.org/abs/2009.05041)] [[Github](https://github.com/davidbau/dissect/)] [[Project](https://dissect.csail.mit.edu/)]
+
+**SHAP: A Unified Approach to Interpreting Model Predictions.**<br>
+*Scott M. Lundberg, Su-In Lee.*<br>
+NeurIPS 2017. [[PDF](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html)] [[Github](https://github.com/slundberg/shap)]
+
+**LIME: Explaining the Predictions of Any Classifier.**<br>
+*Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin.*<br>
+KDD 2016. [[PDF](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)] [[Github](https://github.com/marcotcr/lime)]
+
 ## Lottery Tickets Hypothesis
 
 **A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br> 
@@ -190,6 +216,10 @@ CVPR 2021.
 **Few-shot Image Generation via Cross-domain Correspondence.**<br>
 *[Utkarsh Ojha](https://utkarshojha.github.io/), [Yijun Li](https://yijunmaverick.github.io/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Richard Zhang](https://richzhang.github.io/).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06820)] [[Project](https://utkarshojha.github.io/few-shot-gan-adaptation/)] [[Github](https://github.com/utkarshojha/few-shot-gan-adaptation)]
+
+**Cross-Spectral Face Hallucination via Disentangling Independent Factors.**<br>
+*Boyan Duan, Chaoyou Fu, Yi Li, Xingguang Song, Ran He.*<br>
+CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Duan_Cross-Spectral_Face_Hallucination_via_Disentangling_Independent_Factors_CVPR_2020_paper.pdf)]
 
 ### Highlight Component 
 
