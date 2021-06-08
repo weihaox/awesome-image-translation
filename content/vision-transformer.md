@@ -50,6 +50,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06621)]
 
 ### Training
 
+**Efficient Training of Visual Transformers with Small-Size Datasets.**<br>
+*Yahui Liu, Enver Sangineto, Wei Bi, Nicu Sebe, Bruno Lepri, Marco De Nadai.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03746)]
+
 **An Empirical Study of Training Self-Supervised Visual Transformers.**<br>
 *Xinlei Chen, Saining Xie, Kaiming He.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
@@ -59,6 +63,26 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
 ### Others
+
+**RegionViT: Regional-to-Local Attention for Vision Transformers.**<br> 
+*Chun-Fu Chen, Rameswar Panda, Quanfu Fan.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02689)]
+
+**Patch Slimming for Efficient Vision Transformers.**<br> 
+*Yehui Tang, Kai Han, Yunhe Wang, Chang Xu, Jianyuan Guo, Chao Xu, Dacheng Tao.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02852)]
+
+**Transformer in Convolutional Neural Networks.**<br> 
+*Yun Liu, Guolei Sun, Yu Qiu, Le Zhang, Ajad Chhatkuli, Luc Van Gool.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03180)]
+
+**Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer.**<br> 
+*Zilong Huang, Youcheng Ben, Guozhong Luo, Pei Cheng, Gang Yu, Bin Fu.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03650)]
+
+**Refiner: Refining Self-attention for Vision Transformers.**<br> 
+*Daquan Zhou, Yujun Shi, Bingyi Kang, Weihao Yu, Zihang Jiang, Yuan Li, Xiaojie Jin, Qibin Hou, Jiashi Feng.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03714)]
 
 **ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision.**<br> 
 *Wonjae Kim, Bokyung Son, Ildoo Kim.*<br>
@@ -124,6 +148,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 ## Recognition and Classification
 
+**Person Re-Identification with a Locally Aware Transformer.**<br>
+*Charu Sharma, Siddhant R. Kapil, David Chapman.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03720)]
+
+**Glance-and-Gaze Vision Transformer.**<br>
+*Qihang Yu, Yingda Xia, Yutong Bai, Yongyi Lu, Alan Yuille, Wei Shen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02277)] [[Github](https://github.com/yucornetto/GG-Transformer)]
+
 **Visformer: The Vision-friendly Transformer.**<br>
 *Zhengsu Chen, Lingxi Xie, Jianwei Niu, Xuefeng Liu, Longhui Wei, Qi Tian.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2104.12533.pdf)] [[Github](https://github.com/danczs/Visformer)]
@@ -181,6 +213,18 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 ## Tracking, Detection and Segmentation
+
+**Video Instance Segmentation using Inter-Frame Communication Transformers.**<br>
+*Sukjun Hwang, Miran Heo, Seoung Wug Oh, Seon Joo Kim.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03299)]
+
+**Few-Shot Segmentation via Cycle-Consistent Transformer.**<br>
+*Gengwei Zhang, Guoliang Kang, Yunchao Wei, Yi Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02638)]
+
+**Associating Objects with Transformers for Video Object Segmentation.**<br>
+*Zongxin Yang, Yunchao Wei, Yi Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02638)]
 
 **You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection.**<br>
 *Yuxin Fang, Bencheng Liao, Xinggang Wang, Jiemin Fang, Jiyang Qi, Rui Wu, Jianwei Niu, Wenyu Liu.*<br>
@@ -296,6 +340,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github
 
 ## Generation
 
+**iLAT: The Image Local Autoregressive Transformer.**<br>
+*Chenjie Cao, Yuxin Hong, Xiang Li, Chengrong Wang, Chengming Xu, XiangYang Xue, Yanwei Fu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02514)]
+
 **StyTr^2: Unbiased Image Style Transfer with Transformers.**<br>
 *Yingying Deng, Fan Tang, Xingjia Pan, Weiming Dong, ChongyangMa, Changsheng Xu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14576)]
@@ -378,6 +426,10 @@ ICML 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixe
 
 ## Restoration
 
+**Uformer: A General U-Shaped Transformer for Image Restoration.**<br> 
+*Zhendong Wang, Xiaodong Cun, Jianmin Bao, Jianzhuang Liu.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03106)]
+
 **Colorization Transformer.**<br> 
 *Manoj Kumar, Dirk Weissenborn, Nal Kalchbrenner.*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=5NA1PinlGFu)]
@@ -390,7 +442,11 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.co
 *Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
 
-## 3D 
+## 2.5D and 3D 
+
+**Semantic Correspondence with Transformers.**<br>
+*Seokju Cho, Sunghwan Hong, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02520)] [[Github](https://github.com/SunghwanHong/CATs)]
 
 **Action-Conditioned 3D Human Motion Synthesis with Transformer VAE.**<br>
 *Mathis Petrovich, Michael J. Black, Gül Varol.*<br>

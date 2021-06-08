@@ -121,6 +121,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**A Deep Variational Bayesian Framework for Blind Image Deblurring.**<br>
+*Hui Wang, Zongsheng Yue, Qian Zhao, Deyu Meng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02884)]
+
 **FBI-Denoiser: Fast Blind Image Denoiser for Poisson-Gaussian Noise.**<br>
 *Jaeseok Byun, Sungmin Cha, Taesup Moon.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2105.10967)]
@@ -633,9 +637,25 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**T-Net: Deep Stacked Scale-Iteration Network for Image Dehazing.**<br> 
+*Lirong Zheng, Yanshan Li, Kaihao Zhang, Wenhan Luo.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02809)]
+
+**Uformer: A General U-Shaped Transformer for Image Restoration.**<br> 
+*Zhendong Wang, Xiaodong Cun, Jianmin Bao, Jianzhuang Liu.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03106)]
+
+**Pre-Trained Image Processing Transformer.**<br>
+*Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
+
 **Markpainting: Adversarial Machine Learning meets Inpainting.**<br> 
 *David G Khachaturov, Ilia Shumailov, Yiren Zhao, Nicolas Papernot, Ross Anderson.*<br>
 ICML 2021. [[PDF]()]
+
+**MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution.**<br>
+*Liying Lu, Wenbo Li, Xin Tao, Jiangbo Lu, Jiaya Jia.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.02299)]
 
 **Fourier Space Losses for Efficient Perceptual Image Super-Resolution.**<br>
 *Dario Fuoli, Luc Van Gool, Radu Timofte.*<br>
@@ -932,10 +952,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12836)] [[Github](https://github.c
 **GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.**<br>
 *[Kelvin C.K. Chan](https://ckkelvinchan.github.io/), Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00739)] [[Project](https://ckkelvinchan.github.io/)]
-
-**Pre-Trained Image Processing Transformer.**<br>
-*Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00364)]
 
 **Single-Image Lens Flare Removal.**<br>
 *Yicheng Wu, Qiurui He, Tianfan Xue, Rahul Garg, Jiawen Chen, Ashok Veeraraghavan, Jonathan Barron.*<br>

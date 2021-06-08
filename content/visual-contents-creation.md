@@ -63,6 +63,10 @@ December, 2017. [Thesis](https://www.cs.cmu.edu/~junyanz/pdf/thesis_highres.pdf)
 
 ## Classical Method Revisiting
 
+**X-volution: On the Unification of Convolution and Self-attention.**<br>
+*Xuanhong Chen, Hang Wang, Bingbing Ni.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02253)]
+
 **Rethinking "Batch" in BatchNorm.**<br>
 *Yuxin Wu, Justin Johnson.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.07576)]
@@ -139,7 +143,7 @@ ICML 2021. [[PDF]()]
 
 **Efficient Lottery Ticket Finding: Less Data is More.**<br> 
 *Zhenyu Zhang, Xuxi Chen, Tianlong Chen, Zhangyang Wang.*<br>
-ICML 2021. [[PDF]()]
+ICML 2021. [[PDF](https://arxiv.org/abs/2106.03225)]
 
 **Playing Lottery Tickets with Vision and Language.**<br>
 *Zhe Gan, Yen-Chun Chen, Linjie Li, Tianlong Chen, Yu Cheng, Shuohang Wang, Jingjing Liu.*<br>
@@ -486,6 +490,14 @@ NIPS 2017. [[PDF](https://arxiv.org/abs/1705.08086)] [[Github](https://github.co
 ### Guided Translation
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
+
+**Enhancing Photorealism Enhancement.**<br>
+*Stephan R. Richter, Hassan Abu AlHaija, Vladlen Koltun.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2105.04619.pdf)] [[Github](https://github.com/intel-isl/PhotorealismEnhancement)]  [[Video](https://youtu.be/P1IcaBn3ej0)]
+
+**iLAT: The Image Local Autoregressive Transformer.**<br>
+*Chenjie Cao, Yuxin Hong, Xiang Li, Chengrong Wang, Chengming Xu, XiangYang Xue, Yanwei Fu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02514)]
 
 **UFC-BERT: Unifying Multi-Modal Controls for Conditional Image Synthesis.**<br>
 *Zhu Zhang, Jianxin Ma, Chang Zhou, Rui Men, Zhikang Li, Ming Ding, Jie Tang, Jingren Zhou, Hongxia Yang.*<br>
@@ -1193,6 +1205,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04467)] [[Github](https://github.co
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyenchicheng.github.io/SegVAE/)] [[Github](https://github.com/yccyenchicheng/SegVAE)]
 
 #### Frequency
+
+**Learnable Fourier Features for Multi-DimensionalSpatial Positional Encoding.**<br>
+*Yang Li, Si Si, Gang Li, Cho-Jui Hsieh, Samy Bengio.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02795)]
 
 **LPTN: High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network.**<br>
 *Jie Liang, Hui Zeng, Lei Zhang.*<br>

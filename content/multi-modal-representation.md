@@ -591,6 +591,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)]
 
 ### Text-to-Image
 
+**MOC-GAN: Mixing Objects and Captions to Generate Realistic Images.**<br>
+*Tao Ma, Yikang Li.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03128)]
+
 **Language-Driven Image Style Transfer.**<br>
 *Tsu-Jui Fu, Xin Eric Wang, William Yang Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2106.00178.pdf)]
