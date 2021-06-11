@@ -64,6 +64,22 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
 ### Others
 
+**CAT: Cross Attention in Vision Transformer.**<br> 
+*Hezheng Lin, Xing Cheng, Xiangyu Wu, Fan Yang, Dong Shen, Zhongyuan Wang, Qing Song, Wei Yuan.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05786)]
+
+**On Improving Adversarial Transferability of Vision Transformers.**<br> 
+*Muzammal Naseer, Kanchana Ranasinghe, Salman Khan, Fahad Shahbaz Khan, Fatih Porikli.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04169)] [[Github](https://git.io/JZmG3)]
+
+**Chasing Sparsity in Vision Transformers:An End-to-End Exploration.**<br> 
+*Tianlong Chen, Yu Cheng, Zhe Gan, Lu Yuan, Lei Zhang, Zhangyang Wang.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04533)]
+
+**Scaling Vision Transformers.**<br> 
+*Xiaohua Zhai, Alexander Kolesnikov, Neil Houlsby, Lucas Beyer.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04560)]
+
 **RegionViT: Regional-to-Local Attention for Vision Transformers.**<br> 
 *Chun-Fu Chen, Rameswar Panda, Quanfu Fan.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02689)]
@@ -138,6 +154,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14103)]
 
 ## Survey
 
+**A Survey of Transformers.**<br>
+*Tianyang Lin, Yuxin Wang, Xiangyang Liu, Xipeng Qiu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2106.04554.pdf)]
+
 **A Survey on Visual Transformer.**<br>
 *Kai Han, Yunhe Wang, Hanting Chen, Xinghao Chen, Jianyuan Guo, Zhenhua Liu, Yehui Tang, An Xiao, Chunjing Xu, Yixing Xu, Zhaohui Yang, Yiman Zhang, Dacheng Tao.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12556)]
@@ -147,6 +167,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12556)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 ## Recognition and Classification
+
+**Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer.**<br>
+*Yulin Li, Jianfeng He, Tianzhu Zhang, Xiang Liu, Yongdong Zhang, Feng Wu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.04095)]
 
 **Person Re-Identification with a Locally Aware Transformer.**<br>
 *Charu Sharma, Siddhant R. Kapil, David Chapman.*<br>
@@ -493,6 +517,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
 
 ## Multi-modality
+
+**Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers.**<br>
+*Mandela Patrick, Dylan Campbell, Yuki M. Asano, Ishan Misra Florian Metze, Christoph Feichtenhofer, Andrea Vedaldi, Jo\ão F. Henriques.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05392)] [[Project](https://facebookresearch.github.io/Motionformer)]
+
+**Space-time Mixing Attention for Video Transformer.**<br>
+*Adrian Bulat, Juan-Manuel Perez-Rua, Swathikiran Sudhakaran, Brais Martinez, Georgios Tzimiropoulos.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05968)]
 
 **UFC-BERT: Unifying Multi-Modal Controls for Conditional Image Synthesis.**<br>
 *Zhu Zhang, Jianxin Ma, Chang Zhou, Rui Men, Zhikang Li, Ming Ding, Jie Tang, Jingren Zhou, Hongxia Yang.*<br>

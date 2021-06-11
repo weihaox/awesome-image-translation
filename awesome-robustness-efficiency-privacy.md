@@ -267,6 +267,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
 ### Data or Distribution Augmentation
 
+**InsGAN: Data-Efficient Instance Generation from Instance Discrimination.**<br>
+*Ceyuan Yang, Yujun Shen, Yinghao Xu, Bolei Zhou.*<br>
+arxiv 2021. [[PDF]()] [[Project](https://genforce.github.io/insgen)]
+
 **Direct Differentiable Augmentation Search.**<br>
 *Aoming Liu, Zehao Huang, Zhiwu Huang, Naiyan Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.04282)]

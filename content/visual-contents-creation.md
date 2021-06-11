@@ -109,6 +109,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03697)] [[Github](https://github.c
 *Mitchell Wortsman, Maxwell Horton, Carlos Guestrin, Ali Farhadi, Mohammad Rastegari.*<br>
 ICML 2021. [[PDF]()]
 
+**Low-Rank Subspaces in GANs.**<br> 
+*Jiapeng Zhu, Ruili Feng, Yujun Shen, Deli Zhao, Zhengjun Zha, Jingren Zhou, Qifeng Chen.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04488)]
+
 ## Deep Learning Explaination
 
 **What does LIME really see in images?**<br>
@@ -1363,6 +1367,10 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1904.00284)] [[Project](https://hubert05
 #### Invertible Neural Network (Flow-based Generative Model)
 
 [[Normalizing Flows](https://paperswithcode.com/method/normalizing-flows)]
+
+**Generative Flows with Invertible Attentions.**<br> 
+*Rhea Sanjay Sukthanker, Zhiwu Huang, Suryansh Kumar, Radu Timofte, Luc Van Gool.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03959)]
 
 **Self Normalizing Flows.**<br> 
 *Thomas Keller, Jorn Peters, Priyank Jaini, Emiel Hoogeboom, Patrick Forré, Max Welling.*<br>
