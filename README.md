@@ -60,8 +60,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Memory-guided Unsupervised Image-to-image Translation.[[PDF](https://arxiv.org/abs/2104.05170)]**<br> 
 *Somi Jeong, Youngjung Kim, Eungbean Lee, Kwanghoon Sohn.*<br>
 
-**Smoothing the Disentangled Latent Style Space for Unsupervised Image-to-Image Translation.**<br>
-*Yahui Liu, Enver Sangineto, Yajing Chen, Linchao Bao, Haoxian Zhang, Nicu Sebe, Bruno Lepri, Wei Wang, Marco De Nada.*<br>
+**Smoothing the Disentangled Latent Style Space for Unsupervised Image-to-Image Translation.[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Smoothing_the_Disentangled_Latent_Style_Space_for_Unsupervised_Image-to-Image_Translation_CVPR_2021_paper.pdf)]**<br>
+*Yahui Liu, Enver Sangineto, Yajing Chen, Linchao Bao, Haoxian Zhang, Nicu Sebe, Bruno Lepri, Wei Wang, Marco De Nadai.*<br>
 
 **ReMix: Towards Image-to-Image Translation with Limited Data.[[PDF](https://arxiv.org/pdf/2103.16835.pdf)]**<br> 
 *Jie Cao, Luanxuan Hou, Ming-Hsuan Yang, Ran He, Zhenan Sun.*<br>
@@ -427,6 +427,10 @@ ICIP 2020. [[PDF](https://arxiv.org/abs/2009.00878)]
 **Retrieval Guided Unsupervised Multi-domain Image-to-Image Translation.**<br>
 *Raul Gomez, Yahui Liu, Marco De Nadai, Dimosthenis Karatzas, Bruno Lepri, Nicu Sebe.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.04991)] 
+
+**Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach.**<br>
+*Yahui Liu, Marco De Nadai, Deng Cai, Huayang Li, Xavier Alameda-Pineda, Nicu Sebe, Bruno Lepri.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.04200)] 
 
 **Dual Attention GANs for Semantic Image Synthesis.**<br>
 *Hao Tang, Song Bai, Nicu Sebe.*<br>
