@@ -516,6 +516,18 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.01049)]
 
 active learning, metric learning, contrastive learning, label learning, *etc*.
 
+**Understanding and Evaluating Racial Biases in Image Captioning.**<br>
+*[Dora Zhao](https://dorazhao99.github.io/), [Angelina Wang](https://angelina-wang.github.io/), [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.08503)] [[Project](https://princetonvisualai.github.io/imagecaptioning-bias)] [[Github](https://github.com/princetonvisualai/imagecaptioning-bias)]
+
+**Fair Attribute Classification through Latent Space De-biasing.**<br>
+*Vikram V. Ramaswamy, Sunnie S. Y. Kim, Olga Russakovsky.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2012.01469.pdf)] [[Github](https://github.com/princetonvisualai/gan-debiasing)]
+
+**REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets.**<br>
+*Angelina Wang, Arvind Narayanan, Olga Russakovsky.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2004.07999)] [[Github](https://github.com/princetonvisualai/revise-tool)]
+
 **On the Bias Against Inductive Biases.**<br>
 *George Cazenavette, Simon Lucey.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14077)]

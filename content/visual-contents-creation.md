@@ -277,6 +277,16 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
 
+### Neural Simulation
+
+**DriveGAN: Towards a Controllable High-Quality Neural Simulation.**<br>
+*[Seung Wook Kim](http://www.cs.toronto.edu/~seung/), [Jonah Philion](http://www.cs.toronto.edu/), [Antonio Torralba](http://web.mit.edu/torralba/www/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.15060)] [[Project](https://nv-tlabs.github.io/DriveGAN/)]
+
+**Learning to Simulate Dynamic Environments with GameGAN.**<br>
+*[Seung Wook Kim](http://www.cs.toronto.edu/~seung/), [Yuhao Zhou](https://henryzhou7.github.io/), [Jonah Philion](http://www.cs.toronto.edu/), [Antonio Torralba](http://web.mit.edu/torralba/www/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).*<br>
+CVPR 2020. [[PDF]()] [[Github](https://github.com/nv-tlabs/GameGAN_code)] [[Project](https://nv-tlabs.github.io/gameGAN/)]
+
 ### Human-Object Interaction
 
 **Detecting Human-Object Interaction via Fabricated Compositional Learning.**<br>
@@ -494,6 +504,10 @@ NIPS 2017. [[PDF](https://arxiv.org/abs/1705.08086)] [[Github](https://github.co
 ### Guided Translation
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
+
+**AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning.**<br>
+*[Guoxian Song](https://guoxiansong.github.io/homepage/index.html), [Linjie Luo](http://linjieluo.com/), Jing Liu, Wan-Chun Ma, Chunpong Lai, Chuanxia Zheng, Tat-Jen Cham.*<br>
+ACM Transactions on Graphics (Siggraph 2021). [[PDF](https://guoxiansong.github.io/homepage/paper/AgileGAN.pdf)] [[Project](https://guoxiansong.github.io/homepage/agilegan)] [[Demo](http://www.agilegan.com/)]
 
 **Enhancing Photorealism Enhancement.**<br>
 *Stephan R. Richter, Hassan Abu AlHaija, Vladlen Koltun.*<br>

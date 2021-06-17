@@ -54,6 +54,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 
 ### Methods
 
+**Learning to Disentangle GAN Fingerprint for Fake Image Attribution.**<br>
+*Tianyun Yang, Juan Cao, Qiang Sheng, Lei Li, Jiaqi Ji, Xirong Li, Sheng Tang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.08749)]
+
 **Imperceptible Adversarial Examples for Fake Image Detection.**<br>
 *Quanyu Liao, Yuezun Li, Xin Wang, Bin Kong, Bin Zhu, Siwei Lyu, Youbing Yin, Qi Song, Xi Wu.*<br>
 ICIP 2021. [[PDF](https://arxiv.org/abs/2106.01615)]
