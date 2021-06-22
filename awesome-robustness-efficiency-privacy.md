@@ -151,6 +151,10 @@ ICLR 2019. [[PDF](https://arxiv.org/pdf/1904.08444.pdf)] [[Poster](https://www.d
 
 Membership Inference, Federated Learning, Differential Privacy, *etc*.
 
+**Federated CycleGAN for Privacy-Preserving Image-to-Image Translation.**<br>
+*Joonyoung Song, Jong Chul Ye.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.09246)]
+
 **High Fidelity Fingerprint Generation: Quality, Uniqueness, and Privacy.**<br> 
 *Keivan Bahmani, Richard Plesh, Peter Johnson, Stephanie Schuckers, Timothy Swyka.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.10403)]

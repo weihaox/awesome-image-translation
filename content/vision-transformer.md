@@ -468,6 +468,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
 
 ## 2.5D and 3D 
 
+**THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers.**<br>
+*Mihai Zanfir, Andrei Zanfir, Eduard Gabriel Bazavan, William T. Freeman, Rahul Sukthankar, Cristian Sminchisescu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.09336)]
+
 **Semantic Correspondence with Transformers.**<br>
 *Seokju Cho, Sunghwan Hong, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02520)] [[Github](https://github.com/SunghwanHong/CATs)]

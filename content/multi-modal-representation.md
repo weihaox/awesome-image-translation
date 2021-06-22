@@ -413,6 +413,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08779)] [[Project](https://google.
 
 ### Image-to-Video
 
+**Understanding Object Dynamics for Interactive Image-to-Video Synthesis.**<br>
+*Andreas Blattmann, Timo Milbich, Michael Dorkenwald, Björn Ommer.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.11303)] [[Project](https://bit.ly/3cxfA2L)]
+
 **Image-to-Video Generation via 3D Facial Dynamics.**<br>
 *Xiaoguang Tu, Yingtian Zou, Jian Zhao, Wenjie Ai, Jian Dong, Yuan Yao, Zhikang Wang, Guodong Guo, Zhifeng Li, Wei Liu, Jiashi Feng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14678)]

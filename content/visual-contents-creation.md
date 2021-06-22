@@ -111,7 +111,7 @@ ICML 2021. [[PDF]()]
 
 **Low-Rank Subspaces in GANs.**<br> 
 *Jiapeng Zhu, Ruili Feng, Yujun Shen, Deli Zhao, Zhengjun Zha, Jingren Zhou, Qifeng Chen.*<br> 
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04488)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04488)] [[Github](https://github.com/zhujiapeng/LowRankGAN)]
 
 ## Deep Learning Explaination
 
@@ -600,6 +600,10 @@ ECCV 2020.  [[Github](https://github.com/Ha0Tang/XingGAN)]
 **DEEPSim: Deep Single Image Manipulation.**<br>
 *[Yael Vinker](https://www.linkedin.com/in/yael-vinker-a91a00157/), [Eliahu Horwitz](https://www.linkedin.com/in/eliahu-horwitz), Nir Zabari, [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01289)] [[Project](http://www.vision.huji.ac.il/deepsim/)] [[Github](https://github.com/eliahuhorwitz/DeepSIM)]
+
+**HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping.**<br>
+*Yuhan Wang, Xu Chen, Junwei Zhu, Wenqing Chu, Ying Tai, Chengjie Wang, Jilin Li, Yongjian Wu, Feiyue Huang, Rongrong Ji.*<br>
+IJCAI 2021. [[PDF](https://arxiv.org/abs/2106.09965)] [[Project](https://johann.wang/HifiFace)]
 
 **High-Resolution Neural Face Swapping for Visual Effects.**<br>
 *Jacek Naruniec, Leonhard Helminger, Christopher Schroers, Romann M. Weber.*<br>
