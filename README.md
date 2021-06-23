@@ -51,8 +51,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Unbalanced Feature Transport for Exemplar-based Image Translation.**[[PDF](https://arxiv.org/abs/2106.10482)]<br> 
 *Fangneng Zhan, Yingchen Yu, Kaiwen Cui, Gongjie Zhang, Shijian Lu, Jianxiong Pan, Changgong Zhang, Feiying Ma, Xuansong Xie, Chunyan Miao.*<br>
 
-**CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation.**[[PDF](https://arxiv.org/abs/2012.02047)]<br> 
-*Xingran Zhou, Bo Zhang, Ting Zhang, [Pan Zhang](https://panzhang0212.github.io/), Jianmin Bao, Dong Chen, Zhongfei Zhang, Fang Wen.*<br>
+**CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation.**[[PDF](https://arxiv.org/abs/2012.02047)][[Github](https://github.com/microsoft/CoCosNet-v2)] <br> 
+*[Xingran Zhou](http://xingranzh.github.io/), [Bo Zhang](https://bo-zhang.me/), [Ting Zhang](https://www.microsoft.com/en-us/research/people/tinzhan/), [Pan Zhang](https://panzhang0212.github.io/), [Jianmin Bao](https://jianminbao.github.io/), [Dong Chen](https://www.microsoft.com/en-us/research/people/doch/), [Zhongfei Zhang](https://www.cs.binghamton.edu/~zhongfei/), [Fang Wen](https://www.microsoft.com/en-us/research/people/fangwen/).*<br>
 
 **Few-shot Image Generation via Cross-domain Correspondence.**[[PDF](https://arxiv.org/abs/2104.06820)] [[Project](https://utkarshojha.github.io/few-shot-gan-adaptation/)] [[Github](https://github.com/utkarshojha/few-shot-gan-adaptation)] <br>
 *Utkarsh Ojha, Yijun Li, Jingwan Lu, Alexei A. Efros, Yong Jae Lee, Eli Shechtman, Richard Zhang.*<br>
