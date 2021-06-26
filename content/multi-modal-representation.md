@@ -595,6 +595,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)]
 
 ### Text-to-Image
 
+**Learning by Planning: Language-Guided Global Image Editing.**<br>
+*Jing Shi, Ning Xu, Yihang Xu, Trung Bui, Franck Dernoncourt, Chenliang Xu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.13156)]
+
 **MOC-GAN: Mixing Objects and Captions to Generate Realistic Images.**<br>
 *Tao Ma, Yikang Li.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03128)]
@@ -645,7 +649,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04702)]
 
 **TediGAN: Text-Guided Diverse Image Generation and Manipulation.**<br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ)] [[Github](https://github.com/weihaox/TediGAN)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.03308)] [[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ)] [[Github](https://github.com/weihaox/TediGAN)]
 
 **MPG: A Multi-ingredient Pizza Image Generator with Conditional StyleGANs.**<br>
 *Fangda Han, Guoyao Hao, Ricardo Guerrero, Vladimir Pavlovic.*<br>

@@ -64,6 +64,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
 ### Others
 
+**IA-RED2: Interpretability-Aware Redundancy Reduction for Vision Transformers.**<br> 
+*Bowen Pan, Yifan Jiang, Rameswar Panda, Zhangyang Wang, Rogerio Feris, Aude Oliva.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12620)]
+
 **CAT: Cross Attention in Vision Transformer.**<br> 
 *Hezheng Lin, Xing Cheng, Xiangyu Wu, Fan Yang, Dong Shen, Zhongyuan Wang, Qing Song, Wei Yuan.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05786)]
@@ -237,6 +241,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 ## Tracking, Detection and Segmentation
+
+**Video Swin Transformer.**<br>
+*Ze Liu, Jia Ning, Yue Cao, Yixuan Wei, Zheng Zhang, Stephen Lin, Han Hu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13230)]
 
 **Video Instance Segmentation using Inter-Frame Communication Transformers.**<br>
 *Sukjun Hwang, Miran Heo, Seoung Wug Oh, Seon Joo Kim.*<br>
@@ -467,6 +475,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.co
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
 
 ## 2.5D and 3D 
+
+**LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction.**<br>
+*Farid Yagubbayli, Alessio Tonioni, Federico Tombari.*<br>
+arxiv 2021.	[[PDF](https://arxiv.org/abs/2106.12102)]
 
 **THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers.**<br>
 *Mihai Zanfir, Andrei Zanfir, Eduard Gabriel Bazavan, William T. Freeman, Rahul Sukthankar, Cristian Sminchisescu.*<br>

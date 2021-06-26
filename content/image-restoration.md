@@ -121,6 +121,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**GPEN: GAN Prior Embedded Network for Blind Face Restoration in the Wild.**<br>
+*Tao Yang, Peiran Ren, Xuansong Xie, Lei Zhang.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_GAN_Prior_Embedded_Network_for_Blind_Face_Restoration_in_the_CVPR_2021_paper.pdf)]
+
 **A Deep Variational Bayesian Framework for Blind Image Deblurring.**<br>
 *Hui Wang, Zongsheng Yue, Qian Zhao, Deyu Meng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02884)]

@@ -99,6 +99,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others
 
+**BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
+*Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
+CVPR Workshop 2021. [[PDF](https://arxiv.org/abs/2010.02036)] [[Project](https://orpatashnik.github.io/BalaGAN/)] [[Github](https://github.com/orpatashnik/BalaGAN)]
+
 **Federated CycleGAN for Privacy-Preserving Image-to-Image Translation.**<br>
 *Joonyoung Song, Jong Chul Ye.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.09246)]
@@ -338,10 +342,6 @@ WACV 2021. [[PDF](https://openaccess.thecvf.com/content/WACV2021/html/Lin_Attent
 *Yiming Gao, Jiangqin Wu.*<br>
 
 ### Others 2020
-
-**BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
-*Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02036)]
 
 **Lipschitz Regularized CycleGAN for Improving Semantic Robustness in Unpaired Image-to-image Translation.**<br>
 *Zhiwei Jia, Bodi Yuan, Kangkang Wang, Hong Wu, David Clifford, Zhiqiang Yuan, Hao Su.*<br>

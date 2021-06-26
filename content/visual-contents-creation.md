@@ -115,6 +115,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04488)] [[Github](https://github.c
 
 ## Deep Learning Explaination
 
+**Towards Fully Interpretable Deep Neural Networks: Are We There Yet?**<br>
+*Sandareka Wickramanayake, Wynne Hsu, Mong Li Lee.*<br>
+ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI. [[PDF](https://arxiv.org/abs/2106.13164)]
+
 **What does LIME really see in images?**<br>
 *Damien Garreau, Dina Mardaoui.*<br>
 ICML 2021. [[PDF](https://arxiv.org/pdf/2102.06307.pdf)]
