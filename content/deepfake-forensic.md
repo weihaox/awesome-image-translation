@@ -54,6 +54,14 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 
 ### Methods
 
+**Multi-Attentional Deepfake Detection.**<br>
+*Hanqing Zhao, Wenbo Zhou, Dongdong Chen, Tianyi Wei, Weiming Zhang, Nenghai Yu.*<br>
+CVPR 2021. [[PDF](http://arxiv.org/abs/2103.02406)]
+
+**Improving the Efficiency and Robustness of Deepfakes Detection Through Precise Geometric Features.**<br>
+*Zekun Sun, Yujie Han, Zeyu Hua, Na Ruan, Weijia Jia.*<br>
+CVPR 2021. [[PDF](http://arxiv.org/abs/2104.04480)]
+
 **Learning to Disentangle GAN Fingerprint for Fake Image Attribution.**<br>
 *Tianyun Yang, Juan Cao, Qiang Sheng, Lei Li, Jiaqi Ji, Xirong Li, Sheng Tang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.08749)]
