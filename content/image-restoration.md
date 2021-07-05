@@ -553,7 +553,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.02228)]
 
 **MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution.**<br>
 *Wenbo Li, Xin Tao, Taian Guo, Lu Qi, Jiangbo Lu, Jiaya Jia.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11803)]
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.11803)] [[Github](https://github.com/dvlab-research/Simple-SR)]
 
 **BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond.**<br>
 *Kelvin C.K. Chan, Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy.*<br>
@@ -570,10 +570,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12528)]
 **DeFMO: Deblurring and Shape Recovery of Fast Moving Objects.**<br>
 *Denys Rozumnyi, Martin R. Oswald, Vittorio Ferrari, Jiri Matas, Marc Pollefeys.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00595)]
-
-**Reference-Based Video Colorization with Spatiotemporal Correspondence.**<br>
-*Naofumi Akimoto, Akio Hayakawa, Andrew Shin, Takuya Narihira.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12528)]
 
 **DynaVSR: Dynamic Adaptive Blind Video Super-Resolution.**<br>
 *Suyoung Lee, Myungsub Choi, Kyoung Mu Lee.*<br>

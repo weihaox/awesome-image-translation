@@ -815,7 +815,7 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1911.10520)] [[GitHub](http://t.cn/Aigv
 arxiv 2019. [[PDF](https://arxiv.org/abs/1905.08766)]
 
 **AGUIT: Attribute Guided Unpaired Image-to-Image Translation with Semi-supervised Learning.**<br>
-*Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji.*<br>
+*[Xinyang Li](https://imlixinyang.github.io/resume-cv/), Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1904.12428)] [[Github](https://github.com/imlixinyang/aguit)]
 
 ## Before 2018

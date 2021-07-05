@@ -1232,6 +1232,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyench
 
 #### Frequency
 
+**Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
+*[Matthew Tancik](http://matthewtancik.com/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Jonathan T. Barron](https://jonbarron.info/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)] [[Github](https://github.com/tancik/fourier-feature-networks)]
+
+**Implicit Neural Representations with Periodic Activation Functions.**<br>
+*[Vincent Sitzmann](https://vsitzmann.github.io), Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.09661)] [[Project](https://vsitzmann.github.io/siren/)] [[Github](https://github.com/vsitzmann/siren)]
+
 **Learnable Fourier Features for Multi-DimensionalSpatial Positional Encoding.**<br>
 *Yang Li, Si Si, Gang Li, Cho-Jui Hsieh, Samy Bengio.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02795)]
@@ -1573,6 +1581,10 @@ Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Diffusion Probabilistic Models
 
+**Cascaded Diffusion Models for High Fidelity Image Generation.**<br>
+*Jonathan Ho, Chitwan Saharia, William Chan, David J. Fleet, Mohammad Norouzi, Tim Salimans.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.15282)]
+
 **Diffusion Models Beat GANs on Image Synthesis.**<br>
 *[Prafulla Dhariwal](https://prafulladhariwal.com/), Alex Nichol.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.05233)] [[Github](https://github.com/openai/guided-diffusion)]
@@ -1592,8 +1604,8 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.02502)] [[Github](https://github.c
 ### misc
 
 **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort.**<br>
-*Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06490)]
+*[Yuxuan Zhang](https://www.alexyuxuanzhang.com/), [Huan Ling](http://www.cs.toronto.edu/~linghuan/), [Jun Gao](http://www.cs.toronto.edu/~jungao/), [Kangxue Yin](https://kangxue.org/), [Jean-Francois Lafleche](), [Adela Barriuso](), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Sanja Fidler](http://www.cs.utoronto.ca/~fidler/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06490)] [[Github](https://github.com/nv-tlabs/datasetGAN_release)] [[Project](https://nv-tlabs.github.io/datasetGAN/)]
 
 **Exploiting Relationship for Complex-scene Image Generation.**<br>
 *Tianyu Hua, Hongdong Zheng, Yalong Bai, Wei Zhang, Xiao-Ping Zhang, Tao Mei.*<br>
@@ -1981,7 +1993,7 @@ ICIP 2020. [[PDF](https://arxiv.org/abs/2006.14265)]
 
 **Implicit Neural Representations with Periodic Activation Functions.**<br>
 *[Vincent Sitzmann](https://vsitzmann.github.io), Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.09661)] [[Project](https://vsitzmann.github.io/siren/)] [[Github](https://github.com/vsitzmann/siren)]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.09661)] [[Project](https://vsitzmann.github.io/siren/)] [[Github](https://github.com/vsitzmann/siren)]
 
 **Rethinking Semi-Supervised Learning in VAEs.**<br>
 *Tom Joy, Sebastian M. Schmon, Philip H. S. Torr, N. Siddharth, Tom Rainforth.*<br>
@@ -1989,7 +2001,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10102)] [[Github](https://github.c
 
 **Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
 *[Matthew Tancik](http://matthewtancik.com/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Jonathan T. Barron](https://jonbarron.info/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)] [[Github](https://github.com/tancik/fourier-feature-networks)]
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)] [[Github](https://github.com/tancik/fourier-feature-networks)]
 
 **Sky Optimization: Semantically Aware Image Processing of Skies in Low-Light Photography.**<br>
 *Orly Liba, Longqi Cai, Yun-Ta Tsai, Elad Eban, Yair Movshovitz-Attias, Yael Pritch, Huizhong Chen, [Jonathan T. Barron](https://jonbarron.info/).*<br>

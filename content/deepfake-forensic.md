@@ -40,6 +40,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.07397)] [[Dataset](http://ai.faceb
 
 ### Survey
 
+**Deep Learning for Face Anti-Spoofing: A Survey.**<br>
+*Zitong Yu, Yunxiao Qin, Xiaobai Li, Chenxu Zhao, Zhen Lei, Guoying Zhao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14948)]
+
 **Countering Malicious DeepFakes: Survey, Battleground, and Horizon.**<br>
 *Felix Juefei-Xu, Run Wang, Yihao Huang, Qing Guo, Lei Ma, Yang Liu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00218)]

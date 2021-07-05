@@ -64,6 +64,18 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
 ### Others
 
+**SVEA: Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation.**<br> 
+*Nicklas Hansen, Hao Su, Xiaolong Wang.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.00644)] [[Project](https://nicklashansen.github.io/SVEA)]
+
+**AutoFormer: Searching Transformers for Visual Recognition.**<br> 
+*Minghao Chen, Houwen Peng, Jianlong Fu, Haibin Ling.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.00651)] [[Github](https://github.com/microsoft/AutoML)]
+
+**Early Convolutions Help Transformers See Better.**<br> 
+*Tete Xiao, Mannat Singh, Eric Mintun, Trevor Darrell, Piotr Dollár, Ross Girshick.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14881)]
+
 **IA-RED2: Interpretability-Aware Redundancy Reduction for Vision Transformers.**<br> 
 *Bowen Pan, Yifan Jiang, Rameswar Panda, Zhangyang Wang, Rogerio Feris, Aude Oliva.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12620)]
