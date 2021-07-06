@@ -61,6 +61,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2012.14261)]
 *Damien Garreau, Dina Mardaoui.*<br> 
 ICML 2021. [[PDF](https://arxiv.org/abs/2102.06307)]
 
+**Towards Fully Interpretable Deep Neural Networks: Are We There Yet?**<br>
+*Sandareka Wickramanayake, Wynne Hsu, Mong Li Lee.*<br>
+ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI. [[PDF](https://arxiv.org/abs/2106.13164)]
+
 **Neuron Shapley: Discovering the Responsible Neurons.**<br>
 *Amirata Ghorbani, James Zou.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2002.09815)]
@@ -107,6 +111,7 @@ Communications in Mathematics and Statistics 2017. [[PDF](https://link.springer.
 
 **ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction.**<br>
 *[Kwan Ho Ryan Chan](https://ryanchankh.github.io/), [Yaodong Yu](https://yaodongyu.github.io/), [Chong You](https://sites.google.com/view/cyou), [Haozhi Qi](https://haozhi.io/), [John Wright](http://www.columbia.edu/~jw2966/), [Yi Ma](http://people.eecs.berkeley.edu/~yima/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.10446)] [[Github](https://github.com/Ma-Lab-Berkeley/ReduNet)]
 
 ### Brain Science and Cognitive Psychology
 
