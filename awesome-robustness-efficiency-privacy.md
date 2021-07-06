@@ -11,8 +11,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## Table of Contents
 - [Related Workshop and Tutorial](#related-workshop-and-tutorial)
-- [Fairness, Accountability, Privacy, Transparency, and Ethics](#fairness-accountability-privacy-transparency-and-ethics)
 - [Neural Network Interpretability](#neural-network-interpretability)
+- [Fairness, Accountability, Privacy, Transparency, and Ethics](#fairness-accountability-privacy-transparency-and-ethics)
 - [Data Efficiency](#data-efficiency)
 - [Data Bias](#data-bias)
 - [Data Memorization](#data-memorization)
@@ -34,6 +34,85 @@ CVPR 2021 Workshop. [[Homepage])(http://www.cs.cmu.edu/~shuk/open-world-vision.h
 **IPCV: Imbalance Problems in Computer Vision.**<br>
 *[Emre Akbas](https://user.ceng.metu.edu.tr/~emre/), Baris Can Cam, Sinan Kalkan, Kemal Oksuz, Nuno Vasconcelos.*<br>
 ECCV 2020 Workshop. [[Homepage])(https://sites.google.com/view/ipcv2020/home)]
+
+## Neural Network Interpretability
+
+This direction includes:
+
+- interpreting model predictions (visualization of the knowledge encoded in intermediate layers of DNNs, the estimation of the pixel-wise attribution/importance/saliency on an input image, or analysis of some characterstics like sensitivity to input data of DNNs);
+
+- theoretical understanding with mathematical statistical, or physical tools;
+
+- usage of above methods to improve their optimization and generalization.
+
+### Book and Suevey
+
+**The Principles of Deep Learning Theory.**<br>
+*Daniel A. Roberts, Sho Yaida, Boris Hanin.*<br>
+Cambridge University Press. [[PDF](https://arxiv.org/abs/2106.10165)]
+
+**A Survey on Neural Network Interpretability.**<br>
+*Yu Zhang, Peter Tiňo, Aleš Leonardis, Ke Tang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.14261)]
+
+### Interpreting Model Predictions
+
+**What does LIME really see in images?**<br> 
+*Damien Garreau, Dina Mardaoui.*<br> 
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.06307)]
+
+**Neuron Shapley: Discovering the Responsible Neurons.**<br>
+*Amirata Ghorbani, James Zou.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2002.09815)]
+
+**Understanding the Role of Individual Units in a Deep Neural Network.**<br>
+*David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
+National Academy of Sciences (PNAS) 2020. [[PDF](https://arxiv.org/abs/2009.05041)] [[Github](https://github.com/davidbau/dissect/)] [[Project](https://dissect.csail.mit.edu/)]
+
+**Interpretable Convolutional Neural Networks.**<br>
+*Quanshi Zhang, Ying Nian Wu, Song-Chun Zhu.*<br>
+CVPR 2018. [[PDF](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.html)] [[Github](https://github.com/zqs1022/interpretableCNN)]
+
+**SHAP: A Unified Approach to Interpreting Model Predictions.**<br>
+*Scott M. Lundberg, Su-In Lee.*<br>
+NeurIPS 2017. [[PDF](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html)] [[Github](https://github.com/slundberg/shap)]
+
+**LIME: Explaining the Predictions of Any Classifier.**<br>
+*[Marco Tulio Ribeiro](https://homes.cs.washington.edu/~marcotcr/), Sameer Singh, Carlos Guestrin.*<br>
+KDD 2016. [[PDF](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)] [[Github](https://github.com/marcotcr/lime)]
+
+### Theoretically Understanding via Mathematics or Statistics 
+
+**Interpreting and Boosting Dropout from a Game-Theoretic View.**<br>
+*Hao Zhang, Sen Li, Yinchao Ma, Mingjie Li, Yichen Xie, Quanshi Zhang.*<br>
+ICLR, 2021. [[PDF](https://arxiv.org/abs/2009.11729)]
+
+**A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth.**<br>
+*Yiping Lu, Chao Ma, Yulong Lu, Jianfeng Lu, Lexing Ying.*<br>
+ICML 2020. [[PDF](https://web.stanford.edu/~yplu/pub/mfResNet.pdf)]
+
+**Machine Learning from a Continuous Viewpoint.**<br>
+*Weinan E, [Chao Ma](https://www.chaom.org/), Lei Wu.*<br>
+Science China Mathematics 2020. [[PDF](https://arxiv.org/abs/1912.12777)]
+
+**PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network.**<br>
+*[Zichao Long](http://zlong.me/), [Yiping Lu](https://web.stanford.edu/~yplu/#photos), [Bin Dong](https://bicmr.pku.edu.cn/~dongbin/).*<br>
+Journal of Computational Physics 2019. [[PDF](https://web.stanford.edu/~yplu/pub/PDENet2.pdf)]
+
+**A Proposal on Machine Learning via Dynamical Systems.**<br>
+*[Weinan E](http://web.math.princeton.edu/~weinan/).*<br>
+Communications in Mathematics and Statistics 2017. [[PDF](https://link.springer.com/article/10.1007%2Fs40304-017-0103-z)]
+
+### Explicit Building Guided by Certain Principle
+
+**ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction.**<br>
+*[Kwan Ho Ryan Chan](https://ryanchankh.github.io/), [Yaodong Yu](https://yaodongyu.github.io/), [Chong You](https://sites.google.com/view/cyou), [Haozhi Qi](https://haozhi.io/), [John Wright](http://www.columbia.edu/~jw2966/), [Yi Ma](http://people.eecs.berkeley.edu/~yima/).*<br>
+
+### Brain Science and Cognitive Psychology
+
+**Deep Learning and the Global Workspace Theory.**<br>
+*Rufin VanRullen, Ryota Kanai.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
 ## Fairness, Accountability, Privacy, Transparency, and Ethics
 
@@ -252,20 +331,6 @@ ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12356
 **Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims.**
 *Miles Brundage et al.*
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07213)]
-
-## Neural Network Interpretability
-
-**What does LIME really see in images?**<br> 
-*Damien Garreau， Dina Mardaoui.*<br> 
-ICML 2021. [[PDF]()]
-
-**A Survey on Neural Network Interpretability.**<br>
-*Yu Zhang, Peter Tiňo, Aleš Leonardis, Ke Tang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2012.14261)]
-
-**Deep Learning and the Global Workspace Theory.**<br>
-*Rufin VanRullen, Ryota Kanai.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
 ## Data Efficiency
 

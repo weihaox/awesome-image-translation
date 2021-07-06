@@ -36,24 +36,6 @@ This direction includes Data Efficiency, Data Bias (class-imbalanced data, long-
 *Preetum Nakkiran, Behnam Neyshabur, Hanie Sedghi.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2010.08127)]
 
-## Explainable AI
-
-**Neuron Shapley: Discovering the Responsible Neurons.**<br>
-*Amirata Ghorbani, James Zou.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2002.09815)]
-
-**Understanding the Role of Individual Units in a Deep Neural Network.**<br>
-*David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
-National Academy of Sciences (PNAS) 2020. [[PDF](https://arxiv.org/abs/2009.05041)] [[Github](https://github.com/davidbau/dissect/)] [[Project](https://dissect.csail.mit.edu/)]
-
-**SHAP: A Unified Approach to Interpreting Model Predictions.**<br>
-*Scott M. Lundberg, Su-In Lee.*<br>
-NeurIPS 2017. [[PDF](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html)] [[Github](https://github.com/slundberg/shap)]
-
-**LIME: Explaining the Predictions of Any Classifier.**<br>
-*Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin.*<br>
-KDD 2016. [[PDF](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)] [[Github](https://github.com/marcotcr/lime)]
-
 ## Cross-Modality AI
 
 This direction includes multi-modality translation, multi-modality representation, domain alignment, etc.
