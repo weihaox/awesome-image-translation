@@ -97,7 +97,11 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**[[PDF](https://arxiv.org/abs/2102.01187)]<br>
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
 
-### Others
+### Others 2021
+
+**IEGAN: Independent Encoder for Deep Hierarchical Unsupervised Image-to-Image Translation.**<br>
+*Kai Ye, Yinru Ye, Minqiang Yang, Bin Hu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.02494.pdf)] [[Github](https://github.com/Elvinky/IEGAN)]
 
 **BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
 *Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>

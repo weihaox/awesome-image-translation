@@ -115,39 +115,13 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04488)] [[Github](https://github.c
 
 ## Deep Learning Explaination
 
-**Towards Fully Interpretable Deep Neural Networks: Are We There Yet?**<br>
-*Sandareka Wickramanayake, Wynne Hsu, Mong Li Lee.*<br>
-ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI. [[PDF](https://arxiv.org/abs/2106.13164)]
-
-**What does LIME really see in images?**<br>
-*Damien Garreau, Dina Mardaoui.*<br>
-ICML 2021. [[PDF](https://arxiv.org/pdf/2102.06307.pdf)]
-
-**ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction.**<br>
-*[Kwan Ho Ryan Chan](https://ryanchankh.github.io/), [Yaodong Yu](https://yaodongyu.github.io/), [Chong You](https://sites.google.com/view/cyou), [Haozhi Qi](https://haozhi.io/), [John Wright](http://www.columbia.edu/~jw2966/), [Yi Ma](http://people.eecs.berkeley.edu/~yima/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2105.10446)] [[Github](https://github.com/Ma-Lab-Berkeley/ReduNet)]
-
-**Neuron Shapley: Discovering the Responsible Neurons.**<br>
-*Amirata Ghorbani, James Zou.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2002.09815)]
-
-**Understanding the Role of Individual Units in a Deep Neural Network.**<br>
-*David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
-National Academy of Sciences (PNAS) 2020. [[PDF](https://arxiv.org/abs/2009.05041)] [[Github](https://github.com/davidbau/dissect/)] [[Project](https://dissect.csail.mit.edu/)]
-
-**SHAP: A Unified Approach to Interpreting Model Predictions.**<br>
-*Scott M. Lundberg, Su-In Lee.*<br>
-NeurIPS 2017. [[PDF](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html)] [[Github](https://github.com/slundberg/shap)]
-
-**LIME: Explaining the Predictions of Any Classifier.**<br>
-*Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin.*<br>
-KDD 2016. [[PDF](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)] [[Github](https://github.com/marcotcr/lime)]
+See [Neural Network Interpretability](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-robustness-efficiency-privacy.md#neural-network-interpretability)
 
 ## Lottery Tickets Hypothesis
 
 **A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br> 
 *Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
-ICML 2021. [[PDF]()]
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.06790)]
 
 **Efficient Lottery Ticket Finding: Less Data is More.**<br> 
 *Zhenyu Zhang, Xuxi Chen, Tianlong Chen, Zhangyang Wang.*<br>

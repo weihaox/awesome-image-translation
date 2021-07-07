@@ -413,9 +413,13 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08779)] [[Project](https://google.
 
 ### Image-to-Video
 
+**iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis.**<br>
+*[Andreas Blattmann](https://www.linkedin.com/in/andreas-blattmann-479038186/?originalSubdomain=de), [Timo Milbich](), [Michael Dorkenwald](https://mdorkenwald.com/), [Björn Ommer](https://mdork.github.io/https://hci.iwr.uni-heidelberg.de/people/bommer).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02790)] [[Github](hhttps://compvis.github.io/ipoke/)]
+
 **Understanding Object Dynamics for Interactive Image-to-Video Synthesis.**<br>
 *Andreas Blattmann, Timo Milbich, Michael Dorkenwald, Björn Ommer.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2106.11303)] [[Project](https://bit.ly/3cxfA2L)]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.11303)] [[Project](https://compvis.github.io/interactive-image2video-synthesis/)]
 
 **Image-to-Video Generation via 3D Facial Dynamics.**<br>
 *Xiaoguang Tu, Yingtian Zou, Jian Zhao, Wenjie Ai, Jian Dong, Yuan Yao, Zhikang Wang, Guodong Guo, Zhifeng Li, Wei Liu, Jiashi Feng.*<br>

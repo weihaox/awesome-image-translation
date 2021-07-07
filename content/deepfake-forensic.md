@@ -58,6 +58,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04145)]
 
 ### Methods
 
+**Combining EfficientNet and Vision Transformers for Video Deepfake Detection.**<br>
+*Davide Coccomini, Nicola Messina, Claudio Gennaro, Fabrizio Falchi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02612)]
+
 **Multi-Attentional Deepfake Detection.**<br>
 *Hanqing Zhao, Wenbo Zhou, Dongdong Chen, Tianyi Wei, Weiming Zhang, Nenghai Yu.*<br>
 CVPR 2021. [[PDF](http://arxiv.org/abs/2103.02406)]
