@@ -121,6 +121,10 @@ ECCV 2018. [[PDF](https://arxiv.org/abs/1808.00043)] [[Github](https://github.co
 
 ## Unpaired or Misaligned Data
 
+**Blind Image Super-Resolution: A Survey and Beyond.**<br>
+*Anran Liu, Yihao Liu, Jinjin Gu, Yu Qiao, Chao Dong.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.03055)]
+
 **GPEN: GAN Prior Embedded Network for Blind Face Restoration in the Wild.**<br>
 *Tao Yang, Peiran Ren, Xuansong Xie, Lei Zhang.*<br>
 CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_GAN_Prior_Embedded_Network_for_Blind_Face_Restoration_in_the_CVPR_2021_paper.pdf)]

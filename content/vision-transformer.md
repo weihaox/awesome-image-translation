@@ -64,6 +64,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
 ### Others
 
+**GLiT: Neural Architecture Search for Global and Local Image Transformer.**<br> 
+*Boyu Chen, Peixia Li, Chuming Li, Baopu Li, Lei Bai, Chen Lin, Ming Sun, Junjie yan, Wanli Ouyang.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02960)]
+
 **SVEA: Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation.**<br> 
 *Nicklas Hansen, Hao Su, Xiaolong Wang.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.00644)] [[Project](https://nicklashansen.github.io/SVEA)]
@@ -253,6 +257,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.06184)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 ## Tracking, Detection and Segmentation
+
+**Long Short-Term Transformer for Online Action Detection.**<br>
+*Mingze Xu, Yuanjun Xiong, Hao Chen, Xinyu Li, Wei Xia, Zhuowen Tu, Stefano Soatto.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.03377)]
 
 **Video Swin Transformer.**<br>
 *Ze Liu, Jia Ning, Yue Cao, Yixuan Wei, Zheng Zhang, Stephen Lin, Han Hu.*<br>

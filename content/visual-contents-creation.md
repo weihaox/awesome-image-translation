@@ -6,18 +6,27 @@ This repository is about *controllable, interpretable, and generalizable visual 
 - [Industry Demo or Product](#industry-demo-or-product)
 - [PhD Thesis and Dissertation](#phd-thesis-and-dissertation)
 - [Classical Method Revisiting](#classical-method-revisiting)
+- [People Wearing Smart Glasses or Other Mixedreality Devices](#people-wearing-smart-glasses-or-other-mixedreality-devices)
+- [Network Subspace](#network-subspace)
+- [Deep Learning Explaination](#deep-learning-explaination)
 - [Lottery Tickets Hypothesis](#lottery-tickets-hypothesis)
 - [Interactive and Controllable Image Manipulation](#interactive-and-controllable-image-manipulation)
+  * [Heterogeneous Face Translation](#heterogeneous-face-translation)
   * [Highlight Component](#highlight-component)
   * [Rearrange and Retiming](#rearrange-and-retiming)
+  * [Neural Simulation](#neural-simulation)
   * [Human-Object Interaction](#human-object-interaction)
   * [Continuous Image Representation](#continuous-image-representation)
   * [Change Where You Want](#change-where-you-want)
   * [Disentanglement](#disentanglement)
+  * [Image Style Transfer](#image-style-transfer)
   * [Guided Translation](#guided-translation)
   * [Individual Object Manipulation](#individual-object-manipulation)
   * [Generating Accurate Descriptions](#generating-accurate-descriptions)
-- [High-Resolution](#high-resolution)
+- [High-Resolution Image Synthesis](#high-resolution-image-synthesis)
+  * [Toward 1024-Resolution](#toward-1024-resolution)
+  * [Toward Infinite-Resolution](#toward-infinite-resolution)
+- [Lightweight High-Resolution Image Synthesis](#lightweight-high-resolution-image-synthesis)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
   * [Video Generation and Future Prediction](#video-generation-and-future-prediction)
@@ -28,6 +37,7 @@ This repository is about *controllable, interpretable, and generalizable visual 
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
   * [Generative Models](#generative-models)
   * [StyleGAN-Based Method](#stylegan-based-method)
+  * [Diffusion Probabilistic Models](#diffusion-probabilistic-models)
   * [misc](#misc)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
 - [Free-Hand Sketch](#free-hand-sketch)
@@ -102,6 +112,16 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07579)] [[Github](https://github.c
 **RepVGG: Making VGG-style ConvNets Great Again.**<br>
 *Xiaohan Ding, Xiangyu Zhang, Ningning Ma, Jungong Han, Guiguang Ding, Jian Sun.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03697)] [[Github](https://github.com/megvii-model/RepVGG)]
+
+## People Wearing Smart Glasses or Other Mixedreality Devices
+
+**Egocentric Videoconferencing.**<br> 
+*[Mohamed Elgharib](http://people.mpi-inf.mpg.de/~elgharib/), [Mohit Mendiratta](https://scholar.google.com/citations?user=Y3Bc8isAAAAJ&hl=en), [Justus Thies](https://niessnerlab.org/members/justus_thies/profile.html), [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html), [Hans-Peter Seidel](https://people.mpi-inf.mpg.de/~hpseidel/), [Ayush Tewari](https://people.mpi-inf.mpg.de/~atewari/), [Vladislav Golyanik](http://people.mpi-inf.mpg.de/~golyanik/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
+SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2107.03109)] [[Project](http://gvv.mpi-inf.mpg.de/projects/EgoChat/)]
+
+**Cross-View Exocentric to Egocentric Video Synthesis.**<br> 
+*Gaowen Liu, Hao Tang, Hugo Latapie, Jason Corso, Yan Yan.*<br> 
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.03120)]
 
 ## Network Subspace
 
@@ -504,7 +524,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14211)]
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14739)]
 
 **HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms.**<br> 
-*[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Marcus A. Brubaker](https://mbrubake.github.io/), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br> 
+*[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Marcus A. Brubaker](https://mbrubake.github.io/), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.11731)] [[Github](https://github.com/mahmoudnafifi/HistoGAN)]
 
 **Progressive and Aligned Pose Attention Transfer for Person Image Generation.**<br> 
@@ -512,8 +532,8 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.11731)] [[Github](https://github.co
 TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.11622)]
 
 **PhotoApp: Photorealistic Appearance Editing of Head Portraits.**<br>
-*Mallikarjun B R, Ayush Tewari, Abdallah Dib, Tim Weyrich, Bernd Bickel, Hans-Peter Seidel, Hanspeter Pfister, Wojciech Matusik, Louis Chevallier, Mohamed Elgharib, Christian Theobalt.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.07658)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PhotoApp/)]
+*[Mallikarjun B R](https://people.mpi-inf.mpg.de/~mbr/), [Ayush Tewari](https://people.mpi-inf.mpg.de/~atewari/), [Abdallah Dib](https://www.interdigital.com/talent/?id=38), [Tim Weyrich](http://reality.cs.ucl.ac.uk/weyrich.html), [Bernd Bickel](http://berndbickel.com/), [Hans-Peter Seidel](https://people.mpi-inf.mpg.de/~hpseidel/english.html), [Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech), [Louis Chevallier](https://scholar.google.fr/citations?user=hC_BTU8AAAAJ&hl=en), [Mohamed Elgharib](http://people.mpi-inf.mpg.de/~elgharib/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
+SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2103.07658)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PhotoApp/)]
 
 **PISE: Person Image Synthesis and Editing with Decoupled GAN.**<br>
 *[Jinsong Zhang](https://zhangjinso.github.io/), [Kun Li](http://cic.tju.edu.cn/faculty/likun/), [Yu-Kun Lai](http://users.cs.cf.ac.uk/Yukun.Lai/), [Jingyu Yang](http://tju.iirlab.org/).*<br>

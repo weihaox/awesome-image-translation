@@ -99,9 +99,13 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others 2021
 
+**RABIT: Bi-level Feature Alignment for Versatile Image Translation and Manipulation.**<br>
+*Fangneng Zhan, Yingchen Yu, Rongliang Wu, Kaiwen Cui, Aoran Xiao, Shijian Lu, Ling Shao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.03021)] [[Github](https://github.com/fnzhan/RABIT)]
+
 **IEGAN: Independent Encoder for Deep Hierarchical Unsupervised Image-to-Image Translation.**<br>
 *Kai Ye, Yinru Ye, Minqiang Yang, Bin Hu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.02494.pdf)] [[Github](https://github.com/Elvinky/IEGAN)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02494)] [[Github](https://github.com/Elvinky/IEGAN)]
 
 **BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
 *Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
