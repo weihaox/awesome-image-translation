@@ -321,6 +321,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.co
 *[Fabio Pizzati](https://fabvio.github.io/), [Pietro Cerri](https://scholar.google.fr/citations?user=MEidJHwAAAAJ), [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://github.com/cv-rits/CoMoGAN)]
 
+**UltraSR: Spatial Encoding is a Missing Key for Implicit Image Function-based Arbitrary-Scale Super-Resolution.**<br>
+*Xingqian Xu, Zhangyang Wang, Humphrey Shi.*<br>
+arxiv 2103. [[PDF](https://arxiv.org/abs/2103.12716)]
+
 ### Change Where You Want
 
 **High-Fidelity and Arbitrary Face Editing.**<br>
