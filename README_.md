@@ -632,7 +632,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2002.11376)]
 
 **PuppetGAN: Cross-domain image manipulation by demonstration.**<br>
 *Ben Usman, Nick Dufour, Kate Saenko, Chris Bregler.*<br>
-ICLR 2019 Oral. [[PDF](https://arxiv.org/abs/1901.10024)] [[Unofficial](https://github.com/GiorgosKarantonis/PuppetGAN)]
+ICCV 2019 Oral. [[PDF](https://arxiv.org/abs/1901.10024)] [[Unofficial](https://github.com/GiorgosKarantonis/PuppetGAN)]
 
 **pix2pixSC: Example-Guided Style Consistent Image Synthesis from Semantic Labeling.**<br>
 *Miao Wang, Guo-Ye Yang, Ruilong Li, Run-Ze Liang, Song-Hai Zhang, Peter. M. Hall, Shi-Min Hu.*<br>
