@@ -1,5 +1,11 @@
 # Visual Contents Generation and Manipulation
 
+The ultimate vision of my research is to manifest the physical world through imagination. I am interested in developing human-centric general intelligent systems that are: 
+- controllable for naive users to create, edit, share, and use visual contents;
+- interpretable about the components, principle, and predictions;
+- generalizable to real-world applications such as different domains with limited data;
+- trustworthy with no risks on fairness, privacy, and ethics.
+
 This repository is about *controllable, interpretable, and generalizable visual contents creation*, which is primaly a collection of papers on image, video, 3D shape generation and manipulation with the guidance by text, audio, camera pose, or other information.  The Controlable Parameters can be Camera, Pose, Lighting, Color, Texture, Semantics, Expression, Speech.
 
 ## Table of Contents
@@ -9,23 +15,25 @@ This repository is about *controllable, interpretable, and generalizable visual 
 - [People Wearing Smart Glasses or Other Mixedreality Devices](#people-wearing-smart-glasses-or-other-mixedreality-devices)
 - [Network Subspace](#network-subspace)
 - [Deep Learning Explaination](#deep-learning-explaination)
+- [High-Resolution Image Synthesis](#high-resolution-image-synthesis)
+  * [Toward 1024-Resolution](#toward-1024-resolution)
+  * [Toward Infinite-Resolution](#toward-infinite-resolution)
+- [Lightweight High-Resolution Image Synthesis](#lightweight-high-resolution-image-synthesis)
 - [Interactive and Controllable Image Manipulation](#interactive-and-controllable-image-manipulation)
+  * [Open-world Language-Guided Visual Content Generation](#open-world-language-guided-visual-content-generation)
   * [Heterogeneous Face Translation](#heterogeneous-face-translation)
   * [Continuous Image Representation](#continuous-image-representation)
   * [Highlight Component](#highlight-component)
   * [Rearrange and Retiming](#rearrange-and-retiming)
   * [Neural Simulation](#neural-simulation)
   * [Human-Object Interaction](#human-object-interaction)
+  * [Continuous Image Representation](#continuous-image-representation-1)
   * [Change Where You Want](#change-where-you-want)
   * [Disentanglement](#disentanglement)
-  * [Image Style Transfer](#image-style-transfer)
-  * [Guided Translation](#guided-translation)
   * [Individual Object Manipulation](#individual-object-manipulation)
   * [Generating Accurate Descriptions](#generating-accurate-descriptions)
-- [High-Resolution Image Synthesis](#high-resolution-image-synthesis)
-  * [Toward 1024-Resolution](#toward-1024-resolution)
-  * [Toward Infinite-Resolution](#toward-infinite-resolution)
-- [Lightweight High-Resolution Image Synthesis](#lightweight-high-resolution-image-synthesis)
+  * [Image Style Transfer](#image-style-transfer)
+  * [Guided Translation](#guided-translation)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
   * [Video Generation and Future Prediction](#video-generation-and-future-prediction)
@@ -43,6 +51,9 @@ This repository is about *controllable, interpretable, and generalizable visual 
 - [Free-Hand Sketch](#free-hand-sketch)
   * [2D Sketch to 3D Model](#2d-sketch-to-3d-model)
   * [2D Sketch to 2D Image](#2d-sketch-to-2d-image)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Industry Demo or Product
 
@@ -127,7 +138,7 @@ ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.03120)]
 
 **Learning Neural Network Subspaces.**<br> 
 *Mitchell Wortsman, Maxwell Horton, Carlos Guestrin, Ali Farhadi, Mohammad Rastegari.*<br>
-ICML 2021. [[PDF]()]
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.10472)]
 
 **Low-Rank Subspaces in GANs.**<br> 
 *Jiapeng Zhu, Ruili Feng, Yujun Shen, Deli Zhao, Zhengjun Zha, Jingren Zhou, Qifeng Chen.*<br> 
@@ -137,7 +148,87 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04488)] [[Github](https://github.c
 
 See [Neural Network Interpretability](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-robustness-efficiency-privacy.md#neural-network-interpretability)
 
+## High-Resolution Image Synthesis
+
+### Toward 1024-Resolution
+
+**In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
+*Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
+
+**A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
+*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
+
+### Toward Infinite-Resolution
+
+**Aligning Latent and Image Spaces to Connect the Unconnectable.**<br>
+*Ivan Skorokhodov, Grigorii Sotnikov, Mohamed Elhoseiny.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06954)] [[Project](https://universome.github.io/alis)] [[Github](https://github.com/universome/alis)]
+
+**In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
+*Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
+
+**InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
+*Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0527.github.io/infinityGAN/)]
+
+**Taming Transformers for High-Resolution Image Synthesis.**<br>
+*[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
+CVPR 2021 (Oral). [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
+
+**Boundless: Generative Adversarial Networks for Image Extension.**<br>
+*Piotr Teterwak, Aaron Sarna, Dilip Krishnan, Aaron Maschinot, David Belanger, Ce Liu, William T. Freeman.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/pdf/1908.07007.pdf)] [[Project](https://sites.google.com/view/boundless-iccv/home)] [[Github](https://github.com/recong/Boundless-in-Pytorch)]
+
+**NS-Outpainting: Very Long Natural Scenery Image Prediction by Outpainting.**<br>
+*Zongxin Yang, Jian Dong, Ping Liu, Yi Yang, Shuicheng Yan.*<br>
+ICCV 2019. [[PDF](https://arxiv.org/pdf/1912.12688.pdf)] [[Github](https://github.com/z-x-yang/NS-Outpainting)]
+
+## Lightweight High-Resolution Image Synthesis
+
+**Lite-HRNet: A Lightweight High-Resolution Network.**<br>
+*Changqian Yu, Bin Xiao, Changxin Gao, Lu Yuan, Lei Zhang, Nong Sang, Jingdong Wang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06403)] [[Github](https://github.com/HRNet/Lite-HRNet)]
+
+**Anycost GANs for Interactive Image Synthesis and Editing.**<br>
+*Ji Lin, Richard Zhang, Frieder Ganz, Song Han, Jun-Yan Zhu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03243)] [[Github](https://github.com/mit-han-lab/anycost-gan)] [[Project](https://hanlab.mit.edu/projects/anycost-gan/)]
+
+**Content-Aware GAN Compression.**<br>
+*Yuchen Liu, Zhixin Shu, Yijun Li, Zhe Lin, Federico Perazzi, S.Y. Kung.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02244)]
+
+**MobileStyleGAN: A Lightweight Convolutional Neural Network for High-Fidelity Image Synthesis.**<br>
+*Sergei Belousov.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.04767)] [[Github](https://github.com/bes-dev/MobileStyleGAN.pytorch)]
+
+**GAN Compression: Efficient Architectures for Interactive Conditional GANs.**<br>
+*[Muyang Li](https://lmxyy.me/), [Ji Lin](http://linji.me/), [Yaoyao Ding](https://yaoyaoding.com/), [Zhijian Liu](http://zhijianliu.com/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), and [Song Han](https://songhan.mit.edu/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08936)] [[Demo](https://tinyurl.com/r474uca)] [[Github](https://github.com/mit-han-lab/gan-compression)] [[Project](https://hanlab.mit.edu/projects/gancompression/)]
+
 ## Interactive and Controllable Image Manipulation
+
+### Open-world Language-Guided Visual Content Generation
+
+Full list can be found [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/multi-modal-representation.md#text-to-image).
+
+**CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders.**<br>
+*Kevin Frans, L.B. Soros, Olaf Witkowski.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14843)] [[Colab](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)]
+
+**Generative Art Using Neural Visual Grammars and Dual Encoders.**<br>
+*Chrisantha Fernando, S. M. Ali Eslami, Jean-Baptiste Alayrac, Piotr Mirowski, Dylan Banarse, Simon Osindero.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.00162)]
+
+**Learning by Planning: Language-Guided Global Image Editing.**<br>
+*Jing Shi, Ning Xu, Yihang Xu, Trung Bui, Franck Dernoncourt, Chenliang Xu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.13156)]
+
+**DALL-E: Zero-Shot Text-to-Image Generation.**<br>
+*Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.12092)] [[Blog](https://openai.com/blog/dall-e/)] [[Github](https://github.com/openai/DALL-E)]
 
 ### Heterogeneous Face Translation
 
@@ -223,7 +314,7 @@ CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.15060)] [[Project](https://n
 
 **Learning to Simulate Dynamic Environments with GameGAN.**<br>
 *[Seung Wook Kim](http://www.cs.toronto.edu/~seung/), [Yuhao Zhou](https://henryzhou7.github.io/), [Jonah Philion](http://www.cs.toronto.edu/), [Antonio Torralba](http://web.mit.edu/torralba/www/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).*<br>
-CVPR 2020. [[PDF]()] [[Github](https://github.com/nv-tlabs/GameGAN_code)] [[Project](https://nv-tlabs.github.io/gameGAN/)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/2005.12126)] [[Github](https://github.com/nv-tlabs/GameGAN_code)] [[Project](https://nv-tlabs.github.io/gameGAN/)]
 
 ### Human-Object Interaction
 
@@ -383,7 +474,83 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10544)] [[Github](https://github.c
 
 **DisCo: Do Generative Models Know Disentanglement? Contrastive Learning is All You Need.**<br>
 *Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://github.com/xrenaa/DisCo)]<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://github.com/xrenaa/DisCo)]
+
+### Individual Object Manipulation
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields.**<br>
+*Michael Niemeyer, Andreas Geiger.*<br>
+CVPR 2021 (Best Paper). [[PDF](https://arxiv.org/abs/2011.12100)] [[Project](https://m-niemeyer.github.io/project-pages/giraffe/index.html)] [[Github](https://github.com/autonomousvision/giraffe)]
+
+**Neural Scene Graphs for Dynamic Scenes.**<br>
+*Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
+
+**Self-Supervised Scene De-occlusion.**<br>
+*[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
+
+**Learning to Manipulate Individual Objects in an Image.**<br>
+*Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
+
+**AssembleNet++: Assembling Modality Representations via Attention Connections.**<br>
+*Michael S. Ryoo, AJ Piergiovanni, Juhana Kangaspunta, Anelia Angelova.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08072)] [[Project](https://sites.google.com/corp/view/assemblenet/)]
+
+**Object Properties Inferring from and Transfer for Human Interaction Motions.**<br>
+*Qian Zheng, Weikai Wu, Hanting Pan, Niloy Mitra, Daniel Cohen-Or, Hui Huang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08999)] [[Project](http://vcc.szu.edu.cn/research/2020/IT)]
+
+**SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects.**<br>
+*Evangelos Ntavelis, Andrés Romero, Iason Kastanis, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04977)]
+
+**3DLSN: End-to-End Optimization of Scene Layout.**<br>
+*Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
+CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
+
+**DJRN: Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
+*Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
+
+**AutoSweep: Recovering 3D Editable Objects from a Single Photograph.**<br>
+*Xin Chen, Yuwei Li, Xi Luo, Tianjia Shao, Jingyi Yu, Kun Zhou, Youyi Zheng.*<br>
+IVCJ 2018. [[PDF](https://arxiv.org/abs/2005.13312)] [[Project](https://chenxin.tech/files/Paper/TVCG2018_AutoSweep/AutoSweep.html)]
+
+**Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition.**<br>
+*Hassan Abu Alhaija, Siva Karthik Mustikovela, Justus Thies, Matthias Nießner, Andreas Geiger, Carsten Rother.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16011)]
+
+**Conditional Image Generation and Manipulation for User-Specified Content.**<br>
+*David Stap, Maurits Bleeker, Sarah Ibrahimi, Maartje ter Hoeve.*<br>
+AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04909)]
+
+**Context-Aware Synthesis and Placement of Object Instances.**<br>
+*Donghoon Lee, Sifei Liu, Jinwei Gu, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1812.02350v1)] [[Project](https://research.nvidia.com/publication/2018-10_Context-aware-Synthesis-and)]
+
+### Generating Accurate Descriptions
+
+**e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks.**<br>
+*Maxime Kayser, Oana-Maria Camburu, Leonard Salewski, Cornelius Emde, Virginie Do, Zeynep Akata, Thomas Lukasiewicz.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.03761)]
+
+**Describing Textures using Natural Language.**<br>
+*Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01180)] [[Project](https://people.cs.umass.edu/~chenyun/texture)]
+
+**Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards.**<br>
+*Xuewen Yang, Heming Zhang, Di Jin, Yingru Liu, Chi-Hao Wu, Jianchao Tan, Dongliang Xie, Jue Wang, Xin Wang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02693)]
+
+**POS-SCAN: More Grounded Image Captioning by Distilling Image-Text Matching Model.**<br>
+*Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.com/YuanEZhou/Grounded-Image-Captioning)]
+
+**Spatio-Temporal Graph for Video Captioning with Knowledge Distillation.**<br>
+*Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
 
 ### Image Style Transfer
 
@@ -583,7 +750,6 @@ TOG 2020 (SIGGRAPH 2020) [[PDF](https://ondrejtexler.github.io/res/Texler20-SIG_
 *Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
 
-
 **Progressive Pose Attention Transfer for Person Image Generation.**<br> 
 *Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai.*<br> 
 CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1904.03349)] [[Github](https://github.com/tengteng95/Pose-Transfer.git)]
@@ -595,134 +761,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06878)]
 **Graph2Plan: Learning Floorplan Generation from Layout Graphs.**<br>
 *Ruizhen Hu, Zeyu Huang, Yuhan Tang, Oliver van Kaick, Hao Zhang, Hui Huang.*<br>
 ACM Transactions on Graphics 2020. [[PDF](https://arxiv.org/abs/2004.13204)]
-
-### Individual Object Manipulation
-
-**Neural Scene Graphs for Dynamic Scenes.**<br>
-*Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
-
-**Self-Supervised Scene De-occlusion.**<br>
-*[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
-
-**Learning to Manipulate Individual Objects in an Image.**<br>
-*Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
-
-**AssembleNet++: Assembling Modality Representations via Attention Connections.**<br>
-*Michael S. Ryoo, AJ Piergiovanni, Juhana Kangaspunta, Anelia Angelova.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08072)] [[Project](https://sites.google.com/corp/view/assemblenet/)]
-
-**Object Properties Inferring from and Transfer for Human Interaction Motions.**<br>
-*Qian Zheng, Weikai Wu, Hanting Pan, Niloy Mitra, Daniel Cohen-Or, Hui Huang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08999)] [[Project](http://vcc.szu.edu.cn/research/2020/IT)]
-
-**SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects.**<br>
-*Evangelos Ntavelis, Andrés Romero, Iason Kastanis, Luc Van Gool, Radu Timofte.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04977)]
-
-**3DLSN: End-to-End Optimization of Scene Layout.**<br>
-*Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
-CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
-
-**DJRN: Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
-*Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
-
-**AutoSweep: Recovering 3D Editable Objects from a Single Photograph.**<br>
-*Xin Chen, Yuwei Li, Xi Luo, Tianjia Shao, Jingyi Yu, Kun Zhou, Youyi Zheng.*<br>
-IVCJ 2018. [[PDF](https://arxiv.org/abs/2005.13312)] [[Project](https://chenxin.tech/files/Paper/TVCG2018_AutoSweep/AutoSweep.html)]
-
-**Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition.**<br>
-*Hassan Abu Alhaija, Siva Karthik Mustikovela, Justus Thies, Matthias Nießner, Andreas Geiger, Carsten Rother.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16011)]
-
-**Conditional Image Generation and Manipulation for User-Specified Content.**<br>
-*David Stap, Maurits Bleeker, Sarah Ibrahimi, Maartje ter Hoeve.*<br>
-AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04909)]
-
-**Context-Aware Synthesis and Placement of Object Instances.**<br>
-*Donghoon Lee, Sifei Liu, Jinwei Gu, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz.*<br>
-NeurIPS 2018. [[PDF](https://arxiv.org/abs/1812.02350v1)] [[Project](https://research.nvidia.com/publication/2018-10_Context-aware-Synthesis-and)]
-
-### Generating Accurate Descriptions
-
-**e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks.**<br>
-*Maxime Kayser, Oana-Maria Camburu, Leonard Salewski, Cornelius Emde, Virginie Do, Zeynep Akata, Thomas Lukasiewicz.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2105.03761)]
-
-**Describing Textures using Natural Language.**<br>
-*Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01180)] [[Project](https://people.cs.umass.edu/~chenyun/texture)]
-
-**Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards.**<br>
-*Xuewen Yang, Heming Zhang, Di Jin, Yingru Liu, Chi-Hao Wu, Jianchao Tan, Dongliang Xie, Jue Wang, Xin Wang.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02693)]
-
-**POS-SCAN: More Grounded Image Captioning by Distilling Image-Text Matching Model.**<br>
-*Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.com/YuanEZhou/Grounded-Image-Captioning)]
-
-**Spatio-Temporal Graph for Video Captioning with Knowledge Distillation.**<br>
-*Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
-
-## High-Resolution Image Synthesis
-
-### Toward 1024-Resolution
-
-**In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
-*Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
-
-**A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
-*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
-
-### Toward Infinite-Resolution
-
-**Aligning Latent and Image Spaces to Connect the Unconnectable.**<br>
-*Ivan Skorokhodov, Grigorii Sotnikov, Mohamed Elhoseiny.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06954)] [[Project](https://universome.github.io/alis)] [[Github](https://github.com/universome/alis)]
-
-**In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
-*Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
-
-**InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
-*Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0527.github.io/infinityGAN/)]
-
-**Taming Transformers for High-Resolution Image Synthesis.**<br>
-*[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
-CVPR 2021 (Oral). [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
-
-**Boundless: Generative Adversarial Networks for Image Extension.**<br>
-*Piotr Teterwak, Aaron Sarna, Dilip Krishnan, Aaron Maschinot, David Belanger, Ce Liu, William T. Freeman.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/pdf/1908.07007.pdf)] [[Project](https://sites.google.com/view/boundless-iccv/home)] [[Github](https://github.com/recong/Boundless-in-Pytorch)]
-
-**NS-Outpainting: Very Long Natural Scenery Image Prediction by Outpainting.**<br>
-*Zongxin Yang, Jian Dong, Ping Liu, Yi Yang, Shuicheng Yan.*<br>
-ICCV 2019. [[PDF](https://arxiv.org/pdf/1912.12688.pdf)] [[Github](https://github.com/z-x-yang/NS-Outpainting)]
-
-## Lightweight High-Resolution Image Synthesis
-
-**Lite-HRNet: A Lightweight High-Resolution Network.**<br>
-*Changqian Yu, Bin Xiao, Changxin Gao, Lu Yuan, Lei Zhang, Nong Sang, Jingdong Wang.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06403)] [[Github](https://github.com/HRNet/Lite-HRNet)]
-
-**Anycost GANs for Interactive Image Synthesis and Editing.**<br>
-*Ji Lin, Richard Zhang, Frieder Ganz, Song Han, Jun-Yan Zhu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.03243)] [[Github](https://github.com/mit-han-lab/anycost-gan)] [[Project](https://hanlab.mit.edu/projects/anycost-gan/)]
-
-**Content-Aware GAN Compression.**<br>
-*Yuchen Liu, Zhixin Shu, Yijun Li, Zhe Lin, Federico Perazzi, S.Y. Kung.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02244)]
-
-**MobileStyleGAN: A Lightweight Convolutional Neural Network for High-Fidelity Image Synthesis.**<br>
-*Sergei Belousov.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.04767)] [[Github](https://github.com/bes-dev/MobileStyleGAN.pytorch)]
 
 ## Prediction and Reasoning 
 
@@ -1066,11 +1104,11 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.04922)]
 
 **Hierarchical VAEs Know What They Don’t Know.**<br> 
 *Jakob Havtorn (Technical University of Denmark) · Jes Frellsen (Technical University of Denmark) · Søren Hauberg (Technical University of Denmark) · Lars Maaløe.*<br>
-ICML 2021. [[PDF]()]
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.08248)]
 
 **Monte Carlo Variational Auto-Encoders.**<br> 
 *Achille Thin, Nikita Kotelevskii, Arnaud Doucet, Alain Durmus, Eric Moulines, Maxim Panov.*<br>
-ICML 2021. [[PDF]()]
+ICML 2021. [[PDF](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8528)]
 
 **BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders.**<br>
 *Dominic Danks (Alan Turing Institute) · Christopher Yau.*<br>
@@ -1116,7 +1154,7 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=O7ms4LFdsX)]
 *Rewon Child.*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=RLRXCV6DbEJ)]
 
-**Taming Transformers for High-Resolution Image Synthesis.**<br>
+**VQGAN: Taming Transformers for High-Resolution Image Synthesis.**<br>
 *[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis.github.io/taming-transformers/)] [[Github](https://github.com/CompVis/taming-transformers)]
 
@@ -1126,7 +1164,7 @@ NeurIPS 2019. [[PDF](https://arxiv.org/pdf/1906.00446v1.pdf)] [[Github](https://
 
 **VQ-VAE: Neural Discrete Representation Learning.**<br>
 *[Aaron van den Oord](https://avdnoord.github.io/), Oriol Vinyals, Koray Kavukcuoglu.*<br>
-NeurIPS 2017. [[PDF](https://avdnoord.github.io/homepage/slides/SANE2017.pdf)] [[Github](https://github.com/1Konny/VQ-VAE)]
+NeurIPS 2017. [[PDF](https://arxiv.org/abs/1711.00937)] [[Github](https://github.com/1Konny/VQ-VAE)]
 
 **Exemplar VAE: Linking Generative Models, Nearest Neighbor Retrieval, and Data Augmentation.**<br>
 *Sajad Norouzi, David J. Fleet, Mohammad Norouzi.*<br>
@@ -1171,6 +1209,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04467)] [[Github](https://github.co
 **Controllable Image Synthesis via SegVAE.**<br>
 *Yen-Chi Cheng, Hsin-Ying Lee, Min Sun, Ming-Hsuan Yang.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyenchicheng.github.io/SegVAE/)] [[Github](https://github.com/yccyenchicheng/SegVAE)]
+
+**Hamiltonian Variational Auto-Encoder.**<br>
+*Anthony L. Caterini, Arnaud Doucet, Dino Sejdinovic.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1805.11328)]
 
 #### Frequency
 
