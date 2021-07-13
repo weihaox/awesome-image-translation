@@ -599,6 +599,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)]
 
 ### Text-to-Image
 
+**CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders.**<br>
+*Kevin Frans, L.B. Soros, Olaf Witkowski.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14843)] [[Colab](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)]
+
 **Learning by Planning: Language-Guided Global Image Editing.**<br>
 *Jing Shi, Ning Xu, Yihang Xu, Trung Bui, Franck Dernoncourt, Chenliang Xu.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2106.13156)]

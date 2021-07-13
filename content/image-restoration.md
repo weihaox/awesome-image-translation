@@ -491,6 +491,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 
 ### Video Restoration
 
+**Multi-modality Deep Restoration of Extremely Compressed Face Videos.**<br>
+*Xi Zhang, Xiaolin Wu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.05548)]
+
 **FastDVDnet: Towards Real-Time Deep Video Denoising Without Flow Estimation.**<br>
 *Matias Tassano, Julie Delon, Thomas Veit.*<br>
 CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Tassano_FastDVDnet_Towards_Real-Time_Deep_Video_Denoising_Without_Flow_Estimation_CVPR_2020_paper.html)] [[Github](https://github.com/m-tassano/fastdvdnet)]
@@ -640,6 +644,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
 ### Image Restoration
+
+**JPGNet: Joint Predictive Filtering and Generative Network for Image Inpainting.**<br>
+*Xiaoguang Li, Qing Guo, Felix Juefei-Xu, Hongkai Yu, Yang Liu, Song Wang.*<br>
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.04281)]
 
 **T-Net: Deep Stacked Scale-Iteration Network for Image Dehazing.**<br> 
 *Lirong Zheng, Yanshan Li, Kaihao Zhang, Wenhan Luo.*<br> 

@@ -9,14 +9,13 @@ This repository is about *controllable, interpretable, and generalizable visual 
 - [People Wearing Smart Glasses or Other Mixedreality Devices](#people-wearing-smart-glasses-or-other-mixedreality-devices)
 - [Network Subspace](#network-subspace)
 - [Deep Learning Explaination](#deep-learning-explaination)
-- [Lottery Tickets Hypothesis](#lottery-tickets-hypothesis)
 - [Interactive and Controllable Image Manipulation](#interactive-and-controllable-image-manipulation)
   * [Heterogeneous Face Translation](#heterogeneous-face-translation)
+  * [Continuous Image Representation](#continuous-image-representation)
   * [Highlight Component](#highlight-component)
   * [Rearrange and Retiming](#rearrange-and-retiming)
   * [Neural Simulation](#neural-simulation)
   * [Human-Object Interaction](#human-object-interaction)
-  * [Continuous Image Representation](#continuous-image-representation)
   * [Change Where You Want](#change-where-you-want)
   * [Disentanglement](#disentanglement)
   * [Image Style Transfer](#image-style-transfer)
@@ -40,6 +39,7 @@ This repository is about *controllable, interpretable, and generalizable visual 
   * [Diffusion Probabilistic Models](#diffusion-probabilistic-models)
   * [misc](#misc)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
+- [Lottery Tickets Hypothesis](#lottery-tickets-hypothesis)
 - [Free-Hand Sketch](#free-hand-sketch)
   * [2D Sketch to 3D Model](#2d-sketch-to-3d-model)
   * [2D Sketch to 2D Image](#2d-sketch-to-2d-image)
@@ -137,80 +137,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04488)] [[Github](https://github.c
 
 See [Neural Network Interpretability](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-robustness-efficiency-privacy.md#neural-network-interpretability)
 
-## Lottery Tickets Hypothesis
-
-**A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br> 
-*Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
-ICML 2021. [[PDF](https://arxiv.org/abs/2102.06790)]
-
-**Efficient Lottery Ticket Finding: Less Data is More.**<br> 
-*Zhenyu Zhang, Xuxi Chen, Tianlong Chen, Zhangyang Wang.*<br>
-ICML 2021. [[PDF](https://arxiv.org/abs/2106.03225)]
-
-**Playing Lottery Tickets with Vision and Language.**<br>
-*Zhe Gan, Yen-Chun Chen, Linjie Li, Tianlong Chen, Yu Cheng, Shuohang Wang, Jingjing Liu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11832)]
-
-**A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br>
-*Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06790)] [[Github](https://github.com/VITA-Group/Unified-LTH-GNN)]
-
-**The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models.**<br>
-*Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Michael Carbin, [Zhangyang Wang](https://vita-group.github.io/).*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2012.06908)] [[Github](https://github.com/VITA-Group/CV_LTH_Pre-training)]
-
-**Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning.**<br>
-*Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang.*<br>
-ICLR 2021. [[PDF](https://openreview.net/forum?id=LXMSvPmsm0g)] [[Github](https://github.com/VITA-Group/Lifelong-Learning-LTH)]
-
-**GAN-LTH: GANs Can Play Lottery Tickets Too.**<br> 
-*Xuxi Chen, Zhenyu Zhang, Yongduo Sui, Tianlong Chen.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=1AoMhc_9jER)] [[Github](https://github.com/VITA-Group/GAN-LTH)]
-
-**Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network.**<br>
-*James Diffenderfer, Bhavya Kailkhura.*<br> 
-ICLR 2021. [[PDF](https://openreview.net/forum?id=U_mat0b9iv)] [[Github](https://github.com/chrundle/biprop)]
-
-**The Lottery Ticket Hypothesis for Pre-trained BERT Networks.**<br> 
-*Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin.*<br> 
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.12223)] [[Github](https://github.com/VITA-Group/BERT-Tickets)]
-
-**The Early Phase of Neural Network Training.**<br> 
-*Jonathan Frankle, David J. Schwab, Ari S. Morcos.*<br> 
-ICLR 2020. [[PDF](https://openreview.net/forum?id=Hkl1iRNFwS)] [[Github](https://github.com/VITA-Group/Early-Bird-Tickets)]
-
-**Comparing Rewinding and Fine-tuning in Neural Network Pruning.**<br> 
-*Alex Renda, Jonathan Frankle, Michael Carbin.*<br> 
-ICLR 2020. [[PDF](https://arxiv.org/abs/2003.02389)] [[Github](https://github.com/lottery-ticket/rewinding-iclr20-public)]
-
-**Drawing Early-bird Tickets: Towards more Efficient Training of Deep Networks.**<br> 
-*Haoran You, Chaojian Li, Pengfei Xu, Yonggan Fu, Yue Wang, Xiaohan Chen, Richard G. Baraniuk, Zhangyang Wang, Yingyan Lin.*<br> 
-ICLR 2020. [[PDF](https://arxiv.org/abs/1909.11957)] [[Github](https://github.com/RICE-EIC/Early-Bird-Tickets)]
-
-**Playing the Lottery with Rewards and Multiple Languages: Lottery Tickets in RL and NLP.**<br> 
-*Haonan Yu, Sergey Edunov, Yuandong Tian, Ari S. Morcos.*<br> 
-ICLR 2020. [[PDF](https://openreview.net/forum?id=S1xnXRVFwH)]
-
-**Linear Mode Connectivity and the Lottery Ticket Hypothesis.**<br> 
-*Jonathan Frankle, Gintare Karolina Dziugaite, Daniel M. Roy, Michael Carbin.*<br> 
-ICML 2020. [[PDF](https://arxiv.org/abs/1912.05671)]
-
-**Pruning neural networks without any data by iteratively conserving synaptic flow.**<br> 
-*Hidenori Tanaka, Daniel Kunin, Daniel L. K. Yamins, Surya Ganguli.*<br> 
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.05467)] [[Github](https://github.com/ganguli-lab/Synaptic-Flow)]
-
-**One Ticket to Win Them All: Generalizing Lottery Ticket Initializations across Datasets and Optimizers.**<br> 
-*Ari S. Morcos, Haonan Yu, Michela Paganini, Yuandong Tian.*<br> 
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1906.02773)] [[Github](https://github.com/varungohil/Generalizing-Lottery-Tickets)]
-
-**Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask.**<br> 
-*Hattie Zhou, Janice Lan, Rosanne Liu, Jason Yosinski.*<br> 
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1905.01067)] [[Github]()]
-
-**The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks.**<br> 
-*[Jonathan Frankle](http://www.jfrankle.com/), Michael Carbin.*<br> 
-ICLR 2019 (Best paper award). [[PDF](https://arxiv.org/abs/1803.03635)] [[Github](https://github.com/facebookresearch/open_lth)]
-
 ## Interactive and Controllable Image Manipulation
 
 ### Heterogeneous Face Translation
@@ -226,6 +152,20 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06820)] [[Project](https://utkarsho
 **Cross-Spectral Face Hallucination via Disentangling Independent Factors.**<br>
 *Boyan Duan, Chaoyou Fu, Yi Li, Xingguang Song, Ran He.*<br>
 CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Duan_Cross-Spectral_Face_Hallucination_via_Disentangling_Independent_Factors_CVPR_2020_paper.pdf)]
+
+### Continuous Image Representation
+
+**LIIF: Learning Continuous Image Representation with Local Implicit Image Function.**<br>
+*Yinbo Chen, Sifei Liu, Xiaolong Wang.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.09161)] [[Github](https://github.com/yinboc/liif)] [[Project](https://yinboc.github.io/liif/)]
+
+**INR: Adversarial Generation of Continuous Images.**<br>
+*Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.com/universome/inr-gan)]
+
+**CoMoGAN: Continuous Model-guided Image-to-image Translation.**<br>
+*[Fabio Pizzati](https://fabvio.github.io/), [Pietro Cerri](https://scholar.google.fr/citations?user=MEidJHwAAAAJ), [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://github.com/cv-rits/CoMoGAN)]
 
 ### Highlight Component 
 
@@ -306,20 +246,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02758)]
 **HOI Analysis: Integrating and Decomposing Human-Object Interaction.**<br>
 *[Yong-Lu Li](https://dirtyharrylyl.github.io/), Xinpeng Liu, Xiaoqian Wu, Yizhuo Li, [Cewu Lu](http://mvig.sjtu.edu.cn/).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://github.com/DirtyHarryLYL/HAKE-Action-Torch)] [[Github](http://github.com/DirtyHarryLYL/HAKE-Action-Torch/tree/IDN-(Integrating-Decomposing-Network))]
-
-### Continuous Image Representation
-
-**LIIF: Learning Continuous Image Representation with Local Implicit Image Function.**<br>
-*Yinbo Chen, Sifei Liu, Xiaolong Wang.*<br>
-CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.09161)] [[Github](https://github.com/yinboc/liif)] [[Project](https://yinboc.github.io/liif/)]
-
-**INR: Adversarial Generation of Continuous Images.**<br>
-*Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.com/universome/inr-gan)]
-
-**CoMoGAN: Continuous Model-guided Image-to-image Translation.**<br>
-*[Fabio Pizzati](https://fabvio.github.io/), [Pietro Cerri](https://scholar.google.fr/citations?user=MEidJHwAAAAJ), [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
-CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://github.com/cv-rits/CoMoGAN)]
 
 ### Change Where You Want
 
@@ -502,6 +428,10 @@ NIPS 2017. [[PDF](https://arxiv.org/abs/1705.08086)] [[Github](https://github.co
 ### Guided Translation
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
+
+**Deep Image Synthesis from Intuitive User Input: A Review and Perspectives.**<br>
+*Yuan Xue, Yuan-Chen Guo, Han Zhang, Tao Xu, Song-Hai Zhang, Xiaolei Huang.*<br>
+Computational Visual Media 2021. [[PDF](https://arxiv.org/abs/2107.04240)]
 
 **AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning.**<br>
 *[Guoxian Song](https://guoxiansong.github.io/homepage/index.html), [Linjie Luo](http://linjieluo.com/), Jing Liu, Wan-Chun Ma, Chunpong Lai, Chuanxia Zheng, Tat-Jen Cham.*<br>
@@ -1484,6 +1414,14 @@ arxiv 2014. [[PDF](https://arxiv.org/abs/1410.8516)] [[Github](https://github.co
 
 [[awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)]
 
+**Alias-Free GAN: Alias-Free Generative Adversarial Networks.**<br>
+*Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.github.io/alias-free-gan)] [[Github](https://github.com/NVlabs/alias-free-gan)] [[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch)]
+
+**SWAGAN: A Style-based Wavelet-driven Generative Model.**<br>
+*[Rinon Gal](https://rinongal.github.io/), Dana Cohen, Amit Bermano, Daniel Cohen-Or.*<br>
+SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2102.06108)]
+
 **Few-shot Image Generation via Cross-domain Correspondence.**<br>
 *[Utkarsh Ojha](https://utkarshojha.github.io/), [Yijun Li](https://yijunmaverick.github.io/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Richard Zhang](https://richzhang.github.io/).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.06820)] [[Project](https://utkarshojha.github.io/few-shot-gan-adaptation/)] [[Github](https://github.com/utkarshojha/few-shot-gan-adaptation)]
@@ -1529,7 +1467,7 @@ CVPR 2020.
 *V N S Rama Krishna Pinnimty, Matt Zhao, Palakorn Achananuparp, Ee-Peng Lim.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02606)]
 
-**A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
+**StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
 CVPR 2019. 
 [[Paper](https://arxiv.org/abs/1812.04948)]
@@ -2110,6 +2048,80 @@ SIGGRAPH Asia 2018. [[Project](http://haopan.github.io/sketchCNN.html)] [[PDF](h
 **BendSketch: Modeling Freeform Surfaces Through 2D Sketching.**<br>
 *[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
 SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
+
+## Lottery Tickets Hypothesis
+
+**A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br> 
+*Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.06790)]
+
+**Efficient Lottery Ticket Finding: Less Data is More.**<br> 
+*Zhenyu Zhang, Xuxi Chen, Tianlong Chen, Zhangyang Wang.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2106.03225)]
+
+**Playing Lottery Tickets with Vision and Language.**<br>
+*Zhe Gan, Yen-Chun Chen, Linjie Li, Tianlong Chen, Yu Cheng, Shuohang Wang, Jingjing Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11832)]
+
+**A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br>
+*Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06790)] [[Github](https://github.com/VITA-Group/Unified-LTH-GNN)]
+
+**The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models.**<br>
+*Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Michael Carbin, [Zhangyang Wang](https://vita-group.github.io/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.06908)] [[Github](https://github.com/VITA-Group/CV_LTH_Pre-training)]
+
+**Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning.**<br>
+*Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang.*<br>
+ICLR 2021. [[PDF](https://openreview.net/forum?id=LXMSvPmsm0g)] [[Github](https://github.com/VITA-Group/Lifelong-Learning-LTH)]
+
+**GAN-LTH: GANs Can Play Lottery Tickets Too.**<br> 
+*Xuxi Chen, Zhenyu Zhang, Yongduo Sui, Tianlong Chen.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=1AoMhc_9jER)] [[Github](https://github.com/VITA-Group/GAN-LTH)]
+
+**Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network.**<br>
+*James Diffenderfer, Bhavya Kailkhura.*<br> 
+ICLR 2021. [[PDF](https://openreview.net/forum?id=U_mat0b9iv)] [[Github](https://github.com/chrundle/biprop)]
+
+**The Lottery Ticket Hypothesis for Pre-trained BERT Networks.**<br> 
+*Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin.*<br> 
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.12223)] [[Github](https://github.com/VITA-Group/BERT-Tickets)]
+
+**The Early Phase of Neural Network Training.**<br> 
+*Jonathan Frankle, David J. Schwab, Ari S. Morcos.*<br> 
+ICLR 2020. [[PDF](https://openreview.net/forum?id=Hkl1iRNFwS)] [[Github](https://github.com/VITA-Group/Early-Bird-Tickets)]
+
+**Comparing Rewinding and Fine-tuning in Neural Network Pruning.**<br> 
+*Alex Renda, Jonathan Frankle, Michael Carbin.*<br> 
+ICLR 2020. [[PDF](https://arxiv.org/abs/2003.02389)] [[Github](https://github.com/lottery-ticket/rewinding-iclr20-public)]
+
+**Drawing Early-bird Tickets: Towards more Efficient Training of Deep Networks.**<br> 
+*Haoran You, Chaojian Li, Pengfei Xu, Yonggan Fu, Yue Wang, Xiaohan Chen, Richard G. Baraniuk, Zhangyang Wang, Yingyan Lin.*<br> 
+ICLR 2020. [[PDF](https://arxiv.org/abs/1909.11957)] [[Github](https://github.com/RICE-EIC/Early-Bird-Tickets)]
+
+**Playing the Lottery with Rewards and Multiple Languages: Lottery Tickets in RL and NLP.**<br> 
+*Haonan Yu, Sergey Edunov, Yuandong Tian, Ari S. Morcos.*<br> 
+ICLR 2020. [[PDF](https://openreview.net/forum?id=S1xnXRVFwH)]
+
+**Linear Mode Connectivity and the Lottery Ticket Hypothesis.**<br> 
+*Jonathan Frankle, Gintare Karolina Dziugaite, Daniel M. Roy, Michael Carbin.*<br> 
+ICML 2020. [[PDF](https://arxiv.org/abs/1912.05671)]
+
+**Pruning neural networks without any data by iteratively conserving synaptic flow.**<br> 
+*Hidenori Tanaka, Daniel Kunin, Daniel L. K. Yamins, Surya Ganguli.*<br> 
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.05467)] [[Github](https://github.com/ganguli-lab/Synaptic-Flow)]
+
+**One Ticket to Win Them All: Generalizing Lottery Ticket Initializations across Datasets and Optimizers.**<br> 
+*Ari S. Morcos, Haonan Yu, Michela Paganini, Yuandong Tian.*<br> 
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1906.02773)] [[Github](https://github.com/varungohil/Generalizing-Lottery-Tickets)]
+
+**Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask.**<br> 
+*Hattie Zhou, Janice Lan, Rosanne Liu, Jason Yosinski.*<br> 
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1905.01067)] [[Github]()]
+
+**The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks.**<br> 
+*[Jonathan Frankle](http://www.jfrankle.com/), Michael Carbin.*<br> 
+ICLR 2019 (Best paper award). [[PDF](https://arxiv.org/abs/1803.03635)] [[Github](https://github.com/facebookresearch/open_lth)]
 
 ## Free-Hand Sketch
 

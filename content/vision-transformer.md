@@ -64,6 +64,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
 ### Others
 
+**ViTGAN: Training GANs with Vision Transformers.**<br> 
+*Kwonjoon Lee, Huiwen Chang, Lu Jiang, Han Zhang, Zhuowen Tu, Ce Liu.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.04589)]
+
 **GLiT: Neural Architecture Search for Global and Local Image Transformer.**<br> 
 *Boyu Chen, Peixia Li, Chuming Li, Baopu Li, Lei Bai, Chen Lin, Ming Sun, Junjie yan, Wanli Ouyang.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02960)]
