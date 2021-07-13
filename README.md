@@ -562,6 +562,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.01435)]
 ### NeurIPS 2019 
 [[accepted paper list](https://nips.cc/Conferences/2019/AcceptedPapersInitial)]
 
+**Adversarial Self-Defense for Cycle-Consistent GANs.** [[PDF](https://arxiv.org/abs/1908.01517)] [[Project](http://ai.bu.edu/selfadv/)] [[Github](https://github.com/dbash/pix2pix_cyclegan_guess_noise/)]<br>
+*Dina Bashkirova, Ben Usman, Kate Saenko.*
+
 **Multi-mapping Image-to-Image Translation via Learning Disentanglement.** [[PDF](https://arxiv.org/abs/1909.07877)]<br>
 *Xiaoming Yu, Yuanqi Chen, Shan Liu, Thomas Li, Ge Li.*
 
@@ -576,6 +579,9 @@ Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
 
 ### ICCV 2019 
 [[accepted paper list](http://openaccess.thecvf.com/ICCV2019.py)]
+
+**(oral) PuppetGAN: Cross-domain image manipulation by demonstration.** [[PDF](https://arxiv.org/abs/1901.10024)]<br>
+*Ben Usman, Nick Dufour, Kate Saenko, Chris Bregler.*
 
 **Tex2Shape: Detailed Full Human Body Geometry From a Single Image.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Alldieck_Tex2Shape_Detailed_Full_Human_Body_Geometry_From_a_Single_Image_ICCV_2019_paper.html)]<br>
 *Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor.*
