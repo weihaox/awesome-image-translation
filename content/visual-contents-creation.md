@@ -247,6 +247,24 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02758)]
 *[Yong-Lu Li](https://dirtyharrylyl.github.io/), Xinpeng Liu, Xiaoqian Wu, Yizhuo Li, [Cewu Lu](http://mvig.sjtu.edu.cn/).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://github.com/DirtyHarryLYL/HAKE-Action-Torch)] [[Github](http://github.com/DirtyHarryLYL/HAKE-Action-Torch/tree/IDN-(Integrating-Decomposing-Network))]
 
+### Continuous Image Representation
+
+**LIIF: Learning Continuous Image Representation with Local Implicit Image Function.**<br>
+*Yinbo Chen, Sifei Liu, Xiaolong Wang.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.09161)] [[Github](https://github.com/yinboc/liif)] [[Project](https://yinboc.github.io/liif/)]
+
+**INR: Adversarial Generation of Continuous Images.**<br>
+*Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.com/universome/inr-gan)]
+
+**CoMoGAN: Continuous Model-guided Image-to-image Translation.**<br>
+*[Fabio Pizzati](https://fabvio.github.io/), [Pietro Cerri](https://scholar.google.fr/citations?user=MEidJHwAAAAJ), [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://github.com/cv-rits/CoMoGAN)]
+
+**UltraSR: Spatial Encoding is a Missing Key for Implicit Image Function-based Arbitrary-Scale Super-Resolution.**<br>
+*Xingqian Xu, Zhangyang Wang, Humphrey Shi.*<br>
+arxiv 2103. [[PDF](https://arxiv.org/abs/2103.12716)]
+
 ### Change Where You Want
 
 **High-Fidelity and Arbitrary Face Editing.**<br>
