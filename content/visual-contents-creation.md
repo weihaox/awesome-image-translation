@@ -25,13 +25,12 @@ This repository is about *controllable, interpretable, and generalizable visual 
   * [Continuous Image Representation](#continuous-image-representation)
   * [Highlight Component](#highlight-component)
   * [Rearrange and Retiming](#rearrange-and-retiming)
-  * [Neural Simulation](#neural-simulation)
-  * [Human-Object Interaction](#human-object-interaction)
-  * [Continuous Image Representation](#continuous-image-representation-1)
-  * [Change Where You Want](#change-where-you-want)
   * [Disentanglement](#disentanglement)
   * [Individual Object Manipulation](#individual-object-manipulation)
   * [Generating Accurate Descriptions](#generating-accurate-descriptions)
+  * [Change Where You Want](#change-where-you-want)
+  * [Neural Simulation](#neural-simulation)
+  * [Human-Object Interaction](#human-object-interaction)
   * [Image Style Transfer](#image-style-transfer)
   * [Guided Translation](#guided-translation)
 - [Prediction and Reasoning](#prediction-and-reasoning)
@@ -234,7 +233,7 @@ ICML 2021. [[PDF](https://arxiv.org/abs/2102.12092)] [[Blog](https://openai.com/
 
 **FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains.**<br>
 *Jia Li, Zhaoyang Li, Jie Cao, Xingguan Song, Ran He.*<br>
-CVPR 2021.
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.html)]
 
 **Few-shot Image Generation via Cross-domain Correspondence.**<br>
 *[Utkarsh Ojha](https://utkarshojha.github.io/), [Yijun Li](https://yijunmaverick.github.io/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Richard Zhang](https://richzhang.github.io/).*<br>
@@ -257,6 +256,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.co
 **CoMoGAN: Continuous Model-guided Image-to-image Translation.**<br>
 *[Fabio Pizzati](https://fabvio.github.io/), [Pietro Cerri](https://scholar.google.fr/citations?user=MEidJHwAAAAJ), [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://github.com/cv-rits/CoMoGAN)]
+
+**UltraSR: Spatial Encoding is a Missing Key for Implicit Image Function-based Arbitrary-Scale Super-Resolution.**<br>
+*Xingqian Xu, Zhangyang Wang, Humphrey Shi.*<br>
+arxiv 2103. [[PDF](https://arxiv.org/abs/2103.12716)]
 
 ### Highlight Component 
 
@@ -306,55 +309,95 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
 
-### Neural Simulation
+### Disentanglement
 
-**DriveGAN: Towards a Controllable High-Quality Neural Simulation.**<br>
-*[Seung Wook Kim](http://www.cs.toronto.edu/~seung/), [Jonah Philion](http://www.cs.toronto.edu/), [Antonio Torralba](http://web.mit.edu/torralba/www/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).*<br>
-CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.15060)] [[Project](https://nv-tlabs.github.io/DriveGAN/)]
+**Omnimatte: Associating Objects and Their Effects in Video.**<br>
+*Erika Lu, Forrester Cole, Tali Dekel, Andrew Zisserman, William T. Freeman, Michael Rubinstein.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.06993)] [[Github](https://omnimatte.github.io/)]
 
-**Learning to Simulate Dynamic Environments with GameGAN.**<br>
-*[Seung Wook Kim](http://www.cs.toronto.edu/~seung/), [Yuhao Zhou](https://henryzhou7.github.io/), [Jonah Philion](http://www.cs.toronto.edu/), [Antonio Torralba](http://web.mit.edu/torralba/www/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2005.12126)] [[Github](https://github.com/nv-tlabs/GameGAN_code)] [[Project](https://nv-tlabs.github.io/gameGAN/)]
+**CS-DisMo: Rethinking Content and Style - Exploring Bias for Unsupervised Disentanglement.**<br>
+*Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10544)] [[Github](https://github.com/xrenaa/CS-DisMo)]
 
-### Human-Object Interaction
+**DisCo: Do Generative Models Know Disentanglement? Contrastive Learning is All You Need.**<br>
+*Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://github.com/xrenaa/DisCo)]
 
-**Detecting Human-Object Interaction via Fabricated Compositional Learning.**<br>
-*Zhi Hou, Baosheng Yu, Yu Qiao, Xiaojiang Peng, Dacheng Tao.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.08214)]
+### Individual Object Manipulation
 
-**QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information.**<br>
-*Masato Tamura, Hiroki Ohashi, Tomoaki Yoshinaga.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.05399)]
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields.**<br>
+*Michael Niemeyer, Andreas Geiger.*<br>
+CVPR 2021 (Best Paper). [[PDF](https://arxiv.org/abs/2011.12100)] [[Project](https://m-niemeyer.github.io/project-pages/giraffe/index.html)] [[Github](https://github.com/autonomousvision/giraffe)]
+
+**Neural Scene Graphs for Dynamic Scenes.**<br>
+*Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
+
+**Self-Supervised Scene De-occlusion.**<br>
+*[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
+
+**Learning to Manipulate Individual Objects in an Image.**<br>
+*Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
+
+**AssembleNet++: Assembling Modality Representations via Attention Connections.**<br>
+*Michael S. Ryoo, AJ Piergiovanni, Juhana Kangaspunta, Anelia Angelova.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08072)] [[Project](https://sites.google.com/corp/view/assemblenet/)]
+
+**Object Properties Inferring from and Transfer for Human Interaction Motions.**<br>
+*Qian Zheng, Weikai Wu, Hanting Pan, Niloy Mitra, Daniel Cohen-Or, Hui Huang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08999)] [[Project](http://vcc.szu.edu.cn/research/2020/IT)]
+
+**SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects.**<br>
+*Evangelos Ntavelis, Andrés Romero, Iason Kastanis, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04977)]
+
+**3DLSN: End-to-End Optimization of Scene Layout.**<br>
+*Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
+CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
 
 **DJRN: Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
 *Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
 
-**Learning Asynchronous and Sparse Human-Object Interaction in Videos.**<br>
-*Romero Morais, Vuong Le, Svetha Venkatesh, Truyen Tran.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02758)]
+**AutoSweep: Recovering 3D Editable Objects from a Single Photograph.**<br>
+*Xin Chen, Yuwei Li, Xi Luo, Tianjia Shao, Jingyi Yu, Kun Zhou, Youyi Zheng.*<br>
+IVCJ 2018. [[PDF](https://arxiv.org/abs/2005.13312)] [[Project](https://chenxin.tech/files/Paper/TVCG2018_AutoSweep/AutoSweep.html)]
 
-**HOI Analysis: Integrating and Decomposing Human-Object Interaction.**<br>
-*[Yong-Lu Li](https://dirtyharrylyl.github.io/), Xinpeng Liu, Xiaoqian Wu, Yizhuo Li, [Cewu Lu](http://mvig.sjtu.edu.cn/).*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://github.com/DirtyHarryLYL/HAKE-Action-Torch)] [[Github](http://github.com/DirtyHarryLYL/HAKE-Action-Torch/tree/IDN-(Integrating-Decomposing-Network))]
+**Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition.**<br>
+*Hassan Abu Alhaija, Siva Karthik Mustikovela, Justus Thies, Matthias Nießner, Andreas Geiger, Carsten Rother.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16011)]
 
-### Continuous Image Representation
+**Conditional Image Generation and Manipulation for User-Specified Content.**<br>
+*David Stap, Maurits Bleeker, Sarah Ibrahimi, Maartje ter Hoeve.*<br>
+AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04909)]
 
-**LIIF: Learning Continuous Image Representation with Local Implicit Image Function.**<br>
-*Yinbo Chen, Sifei Liu, Xiaolong Wang.*<br>
-CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.09161)] [[Github](https://github.com/yinboc/liif)] [[Project](https://yinboc.github.io/liif/)]
+**Context-Aware Synthesis and Placement of Object Instances.**<br>
+*Donghoon Lee, Sifei Liu, Jinwei Gu, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1812.02350v1)] [[Project](https://research.nvidia.com/publication/2018-10_Context-aware-Synthesis-and)]
 
-**INR: Adversarial Generation of Continuous Images.**<br>
-*Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.com/universome/inr-gan)]
+### Generating Accurate Descriptions
 
-**CoMoGAN: Continuous Model-guided Image-to-image Translation.**<br>
-*[Fabio Pizzati](https://fabvio.github.io/), [Pietro Cerri](https://scholar.google.fr/citations?user=MEidJHwAAAAJ), [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
-CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://github.com/cv-rits/CoMoGAN)]
+**e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks.**<br>
+*Maxime Kayser, Oana-Maria Camburu, Leonard Salewski, Cornelius Emde, Virginie Do, Zeynep Akata, Thomas Lukasiewicz.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.03761)]
 
-**UltraSR: Spatial Encoding is a Missing Key for Implicit Image Function-based Arbitrary-Scale Super-Resolution.**<br>
-*Xingqian Xu, Zhangyang Wang, Humphrey Shi.*<br>
-arxiv 2103. [[PDF](https://arxiv.org/abs/2103.12716)]
+**Describing Textures using Natural Language.**<br>
+*Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01180)] [[Project](https://people.cs.umass.edu/~chenyun/texture)]
+
+**Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards.**<br>
+*Xuewen Yang, Heming Zhang, Di Jin, Yingru Liu, Chi-Hao Wu, Jianchao Tan, Dongliang Xie, Jue Wang, Xin Wang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02693)]
+
+**POS-SCAN: More Grounded Image Captioning by Distilling Image-Text Matching Model.**<br>
+*Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.com/YuanEZhou/Grounded-Image-Captioning)]
+
+**Spatio-Temporal Graph for Video Captioning with Knowledge Distillation.**<br>
+*Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
 
 ### Change Where You Want
 
@@ -462,95 +505,37 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02638)] [[Github](https://github.c
 *Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
 
-### Disentanglement
+### Neural Simulation
 
-**Omnimatte: Associating Objects and Their Effects in Video.**<br>
-*Erika Lu, Forrester Cole, Tali Dekel, Andrew Zisserman, William T. Freeman, Michael Rubinstein.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2105.06993)] [[Github](https://omnimatte.github.io/)]
+**DriveGAN: Towards a Controllable High-Quality Neural Simulation.**<br>
+*[Seung Wook Kim](http://www.cs.toronto.edu/~seung/), [Jonah Philion](http://www.cs.toronto.edu/), [Antonio Torralba](http://web.mit.edu/torralba/www/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.15060)] [[Project](https://nv-tlabs.github.io/DriveGAN/)]
 
-**CS-DisMo: Rethinking Content and Style - Exploring Bias for Unsupervised Disentanglement.**<br>
-*Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10544)] [[Github](https://github.com/xrenaa/CS-DisMo)]
+**Learning to Simulate Dynamic Environments with GameGAN.**<br>
+*[Seung Wook Kim](http://www.cs.toronto.edu/~seung/), [Yuhao Zhou](https://henryzhou7.github.io/), [Jonah Philion](http://www.cs.toronto.edu/), [Antonio Torralba](http://web.mit.edu/torralba/www/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2005.12126)] [[Github](https://github.com/nv-tlabs/GameGAN_code)] [[Project](https://nv-tlabs.github.io/gameGAN/)]
 
-**DisCo: Do Generative Models Know Disentanglement? Contrastive Learning is All You Need.**<br>
-*Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://github.com/xrenaa/DisCo)]
+### Human-Object Interaction
 
-### Individual Object Manipulation
+**Detecting Human-Object Interaction via Fabricated Compositional Learning.**<br>
+*Zhi Hou, Baosheng Yu, Yu Qiao, Xiaojiang Peng, Dacheng Tao.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.08214)]
 
-**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields.**<br>
-*Michael Niemeyer, Andreas Geiger.*<br>
-CVPR 2021 (Best Paper). [[PDF](https://arxiv.org/abs/2011.12100)] [[Project](https://m-niemeyer.github.io/project-pages/giraffe/index.html)] [[Github](https://github.com/autonomousvision/giraffe)]
-
-**Neural Scene Graphs for Dynamic Scenes.**<br>
-*Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
-
-**Self-Supervised Scene De-occlusion.**<br>
-*[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
-
-**Learning to Manipulate Individual Objects in an Image.**<br>
-*Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
-
-**AssembleNet++: Assembling Modality Representations via Attention Connections.**<br>
-*Michael S. Ryoo, AJ Piergiovanni, Juhana Kangaspunta, Anelia Angelova.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08072)] [[Project](https://sites.google.com/corp/view/assemblenet/)]
-
-**Object Properties Inferring from and Transfer for Human Interaction Motions.**<br>
-*Qian Zheng, Weikai Wu, Hanting Pan, Niloy Mitra, Daniel Cohen-Or, Hui Huang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08999)] [[Project](http://vcc.szu.edu.cn/research/2020/IT)]
-
-**SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects.**<br>
-*Evangelos Ntavelis, Andrés Romero, Iason Kastanis, Luc Van Gool, Radu Timofte.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04977)]
-
-**3DLSN: End-to-End Optimization of Scene Layout.**<br>
-*Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
-CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
+**QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information.**<br>
+*Masato Tamura, Hiroki Ohashi, Tomoaki Yoshinaga.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.05399)]
 
 **DJRN: Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
 *Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
 
-**AutoSweep: Recovering 3D Editable Objects from a Single Photograph.**<br>
-*Xin Chen, Yuwei Li, Xi Luo, Tianjia Shao, Jingyi Yu, Kun Zhou, Youyi Zheng.*<br>
-IVCJ 2018. [[PDF](https://arxiv.org/abs/2005.13312)] [[Project](https://chenxin.tech/files/Paper/TVCG2018_AutoSweep/AutoSweep.html)]
+**Learning Asynchronous and Sparse Human-Object Interaction in Videos.**<br>
+*Romero Morais, Vuong Le, Svetha Venkatesh, Truyen Tran.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02758)]
 
-**Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition.**<br>
-*Hassan Abu Alhaija, Siva Karthik Mustikovela, Justus Thies, Matthias Nießner, Andreas Geiger, Carsten Rother.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16011)]
-
-**Conditional Image Generation and Manipulation for User-Specified Content.**<br>
-*David Stap, Maurits Bleeker, Sarah Ibrahimi, Maartje ter Hoeve.*<br>
-AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04909)]
-
-**Context-Aware Synthesis and Placement of Object Instances.**<br>
-*Donghoon Lee, Sifei Liu, Jinwei Gu, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz.*<br>
-NeurIPS 2018. [[PDF](https://arxiv.org/abs/1812.02350v1)] [[Project](https://research.nvidia.com/publication/2018-10_Context-aware-Synthesis-and)]
-
-### Generating Accurate Descriptions
-
-**e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks.**<br>
-*Maxime Kayser, Oana-Maria Camburu, Leonard Salewski, Cornelius Emde, Virginie Do, Zeynep Akata, Thomas Lukasiewicz.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2105.03761)]
-
-**Describing Textures using Natural Language.**<br>
-*Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01180)] [[Project](https://people.cs.umass.edu/~chenyun/texture)]
-
-**Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards.**<br>
-*Xuewen Yang, Heming Zhang, Di Jin, Yingru Liu, Chi-Hao Wu, Jianchao Tan, Dongliang Xie, Jue Wang, Xin Wang.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02693)]
-
-**POS-SCAN: More Grounded Image Captioning by Distilling Image-Text Matching Model.**<br>
-*Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.com/YuanEZhou/Grounded-Image-Captioning)]
-
-**Spatio-Temporal Graph for Video Captioning with Knowledge Distillation.**<br>
-*Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
+**HOI Analysis: Integrating and Decomposing Human-Object Interaction.**<br>
+*[Yong-Lu Li](https://dirtyharrylyl.github.io/), Xinpeng Liu, Xiaoqian Wu, Yizhuo Li, [Cewu Lu](http://mvig.sjtu.edu.cn/).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://github.com/DirtyHarryLYL/HAKE-Action-Torch)] [[Github](http://github.com/DirtyHarryLYL/HAKE-Action-Torch/tree/IDN-(Integrating-Decomposing-Network))]
 
 ### Image Style Transfer
 
