@@ -113,6 +113,24 @@ Communications in Mathematics and Statistics 2017. [[PDF](https://link.springer.
 *[Kwan Ho Ryan Chan](https://ryanchankh.github.io/), [Yaodong Yu](https://yaodongyu.github.io/), [Chong You](https://sites.google.com/view/cyou), [Haozhi Qi](https://haozhi.io/), [John Wright](http://www.columbia.edu/~jw2966/), [Yi Ma](http://people.eecs.berkeley.edu/~yima/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.10446)] [[Github](https://github.com/Ma-Lab-Berkeley/ReduNet)]
 
+### Transparent Optimization
+
+**Hidden Convexity of Wasserstein GANs: Interpretable Generative Models with Closed-Form Solutions.**<br>
+*[Arda Sahiner](http://web.stanford.edu/~sahiner/), [Tolga Ergen](https://web.stanford.edu/~ergen/), [Batu Ozturkler](http://stanford.edu/~ozt/CV), [Burak Bartan](https://web.stanford.edu/~bbartan/), [John Pauly](https://web.stanford.edu/~pauly/), [Morteza Mardani](http://web.stanford.edu/~morteza/), [Mert Pilanci](http://www.stanford.edu/~pilanci).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.05680.pdf)] [[Github](https://github.com/ardasahiner/ProCoGAN)]
+
+**Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets.**<br>
+*Rohith Kuditipudi, Xiang Wang, Holden Lee, Yi Zhang, Zhiyuan Li, Wei Hu, Sanjeev Arora, Rong Ge.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1906.06247)]
+
+**Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.**<br>
+*Timur Garipov, Pavel Izmailov, Dmitrii Podoprikhin, Dmitry Vetrov, Andrew Gordon Wilson.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/pdf/1802.10026.pdf)] [[Github](https://github.com/timgaripov/dnn-mode-connectivity)]
+
+**How to Escape Saddle Points Efficiently.**<br>
+*Chi Jin, [Rong Ge](https://users.cs.duke.edu/~rongge), Praneeth Netrapalli, Sham M. Kakade, Michael I. Jordan.*<br>
+ICML 2017. [[PDF](https://arxiv.org/abs/1703.00887)]
+
 ### Brain Science and Cognitive Psychology
 
 **Deep Learning and the Global Workspace Theory.**<br>
@@ -694,6 +712,14 @@ CVPR 2011. [[PDF](https://people.csail.mit.edu/torralba/publications/datasets_cv
 
 Memorization is the tendency to memorize the labels of the training data.
 
+**Understanding Deep Learning (Still) Requires Rethinking Generalization.**<br>
+*Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals.*<br>
+Communications of the ACM, 2021. [[PDF](https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext)]
+
+**Characterizing Structural Regularities of Labeled Data in Overparameterized Models.**<br>
+*[Ziheng Jiang](http://www.ziheng.org/), [Chiyuan Zhang](https://pluskid.org), [Kunal Talwar](http://kunaltalwar.org/), [Michael C. Mozer](https://www.cs.colorado.edu/~mozer/).*<br>
+ICLR 2021. [[PDF](https://arxiv.org/abs/2002.03206)] [[Project](https://pluskid.github.io/structural-regularity/)] [[Github](https://github.com/pluskid/structural-regularity)]
+
 **The Low-Rank Simplicity Bias in Deep Networks.**<br>
 *[Minyoung Huh](http://minyounghuh.com/), Hossein Mobahi, Richard Zhang, Brian Cheung, Pulkit Agrawal, Phillip Isola.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10427)] [[Github](https://github.com/minyoungg/overparam)] [[Project](https://minyoungg.github.io/overparam/)]
@@ -713,6 +739,14 @@ ICLR 2020. [[PDF](https://arxiv.org/abs/1902.04698)]
 **Does Learning Require Memorization? A Short Tale about a Long Tail.**<br>
 *Vitaly Feldman.*<br>
 STOC 2020. [[PDF](https://arxiv.org/abs/1906.05271)]
+
+**Mildly Overparametrized Neural Nets can Memorize Training Data Efficiently.**<br>
+*[Rong Ge](https://users.cs.duke.edu/~rongge), Runzhe Wang, Haoyu Zhao.*<br>
+arxiv 2019. [[PDF](https://arxiv.org/abs/1909.11837)]
+
+**Understanding Deep Learning Requires Rethinking Generalization.**<br>
+*[Chiyuan Zhang](https://pluskid.org/), Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals.*<br>
+ICML 2017. [[PDF](https://arxiv.org/abs/1611.03530)]
 
 ## Data Imputation
 
@@ -772,9 +806,21 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.06676)] [[Github](https://github
 
 ## Open-World and Out-of-Distribution Dataset
 
+**Out-of-Distribution Generalization via Risk Extrapolation (REx).**<br> 
+*David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, Dinghuai Zhang, Remi Le Priol, Aaron Courville.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2003.00688)]
+
+**RATT: Leveraging Unlabeled Data to Guarantee Generalization.**<br> 
+*Saurabh Garg, Sivaraman Balakrishnan, J. Zico Kolter, Zachary C. Lipton.*<br>
+ICML 2021. [[PDF](https://arxiv.org/pdf/2105.00303.pdf)]
+
+**On the Generalization Power of Overfitted Two-Layer Neural Tangent Kernel Models.**<br> 
+*Peizhong Ju, Xiaojun Lin, Ness B. Shroff.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2103.05243)]
+
 **Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization.**<br> 
-*John Miller, Rohan Taori, Aditi Raghunathan, Shiori Sagawa, Pang Wei Koh, Vaishaal Shankar, Percy Liang, Yair Carmon, Ludwig Schmidt.*<br>
-ICML 2021. [[PDF]()]
+*[John Miller](https://people.eecs.berkeley.edu/~miller_john/), Rohan Taori, Aditi Raghunathan, Shiori Sagawa, Pang Wei Koh, Vaishaal Shankar, Percy Liang, Yair Carmon, Ludwig Schmidt.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2107.04649)]
 
 **Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions with Superior OOD Generalization.**<br> 
 *Damien Teney, Ehsan Abbasnejad, Simon Lucey, Anton van den Hengel.*<br> 
@@ -843,6 +889,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.04388)] [[Github](https://github.co
 **Open-World Learning Without Labels.**<br>
 *Mohsen Jafarzadeh, Akshay Raj Dhamija, Steve Cruz, Chunchun Li, Touqeer Ahmad, Terrance E. Boult.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.12906)]
+
+**Test-Time Training for Out-of-Distribution Generalization.**<br>
+*Yu Sun, Xiaolong Wang, Zhuang Liu, John Miller, Alexei A. Efros, Moritz Hardt.*<br>
+ICML 2020. [[PSD](https://arxiv.org/abs/1909.13231)]
 
 ## Long-Tailed and Class-Imbalanced Dataset
 
