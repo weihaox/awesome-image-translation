@@ -45,7 +45,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2021
 
-**LPTN: High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network.** [[PDF](https://arxiv.org/abs/2105.09188)] [[Github](https://arxiv.org/pdf/2105.09188.pdf)]<br>
+**LPTN: High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network.** [[PDF](https://arxiv.org/abs/2105.09188)] [[Github](https://github.com/csjliang/LPTN]<br>
 *Jie Liang, Hui Zeng, Lei Zhang.*<br>
 
 **Unbalanced Feature Transport for Exemplar-based Image Translation.**[[PDF](https://arxiv.org/abs/2106.10482)]<br> 
