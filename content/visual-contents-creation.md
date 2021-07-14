@@ -162,7 +162,7 @@ ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
 ### Toward Infinite-Resolution
 
 **Aligning Latent and Image Spaces to Connect the Unconnectable.**<br>
-*Ivan Skorokhodov, Grigorii Sotnikov, Mohamed Elhoseiny.*<br>
+*[Ivan Skorokhodov](https://universome.github.io/), [Grigorii Sotnikov](https://github.com/gsotnikov), [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06954)] [[Project](https://universome.github.io/alis)] [[Github](https://github.com/universome/alis)]
 
 **In&Out : Diverse Image Outpainting via GAN Inversion.**<br>
@@ -250,7 +250,7 @@ CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Duan_Cr
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.09161)] [[Github](https://github.com/yinboc/liif)] [[Project](https://yinboc.github.io/liif/)]
 
 **INR: Adversarial Generation of Continuous Images.**<br>
-*Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny.*<br>
+*[Ivan Skorokhodov](https://universome.github.io/), Savva Ignatyev, Mohamed Elhoseiny.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.com/universome/inr-gan)]
 
 **CoMoGAN: Continuous Model-guided Image-to-image Translation.**<br>

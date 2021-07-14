@@ -580,7 +580,7 @@ Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
 ### ICCV 2019 
 [[accepted paper list](http://openaccess.thecvf.com/ICCV2019.py)]
 
-**(oral) PuppetGAN: Cross-domain image manipulation by demonstration.** [[PDF](https://arxiv.org/abs/1901.10024)] [[Unofficial](https://github.com/GiorgosKarantonis/PuppetGAN)]<br>
+**(oral) PuppetGAN: Cross-domain Image Manipulation by Demonstration.** [[PDF](https://arxiv.org/abs/1901.10024)] [[Unofficial](https://github.com/GiorgosKarantonis/PuppetGAN)]<br>
 *Ben Usman, Nick Dufour, Kate Saenko, Chris Bregler.*
 
 **Tex2Shape: Detailed Full Human Body Geometry From a Single Image.** [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Alldieck_Tex2Shape_Detailed_Full_Human_Body_Geometry_From_a_Single_Image_ICCV_2019_paper.html)]<br>

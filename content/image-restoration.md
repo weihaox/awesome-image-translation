@@ -1066,7 +1066,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.13240)]
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.00809)] [[Github](https://github.com/saic-vul/image_harmonization)]
 
 **Progressive Semantic-Aware Style Transformation for Blind Face Restoration.**<br>
-*Chaofeng Chen, Xiaoming Li, Lingbo Yang, Xianhui Lin, Lei Zhang, Kwan-Yee K. Wong.*<br>
+*[Chaofeng Chen](https://chaofengc.github.io/), Xiaoming Li, Lingbo Yang, Xianhui Lin, Lei Zhang, Kwan-Yee K. Wong.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2009.08709)] [[Github](https://github.com/chaofengc/PSFRGAN)]
 
 **Learning Spatial Attention for Face Super-Resolution.**<br>
