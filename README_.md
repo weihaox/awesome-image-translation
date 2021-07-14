@@ -630,6 +630,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1905.01744)] [[project](http://zhiqiangs
 *Yong Zhang, Le Li, Zhilei Liu, Baoyuan Wu, Yanbo Fan, Zhifeng Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2002.11376)]
 
+**PuppetGAN: Cross-domain image manipulation by demonstration.**<br>
+*Ben Usman, Nick Dufour, Kate Saenko, Chris Bregler.*<br>
+ICCV 2019 Oral. [[PDF](https://arxiv.org/abs/1901.10024)] [[Unofficial](https://github.com/GiorgosKarantonis/PuppetGAN)]
+
 **pix2pixSC: Example-Guided Style Consistent Image Synthesis from Semantic Labeling.**<br>
 *Miao Wang, Guo-Ye Yang, Ruilong Li, Run-Ze Liang, Song-Hai Zhang, Peter. M. Hall, Shi-Min Hu.*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1906.01314)] [[Github](https://github.com/cxjyxxme/pix2pixSC)] [[Project](http://www.liruilong.cn/projects/GuidedPix2Pix/index.html)]
