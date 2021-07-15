@@ -99,9 +99,21 @@ ICML 2020. [[PDF](https://web.stanford.edu/~yplu/pub/mfResNet.pdf)]
 *Weinan E, [Chao Ma](https://www.chaom.org/), Lei Wu.*<br>
 Science China Mathematics 2020. [[PDF](https://arxiv.org/abs/1912.12777)]
 
+**A Convergence Theory for Deep Learning via Over-Parameterization.**<br>
+*[Zeyuan Allen-Zhu](http://people.csail.mit.edu/zeyuan/), Yuanzhi Li, Zhao Song.*<br>
+ICML 2019. [[PDF](https://arxiv.org/abs/1811.03962)]
+
 **PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network.**<br>
 *[Zichao Long](http://zlong.me/), [Yiping Lu](https://web.stanford.edu/~yplu/#photos), [Bin Dong](https://bicmr.pku.edu.cn/~dongbin/).*<br>
 Journal of Computational Physics 2019. [[PDF](https://web.stanford.edu/~yplu/pub/PDENet2.pdf)]
+
+**Neural Tangent Kernel: Convergence and Generalization in Neural Networks.**<br>
+*Arthur Jacot, Franck Gabriel, Clément Hongler.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1806.07572)] [[Github](https://github.com/rajatvd/NTK)]
+
+**Deep Neural Networks as Gaussian Processes.**<br>
+*Jaehoon Lee, Yasaman Bahri, Roman Novak, Samuel S. Schoenholz, Jeffrey Pennington, Jascha Sohl-Dickstein.*<br>
+ICLR 2018. [[PDF](https://arxiv.org/abs/1711.00165)]
 
 **A Proposal on Machine Learning via Dynamical Systems.**<br>
 *[Weinan E](http://web.math.princeton.edu/~weinan/).*<br>
@@ -126,6 +138,10 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1906.06247)]
 **Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.**<br>
 *Timur Garipov, Pavel Izmailov, Dmitrii Podoprikhin, Dmitry Vetrov, Andrew Gordon Wilson.*<br>
 NeurIPS 2018. [[PDF](https://arxiv.org/pdf/1802.10026.pdf)] [[Github](https://github.com/timgaripov/dnn-mode-connectivity)]
+
+**On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport.**<br>
+*Lenaic Chizat, Francis Bach.*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1805.09545)]
 
 **How to Escape Saddle Points Efficiently.**<br>
 *Chi Jin, [Rong Ge](https://users.cs.duke.edu/~rongge), Praneeth Netrapalli, Sham M. Kakade, Michael I. Jordan.*<br>

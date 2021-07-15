@@ -390,6 +390,24 @@ NeurIPS 2017. [[PDF](https://jiajunwu.com/papers/fastsound_nips.pdf)] [[Project]
 [[Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)]</br>
 [[pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)]</br>
 
+### How Much Can Pretrained Language Models Benefit Vision-and-Language Tasks?
+
+**How Much Can CLIP Benefit Vision-and-Language Tasks?**<br>
+*Sheng Shen, Liunian Harold Li, Hao Tan, Mohit Bansal, Anna Rohrbach, Kai-Wei Chang, Zhewei Yao, Kurt Keutzer.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.06383)] [[Github](https://github.com/clip-vil/CLIP-ViL)]
+
+**CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders.**<br>
+*Kevin Frans, L.B. Soros, Olaf Witkowski.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14843)] [[Colab](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)]
+
+**Paint by Word.**<br>
+*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
+
+**StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery.**<br>
+*Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.17249)] [[Github](https://github.com/orpatashnik/StyleCLIP)]
+
 ### Music to Dance
 
 **ChoreoMaster: Choreography-Oriented Music-Driven Dance Synthesis.**<br>
