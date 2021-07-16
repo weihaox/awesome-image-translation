@@ -503,6 +503,10 @@ IJCAI 2019. [[PDF](https://www.ijcai.org/proceedings/2019/0307.pdf)]
 
 ### Image-to-Text
 
+**From Show to Tell: A Survey on Image Captioning.**<br>
+*Matteo Stefanini, Marcella Cornia, Lorenzo Baraldi, Silvia Cascianelli, Giuseppe Fiameni, Rita Cucchiara.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.06912)]
+
 **Dependent Multi-Task Learning with Causal Intervention for Image Captioning.**<br>
 *Wenqing Chen, Jidong Tian, Caoyun Fan, Hao He, Yaohui Jin.*<br>
 IJCAI 2021. [[PDF](https://arxiv.org/abs/2105.08573)]

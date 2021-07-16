@@ -125,13 +125,19 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03697)] [[Github](https://github.c
 
 ## People Wearing Smart Glasses or Other Mixedreality Devices
 
+**Cross-View Exocentric to Egocentric Video Synthesis.**<br> 
+*Gaowen Liu, Hao Tang, Hugo Latapie, Jason Corso, Yan Yan.*<br> 
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.03120)]
+
 **Egocentric Videoconferencing.**<br> 
 *[Mohamed Elgharib](http://people.mpi-inf.mpg.de/~elgharib/), [Mohit Mendiratta](https://scholar.google.com/citations?user=Y3Bc8isAAAAJ&hl=en), [Justus Thies](https://niessnerlab.org/members/justus_thies/profile.html), [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html), [Hans-Peter Seidel](https://people.mpi-inf.mpg.de/~hpseidel/), [Ayush Tewari](https://people.mpi-inf.mpg.de/~atewari/), [Vladislav Golyanik](http://people.mpi-inf.mpg.de/~golyanik/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
 SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2107.03109)] [[Project](http://gvv.mpi-inf.mpg.de/projects/EgoChat/)]
 
-**Cross-View Exocentric to Egocentric Video Synthesis.**<br> 
-*Gaowen Liu, Hao Tang, Hugo Latapie, Jason Corso, Yan Yan.*<br> 
-ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.03120)]
+**Learning Perspective Undistortion of Portraits.**<br> 
+*Yajie Zhao, Zeng Huang, Tianye Li, Weikai Chen, Chloe LeGendre, Xinglei Ren, Jun Xing, Ari Shapiro, Hao Li.*<br> 
+ICCV 2019. [[PDF](https://arxiv.org/abs/1905.07515)] [[Github](https://github.com/bearjoy730/Learning-Perspective-Undistortion-of-Portraits)]
+
+
 
 ## Network Subspace
 
@@ -281,6 +287,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06205)] [[Github](https://alex0407
 
 ### Rearrange and Retiming
 
+**Learning Aesthetic Layouts via Visual Guidance.**<br>
+*Qingyuan Zheng, Zhuoru Li, Adam Bargteil.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.06262)]
+
 **Learning by Aligning Videos in Time.**<br>
 *Sanjay Haresh, Sateesh Kumar, Huseyin Coskun, Shahram Najam Syed, Andrey Konin, Muhammad Zeeshan Zia, Quoc-Huy Tran.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.17260)]
@@ -303,13 +313,13 @@ SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https:/
 
 **Neural Scene Graphs for Dynamic Scenes.**<br>
 *Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.10379)] [[Project](http://light.princeton.edu/neural-scene-graphs)]
 
 **Self-Supervised Scene De-occlusion.**<br>
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
 
-### Disentanglement
+### Disentanglement and Visual Reasoning
 
 **Omnimatte: Associating Objects and Their Effects in Video.**<br>
 *Erika Lu, Forrester Cole, Tali Dekel, Andrew Zisserman, William T. Freeman, Michael Rubinstein.*<br>
@@ -323,6 +333,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10544)] [[Github](https://github.c
 *Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://github.com/xrenaa/DisCo)]
 
+**CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning.**<br>
+*[Justin Johnson](http://cs.stanford.edu/people/jcjohns/), [Bharath Hariharan](http://home.bharathh.info/), [Laurens van der Maaten](https://lvdmaaten.github.io/), [Li Fei-Fei](http://vision.stanford.edu/feifeili/), [C. Lawrence Zitnick](http://larryzitnick.org/), [Ross Girshick](http://www.rossgirshick.info/).*<br>
+CVPR 2017. [[PDF](https://arxiv.org/abs/1612.06890)] [[Project](https://cs.stanford.edu/people/jcjohns/clevr/)] [[Github](https://github.com/facebookresearch/clevr-dataset-gen)]
+
 ### Individual Object Manipulation
 
 **GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields.**<br>
@@ -331,7 +345,7 @@ CVPR 2021 (Best Paper). [[PDF](https://arxiv.org/abs/2011.12100)] [[Project](htt
 
 **Neural Scene Graphs for Dynamic Scenes.**<br>
 *Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.10379)]
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.10379)] [[Project](http://light.princeton.edu/neural-scene-graphs)]
 
 **Self-Supervised Scene De-occlusion.**<br>
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
@@ -339,7 +353,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 
 **Learning to Manipulate Individual Objects in an Image.**<br>
 *Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.05495)]
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.05495)] [[Github](https://github.com/ChenYutongTHU/Learning-to-manipulate-individual-objects-in-an-image-Implementation)]
 
 **AssembleNet++: Assembling Modality Representations via Attention Connections.**<br>
 *Michael S. Ryoo, AJ Piergiovanni, Juhana Kangaspunta, Anelia Angelova.*<br>
@@ -363,7 +377,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.co
 
 **AutoSweep: Recovering 3D Editable Objects from a Single Photograph.**<br>
 *Xin Chen, Yuwei Li, Xi Luo, Tianjia Shao, Jingyi Yu, Kun Zhou, Youyi Zheng.*<br>
-IVCJ 2018. [[PDF](https://arxiv.org/abs/2005.13312)] [[Project](https://chenxin.tech/files/Paper/TVCG2018_AutoSweep/AutoSweep.html)]
+TVCJ 2018. [[PDF](https://arxiv.org/abs/2005.13312)] [[Project](https://chenxin.tech/files/Paper/TVCG2018_AutoSweep/AutoSweep.html)]
 
 **Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition.**<br>
 *Hassan Abu Alhaija, Siva Karthik Mustikovela, Justus Thies, Matthias Nießner, Andreas Geiger, Carsten Rother.*<br>
