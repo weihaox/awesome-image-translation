@@ -19,3 +19,5 @@ include:
   - content/vision-transformer.md
   - content/deepfake-forensic.md
   - content/multi-modal-representation.md
+  - content/physical-world.md
+  - content/3d-representation.md

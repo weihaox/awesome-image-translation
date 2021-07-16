@@ -481,6 +481,12 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)]
 
 ### Text-and-Video
 
+This part includes text-to-video generation and text-guided video manipulation. The papers about talking head and. dubbing can be found [here](https://github.com/weihaox/awesome-neural-rendering#dubbing-and-talking-head-animation).
+
+**Text-based Editing of Talking-head Video.**<br>
+*[Ohad Fried](https://www.ohadf.com/), [Ayush Tewari](https://people.mpi-inf.mpg.de/~atewari/), [Michael Zollhöfer](http://zollhoefer.com/), [Adam Finkelstein](https://www.cs.princeton.edu/~af/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Dan B Goldman](http://www.danbgoldman.com/), [Kyle Genova](http://www.kylegenova.com/), [Zeyu Jin](https://research.adobe.com/person/zeyu-jin/), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Maneesh Agrawala](http://graphics.stanford.edu/~maneesh/).*<br>
+TOG 2019. [[PDF](https://www.ohadf.com/projects/text-based-editing/data/text-based-editing.pdf)] [[Project](https://www.ohadf.com/projects/text-based-editing/)]
+
 **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions.**<br>
 *Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.14806)]

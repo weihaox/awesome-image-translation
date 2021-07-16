@@ -6,6 +6,10 @@
 
 ### Dataset, Challenge, and Benchmark
 
+**VideoForensicsHQ: Detecting High-quality Manipulated Face Videos.**<br>
+*[Gereon Fox](https://gereonfox.de/), Wentao Liu, Hyeongwoo Kim, Hans-Peter Seidel, Mohamed Elgharib, Christian Theobalt.*<br>
+ICME 2021. [[PDF](https://arxiv.org/pdf/2005.10360.pdf)] [[Project](http://gvv.mpi-inf.mpg.de/projects/VForensicsHQ/)] [[Data](http://gvv.mpi-inf.mpg.de/projects/VForensicsHQ/#LinkHere)]
+
 **ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis.**<br>
 *[Yinan He](ttps://yinanhe.github.io), Bei Gan, Siyu Chen, Yichun Zhou, Guojun Yin, Luchuan Song, Lu Sheng, Jing Shao, Ziwei Liu.*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.05630)] [[Project](https://yinanhe.github.io/projects/forgerynet.html)] [[Github](https://github.com/yinanhe/forgerynet)]
