@@ -137,8 +137,6 @@ SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2107.03109)] [[Project](http://
 *Yajie Zhao, Zeng Huang, Tianye Li, Weikai Chen, Chloe LeGendre, Xinglei Ren, Jun Xing, Ari Shapiro, Hao Li.*<br> 
 ICCV 2019. [[PDF](https://arxiv.org/abs/1905.07515)] [[Github](https://github.com/bearjoy730/Learning-Perspective-Undistortion-of-Portraits)]
 
-
-
 ## Network Subspace
 
 **Learning Neural Network Subspaces.**<br> 
@@ -148,6 +146,34 @@ ICML 2021. [[PDF](https://arxiv.org/abs/2102.10472)]
 **Low-Rank Subspaces in GANs.**<br> 
 *Jiapeng Zhu, Ruili Feng, Yujun Shen, Deli Zhao, Zhengjun Zha, Jingren Zhou, Qifeng Chen.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04488)] [[Github](https://github.com/zhujiapeng/LowRankGAN)]
+
+## AI in ALL (Nature and Science)
+
+### Bio
+
+**AlphaFold: Highly accurate protein structure prediction with AlphaFold.**<br>
+*John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli, Demis Hassabis.*<br>
+Nature 2021. [[PDF](https://www.nature.com/articles/s41586-021-03819-2)] [[Github](https://github.com/deepmind/alphafold)]
+
+**RoseTTAFold: Accurate prediction of protein structures and interactions using a 3-track network.**<br>
+*Minkyung Baek, Frank DiMaio, Ivan Anishchenko, Justas Dauparas,  Sergey Ovchinnikov, Gyu Rie Lee, Jue Wang,  Qian Cong, Lisa N. Kinch, R. Dustin Schaeffer, Claudia Millán, Hahnbeom Park, Carson Adams, Caleb R. Glassman, Andy DeGiovanni, Jose H. Pereira, Andria V. Rodrigues, Alberdina A. van Dijk, Ana C. Ebrecht, Diederik J. Opperman, Theo Sagmeister, Christoph Buhlheller, Tea Pavkov-Keller, Manoj K Rathinaswamy, Udit Dalwadi, Calvin K Yip,  John E Burke, K. Christopher Garcia, Nick V. Grishin, Paul D. Adams, Randy J. Read, David Baker.*<br>
+Science 2021. [[PDF](https://www.biorxiv.org/content/10.1101/2021.06.14.448402v1)] [[Github](https://github.com/RosettaCommons/RoseTTAFold)]
+
+### Chemistry
+
+**Artificial Intelligence in Drug Discovery: Applications and Techniques.**<br>
+*[Jianyuan Deng](https://dengjianyuan.github.io/), Zhibo Yang, Iwao Ojima, Dimitris Samaras, Fusheng Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05386)] [[Github](https://github.com/dengjianyuan/Survey_AI_Drug_Discovery)]
+
+**Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks.**<br>
+*Panagiotis-Christos Kotsias, Josep Arús-Pous, Hongming Chen, Ola Engkvist, Christian Tyrchan & Esben Jannik Bjerrum.*<br>
+Nature Machine Intelligence 2020. [[PDF](https://www.nature.com/articles/s42256-020-0174-5)]
+
+### Nature Machine Intelligence
+
+**Shortcut Learning in Deep Neural Networks.**<br>
+*Robert Geirhos, Jörn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, Felix A. Wichmann.*<br>
+Nature Machine Intelligence 2020. [[PDF](https://arxiv.org/abs/2004.07780)] [[Github](https://github.com/rgeirhos/shortcut-perspective)]
 
 ## Deep Learning Explaination
 

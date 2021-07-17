@@ -289,7 +289,7 @@ WACV 2021. [[PDF](https://openaccess.thecvf.com/content/WACV2021/html/Lin_Attent
 **Semantic Image Manipulation Using Scene Graphs.**[[PDF](https://arxiv.org/abs/2004.03677)]<br>
 *Helisa Dhamo, Azade Farshad, Iro Laina, Nassir Navab, Gregory D. Hager, Federico Tombari, Christian Rupprecht.*<br>
 
-**Domain Adaptive Image-to-image Translation.** [[PDF]()] <br>
+**Domain Adaptive Image-to-image Translation.**[[PDF](https://jiaya.me/papers/dai2i_cvpr20.pdf)]<br>
 *[Ying-Cong Chen](https://yingcong.github.io/), Xiaogang Xu and Jiaya Jia.* <br>
 
 **Attentive Normalization for Conditional Image Generation.**[[PDF](https://arxiv.org/abs/2004.03828)] <br>
@@ -447,9 +447,9 @@ ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.04991)]
 *Yahui Liu, Marco De Nadai, Deng Cai, Huayang Li, Xavier Alameda-Pineda, Nicu Sebe, Bruno Lepri.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.04200)] 
 
-**Dual Attention GANs for Semantic Image Synthesis.**<br>
+**DAGAN: Dual Attention GANs for Semantic Image Synthesis.**<br>
 *Hao Tang, Song Bai, Nicu Sebe.*<br>
-ACM MM 2020. [[PDF]()] [[Github](https://github.com/Ha0Tang/DAGAN)]
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.13024)] [[Github](https://github.com/Ha0Tang/DAGAN)]
 
 **From Design Draft to Real Attire: Unaligned Fashion Image Translation.**<br>
 *Yu Han, Shuai Yang, Wenjing Wang, Jiaying Liu.*<br>

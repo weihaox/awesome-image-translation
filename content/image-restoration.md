@@ -47,7 +47,7 @@ arxiv 2020. [[PDF](https://arxiv.org/pdf/2101.10203)]
 
 **Learning Multi-Scale Photo Exposure Correction.**<br>
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Konstantinos G. Derpanis](https://www.cs.ryerson.ca/kosta/), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2003.11596)] [[Github](https://github.com/mahmoudnafifi/Exposure_Correction)] [[Exposure Errors Dataset]()]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2003.11596)] [[Github](https://github.com/mahmoudnafifi/Exposure_Correction)] [[Exposure Errors Dataset](https://github.com/mahmoudnafifi/Exposure_Correction#dataset)]
 
 **Rendering Natural Camera Bokeh Effect with Deep Learning.**<br>
 *Andrey Ignatov, Jagruti Patel, Radu Timofte.*<br>
@@ -665,9 +665,9 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03106)]
 *Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
 
-**Markpainting: Adversarial Machine Learning meets Inpainting.**<br> 
+**Markpainting: Adversarial Machine Learning Meets Inpainting.**<br> 
 *David G Khachaturov, Ilia Shumailov, Yiren Zhao, Nicolas Papernot, Ross Anderson.*<br>
-ICML 2021. [[PDF]()]
+ICML 2021. [[PDF](https://arxiv.org/pdf/2106.00660)]
 
 **MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution.**<br>
 *Liying Lu, Wenbo Li, Xin Tao, Jiangbo Lu, Jiaya Jia.*<br>
@@ -779,7 +779,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.10022)]
 
 **GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.**<br>
 *[Kelvin C.K. Chan](https://ckkelvinchan.github.io/), Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00739)] [[Project](https://ckkelvinchan.github.io/projects/GLEAN)] [[Github]()]
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00739)] [[Project](https://ckkelvinchan.github.io/projects/GLEAN)] [[Github](https://github.com/ckkelvinchan/GLEAN)]
 
 **GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior.**<br>
 *[Xintao Wang](https://xinntao.github.io/), [Yu Li](https://yu-li.github.io/), [Honglun Zhang](https://scholar.google.com/citations?hl=en&user=KjQLROoAAAAJ), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en).*<br>

@@ -161,7 +161,7 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2102.08981.pdf)]
 
 **ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.**<br>
 *Chao Jia, Yinfei Yang, Ye Xia, Yi-Ting Chen, Zarana Parekh, Hieu Pham, Quoc V. Le, Yunhsuan Sung, Zhen Li, Tom Duerig.*<br>
-ICML 2021. [[PDF](https://arxiv.org/abs/2102.05918)] [[Github]()]
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.05918)]
 
 **CLIP: Learning Transferable Visual Models From Natural Language Supervision.**<br>
 *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
@@ -412,7 +412,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.17249)] [[Github](https://github.c
 
 **ChoreoMaster: Choreography-Oriented Music-Driven Dance Synthesis.**<br>
 *Chen Kang, Zhipeng Tan, Jin Lei, Song-Hai Zhang, Yuan-Chen Guo, Weidong Zhang, Shi-Min Hu.*<br>
-SIGGRAPH 2021. [[PDF]()] [[Video](https://www.youtube.com/watch?v=V8MlYa_yhF0)]
+SIGGRAPH 2021. [[PDF]()] [[Project](https://netease-gameai.github.io/ChoreoMaster/)] [[Video](https://www.youtube.com/watch?v=V8MlYa_yhF0)]
 
 **ChoreoNet: Towards Music to Dance Synthesis with Choreographic Action Unit.**<br>
 *Zijie Ye, Haozhe Wu, Jia Jia, Yaohua Bu, Wei Chen, Fanbo Meng, Yanfeng Wang.*<br>
@@ -432,7 +432,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08779)] [[Project](https://google.
 ### Image-to-Video
 
 **iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis.**<br>
-*[Andreas Blattmann](https://www.linkedin.com/in/andreas-blattmann-479038186/?originalSubdomain=de), [Timo Milbich](), [Michael Dorkenwald](https://mdorkenwald.com/), [Björn Ommer](https://mdork.github.io/https://hci.iwr.uni-heidelberg.de/people/bommer).*<br>
+*[Andreas Blattmann](https://www.linkedin.com/in/andreas-blattmann-479038186/?originalSubdomain=de), [Timo Milbich](https://timomilbich.github.io/), [Michael Dorkenwald](https://mdorkenwald.com/), [Björn Ommer](https://mdork.github.io/https://hci.iwr.uni-heidelberg.de/people/bommer).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02790)] [[Github](hhttps://compvis.github.io/ipoke/)]
 
 **Understanding Object Dynamics for Interactive Image-to-Video Synthesis.**<br>
