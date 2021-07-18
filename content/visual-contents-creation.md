@@ -185,6 +185,24 @@ Nature Machine Intelligence 2020. [[PDF](https://arxiv.org/abs/2004.07780)] [[Gi
 
 See [Neural Network Interpretability](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-robustness-efficiency-privacy.md#neural-network-interpretability)
 
+## Pretrained-GAN-based Video Generation
+
+**Alias-Free GAN: Alias-Free Generative Adversarial Networks.**<br>
+*Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.github.io/alias-free-gan)] [[Github](https://github.com/NVlabs/alias-free-gan)] [[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch)]
+
+**StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN.**<br>
+*Gereon Fox, Ayush Tewari, Mohamed Elgharib, Christian Theobalt.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07224)]
+
+**MoCoGAN-HD: A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
+*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)] [[Github](https://github.com/snap-research/MoCoGAN-HD)]
+
+**DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
+*E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
+
 ## High-Resolution Image Synthesis
 
 ### Toward 1024-Resolution
@@ -193,9 +211,9 @@ See [Neural Network Interpretability](https://github.com/weihaox/awesome-image-t
 *Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyenchicheng.github.io/InOut/)]
 
-**A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
+**MoCoGAN-HD: A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
 *Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)]
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)] [[Github](https://github.com/snap-research/MoCoGAN-HD)]
 
 ### Toward Infinite-Resolution
 
@@ -223,7 +241,7 @@ ICCV 2019. [[PDF](https://arxiv.org/pdf/1908.07007.pdf)] [[Project](https://site
 *Zongxin Yang, Jian Dong, Ping Liu, Yi Yang, Shuicheng Yan.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/pdf/1912.12688.pdf)] [[Github](https://github.com/z-x-yang/NS-Outpainting)]
 
-## Lightweight High-Resolution Image Synthesis
+### Lightweight High-Resolution Image Synthesis
 
 **Lite-HRNet: A Lightweight High-Resolution Network.**<br>
 *Changqian Yu, Bin Xiao, Changxin Gao, Lu Yuan, Lei Zhang, Nong Sang, Jingdong Wang.*<br>
