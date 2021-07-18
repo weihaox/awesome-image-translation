@@ -65,6 +65,10 @@ ICML 2021. [[PDF](https://arxiv.org/abs/2102.06307)]
 *Sandareka Wickramanayake, Wynne Hsu, Mong Li Lee.*<br>
 ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI. [[PDF](https://arxiv.org/abs/2106.13164)]
 
+**Interpreting Super-Resolution Networks with Local Attribution Maps.**<br>
+*[Jinjin Gu](http://www.jasongt.com/), [Chao Dong](https://xpixel.group/index.html).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.11036)] [[Project](https://x-lowlevel-vision.github.io/lam.html)]
+
 **Neuron Shapley: Discovering the Responsible Neurons.**<br>
 *Amirata Ghorbani, James Zou.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2002.09815)]
@@ -77,13 +81,25 @@ National Academy of Sciences (PNAS) 2020. [[PDF](https://arxiv.org/abs/2009.0504
 *Quanshi Zhang, Ying Nian Wu, Song-Chun Zhu.*<br>
 CVPR 2018. [[PDF](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.html)] [[Github](https://github.com/zqs1022/interpretableCNN)]
 
+**Did the Model Understand the Question?**<br>
+*Pramod Kaushik Mudrakarta, Ankur Taly, Mukund Sundararajan, Kedar Dhamdhere.*<br>
+ACL 2018. [[PDF](https://arxiv.org/abs/1805.05492)]
+
 **SHAP: A Unified Approach to Interpreting Model Predictions.**<br>
 *Scott M. Lundberg, Su-In Lee.*<br>
 NeurIPS 2017. [[PDF](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html)] [[Github](https://github.com/slundberg/shap)]
 
+**Axiomatic Attribution for Deep Networks.**<br>
+*Mukund Sundararajan, Ankur Taly, Qiqi Yan.*<br>
+ICML 2017. [[PDF](https://arxiv.org/abs/1703.01365)] [[Github](https://github.com/ankurtaly/Integrated-Gradients)]
+
 **LIME: Explaining the Predictions of Any Classifier.**<br>
 *[Marco Tulio Ribeiro](https://homes.cs.washington.edu/~marcotcr/), Sameer Singh, Carlos Guestrin.*<br>
 KDD 2016. [[PDF](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)] [[Github](https://github.com/marcotcr/lime)]
+
+**CAM: Learning Deep Features for Discriminative Localization.**<br>
+*Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba.*<br>
+CVPR 2016. [[PDF](https://arxiv.org/abs/1512.04150)] [[Github](https://github.com/zhoubolei/CAM)]
 
 ### Theoretically Understanding via Mathematics or Statistics 
 

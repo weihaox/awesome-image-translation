@@ -149,7 +149,13 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04488)] [[Github](https://github.c
 
 ## AI in ALL (Nature and Science)
 
-### Bio
+### Brain Signal -> Image or Text
+
+**Neuroprosthesis for Decoding Speech in a Paralyzed Person with Anarthria.**<br>
+*David A. Moses, Sean L. Metzger, Jessie R. Liu, B.S., Gopala K. Anumanchipalli, Joseph G. Makin, Pengfei F. Sun, Josh Chartier, Maximilian E. Dougherty, B.A., Patricia M. Liu, M.A., Gary M. Abrams, Adelyn Tu-Chan, D.O., Karunesh Ganguly, and Edward F. Chang.*<br>
+The New England Journal of Medicine 2021. [[PDF](https://www.nejm.org/doi/full/10.1056/NEJMoa2027540?query=featured_home)]
+
+### Protein Structure Prediction
 
 **AlphaFold: Highly accurate protein structure prediction with AlphaFold.**<br>
 *John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli, Demis Hassabis.*<br>
@@ -159,7 +165,7 @@ Nature 2021. [[PDF](https://www.nature.com/articles/s41586-021-03819-2)] [[Githu
 *Minkyung Baek, Frank DiMaio, Ivan Anishchenko, Justas Dauparas,  Sergey Ovchinnikov, Gyu Rie Lee, Jue Wang,  Qian Cong, Lisa N. Kinch, R. Dustin Schaeffer, Claudia Millán, Hahnbeom Park, Carson Adams, Caleb R. Glassman, Andy DeGiovanni, Jose H. Pereira, Andria V. Rodrigues, Alberdina A. van Dijk, Ana C. Ebrecht, Diederik J. Opperman, Theo Sagmeister, Christoph Buhlheller, Tea Pavkov-Keller, Manoj K Rathinaswamy, Udit Dalwadi, Calvin K Yip,  John E Burke, K. Christopher Garcia, Nick V. Grishin, Paul D. Adams, Randy J. Read, David Baker.*<br>
 Science 2021. [[PDF](https://www.biorxiv.org/content/10.1101/2021.06.14.448402v1)] [[Github](https://github.com/RosettaCommons/RoseTTAFold)]
 
-### Chemistry
+### Drug Discovery
 
 **Artificial Intelligence in Drug Discovery: Applications and Techniques.**<br>
 *[Jianyuan Deng](https://dengjianyuan.github.io/), Zhibo Yang, Iwao Ojima, Dimitris Samaras, Fusheng Wang.*<br>
