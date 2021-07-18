@@ -383,8 +383,12 @@ ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12356
 
 ### Ethics
 
-**Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims.**
-*Miles Brundage et al.*
+**Identifying Untrustworthy Predictions in Neural Networks by Geometric Gradient Analysis.**<br>
+*[Leo Schwinn](https://www.mad.tf.fau.de/person/leo-schwinn/), An Nguyen, René Raab, Leon Bungert, Daniel Tenbrinck, Dario Zanca, Martin Burger, Bjoern Eskofier.*<br>
+UAI 2021. [[PDF](https://arxiv.org/abs/2102.12196)]
+
+**Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims.**<br>
+*Miles Brundage et al.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2004.07213)]
 
 ## Data Efficiency

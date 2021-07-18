@@ -479,6 +479,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03851)]
 *Shir Gur, Sagie Benaim, Lior Wolf.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)]
 
+**MoCoGAN: Decomposing Motion and Content for Video Generation.**<br>
+*[Sergey Tulyakov](http://www.stulyakov.com/), [Ming-Yu Liu](http://mingyuliu.net/), [Xiaodong Yang](http://xiaodongyang.org/), [Jan Kautz](https://research.nvidia.com/person/jan-kautz).*<br>
+CVPR 2018. [[PDF](https://arxiv.org/abs/1707.04993)] [[Github](https://github.com/sergeytulyakov/mocogan)]
+
 ### Text-and-Video
 
 This part includes text-to-video generation and text-guided video manipulation. The papers about talking head and. dubbing can be found [here](https://github.com/weihaox/awesome-neural-rendering#dubbing-and-talking-head-animation).

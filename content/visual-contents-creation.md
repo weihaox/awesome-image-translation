@@ -195,8 +195,12 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.
 *Gereon Fox, Ayush Tewari, Mohamed Elgharib, Christian Theobalt.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07224)]
 
+**PC-AV: Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br> 
+*[Hang Zhou](https://hangz-nju-cuhk.github.io/), Yasheng Sun, [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), [Ziwei Liu](https://liuziwei7.github.io/).*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.11116)] [[Project](https://hangz-nju-cuhk.github.io/)] [[Github](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)]
+
 **MoCoGAN-HD: A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
-*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
+*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, [Sergey Tulyakov](http://www.stulyakov.com/).*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)] [[Github](https://github.com/snap-research/MoCoGAN-HD)]
 
 **DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
@@ -228,6 +232,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00675)] [[Github](https://yccyench
 **InfinityGAN: Towards Infinite-Resolution Image Synthesis.**<br>
 *Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03963)] [[Project](https://hubert0527.github.io/infinityGAN/)]
+
+**Positional Encoding as Spatial Inductive Bias in GANs.**<br>
+*Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
 
 **Taming Transformers for High-Resolution Image Synthesis.**<br>
 *[Patrick Esser](https://github.com/pesser), [Robin Rombach](https://github.com/rromb), [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer).*<br>
@@ -337,9 +345,17 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06205)] [[Github](https://alex0407
 
 ### Rearrange and Retiming
 
+**Deep Online Fused Video Stabilization.**<br>
+*[Zhenmei Shi](http://pages.cs.wisc.edu/~zhmeishi/), [Fuhao Shi](http://fuhaoshi.com/), [Wei-Sheng Lai](https://www.wslai.net/), [Chia-Kai Liang](http://chiakailiang.org/) and [Yingyu Liang](http://pages.cs.wisc.edu/~yliang/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01279)] [[Project](https://zhmeishi.github.io/dvs/)]
+
 **Learning Aesthetic Layouts via Visual Guidance.**<br>
 *Qingyuan Zheng, Zhuoru Li, Adam Bargteil.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.06262)]
+
+**NSFF: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
+*[Zhengqi Li](https://www.cs.cornell.edu/~zl548/), [Simon Niklaus](https://sniklaus.com/welcome), [Noah Snavely](https://www.cs.cornell.edu/~snavely/), [Oliver Wang](https://research.adobe.com/person/oliver-wang/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13084)] [[Project](http://www.cs.cornell.edu/~zl548/NSFF)] [[Github](https://github.com/zhengqili/Neural-Scene-Flow-Fields)]
 
 **Learning by Aligning Videos in Time.**<br>
 *Sanjay Haresh, Sateesh Kumar, Huseyin Coskun, Shahram Najam Syed, Andrey Konin, Muhammad Zeeshan Zia, Quoc-Huy Tran.*<br>
@@ -442,6 +458,10 @@ AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1812.02350v1)] [[Project](https://research.nvidia.com/publication/2018-10_Context-aware-Synthesis-and)]
 
 ### Generating Accurate Descriptions
+
+**VirTex: Learning Visual Representations from Textual Annotations.**<br>
+*Karan Desai, Justin Johnson.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2006.06666.pdf)]
 
 **e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks.**<br>
 *Maxime Kayser, Oana-Maria Camburu, Leonard Salewski, Cornelius Emde, Virginie Do, Zeynep Akata, Thomas Lukasiewicz.*<br>
@@ -1091,7 +1111,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.09125)]
 
 **pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis.**<br>
 *[Eric R. Chan](https://ericryanchan.github.io/), [Marco Monteiro](https://marcoamonteiro.github.io/pi-GAN-website/), [Petr Kellnhofer](https://kellnhofer.xyz/), [Jiajun Wu](https://jiajunwu.com/), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoamonteiro.github.io/pi-GAN-website/)]
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00926)] [[Project](https://marcoamonteiro.github.io/pi-GAN-website/)] [[Github](https://github.com/lucidrains/pi-GAN-pytorch)]
 
 **RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis.**<br>
 *Atsuhiro Noguchi, Tatsuya Harada.*<br>
@@ -1150,6 +1170,14 @@ There are basicly two main types of generative models: likelihood based models, 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.04922)]
 
 #### VAE
+
+**Symmetric Wasserstein Autoencoders.**<br> 
+*Sun Sun, Hongyu Guo.*<br> 
+UAI 2021. [[PDF](https://auai.org/uai2021/pdf/uai2021.146.pdf)]
+
+**FlexAE: Flexibly Learning Latent Priors for Wasserstein Auto-Encoders.**<br> 
+*Arnab Kumar Mondal, Himanshu Asnani, Parag Singla, Prathosh AP.*<br> 
+UAI 2021. [[PDF](https://auai.org/uai2021/pdf/uai2021.214.pdf)]
 
 **Hierarchical VAEs Know What They Don’t Know.**<br> 
 *Jakob Havtorn (Technical University of Denmark) · Jes Frellsen (Technical University of Denmark) · Søren Hauberg (Technical University of Denmark) · Lars Maaløe.*<br>
@@ -1265,6 +1293,10 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1805.11328)]
 
 #### Frequency
 
+**SWAGAN: A Style-based Wavelet-driven Generative Model.**<br>
+*[Rinon Gal](https://rinongal.github.io/), Dana Cohen, Amit Bermano, Daniel Cohen-Or.*<br>
+SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2102.06108)]
+
 **Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
 *[Matthew Tancik](http://matthewtancik.com/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Jonathan T. Barron](https://jonbarron.info/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)] [[Github](https://github.com/tancik/fourier-feature-networks)]
@@ -1272,6 +1304,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10739)] [[Project](https://peopl
 **Implicit Neural Representations with Periodic Activation Functions.**<br>
 *[Vincent Sitzmann](https://vsitzmann.github.io), Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.09661)] [[Project](https://vsitzmann.github.io/siren/)] [[Github](https://github.com/vsitzmann/siren)]
+
+**Focal Frequency Loss for Image Reconstruction and Synthesis.**<br>
+*Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
 
 **Learnable Fourier Features for Multi-DimensionalSpatial Positional Encoding.**<br>
 *Yang Li, Si Si, Gang Li, Cho-Jui Hsieh, Samy Bengio.*<br>
@@ -1547,10 +1583,6 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02535)]
 *Bing Li, Yuanlue Zhu, Yitong Wang, Chia-Wen Lin, Bernard Ghanem, Linlin Shen.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12593)]
 
-**SWAGAN: A Style-based Wavelet-driven Generative Model.**<br>
-*Rinon Gal, Dana Cohen, Amit Bermano, Daniel Cohen-Or.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2102.06108)]
-
 **INR: Adversarial Generation of Continuous Images.**<br>
 *Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.com/universome/inr-gan)]
@@ -1621,6 +1653,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.10162)] [[Github](https://sites.goo
 Interspeech 2020. [[PDF](https://arxiv.org/abs/2004.13764)]
 
 ### Diffusion Probabilistic Models
+
+**Diffusion Probabilistic Models for 3D Point Cloud Generation.**<br>
+*Shitong Luo, Wei Hu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.01458.pdf)] [[Github](https://github.com/luost26/diffusion-point-cloud)]
 
 **Cascaded Diffusion Models for High Fidelity Image Generation.**<br>
 *Jonathan Ho, Chitwan Saharia, William Chan, David J. Fleet, Mohammad Norouzi, Tim Salimans.*<br>

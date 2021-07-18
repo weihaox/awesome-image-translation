@@ -539,8 +539,12 @@ arxvi 2021. [[PDF](https://arxiv.org/abs/2103.15683)]
 *Jianjin Xu, Zheyang Xiong, Xiaolin Hu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.05822)]
 
+**FuSta: Hybrid Neural Fusion for Full-frame Video Stabilization.**<br>
+*Yu-Lun Liu, Wei-Sheng Lai, Ming-Hsuan Yang, Yung-Yu Chuang, Jia-Bin Huang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06205)] [[Github](https://github.com/alex04072000/FuSta)] [[Project](https://alex04072000.github.io/FuSta/)]
+
 **Deep Online Fused Video Stabilization.**<br>
-*Zhenmei Shi, Fuhao Shi, Wei-Sheng Lai, Chia-Kai Liang, Yingyu Liang.*<br>
+*[Zhenmei Shi](http://pages.cs.wisc.edu/~zhmeishi/), [Fuhao Shi](http://fuhaoshi.com/), [Wei-Sheng Lai](https://www.wslai.net/), [Chia-Kai Liang](http://chiakailiang.org/) and [Yingyu Liang](http://pages.cs.wisc.edu/~yliang/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01279)] [[Project](https://zhmeishi.github.io/dvs/)]
 
 **Learning Spatial and Spatio-Temporal Pixel Aggregations for Image and Video Denoising.**<br>
