@@ -64,6 +64,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
 ### Others
 
+**Combiner: Full Attention Transformer with Sparse Computation Cost.**<br> 
+*Hongyu Ren, Hanjun Dai, Zihang Dai, Mengjiao Yang, Jure Leskovec, Dale Schuurmans, Bo Dai.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.05768.pdf)]
+
 **ViTGAN: Training GANs with Vision Transformers.**<br> 
 *Kwonjoon Lee, Huiwen Chang, Lu Jiang, Han Zhang, Zhuowen Tu, Ce Liu.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.04589)]

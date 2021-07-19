@@ -143,6 +143,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.10446)] [[Github](https://github.c
 
 ### Transparent Optimization
 
+**How Many Degrees of Freedom Do We Need to Train Deep Networks: A Loss Landscape Perspective.**<br>
+*Brett W. Larsen, Stanislav Fort, Nic Becker, Surya Ganguli.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.05802)]
+
 **Hidden Convexity of Wasserstein GANs: Interpretable Generative Models with Closed-Form Solutions.**<br>
 *[Arda Sahiner](http://web.stanford.edu/~sahiner/), [Tolga Ergen](https://web.stanford.edu/~ergen/), [Batu Ozturkler](http://stanford.edu/~ozt/CV), [Burak Bartan](https://web.stanford.edu/~bbartan/), [John Pauly](https://web.stanford.edu/~pauly/), [Morteza Mardani](http://web.stanford.edu/~morteza/), [Mert Pilanci](http://www.stanford.edu/~pilanci).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.05680.pdf)] [[Github](https://github.com/ardasahiner/ProCoGAN)]
@@ -727,6 +731,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01777)] [[Project](https://compvis.
 **Fair Generative Modeling via Weak Supervision.**<br>
 *Kristy Choi, Aditya Grover, Trisha Singh, Rui Shu, Stefano Ermon.*<br>
 ICML 2020. [[PDF](http://proceedings.mlr.press/v119/choi20a.html)] [[Github](https://github.com/ermongroup/fairgen)]
+
+**ReBias: Learning De-biased Representations with Biased Representations.**<br>
+*Hyojin Bahng, Sanghyuk Chun, Sangdoo Yun, Jaegul Choo, Seong Joon Oh.*<br>
+ICML 2020. [[PDF](https://arxiv.org/abs/1910.02806)] [[Github](https://github.com/clovaai/rebias)]
 
 **Inclusive GAN: Improving Data and Minority Coverage in Generative Models.**<br>
 *Ning Yu, Ke Li, Peng Zhou, Jitendra Malik, Larry Davis, Mario Fritz.*<br>
