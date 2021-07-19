@@ -175,6 +175,16 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05386)] [[Github](https://github.c
 *Panagiotis-Christos Kotsias, Josep Arús-Pous, Hongming Chen, Ola Engkvist, Christian Tyrchan & Esben Jannik Bjerrum.*<br>
 Nature Machine Intelligence 2020. [[PDF](https://www.nature.com/articles/s42256-020-0174-5)]
 
+### Molecular Conformation Generation
+
+**Learning Gradient Fields for Molecular Conformation Generation.**<br>
+*Chence Shi, [Shitong Luo](https://luost.me/), Minkai Xu, Jian Tan.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2105.03902)] [[Github](https://github.com/DeepGraphLearning/ConfGF)]
+
+**An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming.**<br>
+*[Minkai Xu](https://minkaixu.com/), Wujie Wang, [Shitong Luo](https://luost.me/),, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, [Jian Tang](https://jian-tang.com/publications/).*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2105.07246)] [[Github](https://github.com/MinkaiXu/ConfVAE-ICML21)]
+
 ### Nature Machine Intelligence
 
 **Shortcut Learning in Deep Neural Networks.**<br>
@@ -859,6 +869,10 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 
 Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/multi-modal-representation.md#image-to-video).
 
+**CCVS: Context-aware Controllable Video Synthesis.**<br>
+*[Guillaume Le Moing](https://16lemoing.github.io/), [Jean Ponce](https://www.di.ens.fr/~ponce), [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.08037)] [[Project](https://16lemoing.github.io/ccvs/)]
+
 **VideoGPT: Video Generation using VQ-VAE and Transformers.**<br>
 *Wilson Yan, Yunzhi Zhang, Pieter Abbeel, Aravind Srinivas.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10157)] [[Project](https://wilson1yan.github.io/videogpt/index.html)]
@@ -1180,7 +1194,7 @@ UAI 2021. [[PDF](https://auai.org/uai2021/pdf/uai2021.146.pdf)]
 UAI 2021. [[PDF](https://auai.org/uai2021/pdf/uai2021.214.pdf)]
 
 **Hierarchical VAEs Know What They Don’t Know.**<br> 
-*Jakob Havtorn (Technical University of Denmark) · Jes Frellsen (Technical University of Denmark) · Søren Hauberg (Technical University of Denmark) · Lars Maaløe.*<br>
+*Jakob Havtorn (Technical University of Denmark), Jes Frellsen (Technical University of Denmark), Søren Hauberg (Technical University of Denmark), Lars Maaløe.*<br>
 ICML 2021. [[PDF](https://arxiv.org/abs/2102.08248)]
 
 **Monte Carlo Variational Auto-Encoders.**<br> 
@@ -1188,7 +1202,7 @@ ICML 2021. [[PDF](https://arxiv.org/abs/2102.08248)]
 ICML 2021. [[PDF](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8528)]
 
 **BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders.**<br>
-*Dominic Danks (Alan Turing Institute) · Christopher Yau.*<br>
+*Dominic Danks (Alan Turing Institute), Christopher Yau.*<br>
 ICML 2021. [[PDF]()]
 
 **Autoencoding Under Normalization Constraints.**<br> 
@@ -1208,7 +1222,7 @@ ICML 2021. [[PDF]()]
 ICML 2021. [[PDF]()]
 
 **Autoencoder Image Interpolation by Shaping the Latent Space.**<br> 
-*Alon Oring, Zohar Yakhini (Herzliya Interdisciplinary Center) · Yacov Hel-Or.*<br>
+*Alon Oring, Zohar Yakhini (Herzliya Interdisciplinary Center), Yacov Hel-Or.*<br>
 ICML 2021. [[PDF]()]
 
 **Spatial Dependency Networks: Neural Layers for Improved Generative Image Modeling.**<br> 
@@ -1360,11 +1374,11 @@ arxiv 2020. [[PDF]](https://arxiv.org/abs/2012.12821)] [[Github](https://github.
 ICML 2021. [[PDF]()]
 
 **WGAN with an Infinitely Wide Generator Has No Spurious Stationary Points.**<br> 
-*Albert No (Hongik University) · TaeHo Yoon, Kwon Sehyun, Ernest Ryu.*<br>
+*Albert No (Hongik University), TaeHo Yoon, Kwon Sehyun, Ernest Ryu.*<br>
 ICML 2021. [[PDF]()]
 
 **Functional Space Analysis of Local GAN Convergence.**<br> 
-*Valentin Khrulkov (Skolkovo Institute Of Science And Technology) · Artem Babenko, Ivan Oseledets.*<br>
+*Valentin Khrulkov (Skolkovo Institute Of Science And Technology), Artem Babenko, Ivan Oseledets.*<br>
 ICML 2021. [[PDF]()]
 
 **Understanding Noise Injection in GANs.**<br> 

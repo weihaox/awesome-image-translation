@@ -22,6 +22,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11225)]
 
 ## 3D Representations From Natural Images
 
+**GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering.**<br>
+*[Alex Trevithick](https://alextrevithick.github.io/), [Bo Yang](https://yang7879.github.io/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04595)] [[Github](https://github.com/alextrevithick/GRF)]
+
 **Learning Joint 2D-3D Representations for Depth Completion.**<br>
 *Yun Chen, Bin Yang, Ming Liang, Raquel Urtasun.*<br>
 ICCV 2019. [[PDF](https://arxiv.org/abs/2012.12402)]
@@ -223,6 +227,10 @@ CVPR 2021. [[PDF](https://github.com/theNded/SGP)] [[Github](https://github.com/
 ACCV 2020. [[PDF](https://arxiv.org/abs/2011.13649)]
 
 ## Dense Shape Correspondence and Matching
+
+**(implicit correspondence) Occupancy Flow: 4D Reconstruction by Learning Particle Dynamics.**<br>
+*Michael Niemeyer, Lars Mescheder, Michael Oechsle, Andreas Geiger.*<br>
+ICCV 2019. [[PDF](http://www.cvlibs.net/publications/Niemeyer2019ICCV.pdf)] [[Project](https://avg.is.tuebingen.mpg.de/publications/niemeyer2019iccv)] [[Github](https://github.com/autonomousvision/occupancy_flow)]
 
 **Warp Consistency for Unsupervised Learning of Dense Correspondences.**<br>
 *Prune Truong, Martin Danelljan, Fisher Yu, Luc Van Gool.*<br>

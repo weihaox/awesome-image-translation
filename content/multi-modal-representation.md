@@ -631,6 +631,14 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)]
 
 ### Text-to-Image
 
+**ClawCraneNet: Leveraging Object-level Relation for Text-based Video Segmentation.**<br>
+*Chen Liang, Yu Wu, Yawei Luo, Yi Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10702)]
+
+**Language-Mediated, Object-Centric Representation Learning.**<br>
+*Ruocheng Wang, Jiayuan Mao, Samuel J. Gershman, Jiajun Wu.*<br>
+ACL 2021 Findings. [[PDF](https://arxiv.org/abs/2012.15814)] [[Project](https://lang-orl.github.io/)]
+
 **CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders.**<br>
 *Kevin Frans, L.B. Soros, Olaf Witkowski.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14843)] [[Colab](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)]
@@ -662,10 +670,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.17249)] [[Github](https://github.c
 **RefContrast: Understanding Synonymous Referring Expressions via Contrastive Features.**<br>
 *Yi-Wen Chen, Yi-Hsuan Tsai, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10156)] [[Github](https://github.com/wenz116/RefContrast)]
-
-**ClawCraneNet: Leveraging Object-level Relation for Text-based Video Segmentation.**<br>
-*Chen Liang, Yu Wu, Yawei Luo, Yi Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10702)]
 
 **Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark.**<br>
 *Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu.*<br>
@@ -856,6 +860,10 @@ See Audio-Visual Representations
 **Voice2Mesh: Cross-Modal 3D Face Model Generation from Voices.**<br>
 *Cho-Ying Wu, Ke Xu, Chin-Cheng Hsu, Ulrich Neumann.*<br>
 arxiv 2201. [[PDF](https://arxiv.org/abs/2104.10299)] [[Project](https://choyingw.github.io/works/Voice2Mesh/index.html)]
+
+**Controlled AutoEncoders to Generate Faces from Voices.**<br>
+*Hao Liang, Lulan Yu, Guikang Xu, Bhiksha Raj, Rita Singh.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07988)]
 
 ### Voice-to-Voice
 
