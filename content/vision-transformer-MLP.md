@@ -1,4 +1,20 @@
-<p align=center>`Vision Transformer`</p>
+<p align=center>`Vision Transformer and MLP`</p>
+
+# Vision MLP
+
+**AS-MLP: An Axial Shifted MLP Architecture for Vision.**<br>
+*Dongze Lian, Zehao Yu, Xing Sun, Shenghua Gao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.08391)] [[Github](https://github.com/svip-lab/AS-MLP)]
+
+**Pay Attention to MLPs.**<br>
+*Hanxiao Liu, Zihang Dai, David R. So, Quoc V. Le.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.08050)]
+
+**MLP-Mixer: An all-MLP Architecture for Vision.**<br>
+*Ilya Tolstikhin, Neil Houlsby, Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Thomas Unterthiner, Jessica Yung, Daniel Keysers, Jakob Uszkoreit, Mario Lucic, Alexey Dosovitskiy.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.01601)]
+
+# Vision Transformer
 
 ## Improvement
 
@@ -486,6 +502,14 @@ ICML 2020. [[PDF](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixe
 
 ## Restoration
 
+**Visual Parser: Representing Part-whole Hierarchies with Transformers.**<br> 
+*[Shuyang Sun](https://kevin-ssy.github.io/), Xiaoyu Yue, Song Bai, Philip Torr.*<br> 
+arxiv 2021.[[PDF])(https://github.com/kevin-ssy/ViP)] [[Github](https://arxiv.org/abs/2107.05790)]
+
+**Image Fusion Transformer.**<br> 
+*Vibashan VS, Jeya Maria Jose Valanarasu, Poojan Oza, Vishal M. Patel.*<br> 
+arxiv 2021. [[PDF]()]
+
 **Uformer: A General U-Shaped Transformer for Image Restoration.**<br> 
 *Zhendong Wang, Xiaodong Cun, Jianmin Bao, Jianzhuang Liu.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03106)]
@@ -646,6 +670,11 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00597)] [[Github](https://github
 ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf)]
 
 ## Security
+
+**OODformer: Out-Of-Distribution Detection Transformer.**<br>
+*Rajat Koner, Poulami Sinhamahapatra, Karsten Roscher, Stephan Günnemann, Volker Trespa.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15670)]
+
 
 **On the Robustness of Vision Transformers to Adversarial Examples.**<br>
 *Kaleel Mahmood, Rigel Mahmood, Marten van Dijk.*<br>

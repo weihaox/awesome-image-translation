@@ -653,6 +653,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**JIIF: Joint Implicit Image Function for Guided Depth Super-Resolution.**<br>
+*Jiaxiang Tang, Xiaokang Chen, Gang Zeng.*<br>
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.08717)] [[Github](https://github.com/ashawkey/jiif)]
+
 **JPGNet: Joint Predictive Filtering and Generative Network for Image Inpainting.**<br>
 *Xiaoguang Li, Qing Guo, Felix Juefei-Xu, Hongkai Yu, Yang Liu, Song Wang.*<br>
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.04281)]
