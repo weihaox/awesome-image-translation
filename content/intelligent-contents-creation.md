@@ -653,6 +653,14 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05376)] [[Github](https://github.co
 *Jie An, [Siyu Huang](https://siyuhuang.github.io/), Yibing Song, Dejing Dou, Wei Liu, and Jiebo Luo.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.16877.pdf)] [[Github](https://github.com/pkuanjie/ArtFlow)]
 
+**Drafting and Revision (LapStyle): Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer.**<br>
+*Tianwei Lin, Zhuoqi Ma, Fu Li, Dongliang He, Xin Li, Errui Ding, Nannan Wang, Jie Li, Xinbo Gao.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05376)] [[Github](https://github.com/PaddlePaddle/PaddleGAN/blob/develop/docs/en_US/tutorials/lap_style.md)]
+
+**StyTr^2: Unbiased Image Style Transfer with Transformers.**<br>
+*Yingying Deng, Fan Tang, Xingjia Pan, Weiming Dong, ChongyangMa, Changsheng Xu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14576)]
+
 **Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization.**<br>
 *Zhe Chen, Wenhai Wang, Enze Xie, Tong Lu, Ping Luo.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11784)]
@@ -680,6 +688,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11337)]
 **Global Image Sentiment Transfer.**<br>
 *Jie An, Tianlang Chen, Songyang Zhang, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11989)]
+
 
 **Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration.**<br>
 *Lu Sheng, Ziyi Lin, Jing Shao, Xiaogang Wang.*<br>

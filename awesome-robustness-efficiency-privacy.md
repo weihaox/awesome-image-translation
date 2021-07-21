@@ -101,6 +101,26 @@ KDD 2016. [[PDF](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)]
 *Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba.*<br>
 CVPR 2016. [[PDF](https://arxiv.org/abs/1512.04150)] [[Github](https://github.com/zhoubolei/CAM)]
 
+### Information Theory of Deep Learning
+
+Resources related to information theory of deep learning can be found [here](https://github.com/adityashrm21/information-theory-deep-learning).
+
+**The Dual Information Bottleneck.**<br>
+*Zoe Piran, Ravid Shwartz-Ziv, Naftali Tishby.*<br>
+arxiv 2020. [[PDF](https://www.ravid-shwartz-ziv.com/)] [[Github](https://github.com/ravidziv/dual_IB)]
+
+**Opening the Black Box of Deep Neural Networks via Information.**<br>
+*[Ravid Shwartz-Ziv](https://www.ravid-shwartz-ziv.com/), [Naftali Tishby](https://simons.berkeley.edu/people/naftali-tishby).*<br>
+arxiv 2017. [[PDF](https://arxiv.org/pdf/1703.00810.pdf)] [[Github](https://github.com/ravidziv/IDNNs)]
+
+**MINE: Mutual Information Neural Estimation.**<br>
+*Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm.*<br>
+ICML 2018. [[PDF](https://arxiv.org/abs/1801.04062)]
+
+**The Information Bottleneck Method.**<br>
+*[Naftali Tishby](https://scholar.google.com/citations?user=DFv8bqAAAAAJ&hl=en), [Fernando C. Pereira](https://scholar.google.com/citations?user=qWDmIgIAAAAJ&hl=en&oi=sra), [William Bialek](http://www.princeton.edu/~wbialek/wbialek.html).*<br>
+Annual Allerton Conference on Communication, Control and Computing 2000. [[PDF](https://arxiv.org/abs/physics/0004057)]
+
 ### Theoretically Understanding via Mathematics or Statistics 
 
 **Interpreting and Boosting Dropout from a Game-Theoretic View.**<br>
