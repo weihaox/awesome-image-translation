@@ -2,6 +2,10 @@
 
 # Vision MLP
 
+**CycleMLP: A MLP-like Architecture for Dense Prediction.**<br>
+*Shoufa Chen, Enze Xie, Chongjian Ge, Ding Liang, Ping Luo*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.10224)] [[Github](https://github.com/ShoufaChen/CycleMLP)]
+
 **AS-MLP: An Axial Shifted MLP Architecture for Vision.**<br>
 *Dongze Lian, Zehao Yu, Xing Sun, Shenghua Gao.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.08391)] [[Github](https://github.com/svip-lab/AS-MLP)]

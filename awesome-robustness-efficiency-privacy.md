@@ -61,6 +61,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2012.14261)]
 *Damien Garreau, Dina Mardaoui.*<br> 
 ICML 2021. [[PDF](https://arxiv.org/abs/2102.06307)]
 
+**This Looks Like That... Does it? Shortcomings of Latent Space Prototype Interpretability in Deep Networks.**<br>
+*Adrian Hoffmann, Claudio Fanconi, Rahul Rade, Jonas Kohler.*<br>
+ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI.  [[PDF](https://arxiv.org/abs/2106.13164)]
+
 **Towards Fully Interpretable Deep Neural Networks: Are We There Yet?**<br>
 *Sandareka Wickramanayake, Wynne Hsu, Mong Li Lee.*<br>
 ICML 2021 Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI. [[PDF](https://arxiv.org/abs/2106.13164)]
@@ -122,6 +126,10 @@ ICML 2018. [[PDF](https://arxiv.org/abs/1801.04062)]
 Annual Allerton Conference on Communication, Control and Computing 2000. [[PDF](https://arxiv.org/abs/physics/0004057)]
 
 ### Theoretically Understanding via Mathematics or Statistics 
+
+**Theoretical Analysis of Self-Training with Deep Networks on Unlabeled DataDownload PDF.**<br>
+*[Colin Wei](https://sites.google.com/view/colinwei), Kendrick Shen, [Yining Chen](https://cynnjjs.github.io/), [Tengyu Ma](https://ai.stanford.edu/~tengyuma/).*<br>
+ICLR 2021 (Oral). [[PDF](https://arxiv.org/abs/2010.03622)]
 
 **Interpreting and Boosting Dropout from a Game-Theoretic View.**<br>
 *Hao Zhang, Sen Li, Yinchao Ma, Mingjie Li, Yichen Xie, Quanshi Zhang.*<br>
@@ -606,7 +614,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06666)] [[Github](https://github.c
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.07350)]
 
 **IMAGINE: Image Synthesis by Image-Guided Model Inversion.**<br> 
-*Pei Wang, Yijun Li, Krishna Kumar Singh, Jingwan Lu, Nuno Vasconcelos.*<br> 
+*Pei Wang, [Yijun Li](https://yijunmaverick.github.io), Krishna Kumar Singh, Jingwan Lu, Nuno Vasconcelos.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05895)]
 
 **One-Shot GAN: Learning to Generate Samples from Single Images and Videos.**<br> 

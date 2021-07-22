@@ -291,6 +291,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08936)] [[Demo](https://tinyurl.com
 
 Full list can be found [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/multi-modal-representation.md#text-to-image).
 
+**GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions.**<br>
+*Chenfei Wu, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.14806)]
+
 **CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders.**<br>
 *Kevin Frans, L.B. Soros, Olaf Witkowski.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.14843)] [[Colab](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)]
@@ -635,7 +639,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02758)]
 *[Yong-Lu Li](https://dirtyharrylyl.github.io/), Xinpeng Liu, Xiaoqian Wu, Yizhuo Li, [Cewu Lu](http://mvig.sjtu.edu.cn/).*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://github.com/DirtyHarryLYL/HAKE-Action-Torch)] [[Github](http://github.com/DirtyHarryLYL/HAKE-Action-Torch/tree/IDN-(Integrating-Decomposing-Network))]
 
-### Image Style Transfer
+### Photorealistic Image Stylization
 
 **Style-Aware Normalized Loss for Improving Arbitrary Style Transfer.**<br>
 *Jiaxin Cheng, Ayush Jaiswal, Yue Wu, Pradeep Natarajan, Prem Natarajan.*<br>
@@ -689,6 +693,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11337)]
 *Jie An, Tianlang Chen, Songyang Zhang, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11989)]
 
+**A Closed-form Solution to Photorealistic Image Stylization.**<br>
+*Yijun Li, Ming-Yu Liu, Xueting Li, Ming-Hsuan Yang, Jan Kautz.*<br>
+ECCV 2018. [[PDF](https://arxiv.org/pdf/1802.06474.pdf)] [[Github](https://github.com/NVIDIA/FastPhotoStyle)]
 
 **Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration.**<br>
 *Lu Sheng, Ziyi Lin, Jing Shao, Xiaogang Wang.*<br>
@@ -705,6 +712,11 @@ NIPS 2017. [[PDF](https://arxiv.org/abs/1705.08086)] [[Github](https://github.co
 ### Guided Translation
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
+
+
+**IMAGINE: Image Synthesis by Image-Guided Model Inversion.**<br> 
+*Pei Wang, [Yijun Li](https://yijunmaverick.github.io), Krishna Kumar Singh, Jingwan Lu, Nuno Vasconcelos.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05895)]
 
 **Deep Image Synthesis from Intuitive User Input: A Review and Perspectives.**<br>
 *Yuan Xue, Yuan-Chen Guo, Han Zhang, Tao Xu, Song-Hai Zhang, Xiaolei Huang.*<br>

@@ -479,6 +479,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.03851)]
 *Shir Gur, Sagie Benaim, Lior Wolf.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2006.12226)]
 
+**Flow-Grounded Spatial-Temporal Video Prediction from Still Images.**<br>
+*Yijun Li, Chen Fang, Jimei Yang, Zhaowen Wang, Xin Lu, Ming-Hsuan Yang.*<br>
+ECCV 2018. [[PDF](https://arxiv.org/pdf/1807.09755.pdf)] [[Github](https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction)]
+
 **MoCoGAN: Decomposing Motion and Content for Video Generation.**<br>
 *[Sergey Tulyakov](http://www.stulyakov.com/), [Ming-Yu Liu](http://mingyuliu.net/), [Xiaodong Yang](http://xiaodongyang.org/), [Jan Kautz](https://research.nvidia.com/person/jan-kautz).*<br>
 CVPR 2018. [[PDF](https://arxiv.org/abs/1707.04993)] [[Github](https://github.com/sergeytulyakov/mocogan)]
