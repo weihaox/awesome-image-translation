@@ -653,6 +653,10 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data.**<br>
+*[Xintao Wang](https://xinntao.github.io/), Liangbin Xie, Chao Dong, [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.10833)] [[Github](https://github.com/xinntao/Real-ESRGAN)]
+
 **JIIF: Joint Implicit Image Function for Guided Depth Super-Resolution.**<br>
 *Jiaxiang Tang, Xiaokang Chen, Gang Zeng.*<br>
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.08717)] [[Github](https://github.com/ashawkey/jiif)]

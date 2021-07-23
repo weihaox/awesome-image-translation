@@ -635,6 +635,10 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)]
 
 ### Text-to-Image
 
+**Semantic Text-to-Face GAN -ST^2FG.**<br>
+*Manan Oza, Sukalpa Chanda, David Doermann.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.10756)]
+
 **ClawCraneNet: Leveraging Object-level Relation for Text-based Video Segmentation.**<br>
 *Chen Liang, Yu Wu, Yawei Luo, Yi Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10702)]

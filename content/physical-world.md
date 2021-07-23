@@ -717,10 +717,13 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09365)]
 
 ### General Object Reconstruction
 
+**DOVE: Learning Deformable 3D Objects by Watching Videos.**<br>
+*[Shangzhe Wu](https://elliottwu.com/), [Tomas Jakab](https://www.robots.ox.ac.uk/~tomj), [Christian Rupprecht](https://chrirupp.github.io/), [Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.10844.pdf)] [[Project](https://dove3d.github.io/)]
+
 **NeRD: Neural 3D Reflection Symmetry Detector.**<br>
 *Yichao Zhou, Shichen Liu, Yi Ma.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2105.03211)]
-
 
 **Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images.**<br>
 *Florian Kluger, Hanno Ackermann, Eric Brachmann, Michael Ying Yang, Bodo Rosenhahn.*<br>

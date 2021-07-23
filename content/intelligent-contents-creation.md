@@ -157,6 +157,10 @@ The New England Journal of Medicine 2021. [[PDF](https://www.nejm.org/doi/full/1
 
 ### Protein Structure Prediction
 
+**Highly accurate protein structure prediction for the human proteome.**<br>
+*Kathryn Tunyasuvunakool, Jonas Adler, Zachary Wu, Tim Green, Michal Zielinski, Augustin Žídek, Alex Bridgland, Andrew Cowie, Clemens Meyer, Agata Laydon, Sameer Velankar, Gerard J. Kleywegt, Alex Bateman, Richard Evans, Alexander Pritzel, Michael Figurnov, Olaf Ronneberger, Russ Bates, Simon A. A. Kohl, Anna Potapenko, Andrew J. Ballard, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Ellen Clancy, David Reiman, Stig Petersen, Andrew W. Senior, Koray Kavukcuoglu, Ewan Birney, Pushmeet Kohli, John Jumper, Demis Hassabis.*<br>
+Nature 2021. [[PDF](https://www.nature.com/articles/s41586-021-03828-1)] [[AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)] [[DeepMind](https://deepmind.com/)] [[EMBL’s European Bioinformatics Institute (EMBL-EBI)](http://www.ebi.ac.uk/)]
+
 **AlphaFold: Highly accurate protein structure prediction with AlphaFold.**<br>
 *John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli, Demis Hassabis.*<br>
 Nature 2021. [[PDF](https://www.nature.com/articles/s41586-021-03819-2)] [[Github](https://github.com/deepmind/alphafold)]
@@ -713,6 +717,10 @@ NIPS 2017. [[PDF](https://arxiv.org/abs/1705.08086)] [[Github](https://github.co
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
 
+
+**AnonySIGN: Novel Human Appearance Synthesis for Sign Language Video Anonymisation.**<br> 
+*Ben Saunders, Necati Cihan Camgoz, Richard Bowden.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.10685)]
 
 **IMAGINE: Image Synthesis by Image-Guided Model Inversion.**<br> 
 *Pei Wang, [Yijun Li](https://yijunmaverick.github.io), Krishna Kumar Singh, Jingwan Lu, Nuno Vasconcelos.*<br> 
