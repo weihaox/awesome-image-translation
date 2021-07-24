@@ -799,7 +799,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04061)] [[Project](https://xinntao
 
 **Best-Buddy GANs for Highly Detailed Image Super-Resolution.**<br>
 *Wenbo Li, Kun Zhou, Lu Qi, Liying Lu, Nianjuan Jiang, Jiangbo Lu, Jiaya Jia.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15295)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15295)] [[Github](https://github.com/Jia-Research-Lab/Simple-SR)]
 
 **Training a Better Loss Function for Image Restoration.**<br>
 *Aamir Mustafa, Aliaksei Mikhailiuk, Dan Andrei Iliescu, Varun Babbar, Rafal K. Mantiuk.*<br>

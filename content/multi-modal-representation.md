@@ -408,6 +408,24 @@ arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
 *Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.17249)] [[Github](https://github.com/orpatashnik/StyleCLIP)]
 
+**CLIP-It! Language-Guided Video Summarization.**<br>
+*Medhini Narasimhan, Anna Rohrbach, Trevor Darrell.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.00650)]
+
+### Language-Guided Vision Tasks
+
+**ClawCraneNet: Leveraging Object-level Relation for Text-based Video Segmentation.**<br>
+*Chen Liang, Yu Wu, Yawei Luo, Yi Yang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10702)]
+
+**Language-Mediated, Object-Centric Representation Learning.**<br>
+*Ruocheng Wang, Jiayuan Mao, Samuel J. Gershman, Jiajun Wu.*<br>
+ACL 2021 Findings. [[PDF](https://arxiv.org/abs/2012.15814)] [[Project](https://lang-orl.github.io/)]
+
+**CLIP-It! Language-Guided Video Summarization.**<br>
+*Medhini Narasimhan, Anna Rohrbach, Trevor Darrell.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.00650)]
+
 ### Music to Dance
 
 **ChoreoMaster: Choreography-Oriented Music-Driven Dance Synthesis.**<br>
@@ -638,14 +656,6 @@ CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)]
 **Semantic Text-to-Face GAN -ST^2FG.**<br>
 *Manan Oza, Sukalpa Chanda, David Doermann.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.10756)]
-
-**ClawCraneNet: Leveraging Object-level Relation for Text-based Video Segmentation.**<br>
-*Chen Liang, Yu Wu, Yawei Luo, Yi Yang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10702)]
-
-**Language-Mediated, Object-Centric Representation Learning.**<br>
-*Ruocheng Wang, Jiayuan Mao, Samuel J. Gershman, Jiajun Wu.*<br>
-ACL 2021 Findings. [[PDF](https://arxiv.org/abs/2012.15814)] [[Project](https://lang-orl.github.io/)]
 
 **CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders.**<br>
 *Kevin Frans, L.B. Soros, Olaf Witkowski.*<br>

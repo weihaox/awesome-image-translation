@@ -1178,6 +1178,10 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github
 
 ## 3D Shape Generation and Manipulation
 
+**MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement.**<br>
+*[Alexander Richard](https://alexanderrichard.github.io/), Michael Zollhoefer, Yandong Wen, Fernando de la Torre, Yaser Sheikh.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08223)] [[Video](https://research.fb.com/wp-content/uploads/2021/04/mesh_talk.mp4)]
+
 **Scene-aware Generative Network for Human Motion Synthesis.**<br>
 *Jingbo Wang, Sijie Yan, Bo Dai, Dahua Lin.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2105.14804)]

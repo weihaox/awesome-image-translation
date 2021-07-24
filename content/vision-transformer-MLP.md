@@ -84,6 +84,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
 ### Others
 
+**CeiT: Incorporating Convolution Designs into Visual Transformers.**<br>
+*Kun Yuan, Shaopeng Guo, Ziwei Liu, Aojun Zhou, Fengwei Yu, Wei Wu.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.11816)] [[Github](https://github.com/rishikksh20/CeiT-pytorch)]
+
+**AutoFormer: Searching Transformers for Visual Recognition.**<br> 
+*Minghao Chen, Houwen Peng, Jianlong Fu, Haibin Ling.*<br> 
+ICCV 2021. [[PDF](https://arxiv.org/abs/2107.00651)] [[Github](https://github.com/microsoft/AutoML)]
+
 **Combiner: Full Attention Transformer with Sparse Computation Cost.**<br> 
 *Hongyu Ren, Hanjun Dai, Zihang Dai, Mengjiao Yang, Jure Leskovec, Dale Schuurmans, Bo Dai.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.05768.pdf)]
@@ -99,10 +107,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02960)]
 **SVEA: Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation.**<br> 
 *Nicklas Hansen, Hao Su, Xiaolong Wang.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.00644)] [[Project](https://nicklashansen.github.io/SVEA)]
-
-**AutoFormer: Searching Transformers for Visual Recognition.**<br> 
-*Minghao Chen, Houwen Peng, Jianlong Fu, Haibin Ling.*<br> 
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.00651)] [[Github](https://github.com/microsoft/AutoML)]
 
 **Early Convolutions Help Transformers See Better.**<br> 
 *Tete Xiao, Mannat Singh, Eric Mintun, Trevor Darrell, Piotr Dollár, Ross Girshick.*<br> 
@@ -531,6 +535,10 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2006.04139)] [[Github](https://github.co
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
 
 ## 2.5D and 3D 
+
+**KeypointDeformer: Unsupervised 3D Keypoint Discovery for Shape Control.**<br>
+*Tomas Jakab, Richard Tucker, Ameesh Makadia, Jiajun Wu, Noah Snavely, Angjoo Kanazawa.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.11224)] [[Project](http://tomasjakab.github.io/KeypointDeformer)]
 
 **LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction.**<br>
 *Farid Yagubbayli, Alessio Tonioni, Federico Tombari.*<br>
