@@ -15,8 +15,8 @@ This repository is about Multi-modal Representation Learning and Application.
   * [Others-to-3D](#others-to-3d)
   * [Image-to-Video](#image-to-video)
   * [Text-and-Video](#text-and-video)
-  * [Image-to-Text](#image-to-text)
   * [Text-to-Image](#text-to-image)
+  * [Image-to-Text](#image-to-text)
   * [Speech-and-Text](#speech-and-text)
   * [Image-and-Voice](#image-and-voice)
   * [Voice-to-Voice](#voice-to-voice)
@@ -533,127 +533,9 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1710.00421)]
 *Doyeon Kim, Donggyu Joo, Junmo Kim.*<br>
 IEEE Access 2020. [[PDF](https://arxiv.org/abs/2009.02018)]
 
-**IRC-GAN: Introspective Recurrent Convolutional GAN for Text-to-video Generation.**<br>
+**IRC-GAN: Introspective Recurrent Convolutional GAN for Text-to-Video Generation.**<br>
 *[Kangle Deng](https://dunbar12138.github.io/), Tianyi Fei, Xin Huang, Yuxin Peng.*<br>
 IJCAI 2019. [[PDF](https://www.ijcai.org/proceedings/2019/0307.pdf)]
-
-### Image-to-Text
-
-**From Show to Tell: A Survey on Image Captioning.**<br>
-*Matteo Stefanini, Marcella Cornia, Lorenzo Baraldi, Silvia Cascianelli, Giuseppe Fiameni, Rita Cucchiara.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.06912)]
-
-**Dependent Multi-Task Learning with Causal Intervention for Image Captioning.**<br>
-*Wenqing Chen, Jidong Tian, Caoyun Fan, Hao He, Yaohui Jin.*<br>
-IJCAI 2021. [[PDF](https://arxiv.org/abs/2105.08573)]
-
-**Towards Accurate Text-based Image Captioning with Content Diversity Exploration.**<br>
-*Guanghui Xu, Shuaicheng Niu, Mingkui Tan, Yucheng Luo, Qing Du, Qi Wu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2105.03236)]
-
-**Scan2Cap: Context-aware Dense Captioning in RGB-D Scans.**<br>
-*Dave Zhenyu Chen, Ali Gholami, Matthias Nießner, Angel X. Chang.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2012.02206)] [[Github](https://github.com/daveredrum/Scan2Cap)] [[Project](https://daveredrum.github.io/Scan2Cap/)] [[Video](https://youtu.be/AgmIpDbwTCY)]
-
-**Automatic Comic Generation with Stylistic Multi-page Layouts and Emotion-driven Text Balloon Generation.**<br>
-*Xin Yang, Zongliang Ma, Letian Yu, Ying Cao, Baocai Yin, Xiaopeng Wei, Qiang Zhang, Rynson W.H. Lau.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11111)]
-
-**VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining.**<br>
-*Jun Chen, Han Guo, Kai Yi, Boyang Li, Mohamed Elhoseiny.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10407)] [[Github](https://github.com/Vision-CAIR/VisualGPT)]
-
-**SG2Caps: Revisiting Scene Graphs for Image Captioning.**<br>
-*Subarna Tripathi, Kien Nguyen, Tanaya Guha, Bang Du, Truong Q. Nguyen.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.04990)]
-
-**Vx2Text: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs.**<br>
-*Xudong Lin, Gedas Bertasius, Jue Wang, Shih-Fu Chang, Devi Parikh, Lorenzo Torresani.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.12059)]
-
-**CPTR: Full Transformer Network for Image Captioning.**<br>
-*Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10804)]
-
-**ArtEmis: Affective Language for Visual Art.**<br>
-*Panos Achlioptas, Maks Ovsjanikov, Kilichbek Haydarov, Mohamed Elhoseiny, Leonidas Guibas.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.07396)] [[Project](https://artemisdataset.org/)]
-
-**XMC-GA: Cross-Modal Contrastive Learning for Text-to-Image Generation.**<br>
-*Han Zhang, Jing Yu Koh, Jason Baldridge, Honglak Lee, Yinfei Yang.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2101.04702)]
-
-**Semantic Grouping Network for Video Captioning.**<br>
-*Hobin Ryu, Sunghun Kang, Haeyong Kang, Chang D. Yoo.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2102.00831)]
-
-**Dual-Level Collaborative Transformer for Image Captioning.**<br>
-*Yunpeng Luo, Jiayi Ji, Xiaoshuai Sun, Liujuan Cao, Yongjian Wu, Feiyue Huang, Chia-Wen Lin, Rongrong Ji.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2101.06462)]
-
-**End-to-End Video Question-Answer Generation with Generator-Pretester Network.**<br>
-*Hung-Ting Su, Chen-Hsi Chang, Po-Wei Shen, Yu-Siang Wang, Ya-Liang Chang, Yu-Cheng Chang, Pu-Jen Cheng, Winston H. Hsu.*<br>
-TCSVT 2020. [[PDF](https://arxiv.org/abs/2101.01447)]
-
-**RecipeNLG: A Cooking Recipes Dataset for Semi-Structured Text Generation.**<br>
-*Michał Bień, Michał Gilski, Martyna Maciejewska, Wojciech Taisner, Dawid Wiśniewski, Agnieszka Ławrynowicz.*<br>
-arxiv 2020. [[PDF](https://www.aclweb.org/anthology/2020.inlg-1.4.pdf)] [[Github](https://github.com/Glorf/recipenlg)] [[Project](https://recipenlg.cs.put.poznan.pl/)] [[RecipeNLG dataset](https://recipenlg.cs.put.poznan.pl/dataset)] [[RecipeNLG's Recipe Generator](https://recipenlg.cs.put.poznan.pl/generator)]
-
-**AutoCaption: Image Captioning with Neural Architecture Search.**<br>
-*Xinxin Zhu, Weining Wang, Longteng Guo, Jing Liu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09742)]
-
-**Simple is not Easy: A Simple Strong Baseline for TextVQA and TextCaps.**<br>
-*Qi Zhu, Chenyu Gao, Peng Wang, Qi Wu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05153)] [[Github](https://github.com/ZephyrZhuQi/ssbaseline)]
-
-**TAP: Text-Aware Pre-training for Text-VQA and Text-Caption.**<br>
-*Zhengyuan Yang, Yijuan Lu, Jianfeng Wang, Xi Yin, Dinei Florencio, Lijuan Wang, Cha Zhang, Lei Zhang, Jiebo Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04638)]
-
-**Image Captioning with Context-Aware Auxiliary Guidance.**<br>
-*Zeliang Song, Xiaofei Zhou, Zhendong Mao, Jianlong Tan.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05545)]
-
-**LaBERT: Length-Controllable Image Captioning.**<br>
-*Chaorui Deng, Ning Ding, Mingkui Tan, Qi Wu.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09580)] [[Github](https://github.com/bearcatt/LaBERT)]
-
-**Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze.**<br>
-*Ece Takmaz, Sandro Pezzelle, Lisa Beinborn, Raquel Fernández.*<br>
-EMNLP 2020. [[PDF](https://arxiv.org/abs/2011.04592)]
-
-**CapWAP: Captioning with a Purpose.**<br>
-*Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan H. Clark, Regina Barzilay.*<br>
-EMNLP 2020. [[PDF](https://arxiv.org/abs/2011.04264)]
-
-**Diverse Image Captioning with Context-Object Split Latent Spaces.**<br>
-*Shweta Mahajan, Stefan Roth.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00966)]
-
-**Structure-Aware Generation Network for Recipe Generation from Images.**<br>
-*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2009.00944)]
-
-**Identity-Aware Multi-Sentence Video Description.**<br>
-*Jae Sung Park, Trevor Darrell, Anna Rohrbach.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09791)] [[Project](https://sites.google.com/site/describingmovies/lsmdc-2019/)]
-
-**Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.**<br>
-*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13374)]
-
-**Entangled Transformer for Image Captioning.**<br>
-*Guang Li Linchao Zhu Ping Liu Yi Yang.*<br>
-ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf)]
-
-**Inverse Cooking: Recipe Generation from Food Images.**<br>
-*Amaia Salvador, Michal Drozdzal, Xavier Giro-i-Nieto, Adriana Romero.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
-
-**Intention Oriented Image Captions with Guiding Objects.**<br>
-*Yue Zheng, Yali Li, Shengjin Wang.*<br>
-CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)] 
 
 ### Text-to-Image
 
@@ -828,6 +710,152 @@ ICCV 2017. [[PDF](https://arxiv.org/abs/1707.06873)] [[Github](https://github.co
 **Generative Adversarial Text to Image Synthesis.**<br>
 *Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee.*<br>
 ICML 2016. [[PDF](https://arxiv.org/abs/1605.05396)] [[Github](https://github.com/reedscot/icml2016)]
+
+### Image-to-Text
+
+**VirTex: Learning Visual Representations from Textual Annotations.**<br>
+*Karan Desai, Justin Johnson.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/pdf/2006.06666.pdf)]
+
+**e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks.**<br>
+*Maxime Kayser, Oana-Maria Camburu, Leonard Salewski, Cornelius Emde, Virginie Do, Zeynep Akata, Thomas Lukasiewicz.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.03761)]
+
+**Describing Textures using Natural Language.**<br>
+*Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01180)] [[Project](https://people.cs.umass.edu/~chenyun/texture)]
+
+**Describing Textures in the Wild.**<br>
+*Mircea Cimpoi, Subhransu Maji, Iasonas Kokkinos, Sammy Mohamed, Andrea Vedaldi.*<br>
+CVPR 2014. [[PDF](https://arxiv.org/pdf/2008.01180.pdf)] [[Describable Textures Dataset (DTD)](https://www.robots.ox.ac.uk/~vgg/data/dtd/)]
+
+**Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards.**<br>
+*Xuewen Yang, Heming Zhang, Di Jin, Yingru Liu, Chi-Hao Wu, Jianchao Tan, Dongliang Xie, Jue Wang, Xin Wang.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02693)]
+
+**POS-SCAN: More Grounded Image Captioning by Distilling Image-Text Matching Model.**<br>
+*Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.com/YuanEZhou/Grounded-Image-Captioning)]
+
+**Spatio-Temporal Graph for Video Captioning with Knowledge Distillation.**<br>
+*Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
+
+**From Show to Tell: A Survey on Image Captioning.**<br>
+*Matteo Stefanini, Marcella Cornia, Lorenzo Baraldi, Silvia Cascianelli, Giuseppe Fiameni, Rita Cucchiara.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.06912)]
+
+**Dependent Multi-Task Learning with Causal Intervention for Image Captioning.**<br>
+*Wenqing Chen, Jidong Tian, Caoyun Fan, Hao He, Yaohui Jin.*<br>
+IJCAI 2021. [[PDF](https://arxiv.org/abs/2105.08573)]
+
+**Towards Accurate Text-based Image Captioning with Content Diversity Exploration.**<br>
+*Guanghui Xu, Shuaicheng Niu, Mingkui Tan, Yucheng Luo, Qing Du, Qi Wu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.03236)]
+
+**Scan2Cap: Context-aware Dense Captioning in RGB-D Scans.**<br>
+*Dave Zhenyu Chen, Ali Gholami, Matthias Nießner, Angel X. Chang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.02206)] [[Github](https://github.com/daveredrum/Scan2Cap)] [[Project](https://daveredrum.github.io/Scan2Cap/)] [[Video](https://youtu.be/AgmIpDbwTCY)]
+
+**Automatic Comic Generation with Stylistic Multi-page Layouts and Emotion-driven Text Balloon Generation.**<br>
+*Xin Yang, Zongliang Ma, Letian Yu, Ying Cao, Baocai Yin, Xiaopeng Wei, Qiang Zhang, Rynson W.H. Lau.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11111)]
+
+**VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining.**<br>
+*Jun Chen, Han Guo, Kai Yi, Boyang Li, Mohamed Elhoseiny.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10407)] [[Github](https://github.com/Vision-CAIR/VisualGPT)]
+
+**SG2Caps: Revisiting Scene Graphs for Image Captioning.**<br>
+*Subarna Tripathi, Kien Nguyen, Tanaya Guha, Bang Du, Truong Q. Nguyen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.04990)]
+
+**Vx2Text: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs.**<br>
+*Xudong Lin, Gedas Bertasius, Jue Wang, Shih-Fu Chang, Devi Parikh, Lorenzo Torresani.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.12059)]
+
+**CPTR: Full Transformer Network for Image Captioning.**<br>
+*Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10804)]
+
+**ArtEmis: Affective Language for Visual Art.**<br>
+*Panos Achlioptas, Maks Ovsjanikov, Kilichbek Haydarov, Mohamed Elhoseiny, Leonidas Guibas.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.07396)] [[Project](https://artemisdataset.org/)]
+
+**XMC-GA: Cross-Modal Contrastive Learning for Text-to-Image Generation.**<br>
+*Han Zhang, Jing Yu Koh, Jason Baldridge, Honglak Lee, Yinfei Yang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2101.04702)]
+
+**Semantic Grouping Network for Video Captioning.**<br>
+*Hobin Ryu, Sunghun Kang, Haeyong Kang, Chang D. Yoo.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.00831)]
+
+**Dual-Level Collaborative Transformer for Image Captioning.**<br>
+*Yunpeng Luo, Jiayi Ji, Xiaoshuai Sun, Liujuan Cao, Yongjian Wu, Feiyue Huang, Chia-Wen Lin, Rongrong Ji.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2101.06462)]
+
+**End-to-End Video Question-Answer Generation with Generator-Pretester Network.**<br>
+*Hung-Ting Su, Chen-Hsi Chang, Po-Wei Shen, Yu-Siang Wang, Ya-Liang Chang, Yu-Cheng Chang, Pu-Jen Cheng, Winston H. Hsu.*<br>
+TCSVT 2020. [[PDF](https://arxiv.org/abs/2101.01447)]
+
+**RecipeNLG: A Cooking Recipes Dataset for Semi-Structured Text Generation.**<br>
+*Michał Bień, Michał Gilski, Martyna Maciejewska, Wojciech Taisner, Dawid Wiśniewski, Agnieszka Ławrynowicz.*<br>
+arxiv 2020. [[PDF](https://www.aclweb.org/anthology/2020.inlg-1.4.pdf)] [[Github](https://github.com/Glorf/recipenlg)] [[Project](https://recipenlg.cs.put.poznan.pl/)] [[RecipeNLG dataset](https://recipenlg.cs.put.poznan.pl/dataset)] [[RecipeNLG's Recipe Generator](https://recipenlg.cs.put.poznan.pl/generator)]
+
+**AutoCaption: Image Captioning with Neural Architecture Search.**<br>
+*Xinxin Zhu, Weining Wang, Longteng Guo, Jing Liu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09742)]
+
+**Simple is not Easy: A Simple Strong Baseline for TextVQA and TextCaps.**<br>
+*Qi Zhu, Chenyu Gao, Peng Wang, Qi Wu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05153)] [[Github](https://github.com/ZephyrZhuQi/ssbaseline)]
+
+**TAP: Text-Aware Pre-training for Text-VQA and Text-Caption.**<br>
+*Zhengyuan Yang, Yijuan Lu, Jianfeng Wang, Xi Yin, Dinei Florencio, Lijuan Wang, Cha Zhang, Lei Zhang, Jiebo Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.04638)]
+
+**Image Captioning with Context-Aware Auxiliary Guidance.**<br>
+*Zeliang Song, Xiaofei Zhou, Zhendong Mao, Jianlong Tan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05545)]
+
+**LaBERT: Length-Controllable Image Captioning.**<br>
+*Chaorui Deng, Ning Ding, Mingkui Tan, Qi Wu.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.09580)] [[Github](https://github.com/bearcatt/LaBERT)]
+
+**Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze.**<br>
+*Ece Takmaz, Sandro Pezzelle, Lisa Beinborn, Raquel Fernández.*<br>
+EMNLP 2020. [[PDF](https://arxiv.org/abs/2011.04592)]
+
+**CapWAP: Captioning with a Purpose.**<br>
+*Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan H. Clark, Regina Barzilay.*<br>
+EMNLP 2020. [[PDF](https://arxiv.org/abs/2011.04264)]
+
+**Diverse Image Captioning with Context-Object Split Latent Spaces.**<br>
+*Shweta Mahajan, Stefan Roth.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.00966)]
+
+**Structure-Aware Generation Network for Recipe Generation from Images.**<br>
+*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2009.00944)]
+
+**Identity-Aware Multi-Sentence Video Description.**<br>
+*Jae Sung Park, Trevor Darrell, Anna Rohrbach.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09791)] [[Project](https://sites.google.com/site/describingmovies/lsmdc-2019/)]
+
+**Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.**<br>
+*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2007.13374)]
+
+**Entangled Transformer for Image Captioning.**<br>
+*Guang Li Linchao Zhu Ping Liu Yi Yang.*<br>
+ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf)]
+
+**Inverse Cooking: Recipe Generation from Food Images.**<br>
+*Amaia Salvador, Michal Drozdzal, Xavier Giro-i-Nieto, Adriana Romero.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1812.06164)]
+
+**Intention Oriented Image Captions with Guiding Objects.**<br>
+*Yue Zheng, Yali Li, Shengjin Wang.*<br>
+CVPR 2019. [[PDF](https://arxiv.org/abs/1811.07662)] 
 
 ### Speech-and-Text
 

@@ -201,6 +201,70 @@ ICML 2017. [[PDF](https://arxiv.org/abs/1703.00887)]
 *Rufin VanRullen, Ryota Kanai.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.10390)]
 
+
+## Network Subspace
+
+**Learning Neural Network Subspaces.**<br> 
+*Mitchell Wortsman, Maxwell Horton, Carlos Guestrin, Ali Farhadi, Mohammad Rastegari.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.10472)]
+
+**Low-Rank Subspaces in GANs.**<br> 
+*Jiapeng Zhu, Ruili Feng, Yujun Shen, Deli Zhao, Zhengjun Zha, Jingren Zhou, Qifeng Chen.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04488)] [[Github](https://github.com/zhujiapeng/LowRankGAN)]
+
+## AI in ALL (Nature and Science)
+
+### Brain Signal -> Image or Text
+
+**Neuroprosthesis for Decoding Speech in a Paralyzed Person with Anarthria.**<br>
+*David A. Moses, Sean L. Metzger, Jessie R. Liu, B.S., Gopala K. Anumanchipalli, Joseph G. Makin, Pengfei F. Sun, Josh Chartier, Maximilian E. Dougherty, B.A., Patricia M. Liu, M.A., Gary M. Abrams, Adelyn Tu-Chan, D.O., Karunesh Ganguly, and Edward F. Chang.*<br>
+The New England Journal of Medicine 2021. [[PDF](https://www.nejm.org/doi/full/10.1056/NEJMoa2027540?query=featured_home)]
+
+### Protein Structure Prediction
+
+**Highly accurate protein structure prediction for the human proteome.**<br>
+*Kathryn Tunyasuvunakool, Jonas Adler, Zachary Wu, Tim Green, Michal Zielinski, Augustin Žídek, Alex Bridgland, Andrew Cowie, Clemens Meyer, Agata Laydon, Sameer Velankar, Gerard J. Kleywegt, Alex Bateman, Richard Evans, Alexander Pritzel, Michael Figurnov, Olaf Ronneberger, Russ Bates, Simon A. A. Kohl, Anna Potapenko, Andrew J. Ballard, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Ellen Clancy, David Reiman, Stig Petersen, Andrew W. Senior, Koray Kavukcuoglu, Ewan Birney, Pushmeet Kohli, John Jumper, Demis Hassabis.*<br>
+Nature 2021. [[PDF](https://www.nature.com/articles/s41586-021-03828-1)] [[AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)] [[DeepMind](https://deepmind.com/)] [[EMBL’s European Bioinformatics Institute (EMBL-EBI)](http://www.ebi.ac.uk/)]
+
+**AlphaFold: Highly accurate protein structure prediction with AlphaFold.**<br>
+*John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli, Demis Hassabis.*<br>
+Nature 2021. [[PDF](https://www.nature.com/articles/s41586-021-03819-2)] [[Github](https://github.com/deepmind/alphafold)]
+
+**RoseTTAFold: Accurate prediction of protein structures and interactions using a 3-track network.**<br>
+*Minkyung Baek, Frank DiMaio, Ivan Anishchenko, Justas Dauparas,  Sergey Ovchinnikov, Gyu Rie Lee, Jue Wang,  Qian Cong, Lisa N. Kinch, R. Dustin Schaeffer, Claudia Millán, Hahnbeom Park, Carson Adams, Caleb R. Glassman, Andy DeGiovanni, Jose H. Pereira, Andria V. Rodrigues, Alberdina A. van Dijk, Ana C. Ebrecht, Diederik J. Opperman, Theo Sagmeister, Christoph Buhlheller, Tea Pavkov-Keller, Manoj K Rathinaswamy, Udit Dalwadi, Calvin K Yip,  John E Burke, K. Christopher Garcia, Nick V. Grishin, Paul D. Adams, Randy J. Read, David Baker.*<br>
+Science 2021. [[PDF](https://www.biorxiv.org/content/10.1101/2021.06.14.448402v1)] [[Github](https://github.com/RosettaCommons/RoseTTAFold)]
+
+**Improved Protein Structure Prediction Using Potentials from Deep Learning.**<br>
+*Andrew W. Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim Green, Chongli Qin, Augustin Žídek, Alexander W. R. Nelson, Alex Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan, Pushmeet Kohli, David T. Jones, David Silver, Koray Kavukcuoglu & Demis Hassabis.*<br>
+Nature 2020. [[PDF](https://www.nature.com/articles/s41586-019-1923-7)]
+
+### Drug Discovery
+
+**Artificial Intelligence in Drug Discovery: Applications and Techniques.**<br>
+*[Jianyuan Deng](https://dengjianyuan.github.io/), Zhibo Yang, Iwao Ojima, Dimitris Samaras, Fusheng Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05386)] [[Github](https://github.com/dengjianyuan/Survey_AI_Drug_Discovery)]
+
+**Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks.**<br>
+*Panagiotis-Christos Kotsias, Josep Arús-Pous, Hongming Chen, Ola Engkvist, Christian Tyrchan & Esben Jannik Bjerrum.*<br>
+Nature Machine Intelligence 2020. [[PDF](https://www.nature.com/articles/s42256-020-0174-5)]
+
+### Molecular Conformation Generation
+
+**Learning Gradient Fields for Molecular Conformation Generation.**<br>
+*Chence Shi, [Shitong Luo](https://luost.me/), Minkai Xu, Jian Tan.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2105.03902)] [[Github](https://github.com/DeepGraphLearning/ConfGF)]
+
+**An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming.**<br>
+*[Minkai Xu](https://minkaixu.com/), Wujie Wang, [Shitong Luo](https://luost.me/),, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, [Jian Tang](https://jian-tang.com/publications/).*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2105.07246)] [[Github](https://github.com/MinkaiXu/ConfVAE-ICML21)]
+
+### Nature Machine Intelligence
+
+**Shortcut Learning in Deep Neural Networks.**<br>
+*Robert Geirhos, Jörn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, Felix A. Wichmann.*<br>
+Nature Machine Intelligence 2020. [[PDF](https://arxiv.org/abs/2004.07780)] [[Github](https://github.com/rgeirhos/shortcut-perspective)]
+
+
 ## Fairness, Accountability, Privacy, Transparency, and Ethics
 
 ### Fairness
@@ -1390,3 +1454,77 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.07703)] [[Github](https://github.co
 **Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation.**<br>
 *Myeongjin Kim, Hyeran Byun.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.00867)]
+
+## Lottery Tickets Hypothesis
+
+**A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br> 
+*Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.06790)]
+
+**Efficient Lottery Ticket Finding: Less Data is More.**<br> 
+*Zhenyu Zhang, Xuxi Chen, Tianlong Chen, Zhangyang Wang.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2106.03225)]
+
+**Playing Lottery Tickets with Vision and Language.**<br>
+*Zhe Gan, Yen-Chun Chen, Linjie Li, Tianlong Chen, Yu Cheng, Shuohang Wang, Jingjing Liu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11832)]
+
+**A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br>
+*Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06790)] [[Github](https://github.com/VITA-Group/Unified-LTH-GNN)]
+
+**The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models.**<br>
+*Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Michael Carbin, [Zhangyang Wang](https://vita-group.github.io/).*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.06908)] [[Github](https://github.com/VITA-Group/CV_LTH_Pre-training)]
+
+**Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning.**<br>
+*Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang.*<br>
+ICLR 2021. [[PDF](https://openreview.net/forum?id=LXMSvPmsm0g)] [[Github](https://github.com/VITA-Group/Lifelong-Learning-LTH)]
+
+**GAN-LTH: GANs Can Play Lottery Tickets Too.**<br> 
+*Xuxi Chen, Zhenyu Zhang, Yongduo Sui, Tianlong Chen.*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=1AoMhc_9jER)] [[Github](https://github.com/VITA-Group/GAN-LTH)]
+
+**Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network.**<br>
+*James Diffenderfer, Bhavya Kailkhura.*<br> 
+ICLR 2021. [[PDF](https://openreview.net/forum?id=U_mat0b9iv)] [[Github](https://github.com/chrundle/biprop)]
+
+**The Lottery Ticket Hypothesis for Pre-trained BERT Networks.**<br> 
+*Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin.*<br> 
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.12223)] [[Github](https://github.com/VITA-Group/BERT-Tickets)]
+
+**The Early Phase of Neural Network Training.**<br> 
+*Jonathan Frankle, David J. Schwab, Ari S. Morcos.*<br> 
+ICLR 2020. [[PDF](https://openreview.net/forum?id=Hkl1iRNFwS)] [[Github](https://github.com/VITA-Group/Early-Bird-Tickets)]
+
+**Comparing Rewinding and Fine-tuning in Neural Network Pruning.**<br> 
+*Alex Renda, Jonathan Frankle, Michael Carbin.*<br> 
+ICLR 2020. [[PDF](https://arxiv.org/abs/2003.02389)] [[Github](https://github.com/lottery-ticket/rewinding-iclr20-public)]
+
+**Drawing Early-bird Tickets: Towards more Efficient Training of Deep Networks.**<br> 
+*Haoran You, Chaojian Li, Pengfei Xu, Yonggan Fu, Yue Wang, Xiaohan Chen, Richard G. Baraniuk, Zhangyang Wang, Yingyan Lin.*<br> 
+ICLR 2020. [[PDF](https://arxiv.org/abs/1909.11957)] [[Github](https://github.com/RICE-EIC/Early-Bird-Tickets)]
+
+**Playing the Lottery with Rewards and Multiple Languages: Lottery Tickets in RL and NLP.**<br> 
+*Haonan Yu, Sergey Edunov, Yuandong Tian, Ari S. Morcos.*<br> 
+ICLR 2020. [[PDF](https://openreview.net/forum?id=S1xnXRVFwH)]
+
+**Linear Mode Connectivity and the Lottery Ticket Hypothesis.**<br> 
+*Jonathan Frankle, Gintare Karolina Dziugaite, Daniel M. Roy, Michael Carbin.*<br> 
+ICML 2020. [[PDF](https://arxiv.org/abs/1912.05671)]
+
+**Pruning neural networks without any data by iteratively conserving synaptic flow.**<br> 
+*Hidenori Tanaka, Daniel Kunin, Daniel L. K. Yamins, Surya Ganguli.*<br> 
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.05467)] [[Github](https://github.com/ganguli-lab/Synaptic-Flow)]
+
+**One Ticket to Win Them All: Generalizing Lottery Ticket Initializations across Datasets and Optimizers.**<br> 
+*Ari S. Morcos, Haonan Yu, Michela Paganini, Yuandong Tian.*<br> 
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1906.02773)] [[Github](https://github.com/varungohil/Generalizing-Lottery-Tickets)]
+
+**Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask.**<br> 
+*Hattie Zhou, Janice Lan, Rosanne Liu, Jason Yosinski.*<br> 
+NeurIPS 2019. [[PDF](https://arxiv.org/abs/1905.01067)] [[Github]()]
+
+**The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks.**<br> 
+*[Jonathan Frankle](http://www.jfrankle.com/), Michael Carbin.*<br> 
+ICLR 2019 (Best paper award). [[PDF](https://arxiv.org/abs/1803.03635)] [[Github](https://github.com/facebookresearch/open_lth)]

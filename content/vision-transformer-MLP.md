@@ -630,6 +630,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16553)]
 *Hila Chefer, Shir Gur, Lior Wolf.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15679)] [[Github](https://github.com/hila-chefer/Transformer-MM-Explainability)]
 
+**RSTNet: Captioning With Adaptive Attention on Visual and Non-Visual Words.**<br>
+*Xuying Zhang, Xiaoshuai Sun, Yunpeng Luo, Jiayi Ji, Yiyi Zhou, Yongjian Wu, Feiyue Huang, Rongrong Ji.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_RSTNet_Captioning_With_Adaptive_Attention_on_Visual_and_Non-Visual_Words_CVPR_2021_paper.html)] [[Github](https://github.com/zhangxuying1004/RSTNet)]
+
 **Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning.**<br>
 *Amaia Salvador, Erhan Gundogdu, Loris Bazzani, Michael Donoser.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.13061)] [[Github](https://github.com/amzn/image-to-recipe-transformers)]

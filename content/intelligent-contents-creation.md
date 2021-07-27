@@ -13,25 +13,23 @@ This repository is about *controllable, interpretable, and generalizable visual 
 - [PhD Thesis and Dissertation](#phd-thesis-and-dissertation)
 - [Classical Method Revisiting](#classical-method-revisiting)
 - [People Wearing Smart Glasses or Other Mixedreality Devices](#people-wearing-smart-glasses-or-other-mixedreality-devices)
-- [Network Subspace](#network-subspace)
-- [Deep Learning Explaination](#deep-learning-explaination)
 - [High-Resolution Image Synthesis](#high-resolution-image-synthesis)
   * [Toward 1024-Resolution](#toward-1024-resolution)
   * [Toward Infinite-Resolution](#toward-infinite-resolution)
-- [Lightweight High-Resolution Image Synthesis](#lightweight-high-resolution-image-synthesis)
+  * [Lightweight High-Resolution Image Synthesis](#lightweight-high-resolution-image-synthesis)
 - [Interactive and Controllable Image Manipulation](#interactive-and-controllable-image-manipulation)
+  * [Pretrained-GAN-based Video Generation](#pretrained-gan-based-video-generation)
   * [Open-world Language-Guided Visual Content Generation](#open-world-language-guided-visual-content-generation)
-  * [Heterogeneous Face Translation](#heterogeneous-face-translation)
+  * [Heterogeneous Translation For Face or Handwirting](#heterogeneous-translation-for-face-or-handwirting)
   * [Continuous Image Representation](#continuous-image-representation)
   * [Highlight Component](#highlight-component)
   * [Rearrange and Retiming](#rearrange-and-retiming)
-  * [Disentanglement](#disentanglement)
+  * [Disentanglement and Visual Reasoning](#disentanglement-and-visual-reasoning)
   * [Individual Object Manipulation](#individual-object-manipulation)
-  * [Generating Accurate Descriptions](#generating-accurate-descriptions)
   * [Change Where You Want](#change-where-you-want)
   * [Neural Simulation](#neural-simulation)
   * [Human-Object Interaction](#human-object-interaction)
-  * [Image Style Transfer](#image-style-transfer)
+  * [Photorealistic Image Stylization](#photorealistic-image-stylization)
   * [Guided Translation](#guided-translation)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
@@ -40,19 +38,18 @@ This repository is about *controllable, interpretable, and generalizable visual 
   * [Video Spatio-Temporal Consistency](#video-spatio-temporal-consistency)
 - [3D-Aware Image Synthesis](#3d-aware-image-synthesis)
 - [3D Shape Generation and Manipulation](#3d-shape-generation-and-manipulation)
+- [Generative Positive-Unlabelled Learning](#generative-positive-unlabelled-learning)
+- [Discrete Latent Models](#discrete-latent-models)
+- [Frequency](#frequency)
 - [Diving Deep into Image Synthesis](#diving-deep-into-image-synthesis)
   * [Generative Models](#generative-models)
   * [StyleGAN-Based Method](#stylegan-based-method)
   * [Diffusion Probabilistic Models](#diffusion-probabilistic-models)
   * [misc](#misc)
 - [2D to 3D Convertion](#2d-to-3d-convertion)
-- [Lottery Tickets Hypothesis](#lottery-tickets-hypothesis)
 - [Free-Hand Sketch](#free-hand-sketch)
   * [2D Sketch to 3D Model](#2d-sketch-to-3d-model)
   * [2D Sketch to 2D Image](#2d-sketch-to-2d-image)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Industry Demo or Product
 
@@ -137,94 +134,6 @@ SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2107.03109)] [[Project](http://
 *Yajie Zhao, Zeng Huang, Tianye Li, Weikai Chen, Chloe LeGendre, Xinglei Ren, Jun Xing, Ari Shapiro, Hao Li.*<br> 
 ICCV 2019. [[PDF](https://arxiv.org/abs/1905.07515)] [[Github](https://github.com/bearjoy730/Learning-Perspective-Undistortion-of-Portraits)]
 
-## Network Subspace
-
-**Learning Neural Network Subspaces.**<br> 
-*Mitchell Wortsman, Maxwell Horton, Carlos Guestrin, Ali Farhadi, Mohammad Rastegari.*<br>
-ICML 2021. [[PDF](https://arxiv.org/abs/2102.10472)]
-
-**Low-Rank Subspaces in GANs.**<br> 
-*Jiapeng Zhu, Ruili Feng, Yujun Shen, Deli Zhao, Zhengjun Zha, Jingren Zhou, Qifeng Chen.*<br> 
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.04488)] [[Github](https://github.com/zhujiapeng/LowRankGAN)]
-
-## AI in ALL (Nature and Science)
-
-### Brain Signal -> Image or Text
-
-**Neuroprosthesis for Decoding Speech in a Paralyzed Person with Anarthria.**<br>
-*David A. Moses, Sean L. Metzger, Jessie R. Liu, B.S., Gopala K. Anumanchipalli, Joseph G. Makin, Pengfei F. Sun, Josh Chartier, Maximilian E. Dougherty, B.A., Patricia M. Liu, M.A., Gary M. Abrams, Adelyn Tu-Chan, D.O., Karunesh Ganguly, and Edward F. Chang.*<br>
-The New England Journal of Medicine 2021. [[PDF](https://www.nejm.org/doi/full/10.1056/NEJMoa2027540?query=featured_home)]
-
-### Protein Structure Prediction
-
-**Highly accurate protein structure prediction for the human proteome.**<br>
-*Kathryn Tunyasuvunakool, Jonas Adler, Zachary Wu, Tim Green, Michal Zielinski, Augustin Žídek, Alex Bridgland, Andrew Cowie, Clemens Meyer, Agata Laydon, Sameer Velankar, Gerard J. Kleywegt, Alex Bateman, Richard Evans, Alexander Pritzel, Michael Figurnov, Olaf Ronneberger, Russ Bates, Simon A. A. Kohl, Anna Potapenko, Andrew J. Ballard, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Ellen Clancy, David Reiman, Stig Petersen, Andrew W. Senior, Koray Kavukcuoglu, Ewan Birney, Pushmeet Kohli, John Jumper, Demis Hassabis.*<br>
-Nature 2021. [[PDF](https://www.nature.com/articles/s41586-021-03828-1)] [[AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)] [[DeepMind](https://deepmind.com/)] [[EMBL’s European Bioinformatics Institute (EMBL-EBI)](http://www.ebi.ac.uk/)]
-
-**AlphaFold: Highly accurate protein structure prediction with AlphaFold.**<br>
-*John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli, Demis Hassabis.*<br>
-Nature 2021. [[PDF](https://www.nature.com/articles/s41586-021-03819-2)] [[Github](https://github.com/deepmind/alphafold)]
-
-**RoseTTAFold: Accurate prediction of protein structures and interactions using a 3-track network.**<br>
-*Minkyung Baek, Frank DiMaio, Ivan Anishchenko, Justas Dauparas,  Sergey Ovchinnikov, Gyu Rie Lee, Jue Wang,  Qian Cong, Lisa N. Kinch, R. Dustin Schaeffer, Claudia Millán, Hahnbeom Park, Carson Adams, Caleb R. Glassman, Andy DeGiovanni, Jose H. Pereira, Andria V. Rodrigues, Alberdina A. van Dijk, Ana C. Ebrecht, Diederik J. Opperman, Theo Sagmeister, Christoph Buhlheller, Tea Pavkov-Keller, Manoj K Rathinaswamy, Udit Dalwadi, Calvin K Yip,  John E Burke, K. Christopher Garcia, Nick V. Grishin, Paul D. Adams, Randy J. Read, David Baker.*<br>
-Science 2021. [[PDF](https://www.biorxiv.org/content/10.1101/2021.06.14.448402v1)] [[Github](https://github.com/RosettaCommons/RoseTTAFold)]
-
-**Improved Protein Structure Prediction Using Potentials from Deep Learning.**<br>
-*Andrew W. Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim Green, Chongli Qin, Augustin Žídek, Alexander W. R. Nelson, Alex Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan, Pushmeet Kohli, David T. Jones, David Silver, Koray Kavukcuoglu & Demis Hassabis.*<br>
-Nature 2020. [[PDF](https://www.nature.com/articles/s41586-019-1923-7)]
-
-### Drug Discovery
-
-**Artificial Intelligence in Drug Discovery: Applications and Techniques.**<br>
-*[Jianyuan Deng](https://dengjianyuan.github.io/), Zhibo Yang, Iwao Ojima, Dimitris Samaras, Fusheng Wang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.05386)] [[Github](https://github.com/dengjianyuan/Survey_AI_Drug_Discovery)]
-
-**Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks.**<br>
-*Panagiotis-Christos Kotsias, Josep Arús-Pous, Hongming Chen, Ola Engkvist, Christian Tyrchan & Esben Jannik Bjerrum.*<br>
-Nature Machine Intelligence 2020. [[PDF](https://www.nature.com/articles/s42256-020-0174-5)]
-
-### Molecular Conformation Generation
-
-**Learning Gradient Fields for Molecular Conformation Generation.**<br>
-*Chence Shi, [Shitong Luo](https://luost.me/), Minkai Xu, Jian Tan.*<br>
-ICML 2021. [[PDF](https://arxiv.org/abs/2105.03902)] [[Github](https://github.com/DeepGraphLearning/ConfGF)]
-
-**An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming.**<br>
-*[Minkai Xu](https://minkaixu.com/), Wujie Wang, [Shitong Luo](https://luost.me/),, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, [Jian Tang](https://jian-tang.com/publications/).*<br>
-ICML 2021. [[PDF](https://arxiv.org/abs/2105.07246)] [[Github](https://github.com/MinkaiXu/ConfVAE-ICML21)]
-
-### Nature Machine Intelligence
-
-**Shortcut Learning in Deep Neural Networks.**<br>
-*Robert Geirhos, Jörn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge, Felix A. Wichmann.*<br>
-Nature Machine Intelligence 2020. [[PDF](https://arxiv.org/abs/2004.07780)] [[Github](https://github.com/rgeirhos/shortcut-perspective)]
-
-## Deep Learning Explaination
-
-See [Neural Network Interpretability](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-robustness-efficiency-privacy.md#neural-network-interpretability)
-
-## Pretrained-GAN-based Video Generation
-
-**Alias-Free GAN: Alias-Free Generative Adversarial Networks.**<br>
-*Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.github.io/alias-free-gan)] [[Github](https://github.com/NVlabs/alias-free-gan)] [[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch)]
-
-**StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN.**<br>
-*Gereon Fox, Ayush Tewari, Mohamed Elgharib, Christian Theobalt.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07224)]
-
-**PC-AV: Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br> 
-*[Hang Zhou](https://hangz-nju-cuhk.github.io/), Yasheng Sun, [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), [Ziwei Liu](https://liuziwei7.github.io/).*<br> 
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.11116)] [[Project](https://hangz-nju-cuhk.github.io/)] [[Github](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)]
-
-**MoCoGAN-HD: A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
-*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, [Sergey Tulyakov](http://www.stulyakov.com/).*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)] [[Github](https://github.com/snap-research/MoCoGAN-HD)]
-
-**DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
-*E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
-ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
-
 ## High-Resolution Image Synthesis
 
 ### Toward 1024-Resolution
@@ -290,6 +199,28 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.04767)] [[Github](https://github.c
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.08936)] [[Demo](https://tinyurl.com/r474uca)] [[Github](https://github.com/mit-han-lab/gan-compression)] [[Project](https://hanlab.mit.edu/projects/gancompression/)]
 
 ## Interactive and Controllable Image Manipulation
+
+### Pretrained-GAN-based Video Generation
+
+**Alias-Free GAN: Alias-Free Generative Adversarial Networks.**<br>
+*Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.12423)] [[Project](https://nvlabs.github.io/alias-free-gan)] [[Github](https://github.com/NVlabs/alias-free-gan)] [[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch)]
+
+**StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN.**<br>
+*Gereon Fox, Ayush Tewari, Mohamed Elgharib, Christian Theobalt.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.07224)]
+
+**PC-AV: Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br> 
+*[Hang Zhou](https://hangz-nju-cuhk.github.io/), Yasheng Sun, [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), [Ziwei Liu](https://liuziwei7.github.io/).*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.11116)] [[Project](https://hangz-nju-cuhk.github.io/)] [[Github](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)]
+
+**MoCoGAN-HD: A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
+*Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, [Sergey Tulyakov](http://www.stulyakov.com/).*<br>
+ICLR 2021. [[PDF](https://openreview.net/pdf?id=6puCSjH3hwA)] [[Github](https://github.com/snap-research/MoCoGAN-HD)]
+
+**DeepLandscape: Adversarial Modeling of Landscape Videos.**<br>
+*E. Logacheva, R. Suvorov, O. Khomenko, A. Mashikhin, and V. Lempitsky.*<br>
+ECCV 2020. [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680256.pdf)] [[Github](https://github.com/saic-mdal/deep-landscape)] [[Project](https://saic-mdal.github.io/deep-landscape/)]
 
 ### Open-world Language-Guided Visual Content Generation
 
@@ -482,32 +413,6 @@ AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005
 **Context-Aware Synthesis and Placement of Object Instances.**<br>
 *Donghoon Lee, Sifei Liu, Jinwei Gu, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz.*<br>
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1812.02350v1)] [[Project](https://research.nvidia.com/publication/2018-10_Context-aware-Synthesis-and)]
-
-### Generating Accurate Descriptions
-
-**VirTex: Learning Visual Representations from Textual Annotations.**<br>
-*Karan Desai, Justin Johnson.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/pdf/2006.06666.pdf)]
-
-**e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks.**<br>
-*Maxime Kayser, Oana-Maria Camburu, Leonard Salewski, Cornelius Emde, Virginie Do, Zeynep Akata, Thomas Lukasiewicz.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2105.03761)]
-
-**Describing Textures using Natural Language.**<br>
-*Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01180)] [[Project](https://people.cs.umass.edu/~chenyun/texture)]
-
-**Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards.**<br>
-*Xuewen Yang, Heming Zhang, Di Jin, Yingru Liu, Chi-Hao Wu, Jianchao Tan, Dongliang Xie, Jue Wang, Xin Wang.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02693)]
-
-**POS-SCAN: More Grounded Image Captioning by Distilling Image-Text Matching Model.**<br>
-*Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.com/YuanEZhou/Grounded-Image-Captioning)]
-
-**Spatio-Temporal Graph for Video Captioning with Knowledge Distillation.**<br>
-*Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles.*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
 
 ### Change Where You Want
 
@@ -2320,80 +2225,6 @@ SIGGRAPH Asia 2018. [[Project](http://haopan.github.io/sketchCNN.html)] [[PDF](h
 **BendSketch: Modeling Freeform Surfaces Through 2D Sketching.**<br>
 *[Changjian Li](https://enigma-li.github.io/), Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang.*<br>
 SIGGRAPH 2017. [[Project](http://haopan.github.io/bendsketch.html)] [[PDF](https://enigma-li.github.io/projects/bendsketching/bendsketch.pdf)]
-
-## Lottery Tickets Hypothesis
-
-**A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br> 
-*Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
-ICML 2021. [[PDF](https://arxiv.org/abs/2102.06790)]
-
-**Efficient Lottery Ticket Finding: Less Data is More.**<br> 
-*Zhenyu Zhang, Xuxi Chen, Tianlong Chen, Zhangyang Wang.*<br>
-ICML 2021. [[PDF](https://arxiv.org/abs/2106.03225)]
-
-**Playing Lottery Tickets with Vision and Language.**<br>
-*Zhe Gan, Yen-Chun Chen, Linjie Li, Tianlong Chen, Yu Cheng, Shuohang Wang, Jingjing Liu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11832)]
-
-**A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**<br>
-*Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06790)] [[Github](https://github.com/VITA-Group/Unified-LTH-GNN)]
-
-**The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models.**<br>
-*Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Michael Carbin, [Zhangyang Wang](https://vita-group.github.io/).*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2012.06908)] [[Github](https://github.com/VITA-Group/CV_LTH_Pre-training)]
-
-**Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning.**<br>
-*Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang.*<br>
-ICLR 2021. [[PDF](https://openreview.net/forum?id=LXMSvPmsm0g)] [[Github](https://github.com/VITA-Group/Lifelong-Learning-LTH)]
-
-**GAN-LTH: GANs Can Play Lottery Tickets Too.**<br> 
-*Xuxi Chen, Zhenyu Zhang, Yongduo Sui, Tianlong Chen.*<br>
-ICLR 2021. [[PDF](https://openreview.net/pdf?id=1AoMhc_9jER)] [[Github](https://github.com/VITA-Group/GAN-LTH)]
-
-**Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network.**<br>
-*James Diffenderfer, Bhavya Kailkhura.*<br> 
-ICLR 2021. [[PDF](https://openreview.net/forum?id=U_mat0b9iv)] [[Github](https://github.com/chrundle/biprop)]
-
-**The Lottery Ticket Hypothesis for Pre-trained BERT Networks.**<br> 
-*Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin.*<br> 
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.12223)] [[Github](https://github.com/VITA-Group/BERT-Tickets)]
-
-**The Early Phase of Neural Network Training.**<br> 
-*Jonathan Frankle, David J. Schwab, Ari S. Morcos.*<br> 
-ICLR 2020. [[PDF](https://openreview.net/forum?id=Hkl1iRNFwS)] [[Github](https://github.com/VITA-Group/Early-Bird-Tickets)]
-
-**Comparing Rewinding and Fine-tuning in Neural Network Pruning.**<br> 
-*Alex Renda, Jonathan Frankle, Michael Carbin.*<br> 
-ICLR 2020. [[PDF](https://arxiv.org/abs/2003.02389)] [[Github](https://github.com/lottery-ticket/rewinding-iclr20-public)]
-
-**Drawing Early-bird Tickets: Towards more Efficient Training of Deep Networks.**<br> 
-*Haoran You, Chaojian Li, Pengfei Xu, Yonggan Fu, Yue Wang, Xiaohan Chen, Richard G. Baraniuk, Zhangyang Wang, Yingyan Lin.*<br> 
-ICLR 2020. [[PDF](https://arxiv.org/abs/1909.11957)] [[Github](https://github.com/RICE-EIC/Early-Bird-Tickets)]
-
-**Playing the Lottery with Rewards and Multiple Languages: Lottery Tickets in RL and NLP.**<br> 
-*Haonan Yu, Sergey Edunov, Yuandong Tian, Ari S. Morcos.*<br> 
-ICLR 2020. [[PDF](https://openreview.net/forum?id=S1xnXRVFwH)]
-
-**Linear Mode Connectivity and the Lottery Ticket Hypothesis.**<br> 
-*Jonathan Frankle, Gintare Karolina Dziugaite, Daniel M. Roy, Michael Carbin.*<br> 
-ICML 2020. [[PDF](https://arxiv.org/abs/1912.05671)]
-
-**Pruning neural networks without any data by iteratively conserving synaptic flow.**<br> 
-*Hidenori Tanaka, Daniel Kunin, Daniel L. K. Yamins, Surya Ganguli.*<br> 
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.05467)] [[Github](https://github.com/ganguli-lab/Synaptic-Flow)]
-
-**One Ticket to Win Them All: Generalizing Lottery Ticket Initializations across Datasets and Optimizers.**<br> 
-*Ari S. Morcos, Haonan Yu, Michela Paganini, Yuandong Tian.*<br> 
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1906.02773)] [[Github](https://github.com/varungohil/Generalizing-Lottery-Tickets)]
-
-**Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask.**<br> 
-*Hattie Zhou, Janice Lan, Rosanne Liu, Jason Yosinski.*<br> 
-NeurIPS 2019. [[PDF](https://arxiv.org/abs/1905.01067)] [[Github]()]
-
-**The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks.**<br> 
-*[Jonathan Frankle](http://www.jfrankle.com/), Michael Carbin.*<br> 
-ICLR 2019 (Best paper award). [[PDF](https://arxiv.org/abs/1803.03635)] [[Github](https://github.com/facebookresearch/open_lth)]
 
 ## Free-Hand Sketch
 
