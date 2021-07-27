@@ -74,9 +74,9 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06621)]
 *Yahui Liu, Enver Sangineto, Wei Bi, Nicu Sebe, Bruno Lepri, Marco De Nadai.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03746)]
 
-**An Empirical Study of Training Self-Supervised Visual Transformers.**<br>
+**An Empirical Study of Training Self-Supervised Vision Transformers.**<br>
 *Xinlei Chen, Saining Xie, Kaiming He.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
 
 **SiT: Self-supervised vIsion Transformer.**<br>
 *Sara Atito, Muhammad Awais, Josef Kittler.*<br>

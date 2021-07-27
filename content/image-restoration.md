@@ -653,6 +653,18 @@ ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.
 
 ### Image Restoration
 
+**Seamless Manga Inpainting with Semantics Awareness.**<br>
+*[Minshan Xie](https://msxie92.github.io/), [Menghan Xia](https://menghanxia.github.io/), [Chengze Li](https://moeka.me/), [Xueting Liu](https://www.cihe.edu.hk/en/schools-and-offices/schools-and-departments/school-of-computing-and-information-sciences/staff-directory/dr-tina-liu-xueting/index.html), [Tien-Tsin Wong](https://www.cse.cuhk.edu.hk/~ttwong/myself.html).*<br>
+TOG 2021. [[PDF](http://appsrv.cse.cuhk.edu.hk/~ttwong/cgi-bin/paper-download/download.cgi?path=mangainpaint&dl=mangainpaint.pdf)] [[Project](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html)] [[Github](https://github.com/msxie92/MangaInpainting)]
+
+**How to Train Neural Networks for Flare Removal.**<br>
+*Yicheng Wu, Qiurui He, Tianfan Xue, Rahul Garg, Jiawen Chen, Ashok Veeraraghavan, Jonathan T. Barron.*<br>
+arXiv 2021. [[PDF](https://arxiv.org/pdf/2010.00702.pdf)] [[Project](https://yichengwu.github.io/flare-removal/)]
+  
+**Learned Dual-View Reflection Removal.**<br>
+*Simon Niklaus, Xuaner Cecilia Zhang, Jonathan T. Barron, Neal Wadhwa, Rahul Garg, Feng Liu, Tianfan Xue.*<br>
+WACV 2021. [[PDF](https://arxiv.org/pdf/2010.00702.pdf)] [[Project](https://sniklaus.com/dualref)]
+
 **Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data.**<br>
 *[Xintao Wang](https://xinntao.github.io/), Liangbin Xie, Chao Dong, [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.10833)] [[Github](https://github.com/xinntao/Real-ESRGAN)]

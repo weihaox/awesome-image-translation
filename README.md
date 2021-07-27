@@ -99,6 +99,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others 2021
 
+**Image-to-Image Translation with Low Resolution Conditioning.**<br>
+*Mohamed Abderrahmen Abid, Ihsen Hedhli, Jean-François Lalonde, Christian Gagne.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.11262)]
+
 **RABIT: Bi-level Feature Alignment for Versatile Image Translation and Manipulation.**<br>
 *Fangneng Zhan, Yingchen Yu, Rongliang Wu, Kaiwen Cui, Aoran Xiao, Shijian Lu, Ling Shao.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.03021)] [[Github](https://github.com/fnzhan/RABIT)]

@@ -315,7 +315,11 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2106.13156)]
 *Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever.*<br>
 ICML 2021. [[PDF](https://arxiv.org/abs/2102.12092)] [[Blog](https://openai.com/blog/dall-e/)] [[Github](https://github.com/openai/DALL-E)]
 
-### Heterogeneous Face Translation
+### Heterogeneous Translation For Face or Handwirting
+
+**TextStyleBrush: Transfer of Text Aesthetics from a Single Example.**<br>
+*Praveen Krishnan, Rama Kovvuri, Guan Pang, Boris Vassilev, Tal Hassner.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.08385)] [[IMGUR5K-Handwriting-Dataset](https://github.com/facebookresearch/IMGUR5K-Handwriting-Dataset)]
 
 **FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains.**<br>
 *Jia Li, Zhaoyang Li, Jie Cao, Xingguan Song, Ran He.*<br>
@@ -506,6 +510,14 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00390v1)] [[Github](https://github.
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13942)]
 
 ### Change Where You Want
+
+**RewriteNet: Realistic Scene Text Image Generation via Editing Text in Real-world Image.**<br>
+*Junyeop Lee, Yoonsik Kim, Seonghyeon Kim, Moonbin Yim, Seung Shin, Gayoung Lee, Sungrae Park.*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2107.11041)]
+
+**Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications.**<br>
+*[Yiqian Wu](https://onethousandwu.com/), [Yongliang Yang](http://www.yongliangyang.net/), Qinjie Xiao, [Xiaogang Ji](http://www.cad.zju.edu.cn/home/jin).*<br>
+TOG 2021. [[PDF](http://www.cad.zju.edu.cn/home/jin/sig2021/paper46.pdf)] [[Project](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm)]
 
 **High-Fidelity and Arbitrary Face Editing.**<br>
 *Yue Gao, Fangyun Wei, Jianmin Bao, Shuyang Gu, Dong Chen, Fang Wen, Zhouhui Lian.*<br>
@@ -1177,6 +1189,14 @@ CVPR 2020. [[PDF](https://avg.is.tuebingen.mpg.de/publications/liao2020cvpr)] [[
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github.com/autonomousvision/graf)]
 
 ## 3D Shape Generation and Manipulation
+
+**Optimizing UI Layouts for Deformable Face-Rig Manipulation SIGGRAPH 2021.**<br>
+*Joonho Kim, Karan Singh.*<br>
+TOG 2021. [[PDF](https://www.dgp.toronto.edu/projects/face-rig-ui-optimization/Optimizing_UI_Layouts_for_Deformable_Face-Rig_Manipulation.pdf)] [[Project](https://www.dgp.toronto.edu/projects/face-rig-ui-optimization/)]
+
+**SP-GAN: Sphere-Guided 3D Shape Generation and Manipulation.**<br>
+*[Ruihui Li](https://liruihui.github.io/), [Xianzhi Li](https://nini-lxz.github.io/), Ka-Hei Hui, and [Chi-Wing Fu](http://www.cse.cuhk.edu.hk/~cwfu/).*<br>
+TOG 2021. [[PDF](https://liruihui.github.io/source_files/SP-GAN.pdf)] [[Project](https://liruihui.github.io/publication/SP-GAN/)] [[Github](https://github.com/liruihui/SP-GAN)]
 
 **MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement.**<br>
 *[Alexander Richard](https://alexanderrichard.github.io/), Michael Zollhoefer, Yandong Wen, Fernando de la Torre, Yaser Sheikh.*<br>

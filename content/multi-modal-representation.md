@@ -430,7 +430,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2107.00650)]
 
 **ChoreoMaster: Choreography-Oriented Music-Driven Dance Synthesis.**<br>
 *Chen Kang, Zhipeng Tan, Jin Lei, Song-Hai Zhang, Yuan-Chen Guo, Weidong Zhang, Shi-Min Hu.*<br>
-SIGGRAPH 2021. [[PDF]()] [[Project](https://netease-gameai.github.io/ChoreoMaster/)] [[Video](https://www.youtube.com/watch?v=V8MlYa_yhF0)]
+TOG 2021. [[PDF](https://netease-gameai.github.io/ChoreoMaster/Paper.pdf)] [[Project](https://netease-gameai.github.io/ChoreoMaster/)] [[Video](https://www.youtube.com/watch?v=V8MlYa_yhF0)]
 
 **ChoreoNet: Towards Music to Dance Synthesis with Choreographic Action Unit.**<br>
 *Zijie Ye, Haozhe Wu, Jia Jia, Yaohua Bu, Wei Chen, Fanbo Meng, Yanfeng Wang.*<br>
@@ -448,6 +448,10 @@ ACM MM 2020. [[PDF](https://arxiv.org/abs/1912.06606)] [[Github](https://github.
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08779)] [[Project](https://google.github.io/aichoreographer/)] [[Code](https://google.github.io/aistplusplus_dataset/)]
 
 ### Image-to-Video
+
+**Endless Loops: Detecting and Animating Periodic Patterns in Still Images.**<br>
+*[Tavi Halperin](http://tavihalperin.me/), [Hanit Hakim](https://www.linkedin.com/in/hanit-hakim-11512315a), Orestis Vantzos, [Gershon Hochman](https://www.linkedin.com/in/gershon-hochman/), Gal Nachmana, Netai Benaim, [Lior Sassy](http://liorsasi.com/), Michael Kupchik, Ofir Bibi, [Ohad Fried](https://www.ohadf.com/).*<br>
+TOG 2021. [[PDF](https://storage.googleapis.com/ltx-public-images/Endless_Loops__Detecting_and_animating_periodic_patterns_in_still_images.pdf)] [[Project](https://pub.res.lightricks.com/endless-loops/)]
 
 **iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis.**<br>
 *[Andreas Blattmann](https://www.linkedin.com/in/andreas-blattmann-479038186/?originalSubdomain=de), [Timo Milbich](https://timomilbich.github.io/), [Michael Dorkenwald](https://mdorkenwald.com/), [Björn Ommer](https://mdork.github.io/https://hci.iwr.uni-heidelberg.de/people/bommer).*<br>
