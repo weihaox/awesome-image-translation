@@ -1268,10 +1268,6 @@ ICLR 2017. [[PDF](https://openreview.net/forum?id=Sy2fzU9gl)]
 *Nat Dilokthanakul, Pedro A.M. Mediano, Marta Garnelo, Matthew C.H. Lee, Hugh Salimbeni, Kai Arulkumaran, Murray Shanahan.*<br>
 ICLR 2017. [[PDF](https://arxiv.org/abs/1611.02648)] [[Github](https://github.com/Nat-D/GMVAE)]
 
-**Auto-Encoding Variational Bayes.**<br>
-*Diederik P Kingma, Max Welling.*<br>
-ICLR 2014. [[PDF](https://arxiv.org/abs/1312.6114)]
-
 ## Diving Deep into Image Synthesis
 
 ### Generative Models
@@ -1369,7 +1365,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13253)] [[Project](https://taldate
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.13024)]
 
 **VDVAE: Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images.**<br>
-*Anonymous authors.*<br>
+*Rewon Child.*<br>
 ICLR 2021. [[PDF](https://openreview.net/forum?id=RLRXCV6DbEJ)] [[Github](https://github.com/openai/vdvae)]
 
 **NCP-VAE: Variational Autoencoders with Noise Contrastive Priors.**<br>
@@ -1404,35 +1400,47 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2007.08397)] [[Project](https://yccyench
 *Anthony L. Caterini, Arnaud Doucet, Dino Sejdinovic.*<br>
 NeurIPS 2018. [[PDF](https://arxiv.org/abs/1805.11328)]
 
+**IAF: Improving Variational Inference with Inverse Autoregressive Flow.**<br>
+*Diederik P. Kingma, Tim Salimans, Rafal Jozefowicz, Xi Chen, Ilya Sutskever, Max Welling.*<br>
+NeurIPS 2016. [[PDF](https://arxiv.org/abs/1606.04934)]
+
+**Auto-Encoding Variational Bayes.**<br>
+*[Diederik P Kingma](http://dpkingma.com/), [Max Welling](https://staff.fnwi.uva.nl/m.welling/people/).*<br>
+ICLR 2014. [[PDF](https://arxiv.org/abs/1312.6114)]
+
 #### GAN Improvement
 
-**Pareto GAN: Extending the Representational Power of GANs to Heavy-Tailed Distributions.**<br> 
-*Todd Huster, Jeremy Cohen, Zinan Lin, Kevin Chan, Charles Kamhoua, Nandi O. Leslie, Cho-Yu Chiang, Vyas Sekar.*<br>
-ICML 2021. [[PDF]()]
+**Partition-Guided GANs.**<br> 
+*Mohammadreza Armandpour, Ali Sadeghian, Chunyuan Li, Mingyuan Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00816)]
 
-**WGAN with an Infinitely Wide Generator Has No Spurious Stationary Points.**<br> 
-*Albert No (Hongik University), TaeHo Yoon, Kwon Sehyun, Ernest Ryu.*<br>
-ICML 2021. [[PDF]()]
-
-**Functional Space Analysis of Local GAN Convergence.**<br> 
-*Valentin Khrulkov (Skolkovo Institute Of Science And Technology), Artem Babenko, Ivan Oseledets.*<br>
-ICML 2021. [[PDF]()]
-
-**Understanding Noise Injection in GANs.**<br> 
-*Ruili Feng, Deli Zhao, Zheng-Jun Zha.*<br>
-ICML 2021. [[PDF]()]
-
-**Uncertainty Principles of Encoding GANs.**<br> 
-*Ruili Feng, Zhouchen Lin, Jiapeng Zhu, Deli Zhao, Jingren Zhou, Zheng-Jun Zha.*<br> 
-ICML 2021. [[PDF]()]
+**Low-Rank Subspaces in GANs.**<br>
+*Jiapeng Zhu, Ruili Feng, Yujun Shen, Deli Zhao, Zhengjun Zha, Jingren Zhou, Qifeng Chen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2106.04488.pdf)] [[Github](https://github.com/zhujiapeng/LowRankGAN)]
 
 **Positional Encoding as Spatial Inductive Bias in GANs.**<br>
 *Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.05217)] [[Project](https://nbei.github.io/gan-pos-encoding.html)]
 
-**Partition-Guided GANs.**<br> 
-*Mohammadreza Armandpour, Ali Sadeghian, Chunyuan Li, Mingyuan Zhou.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.00816)]
+**Understanding Noise Injection in GANs.**<br> 
+*Ruili Feng, Deli Zhao, Zheng-Jun Zha.*<br>
+ICML 2021. [[PDF](http://proceedings.mlr.press/v139/feng21g/feng21g.pdf)]
+
+**Uncertainty Principles of Encoding GANs.**<br> 
+*Ruili Feng, Zhouchen Lin, Jiapeng Zhu, Deli Zhao, Jingren Zhou, Zheng-Jun Zha.*<br> 
+ICML 2021. [[PDF](http://proceedings.mlr.press/v139/feng21c/feng21c.pdf)]
+
+**Pareto GAN: Extending the Representational Power of GANs to Heavy-Tailed Distributions.**<br> 
+*Todd Huster, Jeremy Cohen, Zinan Lin, Kevin Chan, Charles Kamhoua, Nandi O. Leslie, Cho-Yu Chiang, Vyas Sekar.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2101.09113)]
+
+**WGAN with an Infinitely Wide Generator Has No Spurious Stationary Points.**<br> 
+*Albert No, TaeHo Yoon, Kwon Sehyun, Ernest Ryu.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.07541)]
+
+**Functional Space Analysis of Local GAN Convergence.**<br> 
+*Valentin Khrulkov, Artem Babenko, Ivan Oseledets.*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2102.04448)]
 
 **ContraD: Training GANs with Stronger Augmentations via Contrastive Discriminator.**<br> 
 *[Jongheon Jeong](https://sites.google.com/view/jongheonj) and [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html).*<br>
@@ -1502,10 +1510,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13553)]
 *Anonymous authors.*<br>
 ICLR 2021. [[PDF](https://openreview.net/forum?id=1Fqg133qRaI)]
 
-**Self Normalizing Flows.**<br>
-*T. Anderson Keller, [Jorn W.T. Peters](http://jornpeters.nl/), [Priyank Jaini](https://cs.uwaterloo.ca/~pjaini/home/), Emiel Hoogeboom, Patrick Forré, [Max Welling](https://staff.fnwi.uva.nl/m.welling/).*<br>
-Beyond Backpropagation workshop at NeurIPS 2020. [[PDF](https://arxiv.org/abs/2011.07248)] [[Github](https://github.com/akandykeller/SelfNormalizingFlows)]
-
 **Self-Gradient Networks.**<br>
 *Hossein Aboutalebi, Mohammad Javad Shafiee Alexander Wong.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09364)]
@@ -1522,9 +1526,13 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1904.00284)] [[Project](https://hubert05
 *Rhea Sanjay Sukthanker, Zhiwu Huang, Suryansh Kumar, Radu Timofte, Luc Van Gool.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03959)]
 
-**Self Normalizing Flows.**<br> 
-*Thomas Keller, Jorn Peters, Priyank Jaini, Emiel Hoogeboom, Patrick Forré, Max Welling.*<br>
-ICML 2021. [[PDF]()]
+**Self Normalizing Flows.**<br>
+*Thomas Anderson Keller, [Jorn W.T. Peters](http://jornpeters.nl/), [Priyank Jaini](https://cs.uwaterloo.ca/~pjaini/home/), Emiel Hoogeboom, Patrick Forré, [Max Welling](https://staff.fnwi.uva.nl/m.welling/).*<br>
+ICML 2021. [[PDF](https://arxiv.org/abs/2011.07248)] [[Github](https://github.com/akandykeller/SelfNormalizingFlows)]
+
+**DeFlow: Learning Complex Image Degradations from Unpaired Data with Conditional Flows.**<br>
+*Valentin Wolf, Andreas Lugmayr, Martin Danelljan, Luc Van Gool, Radu Timofte.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2101.05796)]
 
 **Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks.**<br>
 *[Despoina Paschalidou](https://paschalidoud.github.io/), [Angelos Katharopoulos](https://angeloskath.github.io/), [Andreas Geiger](http://cvlibs.net/), [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/).*<br>
@@ -1574,13 +1582,29 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2006.14200)] [[Github](http://git.io/SRF
 *Christina Winkler, Daniel Worrall, Emiel Hoogeboom, Max Welling.*<br>
 arxiv 2019. [[PDF](https://arxiv.org/abs/1912.00042)]
 
+**Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification.**<br>
+*Lynton Ardizzone, Radek Mackowiak, Carsten Rother, Ullrich Köthe.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2001.06448)] [[Github](https://github.com/VLL-HD/IB-INN)]
+
+**Excessive Invariance Causes Adversarial Vulnerability.**<br>
+*Jörn-Henrik Jacobsen, Jens Behrmann, Richard Zemel, Matthias Bethge.*<br>
+ICLR 2019. [[PDF](https://arxiv.org/abs/1811.00401)]
+
+**Analyzing Inverse Problems with Invertible Neural Networks.**<br>
+*Lynton Ardizzone, Jakob Kruse, Sebastian Wirkert, Daniel Rahner, Eric W. Pellegrini, Ralf S. Klessen, Lena Maier-Hein, Carsten Rother, Ullrich Köthe.*<br>
+ICLR 2019. [[PDF](https://arxiv.org/abs/1808.04730)] [[Github](https://github.com/VLL-HD/analyzing_inverse_problems)]
+
+**Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models.**<br>
+*Aditya Grover, Manik Dhar, Stefano Ermon.*<br>
+AAAI 2018. [[PDF](https://arxiv.org/abs/1705.08868)]
+
+**Glow: Generative Flow with Invertible 1x1 Convolutions.**<br>
+*[Diederik P. Kingma](http://dpkingma.com/), [Prafulla Dhariwal](https://prafulladhariwal.com/).*<br>
+NeurIPS 2018. [[PDF](https://arxiv.org/abs/1807.03039)] [[](https://github.com/openai/glow)]
+
 **RealNVP: Density Estimation Using Real NVP.**<br>
 *Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio.*<br>
 ICLR 2017. [[PDF](https://arxiv.org/abs/1605.08803)]
-
-**Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification.**<br>
-*Lynton Ardizzone, Radek Mackowiak, Carsten Rother, Ullrich Köthe.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2001.06448)] [[Github](https://github.com/VLL-HD/exact_information_bottleneck)]
 
 **Guided Image Generation with Conditional Invertible Neural Networks.**<br>
 *Lynton Ardizzone, Carsten Lüth, Jakob Kruse, Carsten Rother, Ullrich Köthe.*<br>
@@ -1588,19 +1612,7 @@ arxiv 2019. [[PDF](https://arxiv.org/abs/1907.02392)] [[Github](https://github.c
 
 **Invertible Residual Networks.**<br>
 *Jens Behrmann, Will Grathwohl, Ricky T. Q. Chen, David Duvenaud, Jörn-Henrik Jacobsen.*<br>
-arxiv 2018. [[PDF](https://arxiv.org/abs/1811.00995)]
-
-**Excessive Invariance Causes Adversarial Vulnerability.**<br>
-*Jörn-Henrik Jacobsen, Jens Behrmann, Richard Zemel, Matthias Bethge.*<br>
-arxiv 2018. [[PDF](https://arxiv.org/abs/1811.00401)]
-
-**Analyzing inverse problems with invertible neural networks.**<br>
-*Lynton Ardizzone, Jakob Kruse, Sebastian Wirkert, Daniel Rahner, Eric W. Pellegrini, Ralf S. Klessen, Lena Maier-Hein, Carsten Rother, Ullrich Köthe.*<br>
-arxiv 2018. [[PDF](https://arxiv.org/abs/1808.04730)] [[Github](https://github.com/VLL-HD/analyzing_inverse_problems)]
-
-**Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models.**<br>
-*Aditya Grover, Manik Dhar, Stefano Ermon.*<br>
-AAAI 2018. [[PDF](https://arxiv.org/abs/1705.08868)]
+arxiv 2018. [[PDF](https://arxiv.org/abs/1811.00995)] [[Github](https://paperswithcode.com/paper/invertible-residual-networks)]
 
 **NICE: Non-linear Independent Components Estimation.**<br>
 *Laurent Dinh, David Krueger, Yoshua Bengio.*<br>
@@ -1714,11 +1726,11 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.01458.pdf)] [[Github](https://githu
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.15282)]
 
 **Diffusion Models Beat GANs on Image Synthesis.**<br>
-*[Prafulla Dhariwal](https://prafulladhariwal.com/), Alex Nichol.*<br>
+*[Prafulla Dhariwal](https://prafulladhariwal.com/), [Alex Nichol](https://aqnichol.com/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.05233)] [[Github](https://github.com/openai/guided-diffusion)]
 
 **Improved Denoising Diffusion Probabilistic Models.**<br>
-*Alex Nichol, Prafulla Dhariwal.*<br>
+*Alex Nichol, [Prafulla Dhariwal](https://prafulladhariwal.com/).*<br>
 ICLM 2021. [[PDF](https://arxiv.org/abs/2102.09672)] [[Github](https://github.com/openai/improved-diffusion)]
 
 **DDPM: Denoising Diffusion Probabilistic Models.**<br>
