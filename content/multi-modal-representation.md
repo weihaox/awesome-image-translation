@@ -539,6 +539,10 @@ IJCAI 2019. [[PDF](https://www.ijcai.org/proceedings/2019/0307.pdf)]
 
 ### Text-to-Image
 
+**CRD-CGAN: Category-Consistent and Relativistic Constraints for Diverse Text-to-Image Generation.**<br>
+*Tao Hu, Chengjiang Long, Chunxia Xiao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.13516.pdf)]
+
 **Semantic Text-to-Face GAN -ST^2FG.**<br>
 *Manan Oza, Sukalpa Chanda, David Doermann.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.10756)]

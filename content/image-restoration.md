@@ -129,6 +129,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2107.03055)]
 *Boyun Li, Yijie Lin, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.06681)]
 
+**Blind Deblurring for Saturated Images.**<br>
+*Liang Chen, Jiawei Zhang, Songnan Lin, Faming Fang, Jimmy S. Ren.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Blind_Deblurring_for_Saturated_Images_CVPR_2021_paper.pdf)]
+
 **GPEN: GAN Prior Embedded Network for Blind Face Restoration in the Wild.**<br>
 *Tao Yang, Peiran Ren, Xuansong Xie, Lei Zhang.*<br>
 CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_GAN_Prior_Embedded_Network_for_Blind_Face_Restoration_in_the_CVPR_2021_paper.pdf)]
@@ -499,10 +503,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.08732)]
 *Xi Zhang, Xiaolin Wu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.05548)]
 
-**FastDVDnet: Towards Real-Time Deep Video Denoising Without Flow Estimation.**<br>
-*Matias Tassano, Julie Delon, Thomas Veit.*<br>
-CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Tassano_FastDVDnet_Towards_Real-Time_Deep_Video_Denoising_Without_Flow_Estimation_CVPR_2020_paper.html)] [[Github](https://github.com/m-tassano/fastdvdnet)]
-
 **COMISR: Compression-Informed Video Super-Resolution.**<br>
 *Yinxiao Li, Pengchong Jin, Feng Yang, Ce Liu, Ming-Hsuan Yang, Peyman Milanfar.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.01237)]
@@ -514,6 +514,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.13371)]
 **Temporal Modulation Network for Controllable Space-Time Video Super-Resolution.**<br>
 *Gang Xu, Jun Xu, Zhen Li, Liang Wang, Xing Sun, Ming-Ming Cheng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10642)]
+
+**Gated Spatio-Temporal Attention-Guided Video Deblurring.**<br>
+*Maitreya Suin, A. N. Rajagopalan.*<br>
+CVPR 2021. [[PDF](http://arxiv.org/abs/2003.11596)]
 
 **Progressive Temporal Feature Alignment Network for Video Inpainting.**<br>
 *Xueyan Zou, Linjie Yang, Ding Liu, Yong Jae Lee.*<br>
@@ -643,15 +647,19 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2009.07265)]
 *Akash Gupta, Abhishek Aich, Amit K. Roy-Chowdhury.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2009.01005)]
 
-**HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN.**<br>
-*Abhinav Sagar.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
-
 **ADEFAN: Divergence-Based Adaptive Extreme Video Completion.**<br>
 *[Majed El Helou](http://majedelhelou.github.io/), Ruofan Zhou, Frank Schmutz, Fabrice Guibert, Sabine Süsstrunk.*<br>
 ICASSP 2020. [[PDF](https://arxiv.org/abs/2004.06409)] [[Github](https://github.com/majedelhelou/ADEFAN)] [[Data](https://ieee-dataport.org/documents/extreme-video-completion-dataset)]
 
+**FastDVDnet: Towards Real-Time Deep Video Denoising Without Flow Estimation.**<br>
+*Matias Tassano, Julie Delon, Thomas Veit.*<br>
+CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Tassano_FastDVDnet_Towards_Real-Time_Deep_Video_Denoising_Without_Flow_Estimation_CVPR_2020_paper.html)] [[Github](https://github.com/m-tassano/fastdvdnet)]
+
 ### Image Restoration
+
+**StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement.**<br>
+*Yuda Song, Hui Qian, Xin Du.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.12898)]
 
 **Seamless Manga Inpainting with Semantics Awareness.**<br>
 *[Minshan Xie](https://msxie92.github.io/), [Menghan Xia](https://menghanxia.github.io/), [Chengze Li](https://moeka.me/), [Xueting Liu](https://www.cihe.edu.hk/en/schools-and-offices/schools-and-departments/school-of-computing-and-information-sciences/staff-directory/dr-tina-liu-xueting/index.html), [Tien-Tsin Wong](https://www.cse.cuhk.edu.hk/~ttwong/myself.html).*<br>
@@ -684,6 +692,23 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02809)]
 **Uformer: A General U-Shaped Transformer for Image Restoration.**<br> 
 *Zhendong Wang, Xiaodong Cun, Jianmin Bao, Jianzhuang Liu.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03106)]
+
+**Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes.**<br>
+*Zhihang Zhong, Yinqiang Zheng, Imari Sato.*<br>
+CVPR 2021. [[PDF](http://arxiv.org/abs/2104.01601)]
+
+**Explore Image Deblurring via Encoded Blur Kernel Space.**<br>
+*Phong Tran, Anh Tuan Tran, Quynh Phung, Minh Hoai.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_Explore_Image_Deblurring_via_Encoded_Blur_Kernel_Space_CVPR_2021_paper.pdf)]
+
+
+**Learning Spatially-Variant MAP Models for Non-Blind Image Deblurring.**<br>
+*Jiangxin Dong, Stefan Roth, Bernt Schiele.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Dong_Learning_Spatially-Variant_MAP_Models_for_Non-Blind_Image_Deblurring_CVPR_2021_paper.pdf)]
+
+**Learning Multi-Scale Photo Exposure Correction.**<br>
+*Mahmoud Afifi, Konstantinos G. Derpanis, Bjorn Ommer, Michael S. Brown.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf)]
 
 **Pre-Trained Image Processing Transformer.**<br>
 *Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>

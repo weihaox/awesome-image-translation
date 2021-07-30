@@ -122,6 +122,18 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.03697)] [[Github](https://github.c
 
 ## People Wearing Smart Glasses or Other Mixedreality Devices
 
+**Predicting the Future from First Person (Egocentric) Vision: A Survey.**<br> 
+*Ivan Rodin, Antonino Furnari, Dimitrios Mavroedis, Giovanni Maria Farinella.*<br> 
+CVIU 2021. [[PDF](https://arxiv.org/abs/2107.13411)]
+
+**Stay Positive: Non-Negative Image Synthesis for Augmented Reality.**<br> 
+*Katie Luo, Guandao Yang, Wenqi Xian, Harald Haraldsson, Bharath Hariharan, Serge Belongie.*<br> 
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Stay_Positive_Non-Negative_Image_Synthesis_for_Augmented_Reality_CVPR_2021_paper.pdf)]
+
+**HDR Environment Map Estimation for Real-Time Augmented Reality.**<br> 
+*Gowri Somanath, Daniel Kurz.*<br> 
+CVPR 2021. [[PDF](http://arxiv.org/abs/2011.10687)]
+
 **Cross-View Exocentric to Egocentric Video Synthesis.**<br> 
 *Gaowen Liu, Hao Tang, Hugo Latapie, Jason Corso, Yan Yan.*<br> 
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.03120)]
@@ -634,6 +646,9 @@ NIPS 2017. [[PDF](https://arxiv.org/abs/1705.08086)] [[Github](https://github.co
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
 
+**SPGNet: Learning Semantic Person Image Generation by Region-Adaptive Normalization.**<br> 
+*Zhengyao Lv, Xiaoming Li, Xin Li, Fu Li, Tianwei Lin, Dongliang He, Wangmeng Zuo.*<br> 
+CVPR 2021. [[PDF](http://arxiv.org/abs/2104.06650)] [[Github](https://github.com/cszy98/SPGNet.git)]
 
 **AnonySIGN: Novel Human Appearance Synthesis for Sign Language Video Anonymisation.**<br> 
 *Ben Saunders, Necati Cihan Camgoz, Richard Bowden.*<br> 
@@ -818,6 +833,14 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02787)]
 [[Video Generation SOTA](https://paperswithcode.com/task/video-generation)]
 
 Video from a single image or text can be found at [here](https://github.com/weihaox/awesome-image-translation/blob/master/content/multi-modal-representation.md#image-to-video).
+
+**HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN.**<br>
+*Abhinav Sagar.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.09646)]
+
+**Human Trajectory Prediction via Counterfactual Analysis.**<br>
+*Guangyi Chen, Junlong Li, Jiwen Lu, Jie Zhou.*<br> 
+ICCV 2021. [[PDF](https://arxiv.org/abs/2107.14202)] [[Github](https://github.com/CHENGY12/CausalHTP)]
 
 **CCVS: Context-aware Controllable Video Synthesis.**<br>
 *[Guillaume Le Moing](https://16lemoing.github.io/), [Jean Ponce](https://www.di.ens.fr/~ponce), [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid).*<br>

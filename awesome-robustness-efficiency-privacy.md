@@ -1287,6 +1287,14 @@ ICML 2020. [[PDF](https://arxiv.org/abs/2007.06965)]
 
 ## Domain Adaptation
 
+**Adversarial Unsupervised Domain Adaptation with Conditional and Label Shift: Infer, Align and Iterate.**<br>
+*[Xiaofeng Liu](https://liu-xiaofeng.github.io/), Zhenhua Guo, Site Li, Fangxu Xing, Jane You, C.-C. Jay Kuo, Georges El Fakhri, Jonghye Woo.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2107.13469)]
+
+**Recursively Conditional Gaussian for Ordinal Unsupervised Domain Adaptation.**<br>
+*[Xiaofeng Liu](https://liu-xiaofeng.github.io/), Site Li, Yubin Ge, Pengyi Ye, Jane You, Jun Lu.*<br>
+ICCV 2021 (oral). [[PDF](https://arxiv.org/abs/2107.13467)]
+
 **Generalized Domain Adaptation.**<br>
 *Yu Mitsuzumi, Go Irie, Daiki Ikami, Takashi Shibata.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2106.01656)] [[Github](https://github.com/nttcslab/Generalized-Domain-Adaptation)]

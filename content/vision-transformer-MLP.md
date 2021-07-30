@@ -32,7 +32,11 @@ ICLR 2021. [[PDF](https://arxiv.org/abs/2102.08602)]
 *Yunyang Xiong, Zhanpeng Zeng, Rudrasis Chakraborty, Mingxing Tan, Glenn Fung, Yin Li, Vikas Singh.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2102.03902v1)] [[Github](https://github.com/mlpen/Nystromformer)]
 
-### Postion Encoding
+### Positional Encoding
+
+**Rethinking and Improving Relative Position Encoding for Vision Transformer.**<br>
+*Kan Wu, Houwen Peng, Minghao Chen, Jianlong Fu, Hongyang Chao.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2107.14222)]
 
 **Relative Positional Encoding for Transformers with Linear Complexity.**<br>
 *Antoine Liutkus, Ondřej Cífka, Shih-Lun Wu, Umut Simsekli, Yi-Hsuan Yang, Gaël RICHARD.*<br>
@@ -702,6 +706,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15670)]
 
 ## Misc
 
+**Transformer Interpretability Beyond Attention Visualization.**<br>
+*Hila Chefer, Shir Gur, Lior Wolf.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2012.09838)] [[Github](https://github.com/hila-chefer/Transformer-Explainability)]
+
 **Intriguing Properties of Vision Transformers.**<br>
 *Muzammal Naseer, Kanchana Ranasinghe, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.10497)] [[Github](https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers)]
@@ -721,10 +729,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.11861)]
 **AttentionLite: Towards Efficient Self-Attention Models for Vision.**<br>
 *Souvik Kundu, Sairam Sundaresan.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2101.05216)]
-
-**Transformer Interpretability Beyond Attention Visualization.**<br>
-*Hila Chefer, Shir Gur, Lior Wolf.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09838)] [[Github](https://github.com/hila-chefer/Transformer-Explainability)]
 
 **FPT: Feature Pyramid Transformer.**<br>
 *Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun.*<br>
