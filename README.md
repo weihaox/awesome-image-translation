@@ -45,6 +45,21 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2021
 
+**Saliency-Guided Image Translation.**[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Saliency-Guided_Image_Translation_CVPR_2021_paper.pdf)]<br>
+*Lai Jiang, Mai Xu, Xiaofei Wang, Leonid Sigal.*<br>
+
+**Model-Aware Gesture-to-Gesture Translation.**[[](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Model-Aware_Gesture-to-Gesture_Translation_CVPR_2021_paper.pdf)]<br>
+*Hezhen Hu, Weilun Wang, Wengang Zhou, Weichao Zhao, Houqiang Li.*<br>
+
+**Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation.**[[](http://arxiv.org/abs/2103.13660)]<br>
+*Yuntong Ye, Yi Chang, Hanyu Zhou, Luxin Yan.*<br>
+
+**Not Just Compete, but Collaborate: Local Image-to-Image Translation via Cooperative Mask Prediction.**[[](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Not_Just_Compete_but_Collaborate_Local_Image-to-Image_Translation_via_Cooperative_CVPR_2021_paper.pdf)]<br>
+*Daejin Kim, Mohammad Azam Khan, Jaegul Choo.*<br>
+
+**The Spatially-Correlative Loss for Various Image Translation Tasks.**[[](http://arxiv.org/abs/2104.00854)]<br>
+*Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai.*<br>
+
 **LPTN: High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network.** [[PDF](https://arxiv.org/abs/2105.09188)] [[Github](https://github.com/csjliang/LPTN]<br>
 *Jie Liang, Hui Zeng, Lei Zhang.*<br>
 
