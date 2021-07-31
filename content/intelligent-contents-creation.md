@@ -146,6 +146,10 @@ SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2107.03109)] [[Project](http://
 *Yajie Zhao, Zeng Huang, Tianye Li, Weikai Chen, Chloe LeGendre, Xinglei Ren, Jun Xing, Ari Shapiro, Hao Li.*<br> 
 ICCV 2019. [[PDF](https://arxiv.org/abs/1905.07515)] [[Github](https://github.com/bearjoy730/Learning-Perspective-Undistortion-of-Portraits)]
 
+**Mask-off: Synthesizing Face Images in the Presence of Head-mounted Displays.**<br>
+*Yajie Zhao, Qingguo Xu, Xinyu Huang, Ruigang Yang.*<br>
+IEEE VR 2019. [[PDF](https://arxiv.org/abs/1610.08481)]
+
 ## High-Resolution Image Synthesis
 
 ### Toward 1024-Resolution
@@ -432,6 +436,34 @@ NeurIPS 2018. [[PDF](https://arxiv.org/abs/1812.02350v1)] [[Project](https://res
 
 ### Change Where You Want
 
+**Paint by Word.**<br>
+*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
+
+**GAN-Control: Explicitly Controllable GANs.**<br>
+*Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2101.02477)] [[Project](https://alonshoshan10.github.io/gan_control/)]
+
+**SkyAR: Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos.**<br>
+*Zhengxia Zou.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2010.11800)] [[Project](https://jiupinjia.github.io/skyar/)] [[Github](https://github.com/jiupinjia/SkyAR)]
+
+**Translate the Facial Regions You Like Using Region-Wise Normalization.**<br>
+*Wenshuang Liu, Wenting Chen, Linlin Shen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.14615)]
+
+**MorphNet: One-Shot Face Synthesis GAN for Detecting Recognition Bias.**<br>
+*Nataniel Ruiz, Barry-John Theobald, Anurag Ranjan, Ahmed Hussein Abdelaziz, Nicholas Apostoloff.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05225)]
+
+**Disentangling Latent Space for Unsupervised Semantic Face Editing.**<br>
+*Kanglin Liu, Gaofeng Cao, Fei Zhou, Bozhi Liu, Jiang Duan, Guoping Qiu.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02638)] [[Github](https://github.com/max-liu-112/STGAN-WO)]
+
+**Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
+*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
+
 **RewriteNet: Realistic Scene Text Image Generation via Editing Text in Real-world Image.**<br>
 *Junyeop Lee, Yoonsik Kim, Seonghyeon Kim, Moonbin Yim, Seung Shin, Gayoung Lee, Sungrae Park.*<br>
 TOG 2021. [[PDF](https://arxiv.org/abs/2107.11041)]
@@ -440,29 +472,33 @@ TOG 2021. [[PDF](https://arxiv.org/abs/2107.11041)]
 *[Yiqian Wu](https://onethousandwu.com/), [Yongliang Yang](http://www.yongliangyang.net/), Qinjie Xiao, [Xiaogang Ji](http://www.cad.zju.edu.cn/home/jin).*<br>
 TOG 2021. [[PDF](http://www.cad.zju.edu.cn/home/jin/sig2021/paper46.pdf)] [[Project](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm)]
 
-**High-Fidelity and Arbitrary Face Editing.**<br>
-*Yue Gao, Fangyun Wei, Jianmin Bao, Shuyang Gu, Dong Chen, Fang Wen, Zhouhui Lian.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15814)]
-
-**Paint by Word.**<br>
-*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2103.10951)]
-
 **Using Latent Space Regression to Analyze and Leverage Compositionality in GANs.**<br> 
 *Lucy Chai, Jonas Wulff, Phillip Isola.*<br>
 ICLR 2021. [[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)]
-
-**DeFLOCNet: Deep Image Editing via Flexible Low-level Controls.**<br>
-*Hongyu Liu, Ziyu Wan, Wei Huang, Yibing Song, Xintong Han, Jing Liao, Bin Jiang, and Wei Liu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.12723)] [[Github](https://github.com/KumapowerLIU/DeFLOCNet)]
 
 **Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**<br>
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
 ICLR 2021. [[PDF](https://arxiv.org/abs/2102.01187)]
 
-**GAN-Control: Explicitly Controllable GANs.**<br>
-*Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2101.02477)]
+**FaceController: Controllable Attribute Editing for Face in the Wild.**<br>
+*Zhiliang Xu, Xiyu Yu, Zhibin Hong, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.11464)]
+
+**Legacy Photo Editing with Learned Noise Prior.**<br>
+*Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Kangcheng Liu, Yujia Zhang, Wing-Yin Yu, Pengfei Xian, Jingjing Xiong.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.11309)] [[Github](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior)]
+
+**High-Fidelity and Arbitrary Face Editing.**<br>
+*Yue Gao, Fangyun Wei, Jianmin Bao, Shuyang Gu, Dong Chen, Fang Wen, Zhouhui Lian.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15814)]
+
+**DeFLOCNet: Deep Image Editing via Flexible Low-level Controls.**<br>
+*Hongyu Liu, Ziyu Wan, Wei Huang, Yibing Song, Xintong Han, Jing Liao, Bin Jiang, and Wei Liu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.12723)] [[Github](https://github.com/KumapowerLIU/DeFLOCNet)]
+
+**Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
+*Yichun Shi, Divyansh Aggarwal, Anil K. Jain.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13126)]
 
 **SymNet: Symmetry and Group in Attribute-Object Compositions.**<br>
 *Yong-Lu Li, [Yue Xu](https://silicx.github.io/), Xiaohan Mao, Cewu Lu.*<br>
@@ -471,10 +507,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.00587)] [[Github](https://github.co
 **Shapes and Context: In-the-Wild Image Synthesis & Manipulation.**<br>
 *[Aayush Bansal](http://www.cs.cmu.edu/~aayushb/), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser/), [Deva Ramanan](http://www.cs.cmu.edu/~deva/).*<br>
 CVPR 2019. [[PDF](https://arxiv.org/abs/1906.04728)] [[Project](http://www.cs.cmu.edu/~aayushb/OpenShapes/)] [[Github](https://github.com/aayushbansal/OpenShapes)]
-
-**SkyAR: Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos.**<br>
-*Zhengxia Zou.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2010.11800)] [[Project](https://jiupinjia.github.io/skyar/)] [[Github](https://github.com/jiupinjia/SkyAR)]
 
 **Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation.**<br>
 *Bowen Li, Xiaojuan Qi, Philip Torr, Thomas Lukasiewicz.*<br>
@@ -492,6 +524,10 @@ EMNLP 2020. [[PDF](https://tsujuifu.github.io/pubs/emnlp20_sscr.pdf)] [[Github](
 *Yahui Liu, Marco De Nadai, Deng Cai, Huayang Li, Xavier Alameda-Pineda, Nicu Sebe, Bruno Lepri.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.04200)] [[Github](https://github.com/yhlleo/DWC-GAN)]
 
+**Dual In-painting Model for Unsupervised Gaze Correction and Animation in the Wild.**<br>
+*Jichao Zhang, Jingjing Chen, Hao Tang, Wei Wang, Yan Yan, Enver Sangineto, Nicu Sebe.*<br>
+ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.03834)]
+
 **Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild.**<br>
 *[Liqian Ma](https://homes.esat.kuleuven.be/~liqianma), Zhe Lin, Connelly Barnes, Alexei A. Efros, Jingwan Lu.*<br>
 ECCV 2020. [[PDF](https://homes.esat.kuleuven.be/~liqianma/pdf/ECCV20_Unselfie.pdf)]
@@ -504,45 +540,14 @@ ECCV 2020. [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/12356
 *Li-Wen Wang, Wan-Chi Siu, Zhi-Song Liu, Chu-Tak Li, Daniel P.K. Lun.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08298)]
 
-**Dual In-painting Model for Unsupervised Gaze Correction and Animation in the Wild.**<br>
-*Jichao Zhang, Jingjing Chen, Hao Tang, Wei Wang, Yan Yan, Enver Sangineto, Nicu Sebe.*<br>
-ACM MM 2020. [[PDF](https://arxiv.org/abs/2008.03834)]
-
 **Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions.**<br>
 *[Xihui Liu](https://xh-liu.github.io/), Zhe Lin, Jianming Zhang, Handong Zhao, Quan Tran, Xiaogang Wang, and Hongsheng Li.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01576v1)] [[Github](https://github.com/xh-liu/Open-Edit)]
-
-**Translate the Facial Regions You Like Using Region-Wise Normalization.**<br>
-*Wenshuang Liu, Wenting Chen, Linlin Shen.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.14615)]
 
 **Cue Me In: Content-Inducing Approaches to Interactive Story Generation.**<br>
 *Faeze Brahman, Alexandru Petrusca, Snigdha Chaturvedi.*<br>
 AACL 2020. [[PDF](https://arxiv.org/abs/2010.09935)]
 
-**FaceController: Controllable Attribute Editing for Face in the Wild.**<br>
-*Zhiliang Xu, Xiyu Yu, Zhibin Hong, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2102.11464)]
-
-**MorphNet: One-Shot Face Synthesis GAN for Detecting Recognition Bias.**<br>
-*Nataniel Ruiz, Barry-John Theobald, Anurag Ranjan, Ahmed Hussein Abdelaziz, Nicholas Apostoloff.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05225)]
-
-**Lifting 2D StyleGAN for 3D-Aware Face Generation.**<br>
-*Yichun Shi, Divyansh Aggarwal, Anil K. Jain.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.13126)]
-
-**Legacy Photo Editing with Learned Noise Prior.**<br>
-*Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Kangcheng Liu, Yujia Zhang, Wing-Yin Yu, Pengfei Xian, Jingjing Xiong.*<br>
-WACV 2021. [[PDF](https://arxiv.org/abs/2011.11309)] [[Github](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior)]
-
-**Disentangling Latent Space for Unsupervised Semantic Face Editing.**<br>
-*Kanglin Liu, Gaofeng Cao, Fei Zhou, Bozhi Liu, Jiang Duan, Guoping Qiu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02638)] [[Github](https://github.com/max-liu-112/STGAN-WO)]
-
-**Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation.**<br>
-*Kumar Shubham, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.00954)]
 
 ### Neural Simulation
 
@@ -646,9 +651,17 @@ ICCV 2017 (Oral). [[PDF](https://arxiv.org/abs/1703.06868)] [[Github](https://gi
 *Yijun Li, Chen Fang, Jimei Yang, Zhaowen Wang, Xin Lu, Ming-Hsuan Yang.*<br>
 NIPS 2017. [[PDF](https://arxiv.org/abs/1705.08086)] [[Github](https://github.com/Yijunmaverick/UniversalStyleTransfer)]
 
-### Guided Translation
+### Conditional Image Synthesis
 
 Part of this repository is about *Guided Image-to-image translation* which can be found [here](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md#guided-image-to-image-translation).
+
+**DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network.**<br> 
+*Rui Liu, Yixiao Ge, Ching Lam Choi, Xiaogang Wang, Hongsheng Li.*<br> 
+CVPR 2021. [[PDF](http://arxiv.org/abs/2103.07893)]
+
+**A Sliced Wasserstein Loss for Neural Texture Synthesis.**<br> 
+*Eric Heitz, Kenneth Vanhoey, Thomas Chambon, Laurent Belcour.*<br> 
+CVPR 2021. [[PDF](http://arxiv.org/abs/2006.07229)]
 
 **SPGNet: Learning Semantic Person Image Generation by Region-Adaptive Normalization.**<br> 
 *Zhengyao Lv, Xiaoming Li, Xin Li, Fu Li, Tianwei Lin, Dongliang He, Wangmeng Zuo.*<br> 
@@ -686,6 +699,18 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14211)]
 *Jichao Zhang, Aliaksandr Siarohin, Hao Tang, Jingjing Chen, Enver Sangineto, Wei Wang, Nicu Sebe.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14739)]
 
+**DEEPSim: Deep Single Image Manipulation.**<br>
+*[Yael Vinker](https://www.linkedin.com/in/yael-vinker-a91a00157/), [Eliahu Horwitz](https://www.linkedin.com/in/eliahu-horwitz), Nir Zabari, [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01289)] [[Project](http://www.vision.huji.ac.il/deepsim/)] [[Github](https://github.com/eliahuhorwitz/DeepSIM)]
+
+**Task-agnostic Temporally Consistent Facial Video Editing.**<br>
+*Meng Cao, Haozhi Huang, Hao Wang, Xuan Wang, Li Shen, Sheng Wang, Linchao Bao, Zhifeng Li, Jiebo Luo.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01466)]
+
+**MoGlow: Probabilistic and Controllable Motion Synthesis Using Normalising Flows.**<br>
+*Gustav Eje Henter, Simon Alexanderson, Jonas Beskow.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/1905.06598)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
+
 **HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms.**<br> 
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Marcus A. Brubaker](https://mbrubake.github.io/), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.11731)] [[Github](https://github.com/mahmoudnafifi/HistoGAN)]
@@ -696,7 +721,15 @@ TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.11622)]
 
 **PhotoApp: Photorealistic Appearance Editing of Head Portraits.**<br>
 *[Mallikarjun B R](https://people.mpi-inf.mpg.de/~mbr/), [Ayush Tewari](https://people.mpi-inf.mpg.de/~atewari/), [Abdallah Dib](https://www.interdigital.com/talent/?id=38), [Tim Weyrich](http://reality.cs.ucl.ac.uk/weyrich.html), [Bernd Bickel](http://berndbickel.com/), [Hans-Peter Seidel](https://people.mpi-inf.mpg.de/~hpseidel/english.html), [Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech), [Louis Chevallier](https://scholar.google.fr/citations?user=hC_BTU8AAAAJ&hl=en), [Mohamed Elgharib](http://people.mpi-inf.mpg.de/~elgharib/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
-SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2103.07658)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PhotoApp/)]
+TOG 2021. [[PDF](https://arxiv.org/abs/2103.07658)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PhotoApp/)]
+
+**Diverse Semantic Image Synthesis via Probability Distribution Modeling.**<br> 
+*Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Bin Liu, Gang Hua, Nenghai Yu.*<br> 
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06878)]
+
+**Mask-Embedded Discriminator With Region-Based Semantic Regularization for Semi-Supervised Class-Conditional Image Synthesis.**<br>
+*Yi Liu, Xiaoyang Huo, Tianyi Chen, Xiangping Zeng, Si Wu, Zhiwen Yu, Hau-San Wong.*<br> 
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Mask-Embedded_Discriminator_With_Region-Based_Semantic_Regularization_for_Semi-Supervised_Class-Conditional_Image_CVPR_2021_paper.pdf)]
 
 **PISE: Person Image Synthesis and Editing with Decoupled GAN.**<br>
 *[Jinsong Zhang](https://zhangjinso.github.io/), [Kun Li](http://cic.tju.edu.cn/faculty/likun/), [Yu-Kun Lai](http://users.cs.cf.ac.uk/Yukun.Lai/), [Jingyu Yang](http://tju.iirlab.org/).*<br>
@@ -706,61 +739,9 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04023)] [[Project](http://cic.tju.e
 *Jiangke Lin, Yi Yuan, Zhengxia Zou.*<br>
 AAAI 2021. [[PDF](https://arxiv.org/abs/2102.02371)]
 
-**Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows.**<br>
-*Alexanderson, Simon and Henter, Gustav Eje and Kucherenko, Taras and Beskow, Jonas.*<br>
-Computer Graphics Forum 2020. [[PDF](https://diglib.eg.org/handle/10.1111/cgf13946)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
-
-**MoGlow: Probabilistic and Controllable Motion Synthesis Using Normalising Flows.**<br>
-*Gustav Eje Henter, Simon Alexanderson, Jonas Beskow.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/1905.06598)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
-
-**MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
-*Zhentao Tan, [Menglei Chai](https://mlchai.com/), Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*
-SIGGRAPH 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)] [[Github](https://github.com/tzt101/MichiGAN)]
-
-**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation.**<br>
-*[Arnab Ghosh](https://arnabgho.github.io/), [Richard Zhang](https://richzhang.github.io/), [Puneet K. Dokania](https://puneetkdokania.github.io/), [Oliver Wang](http://www.oliverwang.info/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~tvg/index.php), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/).*<br>
-ICCV 2019. [[PDF](https://arxiv.org/abs/1909.11081v2)] [[Github](https://arnabgho.github.io/iSketchNFill/)]
-
-**SMIS: Semantically Multi-modal Image Synthesis.**<br> 
-*[Zhen Zhu](https://zzhu.vision/), Zhiliang Xu, Ansheng You, [Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/).*<br>
-CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12697)] [[Project](http://seanseattle.github.io/SMIS)] [[Github](https://github.com/Seanseattle/SMIS)]
-
-**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**</br>
-*Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br> 
-CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)] [[Github](https://github.com/ZPdesu/SEAN)]
-
-**Describing Textures using Natural Language.**<br>
-*Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01180)] [[Project](https://people.cs.umass.edu/~chenyun/texture)]
-
 **Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation.**<br>
 *Nan Zhuang, Cheng Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.13332)] [[Github](https://github.com/minivision-ai/photo2cartoon)]
-
-**CONFIG: Controllable Neural Face Image Generation.**<br>
-*Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2005.02671)] [[Github](https://github.com/microsoft/ConfigNet)]
-
-**Controlling Style and Semantics in Weakly-Supervised Image Generation.**<br>
-*Dario Pavllo, Aurelien Lucchi, and Thomas Hofmann.*<br>
-ECCV 2020. [[PDF](https://dariopavllo.github.io/papers/style-semantics.pdf)] [[Github](https://github.com/dariopavllo/style-semantics)]
-
-**ArtEditing: Modeling Artistic Workflows for Image Generation and Editing.**<br>
-*[Hung-Yu Tseng](https://sites.google.com/site/hytseng0509/), [Matt Fisher](https://techmatt.github.io/), [Jingwan (Cynthia) Lu](https://research.adobe.com/person/jingwan-lu/), [Yijun Li](https://yijunmaverick.github.io/), [Vladimir (Vova) Kim](http://www.vovakim.com/), [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/).*<br>
-ECCV 2020. [[Github](https://github.com/hytseng0509/ArtEditing)]
-
-**Task-agnostic Temporally Consistent Facial Video Editing.**<br>
-*Meng Cao, Haozhi Huang, Hao Wang, Xuan Wang, Li Shen, Sheng Wang, Linchao Bao, Zhifeng Li, Jiebo Luo.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01466)]
-
-**XingGAN for Person Image Generation.**<br>
-*[Hao Tang](http://disi.unitn.it/~hao.tang/), Song Bai, Li Zhang, Philip H. S. Torr, Nicu Sebe.*<br>
-ECCV 2020.  [[Github](https://github.com/Ha0Tang/XingGAN)]
-
-**DEEPSim: Deep Single Image Manipulation.**<br>
-*[Yael Vinker](https://www.linkedin.com/in/yael-vinker-a91a00157/), [Eliahu Horwitz](https://www.linkedin.com/in/eliahu-horwitz), Nir Zabari, [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.01289)] [[Project](http://www.vision.huji.ac.il/deepsim/)] [[Github](https://github.com/eliahuhorwitz/DeepSIM)]
+ICME 2021. [[PDF](https://arxiv.org/abs/2007.13332)] [[Github](https://github.com/minivision-ai/photo2cartoon)]
 
 **HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping.**<br>
 *Yuhan Wang, Xu Chen, Junwei Zhu, Wenqing Chu, Ying Tai, Chengjie Wang, Jilin Li, Yongjian Wu, Feiyue Huang, Rongrong Ji.*<br>
@@ -770,6 +751,62 @@ IJCAI 2021. [[PDF](https://arxiv.org/abs/2106.09965)] [[Project](https://johann.
 *Jacek Naruniec, Leonhard Helminger, Christopher Schroers, Romann M. Weber.*<br>
 Eurographics Symposium on Rendering 2020. [[PDF](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf)] [[Project](http://studios.disneyresearch.com/2020/06/29/high-resolution-neural-face-swapping-for-visual-effects/)]
 
+**Facial Expression Editing with Continuous Emotion Labels.**<br>
+*Alexandra Lindt, Pablo Barros, Henrique Siqueira, Stefan Wermter.*<br>
+FG 2019. [[PDF](https://arxiv.org/abs/2006.12210)]
+
+**NGP: Towards a Neural Graphics Pipeline for Controllable Image Generation.**<br>
+*Xuelin Chen, Daniel Cohen-Or, Baoquan Chen, Niloy J. Mitra.*<br>
+Eurographics 2021. [[PDF](https://arxiv.org/abs/2006.10569)] [[Github](http://geometry.cs.ucl.ac.uk/projects/2021/ngp)]
+
+**Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows.**<br>
+*Alexanderson, Simon and Henter, Gustav Eje and Kucherenko, Taras and Beskow, Jonas.*<br>
+Computer Graphics Forum 2020. [[PDF](https://diglib.eg.org/handle/10.1111/cgf13946)] [[Github](https://github.com/simonalexanderson/StyleGestures)]
+
+**MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing.**<br>
+*Zhentao Tan, [Menglei Chai](https://mlchai.com/), Dongdong Chen, Jing Liao, Qi Chu, Lu Yuan, Sergey Tulyakov, Nenghai Yu.*
+TOG 2020. [[PDF](https://mlchai.com/files/tan2020michigan.pdf)] [[Github](https://github.com/tzt101/MichiGAN)]
+
+**Graph2Plan: Learning Floorplan Generation from Layout Graphs.**<br>
+*Ruizhen Hu, Zeyu Huang, Yuhan Tang, Oliver van Kaick, Hao Zhang, Hui Huang.*<br>
+TOG 2020. [[PDF](https://arxiv.org/abs/2004.13204)]
+
+**Interactive Video Stylization Using Few-Shot Patch-Based Training.**<br>
+*[Ondřej Texler](https://ondrejtexler.github.io/), David Futschik, Michal Kučera, Ondřej Jamriška, Šárka Sochorová, Menglei Chai, Sergey Tulyakov, Daniel Sýkora.*<br>
+TOG 2020. [[PDF](https://ondrejtexler.github.io/res/Texler20-SIG_patch-based_training_main.pdf)] [[Project](https://ondrejtexler.github.io/patch-based_training/)]
+
+**Describing Textures using Natural Language.**<br>
+*Chenyun Wu, Mikayla Timm, Subhransu Maji.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01180)] [[Project](https://people.cs.umass.edu/~chenyun/texture)]
+
+**CONFIG: Controllable Neural Face Image Generation.**<br>
+*Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2005.02671)] [[Github](https://github.com/microsoft/ConfigNet)]
+
+**Controlling Style and Semantics in Weakly-Supervised Image Generation.**<br>
+*Dario Pavllo, Aurelien Lucchi, and Thomas Hofmann.*<br>
+ECCV 2020. [[PDF](https://dariopavllo.github.io/papers/style-semantics.pdf)] [[Github](https://github.com/dariopavllo/style-semantics)]
+
+**XingGAN for Person Image Generation.**<br>
+*[Hao Tang](http://disi.unitn.it/~hao.tang/), Song Bai, Li Zhang, Philip H. S. Torr, Nicu Sebe.*<br>
+ECCV 2020.  [[Github](https://github.com/Ha0Tang/XingGAN)]
+
+**CONFIG: Controllable Neural Face Image Generation.**<br>
+*Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2005.02671)] [[Github](https://github.com/microsoft/ConfigNet)]
+
+**ArtEditing: Modeling Artistic Workflows for Image Generation and Editing.**<br>
+*[Hung-Yu Tseng](https://sites.google.com/site/hytseng0509/), [Matt Fisher](https://techmatt.github.io/), [Jingwan (Cynthia) Lu](https://research.adobe.com/person/jingwan-lu/), [Yijun Li](https://yijunmaverick.github.io/), [Vladimir (Vova) Kim](http://www.vovakim.com/), [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/).*<br>
+ECCV 2020. [[Github](https://github.com/hytseng0509/ArtEditing)]
+
+**SMIS: Semantically Multi-modal Image Synthesis.**<br> 
+*[Zhen Zhu](https://zzhu.vision/), Zhiliang Xu, Ansheng You, [Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/).*<br>
+CVPR 2020. [[PDF](https://arxiv.org/abs/2003.12697)] [[Project](http://seanseattle.github.io/SMIS)] [[Github](https://github.com/Seanseattle/SMIS)]
+
+**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization.**</br>
+*Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka.*<br> 
+CVPR 2020. [[PDF](https://arxiv.org/abs/1911.12861)] [[Video](https://youtu.be/0Vbj9xFgoUw)] [[Github](https://github.com/ZPdesu/SEAN)]
+
 **Attentive Normalization for Conditional Image Generation.**<br>
 *Yi Wang, Ying-Cong Chen, Xiangyu Zhang, Jian Sun, Jiaya Jia.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03828)]
@@ -777,22 +814,6 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.03828)]
 **Diverse Image Generation via Self-Conditioned GANs.**<br>
 *Steven Liu, Tongzhou Wang, David Bau, Jun-Yan Zhu, Antonio Torralba.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2006.10728)] [[Project](http://selfcondgan.csail.mit.edu/)] [[Github](https://github.com/stevliu/self-conditioned-gan)] 
-
-**Facial Expression Editing with Continuous Emotion Labels.**<br>
-*Alexandra Lindt, Pablo Barros, Henrique Siqueira, Stefan Wermter.*<br>
-FG 2019. [[PDF](https://arxiv.org/abs/2006.12210)]
-
-**Neural Graphics Pipeline for Controllable Image Generation.**<br>
-*Xuelin Chen, Daniel Cohen-Or, Baoquan Chen, Niloy J. Mitra.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.10569)]
-
-**CONFIG: Controllable Neural Face Image Generation.**<br>
-*Marek Kowalski, Stephan J. Garbin, Virginia Estellers, Tadas Baltrušaitis, Matthew Johnson, Jamie Shotton.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2005.02671)]
-
-**Interactive Video Stylization Using Few-Shot Patch-Based Training.**<br>
-*[Ondřej Texler](https://ondrejtexler.github.io/), David Futschik, Michal Kučera, Ondřej Jamriška, Šárka Sochorová, Menglei Chai, Sergey Tulyakov, Daniel Sýkora.*<br>
-TOG 2020 (SIGGRAPH 2020) [[PDF](https://ondrejtexler.github.io/res/Texler20-SIG_patch-based_training_main.pdf)] [[Project](https://ondrejtexler.github.io/patch-based_training/)]
 
 **Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning.**<br>
 *Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, Xin Tong.*<br>
@@ -802,13 +823,9 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.11660)]
 *Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai.*<br> 
 CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1904.03349)] [[Github](https://github.com/tengteng95/Pose-Transfer.git)]
 
-**Diverse Semantic Image Synthesis via Probability Distribution Modeling.**<br> 
-*Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Bin Liu, Gang Hua, Nenghai Yu.*<br> 
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06878)]
-
-**Graph2Plan: Learning Floorplan Generation from Layout Graphs.**<br>
-*Ruizhen Hu, Zeyu Huang, Yuhan Tang, Oliver van Kaick, Hao Zhang, Hui Huang.*<br>
-ACM Transactions on Graphics 2020. [[PDF](https://arxiv.org/abs/2004.13204)]
+**Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation.**<br>
+*[Arnab Ghosh](https://arnabgho.github.io/), [Richard Zhang](https://richzhang.github.io/), [Puneet K. Dokania](https://puneetkdokania.github.io/), [Oliver Wang](http://www.oliverwang.info/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Philip H.S. Torr](http://www.robots.ox.ac.uk/~tvg/index.php), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/).*<br>
+ICCV 2019. [[PDF](https://arxiv.org/abs/1909.11081v2)] [[Github](https://arnabgho.github.io/iSketchNFill/)]
 
 ## Prediction and Reasoning 
 
@@ -1122,7 +1139,7 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2007.02442)] [[Github](https://github
 
 ## 3D Shape Generation and Manipulation
 
-**Optimizing UI Layouts for Deformable Face-Rig Manipulation SIGGRAPH 2021.**<br>
+**Optimizing UI Layouts for Deformable Face-Rig Manipulation.**<br>
 *Joonho Kim, Karan Singh.*<br>
 TOG 2021. [[PDF](https://www.dgp.toronto.edu/projects/face-rig-ui-optimization/Optimizing_UI_Layouts_for_Deformable_Face-Rig_Manipulation.pdf)] [[Project](https://www.dgp.toronto.edu/projects/face-rig-ui-optimization/)]
 
@@ -1133,6 +1150,10 @@ TOG 2021. [[PDF](https://liruihui.github.io/source_files/SP-GAN.pdf)] [[Project]
 **MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement.**<br>
 *[Alexander Richard](https://alexanderrichard.github.io/), Michael Zollhoefer, Yandong Wen, Fernando de la Torre, Yaser Sheikh.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08223)] [[Video](https://research.fb.com/wp-content/uploads/2021/04/mesh_talk.mp4)]
+
+**Semi-Supervised Synthesis of High-Resolution Editable Textures for 3D Humans.**<br>
+*Bindita Chaudhuri, Nikolaos Sarafianos, Linda Shapiro, Tony Tung.*<br>
+CVPR 2021. [[PDF](http://arxiv.org/abs/2103.17266)]
 
 **Scene-aware Generative Network for Human Motion Synthesis.**<br>
 *Jingbo Wang, Sijie Yan, Bo Dai, Dahua Lin.*<br>
