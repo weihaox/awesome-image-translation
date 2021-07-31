@@ -278,6 +278,10 @@ CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Duan_Cr
 
 ### Continuous Image Representation
 
+**ArbSR: Learning A Single Network for Scale-Arbitrary Super-Resolution.**<br>
+*[Longguang Wang](https://longguangwang.github.io/), Yingqian Wang, Zaiping Lin, Jungang Yang, Wei An, Yulan Guo.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2004.03791)] [[Github](https://github.com/LongguangWang/ArbSR)]
+
 **LIIF: Learning Continuous Image Representation with Local Implicit Image Function.**<br>
 *Yinbo Chen, Sifei Liu, Xiaolong Wang.*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.09161)] [[Github](https://github.com/yinboc/liif)] [[Project](https://yinboc.github.io/liif/)]

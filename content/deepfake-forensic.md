@@ -170,7 +170,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2008.10588)]  [[Github](https://chail.g
 *Iacopo Masi, Aditya Killekar, Royston Marian Mascarenhas, Shenoy Pratik Gurudatt, Wael AbdAlmageed.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.03412)]
 
-**DeepFaceLab: A simple, flexible and extensible face swapping framework.**<br>
+**DeepFaceLab: A Simple, Flexible and Extensible Face Swapping Framework.**<br>
 *Ivan Petrov, Daiheng Gao, Nikolay Chervoniy, Kunlin Liu, Sugasa Marangonda, Chris Umé, Mr. Dpfks, Carl Shift Facenheim, Luis RP, Jian Jiang, Sheng Zhang, Pingyu Wu, Bo Zhou, Weiming Zhang.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2005.05535)] [[Github](https://github.com/iperov/DeepFaceLab/)]
 
