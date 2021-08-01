@@ -22,15 +22,16 @@ This repository is about *controllable, interpretable, and generalizable visual 
   * [Open-world Language-Guided Visual Content Generation](#open-world-language-guided-visual-content-generation)
   * [Heterogeneous Translation For Face or Handwirting](#heterogeneous-translation-for-face-or-handwirting)
   * [Continuous Image Representation](#continuous-image-representation)
+  * [Conditioned Radiance Fields](#conditioned-radiance-fields)
   * [Highlight Component](#highlight-component)
   * [Rearrange and Retiming](#rearrange-and-retiming)
-  * [Disentanglement and Visual Reasoning](#disentanglement-and-visual-reasoning)
   * [Individual Object Manipulation](#individual-object-manipulation)
   * [Change Where You Want](#change-where-you-want)
+  * [Photorealistic Image Stylization](#photorealistic-image-stylization)
+  * [Conditional Image Synthesis](#conditional-image-synthesis)
+  * [Disentanglement and Visual Reasoning](#disentanglement-and-visual-reasoning)
   * [Neural Simulation](#neural-simulation)
   * [Human-Object Interaction](#human-object-interaction)
-  * [Photorealistic Image Stylization](#photorealistic-image-stylization)
-  * [Guided Translation](#guided-translation)
 - [Prediction and Reasoning](#prediction-and-reasoning)
   * [Occlusion Reasoning](#occlusion-reasoning)
   * [Video Generation and Future Prediction](#video-generation-and-future-prediction)
@@ -300,7 +301,17 @@ CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://gi
 
 **UltraSR: Spatial Encoding is a Missing Key for Implicit Image Function-based Arbitrary-Scale Super-Resolution.**<br>
 *Xingqian Xu, Zhangyang Wang, Humphrey Shi.*<br>
-arxiv 2103. [[PDF](https://arxiv.org/abs/2103.12716)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.12716)]
+
+### Conditioned Radiance Fields
+
+**Unconstrained Scene Generation with Locally Conditioned Radiance Fields.**<br>
+*Terrance DeVries, Miguel Angel Bautista, Nitish Srivastava, Graham W. Taylor, Joshua M. Susskind.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.00670)]
+
+**Editing Conditional Radiance Fields.**<br>
+*Steven Liu, Xiuming Zhang, Zhoutong Zhang, Richard Zhang, Jun-Yan Zhu, Bryan Russell.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2105.06466)] [[Project](http://editnerf.csail.mit.edu/)] [[Github](https://github.com/stevliu/editnerf)] [[Colab](https://colab.research.google.com/github/stevliu/editnerf/blob/master/editnerf.ipynb)]
 
 ### Highlight Component 
 
@@ -548,7 +559,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.01576v1)] [[Github](https://github.
 *Faeze Brahman, Alexandru Petrusca, Snigdha Chaturvedi.*<br>
 AACL 2020. [[PDF](https://arxiv.org/abs/2010.09935)]
 
-
 ### Neural Simulation
 
 **DriveGAN: Towards a Controllable High-Quality Neural Simulation.**<br>
@@ -582,6 +592,10 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.02758)]
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://github.com/DirtyHarryLYL/HAKE-Action-Torch)] [[Github](http://github.com/DirtyHarryLYL/HAKE-Action-Torch/tree/IDN-(Integrating-Decomposing-Network))]
 
 ### Photorealistic Image Stylization
+
+**ALADIN: All Layer Adaptive Instance Normalization for Fine-grained Style Similarity.**<br>
+*Dan Ruta, Saeid Motiian, Baldo Faieta, Zhe Lin, Hailin Jin, Alex Filipkowski, Andrew Gilbert, John Collomosse.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.09776)]
 
 **Style-Aware Normalized Loss for Improving Arbitrary Style Transfer.**<br>
 *Jiaxin Cheng, Ayush Jaiswal, Yue Wu, Pradeep Natarajan, Prem Natarajan.*<br>
@@ -1221,37 +1235,9 @@ NeurIPS 2017. [[PDF](https://arxiv.org/abs/1711.00937)] [[Github](https://github
 
 ## Frequency
 
-**SWAGAN: A Style-based Wavelet-driven Generative Model.**<br>
-*[Rinon Gal](https://rinongal.github.io/), Dana Cohen, Amit Bermano, Daniel Cohen-Or.*<br>
-SIGGRAPH 2021. [[PDF](https://arxiv.org/abs/2102.06108)]
-
-**Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
-*[Matthew Tancik](http://matthewtancik.com/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Jonathan T. Barron](https://jonbarron.info/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)] [[Github](https://github.com/tancik/fourier-feature-networks)]
-
-**Implicit Neural Representations with Periodic Activation Functions.**<br>
-*[Vincent Sitzmann](https://vsitzmann.github.io), Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein.*<br>
-NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.09661)] [[Project](https://vsitzmann.github.io/siren/)] [[Github](https://github.com/vsitzmann/siren)]
-
-**Focal Frequency Loss for Image Reconstruction and Synthesis.**<br>
-*Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
-
 **Learnable Fourier Features for Multi-DimensionalSpatial Positional Encoding.**<br>
 *Yang Li, Si Si, Gang Li, Cho-Jui Hsieh, Samy Bengio.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02795)]
-
-**LPTN: High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network.**<br>
-*Jie Liang, Hui Zeng, Lei Zhang.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2105.09188)] [[Github](https://arxiv.org/pdf/2105.09188.pdf)]
-
-**High-Fidelity and Arbitrary Face Editing.**<br>
-*Yue Gao, Fangyun Wei, Jianmin Bao, Shuyang Gu, Dong Chen, Fang Wen, Zhouhui Lian.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15814)]
-
-**Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection.**<br>
-*Jiaming Li, Hongtao Xie, Jiahong Li, Zhongyuan Wang, Yongdong Zhang.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.09096)]
 
 **Fourier Space Losses for Efficient Perceptual Image Super-Resolution.**<br>
 *Dario Fuoli, Luc Van Gool, Radu Timofte.*<br>
@@ -1265,10 +1251,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.08357)]
 *Charlie Nash, Jacob Menick, Sander Dieleman, Peter W. Battaglia.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.03841)]
 
-**Universal Adversarial Perturbations Through the Lens of Deep Steganography: Towards A Fourier Perspective.**<br>
-*Chaoning Zhang, Philipp Benz, Adil Karjauv, In So Kweon.*<br>
-AAAI 2021. [[PDF](https://arxiv.org/abs/2102.06479)]
-
 **FcaNet: Frequency Channel Attention Networks.**<br>
 *Zequn Qin, Pengyi Zhang, Fei Wu, Xi Li.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.11879)] [[Github](https://github.com/cfzd/FcaNet)]
@@ -1280,6 +1262,38 @@ arxiv 2020. [[PDF]](https://arxiv.org/abs/2006.10739)] [[Project](https://people
 **Focal Frequency Loss for Generative Models.**<br>
 *Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy.*<br>
 arxiv 2020. [[PDF]](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
+
+**Focal Frequency Loss for Image Reconstruction and Synthesis.**<br>
+*Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2012.12821)] [[Github](https://github.com/EndlessSora/focal-frequency-loss)]
+
+**SWAGAN: A Style-based Wavelet-driven Generative Model.**<br>
+*[Rinon Gal](https://rinongal.github.io/), Dana Cohen, Amit Bermano, Daniel Cohen-Or.*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2102.06108)]
+
+**LPTN: High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network.**<br>
+*Jie Liang, Hui Zeng, Lei Zhang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.09188)] [[Github](https://arxiv.org/pdf/2105.09188.pdf)]
+
+**High-Fidelity and Arbitrary Face Editing.**<br>
+*Yue Gao, Fangyun Wei, Jianmin Bao, Shuyang Gu, Dong Chen, Fang Wen, Zhouhui Lian.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15814)]
+
+**Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection.**<br>
+*Jiaming Li, Hongtao Xie, Jiahong Li, Zhongyuan Wang, Yongdong Zhang.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.09096)]
+
+**Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.**<br>
+*[Matthew Tancik](http://matthewtancik.com/), [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Jonathan T. Barron](https://jonbarron.info/), [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html).*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.10739)] [[Project](https://people.eecs.berkeley.edu/~bmild/fourfeat/)] [[Github](https://github.com/tancik/fourier-feature-networks)]
+
+**Implicit Neural Representations with Periodic Activation Functions.**<br>
+*[Vincent Sitzmann](https://vsitzmann.github.io), Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein.*<br>
+NeurIPS 2020. [[PDF](https://arxiv.org/abs/2006.09661)] [[Project](https://vsitzmann.github.io/siren/)] [[Github](https://github.com/vsitzmann/siren)]
+
+**Universal Adversarial Perturbations Through the Lens of Deep Steganography: Towards A Fourier Perspective.**<br>
+*Chaoning Zhang, Philipp Benz, Adil Karjauv, In So Kweon.*<br>
+AAAI 2021. [[PDF](https://arxiv.org/abs/2102.06479)]
 
 **β-TCVAE: Isolating Sources of Disentanglement in Variational Autoencoders.**<br>
 *Ricky T. Q. Chen, Xuechen Li, Roger Grosse, David Duvenaud.*<br>

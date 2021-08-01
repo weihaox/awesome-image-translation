@@ -56,6 +56,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10882)]
 
 ### Accelerate
 
+**AutoFormer: Searching Transformers for Visual Recognition.**<br> 
+*Minghao Chen, Houwen Peng, Jianlong Fu, Haibin Ling.*<br> 
+ICCV 2021. [[PDF](https://arxiv.org/abs/2107.00651)] [[Github](https://github.com/microsoft/AutoML)]
+
+**Combiner: Full Attention Transformer with Sparse Computation Cost.**<br> 
+*Hongyu Ren, Hanjun Dai, Zihang Dai, Mengjiao Yang, Jure Leskovec, Dale Schuurmans, Bo Dai.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.05768.pdf)]
+
 **Visual Transformer Pruning.**<br>
 *Mingjian Zhu, Kai Han, Yehui Tang, Yunhe Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.08500)]
@@ -72,41 +80,41 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.00112)] [[Github](https://github.c
 *Dave Dice, Alex Kogan.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06621)]
 
+**GLiT: Neural Architecture Search for Global and Local Image Transformer.**<br> 
+*Boyu Chen, Peixia Li, Chuming Li, Baopu Li, Lei Bai, Chen Lin, Ming Sun, Junjie yan, Wanli Ouyang.*<br> 
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02960)]
+
 ### Training
 
 **Efficient Training of Visual Transformers with Small-Size Datasets.**<br>
 *Yahui Liu, Enver Sangineto, Wei Bi, Nicu Sebe, Bruno Lepri, Marco De Nadai.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03746)]
 
-**An Empirical Study of Training Self-Supervised Vision Transformers.**<br>
-*Xinlei Chen, Saining Xie, Kaiming He.*<br>
-ICCV 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
-
 **SiT: Self-supervised vIsion Transformer.**<br>
 *Sara Atito, Muhammad Awais, Josef Kittler.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.03602)]
 
+**An Empirical Study of Training Self-Supervised Vision Transformers.**<br>
+*Xinlei Chen, Saining Xie, Kaiming He.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.02057)]
+
 ### Others
+
+**Pyramid Vision Transformer (PVT): A Versatile Backbone for Dense Prediction without Convolutions.**<br> 
+*Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2102.12122)] [[Github](https://github.com/whai362/PVT)]
+
+**PIT: Rethinking Spatial Dimensions of Vision Transformers.**<br> 
+*Byeongho Heo, Sangdoo Yun, Dongyoon Han, Sanghyuk Chun, Junsuk Choe, Seong Joon Oh.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.16302)] [[Github](https://github.com/naver-ai/pit)]
 
 **CeiT: Incorporating Convolution Designs into Visual Transformers.**<br>
 *Kun Yuan, Shaopeng Guo, Ziwei Liu, Aojun Zhou, Fengwei Yu, Wei Wu.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2103.11816)] [[Github](https://github.com/rishikksh20/CeiT-pytorch)]
 
-**AutoFormer: Searching Transformers for Visual Recognition.**<br> 
-*Minghao Chen, Houwen Peng, Jianlong Fu, Haibin Ling.*<br> 
-ICCV 2021. [[PDF](https://arxiv.org/abs/2107.00651)] [[Github](https://github.com/microsoft/AutoML)]
-
-**Combiner: Full Attention Transformer with Sparse Computation Cost.**<br> 
-*Hongyu Ren, Hanjun Dai, Zihang Dai, Mengjiao Yang, Jure Leskovec, Dale Schuurmans, Bo Dai.*<br> 
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2107.05768.pdf)]
-
 **ViTGAN: Training GANs with Vision Transformers.**<br> 
 *Kwonjoon Lee, Huiwen Chang, Lu Jiang, Han Zhang, Zhuowen Tu, Ce Liu.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.04589)]
-
-**GLiT: Neural Architecture Search for Global and Local Image Transformer.**<br> 
-*Boyu Chen, Peixia Li, Chuming Li, Baopu Li, Lei Bai, Chen Lin, Ming Sun, Junjie yan, Wanli Ouyang.*<br> 
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02960)]
 
 **SVEA: Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation.**<br> 
 *Nicklas Hansen, Hao Su, Xiaolong Wang.*<br> 
@@ -224,6 +232,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.01169)]
 
 ## Recognition and Classification
 
+**TransReID: Transformer-based Object Re-Identification.**<br>
+*Shuting He, Hao Luo, Pichao Wang, Fan Wang, Hao Li, Wei Jiang.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2102.04378)] [[Github](https://github.com/heshuting555/TransReID)]
+
 **Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer.**<br>
 *Yulin Li, Jianfeng He, Tianzhu Zhang, Xiang Liu, Yongdong Zhang, Feng Wu.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2106.04095)]
@@ -294,6 +306,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.11605)]
 
 ## Tracking, Detection and Segmentation
 
+**MDETR: Modulated Detection for End-to-End Multi-Modal Understanding.**<br>
+*[Aishwarya Kamath](https://www.semanticscholar.org/author/Aishwarya-Kamath/46174952), [Mannat Singh](https://scholar.google.com/citations?hl=en&user=QOO8OCcAAAAJ), [Yann LeCun](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ), [Ishan Misra](https://scholar.google.com/citations?hl=en&user=wN9rBkcAAAAJ), [Gabriel Synnaeve](https://scholar.google.com/citations?hl=en&user=WvufSLAAAAAJ), [Nicolas Carion](https://scholar.google.com/citations?hl=en&user=h8u3ll8AAAAJ).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.12763)] [[Github](https://github.com/ashkamath/mdetr)] [[Project](https://ashkamath.github.io/mdetr_page/)]
+
 **Long Short-Term Transformer for Online Action Detection.**<br>
 *Mingze Xu, Yuanjun Xiong, Hao Chen, Xinyu Li, Wei Xia, Zhuowen Tu, Stefano Soatto.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.03377)]
@@ -326,14 +342,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.00588)]
 *Enze Xie, Wenhai Wang, Zhiding Yu, Anima Anandkumar, Jose M. Alvarez, Ping Luo.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.15203)]
 
-**Multi-Modal Fusion Transformer for End-to-End Autonomous Driving.**<br>
-*Aditya Prakash, Kashyap Chitta, Andreas Geiger.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09224)]
-
-**HOTR: End-to-End Human-Object Interaction Detection with Transformers.**<br>
-*Bumsoo Kim, Junhyun Lee, Jaewoo Kang, Eun-Sol Kim, Hyunwoo J. Kim.*<br>
-CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.13682)]
-
 **Twins: Revisiting Spatial Attention Design in Vision Transformers.**<br>
 *Xiangxiang Chu, Zhi Tian, Yuqing Wang, Bo Zhang, Haibing Ren, Xiaolin Wei, Huaxia Xia, Chunhua Shen.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.13840)]
@@ -354,33 +362,9 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15145)]
 *Weian Mao, Yongtao Ge, Chunhua Shen, Zhi Tian, Xinlong Wang, Zhibin Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15320)]
 
-**Transformer Tracking.**<br>
-*Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15436)]
-
 **Vision Transformers for Dense Prediction.**<br>
 *René Ranftl, Alexey Bochkovskiy, [Vladlen Koltun](http://vladlen.info/).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.13413)] [[Github](https://github.com/intel-isl/DPT)]
-
-**Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking.**<br>
-*Ning Wang, Wengang Zhou, Jie Wang, Houqaing Li.*<br>
-CVPR 2021 (Oral). [[PDF](https://arxiv.org/abs/2103.11681)]
-
-**End-to-End Human Object Interaction Detection with HOI Transformer.**<br>
-*Cheng Zou, Bohan Wang, Yue Hu, Junqi Liu, Qian Wu, Yu Zhao, Boxun Li, Chenguang Zhang, Chi Zhang, Yichen Wei, Jian Sun.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04503v1)] [[Github](https://github.com/bbepoch/HoiTransformer)]
-
-**TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.**<br>
-*Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.04306)] [[Github](https://github.com/Beckschen/TransUNet)]
-
-**Segmenting Transparent Object in the Wild with Transformer.**<br>
-*Enze Xie, Wenjia Wang, Wenhai Wang, Peize Sun, Hang Xu, Ding Liang, Ping Luo.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08461)]
-
-**LSTR: End-to-end Lane Shape Prediction with Transformers.**<br>
-*Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong.*<br>
-WACV 2021. [[PDF](https://arxiv.org/abs/2011.04233)] [[Github](https://github.com/liuruijin17/LSTR)]
 
 **Line Segment Detection Using Transformers without Edges.**<br>
 *Yifan Xu, Weijian Xu, David Cheung, Zhuowen Tu.*<br>
@@ -402,9 +386,13 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2012.15460)]
 *Huiyu Wang, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.00759)]
 
-**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.**<br>
-*Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2011.09094)]
+**TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.**<br>
+*Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.04306)] [[Github](https://github.com/Beckschen/TransUNet)]
+
+**Segmenting Transparent Object in the Wild with Transformer.**<br>
+*Enze Xie, Wenjia Wang, Wenhai Wang, Peize Sun, Hang Xu, Ding Liang, Ping Luo.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08461)]
 
 **End-to-End Video Instance Segmentation with Transformers.**<br>
 *Yuqing Wang, Zhaoliang Xu, Xinlong Wang, Chunhua Shen, Baoshan Cheng, Hao Shen, Huaxia Xia.*<br>
@@ -422,11 +410,55 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2010.04159)]
 *Kevin Chen, Junshen K. Chen, Jo Chuang, Marynel Vázquez, Silvio Savarese.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.05292)]
 
+**Multi-Modal Fusion Transformer for End-to-End Autonomous Driving.**<br>
+*Aditya Prakash, Kashyap Chitta, Andreas Geiger.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.09224)]
+
+**HOTR: End-to-End Human-Object Interaction Detection with Transformers.**<br>
+*Bumsoo Kim, Junhyun Lee, Jaewoo Kang, Eun-Sol Kim, Hyunwoo J. Kim.*<br>
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2104.13682)]
+
+**Transformer Tracking.**<br>
+*Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.15436)]
+
+**Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking.**<br>
+*Ning Wang, Wengang Zhou, Jie Wang, Houqaing Li.*<br>
+CVPR 2021 (Oral). [[PDF](https://arxiv.org/abs/2103.11681)]
+
+**End-to-End Human Object Interaction Detection with HOI Transformer.**<br>
+*Cheng Zou, Bohan Wang, Yue Hu, Junqi Liu, Qian Wu, Yu Zhao, Boxun Li, Chenguang Zhang, Chi Zhang, Yichen Wei, Jian Sun.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04503v1)] [[Github](https://github.com/bbepoch/HoiTransformer)]
+
+**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers.**<br>
+*Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.09094)]
+
+**LSTR: End-to-end Lane Shape Prediction with Transformers.**<br>
+*Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong.*<br>
+WACV 2021. [[PDF](https://arxiv.org/abs/2011.04233)] [[Github](https://github.com/liuruijin17/LSTR)]
+
 **RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder.**<br>
 *Cheng Chi, Fangyun Wei, Han Hu.*<br>
 NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.15831)] [[Github](https://github.com/microsoft/RelationNet2)]
 
 ## Generation
+
+**Spatial-Temporal Transformer for Dynamic Scene Graph Generation.**<br>
+*Yuren Cong, Wentong Liao, Hanno Ackermann, Michael Ying Yang, Bodo Rosenhahn.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2107.12309)]
+
+**Handwriting Transformers.**<br>
+*Ankan Kumar Bhunia, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer, Fahad Shahbaz Khan, Mubarak Shah.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2104.03964)]
+
+**Transformer Interpretability Beyond Attention Visualization.**<br>
+*Hila Chefer, Shir Gur, Lior Wolf.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.09838)]
+
+**Variational Transformer Networks for Layout Generation.**<br>
+*Diego Martin Arroyo, Janis Postels, Federico Tombari.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02416)]
 
 **iLAT: The Image Local Autoregressive Transformer.**<br>
 *Chenjie Cao, Yuxin Hong, Xiang Li, Chengrong Wang, Chengming Xu, XiangYang Xue, Yanwei Fu.*<br>
@@ -440,9 +472,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14576)]
 *Bin Ren, Hao Tang, Fanyang Meng, Runwei Ding, Ling Shao, Philip H.S. Torr, Nicu Sebe.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05519)]
 
-**Variational Transformer Networks for Layout Generation.**<br>
-*Diego Martin Arroyo, Janis Postels, Federico Tombari.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2104.02416)]
 
 **Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding.**<br>
 *Pengchuan Zhang, Xiyang Dai, Jianwei Yang, Bin Xiao, Lu Yuan, Lei Zhang, Jianfeng Gao.*<br>
@@ -487,10 +516,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09841)] [[Project](https://compvis
 **DeiT: Training Data-efficient Image Transformers & Distillation through Attention.**<br>
 *Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.12877)] [[Github](https://github.com/facebookresearch/deit)]
-
-**Transformer Interpretability Beyond Attention Visualization.**<br>
-*Hila Chefer, Shir Gur, Lior Wolf.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2012.09838)]
 
 **TSceneFormer: Indoor Scene Generation with Transformers.**<br>
 *Xinpeng Wang, Chandan Yeshwanth, Matthias Nießner.*<br>
@@ -540,13 +565,29 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
 
 ## 2.5D and 3D 
 
+**COTR: Correspondence Transformer for Matching Across Images.**<br>
+*Wei Jiang, Eduard Trulls, Jan Hosang, Andrea Tagliasacchi, Kwang Moo Yi.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.14167)] 
+
+**MVTN: Multi-View Transformation Network for 3D Shape Recognition.**<br>
+*Abdullah Hamdi, Silvio Giancola, Bernard Ghanem.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2011.13244)] 
+
+**TransPose: Towards Explainable Human Pose Estimation by Transformer.**<br>
+*[Sen Yang](https://github.com/yangsenius), [Zhibin Quan](https://github.com/SigmaQuan), [Mu Nie](https://github.com/niechuanmu), [Wankou Yang](https://dblp.org/pid/99/3602.html).*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2012.14214)] [[Github](https://github.com/yangsenius/TransPose)]
+
+**End-to-End Human Pose and Mesh Reconstruction with Transformers.**<br>
+*Kevin Lin, Lijuan Wang, Zicheng Liu.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.09760)]
+
 **KeypointDeformer: Unsupervised 3D Keypoint Discovery for Shape Control.**<br>
 *Tomas Jakab, Richard Tucker, Ameesh Makadia, Jiajun Wu, Noah Snavely, Angjoo Kanazawa.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.11224)] [[Project](http://tomasjakab.github.io/KeypointDeformer)]
 
 **LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction.**<br>
 *Farid Yagubbayli, Alessio Tonioni, Federico Tombari.*<br>
-arxiv 2021.	[[PDF](https://arxiv.org/abs/2106.12102)]
+arxiv 2021.	[[PDF](https://arxiv.org/abs/2106.12102)] [[Github](https://github.com/faridyagubbayli/LegoFormer)]
 
 **THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers.**<br>
 *Mihai Zanfir, Andrei Zanfir, Eduard Gabriel Bazavan, William T. Freeman, Rahul Sukthankar, Cristian Sminchisescu.*<br>
@@ -592,14 +633,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09164)]
 *Zhaoshuo Li, Xingtong Liu, Francis X. Creighton, Russell H. Taylor, Mathias Unberath.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.02910)] [[Github](https://github.com/mli0603/stereo-transformer)]
 
-**TransPose: Towards Explainable Human Pose Estimation by Transformer.**<br>
-*Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.14214)]
-
-**End-to-End Human Pose and Mesh Reconstruction with Transformers.**<br>
-*Kevin Lin, Lijuan Wang, Zicheng Liu.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09760)]
-
 ## Multi-modality
 
 **Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers.**<br>
@@ -626,21 +659,9 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.11178)]
 *Tsu-Jui Fu, Xin Eric Wang, Scott T. Grafton, Miguel P. Eckstein, William Yang Wang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.01122)]
 
-**Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers.**<br>
-*Antoine Miech, Jean-Baptiste Alayrac, Ivan Laptev, Josef Sivic, Andrew Zisserman.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16553)]
-
-**Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers.**<br>
-*Hila Chefer, Shir Gur, Lior Wolf.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15679)] [[Github](https://github.com/hila-chefer/Transformer-MM-Explainability)]
-
-**RSTNet: Captioning With Adaptive Attention on Visual and Non-Visual Words.**<br>
-*Xuying Zhang, Xiaoshuai Sun, Yunpeng Luo, Jiayi Ji, Yiyi Zhou, Yongjian Wu, Feiyue Huang, Rongrong Ji.*<br>
-CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_RSTNet_Captioning_With_Adaptive_Attention_on_Visual_and_Non-Visual_Words_CVPR_2021_paper.html)] [[Github](https://github.com/zhangxuying1004/RSTNet)]
-
-**Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning.**<br>
-*Amaia Salvador, Erhan Gundogdu, Loris Bazzani, Michael Donoser.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2103.13061)] [[Github](https://github.com/amzn/image-to-recipe-transformers)]
+**ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision.**<br>
+*Wonjae Kim, Bokyung Son, Ildoo Kim.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03334)]
 
 **DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer.**<br>
 *Buyu Li, Yongchi Zhao, Lu Sheng.*<br>
@@ -650,14 +671,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10206)]
 *[Ronghang Hu](https://ronghanghu.com/), Amanpreet Singh.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10772)] [[Project](https://mmf.sh/)] [[Github](https://github.com/facebookresearch/mmf)]
 
-**End-to-end Audio-visual Speech Recognition with Conformers.**<br>
-*Pingchuan Ma, Stavros Petridis, Maja Pantic.*<br>
-ICASSP 2021. [[PDF](https://arxiv.org/abs/2102.06657)]
-
-**ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision.**<br>
-*Wonjae Kim, Bokyung Son, Ildoo Kim.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.03334)]
-
 **Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers.**<br>
 *Lisa Anne Hendricks, John Mellor, Rosalia Schneider, Jean-Baptiste Alayrac, Aida Nematzadeh.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.00529)]
@@ -665,6 +678,30 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.00529)]
 **CPTR: Full Transformer Network for Image Captioning.**<br>
 *Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2101.10804)]
+
+**VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search.**<br>
+*Xiaopeng Lu, Tiancheng Zhao, Kyusong Lee.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00265)]
+
+**Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers.**<br>
+*Hila Chefer, Shir Gur, Lior Wolf.*<br>
+ICCV 2021. [[PDF](https://arxiv.org/abs/2103.15679)] [[Github](https://github.com/hila-chefer/Transformer-MM-Explainability)]
+
+**Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers.**<br>
+*Antoine Miech, Jean-Baptiste Alayrac, Ivan Laptev, Josef Sivic, Andrew Zisserman.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16553)]
+
+**RSTNet: Captioning With Adaptive Attention on Visual and Non-Visual Words.**<br>
+*Xuying Zhang, Xiaoshuai Sun, Yunpeng Luo, Jiayi Ji, Yiyi Zhou, Yongjian Wu, Feiyue Huang, Rongrong Ji.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_RSTNet_Captioning_With_Adaptive_Attention_on_Visual_and_Non-Visual_Words_CVPR_2021_paper.html)] [[Github](https://github.com/zhangxuying1004/RSTNet)]
+
+**Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning.**<br>
+*Amaia Salvador, Erhan Gundogdu, Loris Bazzani, Michael Donoser.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2103.13061)] [[Github](https://github.com/amzn/image-to-recipe-transformers)]
+
+**End-to-end Audio-visual Speech Recognition with Conformers.**<br>
+*Pingchuan Ma, Stavros Petridis, Maja Pantic.*<br>
+ICASSP 2021. [[PDF](https://arxiv.org/abs/2102.06657)]
 
 **Dual-Level Collaborative Transformer for Image Captioning.**<br>
 *Yunpeng Luo, Jiayi Ji, Xiaoshuai Sun, Liujuan Cao, Yongjian Wu, Feiyue Huang, Chia-Wen Lin, Rongrong Ji.*<br>
@@ -677,9 +714,6 @@ AAAI 2021. [[PDF](https://arxiv.org/abs/2101.06462)]
 *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.*<br>
 2021. [[PDF](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)] [[Github](https://github.com/openai/CLIP)] [[Blog](https://openai.com/blog/clip/)] [[Colab](https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Text2Image_v3.ipynb)]
 
-**VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search.**<br>
-*Xiaopeng Lu, Tiancheng Zhao, Kyusong Lee.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.00265)]
 
 **COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning.**<br>
 *Simon Ging, Mohammadreza Zolfaghari, Hamed Pirsiavash, Thomas Brox.*<br>
