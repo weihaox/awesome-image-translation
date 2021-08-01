@@ -1,21 +1,14 @@
-# <p align=center>`awesome image-to-image translation papers`</p>
+# <p align=center>`awesome image-to-image translation`</p>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](http://makeapullrequest.com) 
 ![GitHub contributors](https://img.shields.io/github/contributors/weihaox/awesome-image-translation?color=blue)
-<!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) -->
-<!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
 A collection of resources on image-to-image translation. 
 
-This repository is organized chronologically by conferences (constantly updating).
-There is another one organized in terms of **category**, which is also [available](https://github.com/xiaweihao/awesome-image-translation/blob/master/README_.md). 
-
 ## Contributing
 
-If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls)
-
-Feedback and contributions are welcome!
+If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls). Feedback and contributions are welcome!
 
 markdown format:
 ``` markdown
@@ -53,19 +46,19 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Saliency-Guided Image Translation.**[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Saliency-Guided_Image_Translation_CVPR_2021_paper.pdf)]<br>
 *Lai Jiang, Mai Xu, Xiaofei Wang, Leonid Sigal.*<br>
 
-**Model-Aware Gesture-to-Gesture Translation.**[[](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Model-Aware_Gesture-to-Gesture_Translation_CVPR_2021_paper.pdf)]<br>
+**Model-Aware Gesture-to-Gesture Translation.**[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Model-Aware_Gesture-to-Gesture_Translation_CVPR_2021_paper.pdf)]<br>
 *Hezhen Hu, Weilun Wang, Wengang Zhou, Weichao Zhao, Houqiang Li.*<br>
 
-**Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation.**[[](http://arxiv.org/abs/2103.13660)]<br>
+**Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation.**[[PDF](http://arxiv.org/abs/2103.13660)]<br>
 *Yuntong Ye, Yi Chang, Hanyu Zhou, Luxin Yan.*<br>
 
-**Not Just Compete, but Collaborate: Local Image-to-Image Translation via Cooperative Mask Prediction.**[[](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Not_Just_Compete_but_Collaborate_Local_Image-to-Image_Translation_via_Cooperative_CVPR_2021_paper.pdf)]<br>
+**Not Just Compete, but Collaborate: Local Image-to-Image Translation via Cooperative Mask Prediction.**[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Not_Just_Compete_but_Collaborate_Local_Image-to-Image_Translation_via_Cooperative_CVPR_2021_paper.pdf)]<br>
 *Daejin Kim, Mohammad Azam Khan, Jaegul Choo.*<br>
 
-**The Spatially-Correlative Loss for Various Image Translation Tasks.**[[](http://arxiv.org/abs/2104.00854)]<br>
+**The Spatially-Correlative Loss for Various Image Translation Tasks.**[[PDF](http://arxiv.org/abs/2104.00854)]<br>
 *Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai.*<br>
 
-**LPTN: High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network.** [[PDF](https://arxiv.org/abs/2105.09188)] [[Github](https://github.com/csjliang/LPTN]<br>
+**LPTN: High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network.**[[PDF](https://arxiv.org/abs/2105.09188)] [[Github](https://github.com/csjliang/LPTN)]<br>
 *Jie Liang, Hui Zeng, Lei Zhang.*<br>
 
 **Unbalanced Feature Transport for Exemplar-based Image Translation.**[[PDF](https://arxiv.org/abs/2106.10482)][[Github](https://github.com/fnzhan/UNITE)]<br> 
@@ -147,10 +140,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/1907.02392)]
 *Hanbit Lee, Jinseok Seol, Sang-goo Lee.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.03117)]
 
-**SAM: Only a Matter of Style-Age Transformation Using a Style-Based Regression Model.**<br>
-*Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
-
 **A Novel Application of Image-to-Image Translation: Chromosome Straightening Framework by Learning from a Single Image.**<br>
 *Sifan Song, Daiyun Huang, Yalun Hu, Chunxiao Yang, Jia Meng, Fei Ma, Jiaming Zhang, Jionglong Su.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02835)]
@@ -170,6 +159,11 @@ CVPR 2021 Workshop. [[PDF](https://arxiv.org/abs/2010.02036)] [[Project](https:/
 **Dual Contrastive Learning for Unsupervised Image-to-Image Translation.**<br>
 *Junlin Han, Mehrdad Shoeiby, Lars Petersson, Mohammad Ali Armin.*<br>
 CVPR 2021 Workshop on NTIRE. [[PDF](https://arxiv.org/abs/2104.07689)] [[Github](https://github.com/JunlinHan/DCLGAN)]
+
+**SAM: Only a Matter of Style-Age Transformation Using a Style-Based Regression Model.**<br>
+*Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com/yuval-alaluf/SAM)]
+
 
 **iFlowGAN: An Invertible Flow-based Generative Adversarial Network For Unsupervised Image-to-Image Translation.**<br>
 *[Longquan Dai](https://dailongquan.github.io/), [Jinhui Tang](https://imag-njust.net/jinhui-tang/).*<br>
