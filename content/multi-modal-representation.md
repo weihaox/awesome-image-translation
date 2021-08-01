@@ -455,7 +455,7 @@ TOG 2021. [[PDF](https://storage.googleapis.com/ltx-public-images/Endless_Loops_
 
 **iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis.**<br>
 *[Andreas Blattmann](https://www.linkedin.com/in/andreas-blattmann-479038186/?originalSubdomain=de), [Timo Milbich](https://timomilbich.github.io/), [Michael Dorkenwald](https://mdorkenwald.com/), [Björn Ommer](https://mdork.github.io/https://hci.iwr.uni-heidelberg.de/people/bommer).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02790)] [[Github](hhttps://compvis.github.io/ipoke/)]
+ICCV 2021. [[PDF](https://arxiv.org/abs/2107.02790)] [[Github](hhttps://compvis.github.io/ipoke/)]
 
 **Understanding Object Dynamics for Interactive Image-to-Video Synthesis.**<br>
 *Andreas Blattmann, Timo Milbich, Michael Dorkenwald, Björn Ommer.*<br>

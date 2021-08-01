@@ -677,6 +677,10 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2006.06666)] [[Github](https://github.c
 *ZiCheng Zhang, CongYing Han, TianDe Guo.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2105.07350)]
 
+**A Sliced Wasserstein Loss for Neural Texture Synthesis.**<br> 
+*Eric Heitz, Kenneth Vanhoey, Thomas Chambon, Laurent Belcour.*<br> 
+CVPR 2021. [[PDF](http://arxiv.org/abs/2006.07229)]
+
 **IMAGINE: Image Synthesis by Image-Guided Model Inversion.**<br> 
 *Pei Wang, [Yijun Li](https://yijunmaverick.github.io), Krishna Kumar Singh, Jingwan Lu, Nuno Vasconcelos.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05895)]

@@ -283,25 +283,25 @@ CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Duan_Cr
 
 ### Continuous Image Representation
 
+**UltraSR: Spatial Encoding is a Missing Key for Implicit Image Function-based Arbitrary-Scale Super-Resolution.**<br>
+*Xingqian Xu, [Zhangyang Wang](https://vita-group.github.io/), [Humphrey Shi](https://www.humphreyshi.com/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.12716)]
+
 **ArbSR: Learning A Single Network for Scale-Arbitrary Super-Resolution.**<br>
 *[Longguang Wang](https://longguangwang.github.io/), Yingqian Wang, Zaiping Lin, Jungang Yang, Wei An, Yulan Guo.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2004.03791)] [[Github](https://github.com/LongguangWang/ArbSR)]
 
 **LIIF: Learning Continuous Image Representation with Local Implicit Image Function.**<br>
-*Yinbo Chen, Sifei Liu, Xiaolong Wang.*<br>
+*[Yinbo Chen](https://yinboc.github.io/), [Sifei Liu](https://www.sifeiliu.net/), [Xiaolong Wang](https://xiaolonw.github.io/).*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.09161)] [[Github](https://github.com/yinboc/liif)] [[Project](https://yinboc.github.io/liif/)]
-
-**INR: Adversarial Generation of Continuous Images.**<br>
-*[Ivan Skorokhodov](https://universome.github.io/), Savva Ignatyev, Mohamed Elhoseiny.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.com/universome/inr-gan)]
 
 **CoMoGAN: Continuous Model-guided Image-to-image Translation.**<br>
 *[Fabio Pizzati](https://fabvio.github.io/), [Pietro Cerri](https://scholar.google.fr/citations?user=MEidJHwAAAAJ), [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2103.06879)] [[GitHub](https://github.com/cv-rits/CoMoGAN)]
 
-**UltraSR: Spatial Encoding is a Missing Key for Implicit Image Function-based Arbitrary-Scale Super-Resolution.**<br>
-*Xingqian Xu, Zhangyang Wang, Humphrey Shi.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.12716)]
+**INR: Adversarial Generation of Continuous Images.**<br>
+*[Ivan Skorokhodov](https://universome.github.io/), Savva Ignatyev, Mohamed Elhoseiny.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2011.12026)] [[Github](https://github.com/universome/inr-gan)]
 
 ### Conditioned Radiance Fields
 
@@ -315,21 +315,17 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2105.06466)] [[Project](http://editnerf.
 
 ### Highlight Component 
 
+**FuSta: Hybrid Neural Fusion for Full-frame Video Stabilization.**<br>
+*[Yu-Lun Liu](https://www.cmlab.csie.ntu.edu.tw/~nothinglo/), [Wei-Sheng Lai](https://www.wslai.net/), [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06205)] [[Github](https://github.com/alex04072000/FuSta)] [[Project](https://alex04072000.github.io/FuSta/)]
+
 **Zoom-in to the Details of Human-Centric Videos.**<br>
 *Guanghan Li, Yaping Zhao, Mengqi Ji, Xiaoyun Yuan, Lu Fang.*<br>
 ICIP 2020. [[PDF](https://arxiv.org/abs/2005.13222)]
 
 **Layered Neural Rendering for Retiming People in Video.**<br>
 *Erika Lu, Forrester Cole, Tali Dekel, Weidi Xie, Andrew Zisserman, David Salesin, William T. Freeman, Michael Rubinstein.*<br>
-SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https://retiming.github.io/)]
-
-**Real-Time Selfie Video Stabilization.**<br>
-*Jiyang Yu, Ravi Ramamoorthi, Keli Cheng, Michel Sarkis, Ning Bi.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2009.02007)]
-
-**NeRViS: Neural Re-rendering for Full-frame Video Stabilization.**<br>
-*[Yu-Lun Liu](https://www.cmlab.csie.ntu.edu.tw/~nothinglo/), [Wei-Sheng Lai](https://www.wslai.net/), [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), [Yung-Yu Chuang](https://www.csie.ntu.edu.tw/~cyy/), [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.06205)] [[Github](https://alex04072000.github.io/NeRViS/)]
+TOG 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https://retiming.github.io/)]
 
 ### Rearrange and Retiming
 
@@ -344,6 +340,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2107.06262)]
 **NSFF: Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes.**<br>
 *[Zhengqi Li](https://www.cs.cornell.edu/~zl548/), [Simon Niklaus](https://sniklaus.com/welcome), [Noah Snavely](https://www.cs.cornell.edu/~snavely/), [Oliver Wang](https://research.adobe.com/person/oliver-wang/).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.13084)] [[Project](http://www.cs.cornell.edu/~zl548/NSFF)] [[Github](https://github.com/zhengqili/Neural-Scene-Flow-Fields)]
+
+**Real-Time Selfie Video Stabilization.**<br>
+*[Jiyang Yu](http://jiyang.fun), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/), Keli Cheng, Michel Sarkis, Ning Bi.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2009.02007)] [[Github](https://github.com/jiy173/selfievideostabilization)]
 
 **Learning by Aligning Videos in Time.**<br>
 *Sanjay Haresh, Sateesh Kumar, Huseyin Coskun, Shahram Najam Syed, Andrey Konin, Muhammad Zeeshan Zia, Quoc-Huy Tran.*<br>
@@ -361,23 +361,24 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.16544)]
 *[Qiang Zhou](https://scholar.google.com/citations?user=8NIZGJcAAAAJ&hl=en), Shiyin Wang, [Yitong Wang](https://scholar.google.com/citations?user=NfFTKfYAAAAJ&hl=en), [Zilong Huang](https://speedinghzl.github.io/), [Xinggang Wang](http://xinggangw.info/).*<br>
 CVPR 2021. [[PDF](https://sydney0zq.github.io/ahp/files/human_deocclusion-cvpr2021.pdf)] [[Github](https://sydney0zq.github.io/ahp/)]
 
-**Layered Neural Rendering for Retiming People in Video.**<br>
-*Erika Lu, Forrester Cole, Tali Dekel, Weidi Xie, Andrew Zisserman, David Salesin, William T. Freeman, Michael Rubinstein.*<br>
-SIGGRAPH Asia 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https://retiming.github.io/)]
-
 **Neural Scene Graphs for Dynamic Scenes.**<br>
 *Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide.*<br>
 CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2011.10379)] [[Project](http://light.princeton.edu/neural-scene-graphs)]
+
+**Layered Neural Rendering for Retiming People in Video.**<br>
+*Erika Lu, Forrester Cole, Tali Dekel, Weidi Xie, Andrew Zisserman, David Salesin, William T. Freeman, Michael Rubinstein.*<br>
+TOG 2020. [[PDF](https://arxiv.org/abs/2009.07833)] [[Project](https://retiming.github.io/)]
 
 **Self-Supervised Scene De-occlusion.**<br>
 *[Xiaohang Zhan](https://xiaohangzhan.github.io/), Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, and Chen Change Loy.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.com/XiaohangZhan/deocclusion)] [[Project](https://xiaohangzhan.github.io/projects/deocclusion/)] [[Demo](https://www.youtube.com/watch?v=xIHCyyaB5gU)]
 
-### Disentanglement and Visual Reasoning
+**Selfie Video Stabilization.**<br>
+*[Jiyang Yu](http://jiyang.fun), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/).*<br>
+ECCV 2018 and TPAMI 2019. [[PDF-ECCV](https://cseweb.ucsd.edu/~ravir/selfievideo.pdf)] [[Project](https://cseweb.ucsd.edu/~viscomp/projects/ECCV18VideoStab/)] [[PDF-TPAMI](http://ieeexplore.ieee.org/document/8781904)] [[Github](https://github.com/jiy173/selfievideostabilization)] [[Data](https://drive.google.com/file/d/1W30MsjplUrGtnT0PcUS5jWikYxDVMvXi/view?usp=sharing)]
 
-**Omnimatte: Associating Objects and Their Effects in Video.**<br>
-*Erika Lu, Forrester Cole, Tali Dekel, Andrew Zisserman, William T. Freeman, Michael Rubinstein.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2105.06993)] [[Github](https://omnimatte.github.io/)]
+
+### Disentanglement and Visual Reasoning
 
 **CS-DisMo: Rethinking Content and Style - Exploring Bias for Unsupervised Disentanglement.**<br>
 *Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
@@ -387,11 +388,27 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.10544)] [[Github](https://github.c
 *Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10543.pdf)] [[Github](https://github.com/xrenaa/DisCo)]
 
+**Omnimatte: Associating Objects and Their Effects in Video.**<br>
+*Erika Lu, Forrester Cole, Tali Dekel, Andrew Zisserman, William T. Freeman, Michael Rubinstein.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2105.06993)] [[Github](https://omnimatte.github.io/)]
+
 **CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning.**<br>
 *[Justin Johnson](http://cs.stanford.edu/people/jcjohns/), [Bharath Hariharan](http://home.bharathh.info/), [Laurens van der Maaten](https://lvdmaaten.github.io/), [Li Fei-Fei](http://vision.stanford.edu/feifeili/), [C. Lawrence Zitnick](http://larryzitnick.org/), [Ross Girshick](http://www.rossgirshick.info/).*<br>
 CVPR 2017. [[PDF](https://arxiv.org/abs/1612.06890)] [[Project](https://cs.stanford.edu/people/jcjohns/clevr/)] [[Github](https://github.com/facebookresearch/clevr-dataset-gen)]
 
 ### Individual Object Manipulation
+
+**Object Properties Inferring from and Transfer for Human Interaction Motions.**<br>
+*Qian Zheng, Weikai Wu, Hanting Pan, Niloy Mitra, Daniel Cohen-Or, Hui Huang.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08999)] [[Project](http://vcc.szu.edu.cn/research/2020/IT)]
+
+**SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects.**<br>
+*Evangelos Ntavelis, Andrés Romero, Iason Kastanis, Luc Van Gool, Radu Timofte.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04977)]
+
+**Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition.**<br>
+*Hassan Abu Alhaija, Siva Karthik Mustikovela, Justus Thies, Matthias Nießner, Andreas Geiger, Carsten Rother.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16011)]
 
 **GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields.**<br>
 *Michael Niemeyer, Andreas Geiger.*<br>
@@ -409,37 +426,25 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.02788)] [[Github](https://github.co
 *Yanchao Yang, Yutong Chen, Stefano Soatto.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.05495)] [[Github](https://github.com/ChenYutongTHU/Learning-to-manipulate-individual-objects-in-an-image-Implementation)]
 
-**AssembleNet++: Assembling Modality Representations via Attention Connections.**<br>
-*Michael S. Ryoo, AJ Piergiovanni, Juhana Kangaspunta, Anelia Angelova.*<br>
-ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08072)] [[Project](https://sites.google.com/corp/view/assemblenet/)]
-
-**Object Properties Inferring from and Transfer for Human Interaction Motions.**<br>
-*Qian Zheng, Weikai Wu, Hanting Pan, Niloy Mitra, Daniel Cohen-Or, Hui Huang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2008.08999)] [[Project](http://vcc.szu.edu.cn/research/2020/IT)]
-
-**SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects.**<br>
-*Evangelos Ntavelis, Andrés Romero, Iason Kastanis, Luc Van Gool, Radu Timofte.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.04977)]
-
 **3DLSN: End-to-End Optimization of Scene Layout.**<br>
 *Andrew Luo, Zhoutong Zhang, Jiajun Wu, Joshua B. Tenenbaum.*<br>
 CVPR 2020. [[PDF](https://jiajunwu.com/papers/3dsln_cvpr.pdf)] [[Project](http://3dsln.csail.mit.edu/)]
+
+**Conditional Image Generation and Manipulation for User-Specified Content.**<br>
+*David Stap, Maurits Bleeker, Sarah Ibrahimi, Maartje ter Hoeve.*<br>
+CVPR 2020 workshop on AI for content creation [[PDF](https://arxiv.org/abs/2005.04909)]
 
 **DJRN: Detailed 2D-3D Joint Representation for Human-Object Interaction.**<br>
 *Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.08154)] [[Github](https://github.com/DirtyHarryLYL/DJ-RN)]
 
+**AssembleNet++: Assembling Modality Representations via Attention Connections.**<br>
+*Michael S. Ryoo, AJ Piergiovanni, Juhana Kangaspunta, Anelia Angelova.*<br>
+ECCV 2020. [[PDF](https://arxiv.org/abs/2008.08072)] [[Project](https://sites.google.com/corp/view/assemblenet/)]
+
 **AutoSweep: Recovering 3D Editable Objects from a Single Photograph.**<br>
 *Xin Chen, Yuwei Li, Xi Luo, Tianjia Shao, Jingyi Yu, Kun Zhou, Youyi Zheng.*<br>
 TVCJ 2018. [[PDF](https://arxiv.org/abs/2005.13312)] [[Project](https://chenxin.tech/files/Paper/TVCG2018_AutoSweep/AutoSweep.html)]
-
-**Intrinsic Autoencoders for Joint Neural Rendering and Intrinsic Image Decomposition.**<br>
-*Hassan Abu Alhaija, Siva Karthik Mustikovela, Justus Thies, Matthias Nießner, Andreas Geiger, Carsten Rother.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.16011)]
-
-**Conditional Image Generation and Manipulation for User-Specified Content.**<br>
-*David Stap, Maurits Bleeker, Sarah Ibrahimi, Maartje ter Hoeve.*<br>
-AI for content creation workshop at CVPR 2020. [[PDF](https://arxiv.org/abs/2005.04909)]
 
 **Context-Aware Synthesis and Placement of Object Instances.**<br>
 *Donghoon Lee, Sifei Liu, Jinwei Gu, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz.*<br>
@@ -593,6 +598,30 @@ NeurIPS 2020. [[PDF](https://arxiv.org/abs/2010.16219)] [[Project](https://githu
 
 ### Photorealistic Image Stylization
 
+**StyTr^2: Unbiased Image Style Transfer with Transformers.**<br>
+*Yingying Deng, Fan Tang, Xingjia Pan, Weiming Dong, ChongyangMa, Changsheng Xu.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14576)] [[Github](https://github.com/diyiiyiii/StyTR-2)]
+
+**Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization.**<br>
+*Zhe Chen, Wenhai Wang, Enze Xie, Tong Lu, Ping Luo.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11784)]
+
+**Geometric Style Transfer.**<br>
+*Xiao-Chang Liu, Xuan-Yi Li, Ming-Ming Cheng, Peter Hall.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2007.05471)]
+
+**Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.**<br>
+*Xide Xia, Meng Zhang, Tianfan Xue, Zheng Sun, Hui Fang, Brian Kulis, Jiawen Chen.*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10955)]
+
+**Image Sentiment Transfer.**<br>
+*Tianlang Chen, Wei Xiong, Haitian Zheng, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11337)]
+
+**Global Image Sentiment Transfer.**<br>
+*Jie An, Tianlang Chen, Songyang Zhang, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
+arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11989)]
+
 **ALADIN: All Layer Adaptive Instance Normalization for Fine-grained Style Similarity.**<br>
 *Dan Ruta, Saeid Motiian, Baldo Faieta, Zhe Lin, Hailin Jin, Alex Filipkowski, Andrew Gilbert, John Collomosse.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2103.09776)]
@@ -617,14 +646,6 @@ CVPR 2021. [[PDF](https://arxiv.org/pdf/2103.16877.pdf)] [[Github](https://githu
 *Tianwei Lin, Zhuoqi Ma, Fu Li, Dongliang He, Xin Li, Errui Ding, Nannan Wang, Jie Li, Xinbo Gao.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2104.05376)] [[Github](https://github.com/PaddlePaddle/PaddleGAN/blob/develop/docs/en_US/tutorials/lap_style.md)]
 
-**StyTr^2: Unbiased Image Style Transfer with Transformers.**<br>
-*Yingying Deng, Fan Tang, Xingjia Pan, Weiming Dong, ChongyangMa, Changsheng Xu.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14576)]
-
-**Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization.**<br>
-*Zhe Chen, Wenhai Wang, Enze Xie, Tong Lu, Ping Luo.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.11784)]
-
 **Domain-Specific Mappings for Generative Adversarial Style Transfers.**<br>
 *Hsin-Yu Chang, Zhixiang Wang, Yung-Yu Chuangs.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02198)] [[Project](https://acht7111020.github.io/DSMAP-demo/)] [[Github](https://acht7111020.github.io/DSMAP-demo/)]
@@ -632,22 +653,6 @@ ECCV 2020. [[PDF](https://arxiv.org/abs/2008.02198)] [[Project](https://acht7111
 **Filter Style Transfer between Photos.**<br>
 *Jonghwa Yim, Jisung Yoo, Won-joon Do, Beomsu Kim, Jihwan Choe.*<br>
 ECCV 2020. [[PDF](https://arxiv.org/abs/2007.07925)]
-
-**Geometric Style Transfer.**<br>
-*Xiao-Chang Liu, Xuan-Yi Li, Ming-Ming Cheng, Peter Hall.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2007.05471)]
-
-**Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer.**<br>
-*Xide Xia, Meng Zhang, Tianfan Xue, Zheng Sun, Hui Fang, Brian Kulis, Jiawen Chen.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2004.10955)]
-
-**Image Sentiment Transfer.**<br>
-*Tianlang Chen, Wei Xiong, Haitian Zheng, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11337)]
-
-**Global Image Sentiment Transfer.**<br>
-*Jie An, Tianlang Chen, Songyang Zhang, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.11989)]
 
 **A Closed-form Solution to Photorealistic Image Stylization.**<br>
 *Yijun Li, Ming-Yu Liu, Xueting Li, Ming-Hsuan Yang, Jan Kautz.*<br>
@@ -695,11 +700,11 @@ Computational Visual Media 2021. [[PDF](https://arxiv.org/abs/2107.04240)]
 
 **AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning.**<br>
 *[Guoxian Song](https://guoxiansong.github.io/homepage/index.html), [Linjie Luo](http://linjieluo.com/), Jing Liu, Wan-Chun Ma, Chunpong Lai, Chuanxia Zheng, Tat-Jen Cham.*<br>
-ACM Transactions on Graphics (Siggraph 2021). [[PDF](https://guoxiansong.github.io/homepage/paper/AgileGAN.pdf)] [[Project](https://guoxiansong.github.io/homepage/agilegan)] [[Demo](http://www.agilegan.com/)]
+TOG 2021. [[PDF](https://guoxiansong.github.io/homepage/paper/AgileGAN.pdf)] [[Project](https://guoxiansong.github.io/homepage/agilegan)] [[Demo](http://www.agilegan.com/)]
 
 **Enhancing Photorealism Enhancement.**<br>
-*Stephan R. Richter, Hassan Abu AlHaija, Vladlen Koltun.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2105.04619.pdf)] [[Github](https://github.com/intel-isl/PhotorealismEnhancement)]  [[Video](https://youtu.be/P1IcaBn3ej0)]
+*[Stephan R. Richter](http://stephanrichter.org/), [Hassan Abu AlHaija](https://hassanhaija.github.io/), [Vladlen Koltun](http://vladlen.info/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2105.04619.pdf)] [[Project](https://intel-isl.github.io/PhotorealismEnhancement/)] [[Github](https://github.com/intel-isl/PhotorealismEnhancement)]  [[Video](https://youtu.be/P1IcaBn3ej0)]
 
 **iLAT: The Image Local Autoregressive Transformer.**<br>
 *Chenjie Cao, Yuxin Hong, Xiang Li, Chengrong Wang, Chengming Xu, XiangYang Xue, Yanwei Fu.*<br>
@@ -729,14 +734,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/1905.06598)] [[Github](https://github.c
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi), [Marcus A. Brubaker](https://mbrubake.github.io/), [Michael S. Brown](http://www.cse.yorku.ca/~mbrown/).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2011.11731)] [[Github](https://github.com/mahmoudnafifi/HistoGAN)]
 
-**Progressive and Aligned Pose Attention Transfer for Person Image Generation.**<br> 
-*Zhen Zhu, Tengteng Huang, Mengde Xu, Baoguang Shi, Wenqing Cheng, Xiang Bai.*<br> 
-TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.11622)]
-
-**PhotoApp: Photorealistic Appearance Editing of Head Portraits.**<br>
-*[Mallikarjun B R](https://people.mpi-inf.mpg.de/~mbr/), [Ayush Tewari](https://people.mpi-inf.mpg.de/~atewari/), [Abdallah Dib](https://www.interdigital.com/talent/?id=38), [Tim Weyrich](http://reality.cs.ucl.ac.uk/weyrich.html), [Bernd Bickel](http://berndbickel.com/), [Hans-Peter Seidel](https://people.mpi-inf.mpg.de/~hpseidel/english.html), [Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech), [Louis Chevallier](https://scholar.google.fr/citations?user=hC_BTU8AAAAJ&hl=en), [Mohamed Elgharib](http://people.mpi-inf.mpg.de/~elgharib/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
-TOG 2021. [[PDF](https://arxiv.org/abs/2103.07658)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PhotoApp/)]
-
 **Diverse Semantic Image Synthesis via Probability Distribution Modeling.**<br> 
 *Zhentao Tan, Menglei Chai, Dongdong Chen, Jing Liao, Qi Chu, Bin Liu, Gang Hua, Nenghai Yu.*<br> 
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.06878)]
@@ -748,6 +745,14 @@ CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Mask
 **PISE: Person Image Synthesis and Editing with Decoupled GAN.**<br>
 *[Jinsong Zhang](https://zhangjinso.github.io/), [Kun Li](http://cic.tju.edu.cn/faculty/likun/), [Yu-Kun Lai](http://users.cs.cf.ac.uk/Yukun.Lai/), [Jingyu Yang](http://tju.iirlab.org/).*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2103.04023)] [[Project](http://cic.tju.edu.cn/faculty/likun/projects/PISE/)] [[Github](https://github.com/Zhangjinso/PISE)]
+
+**Progressive and Aligned Pose Attention Transfer for Person Image Generation.**<br> 
+*Zhen Zhu, Tengteng Huang, Mengde Xu, Baoguang Shi, Wenqing Cheng, Xiang Bai.*<br> 
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2103.11622)]
+
+**PhotoApp: Photorealistic Appearance Editing of Head Portraits.**<br>
+*[Mallikarjun B R](https://people.mpi-inf.mpg.de/~mbr/), [Ayush Tewari](https://people.mpi-inf.mpg.de/~atewari/), [Abdallah Dib](https://www.interdigital.com/talent/?id=38), [Tim Weyrich](http://reality.cs.ucl.ac.uk/weyrich.html), [Bernd Bickel](http://berndbickel.com/), [Hans-Peter Seidel](https://people.mpi-inf.mpg.de/~hpseidel/english.html), [Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech), [Louis Chevallier](https://scholar.google.fr/citations?user=hC_BTU8AAAAJ&hl=en), [Mohamed Elgharib](http://people.mpi-inf.mpg.de/~elgharib/), [Christian Theobalt](http://www.mpi-inf.mpg.de/~theobalt/).*<br>
+TOG 2021. [[PDF](https://arxiv.org/abs/2103.07658)] [[Project](http://gvv.mpi-inf.mpg.de/projects/PhotoApp/)]
 
 **MeInGame: Create a Game Character Face from a Single Portrait.**<br>
 *Jiangke Lin, Yi Yuan, Zhengxia Zou.*<br>

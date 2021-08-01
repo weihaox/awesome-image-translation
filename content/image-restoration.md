@@ -665,33 +665,23 @@ CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Tassano_F
 *[Longguang Wang](https://longguangwang.github.io/), [Yingqian Wang](https://yingqianwang.github.io/), Zaiping Lin, Jungang Yang, Wei An, Yulan Guo.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2004.03791)] [[Github](https://github.com/LongguangWang/ArbSR)]
 
-**StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement.**<br>
-*Yuda Song, Hui Qian, Xin Du.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.12898)]
-
 **Seamless Manga Inpainting with Semantics Awareness.**<br>
 *[Minshan Xie](https://msxie92.github.io/), [Menghan Xia](https://menghanxia.github.io/), [Chengze Li](https://moeka.me/), [Xueting Liu](https://www.cihe.edu.hk/en/schools-and-offices/schools-and-departments/school-of-computing-and-information-sciences/staff-directory/dr-tina-liu-xueting/index.html), [Tien-Tsin Wong](https://www.cse.cuhk.edu.hk/~ttwong/myself.html).*<br>
 TOG 2021. [[PDF](http://appsrv.cse.cuhk.edu.hk/~ttwong/cgi-bin/paper-download/download.cgi?path=mangainpaint&dl=mangainpaint.pdf)] [[Project](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html)] [[Github](https://github.com/msxie92/MangaInpainting)]
 
+
+**StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement.**<br>
+*Yuda Song, Hui Qian, Xin Du.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2107.12898)]
+
+
 **How to Train Neural Networks for Flare Removal.**<br>
 *Yicheng Wu, Qiurui He, Tianfan Xue, Rahul Garg, Jiawen Chen, Ashok Veeraraghavan, Jonathan T. Barron.*<br>
 arXiv 2021. [[PDF](https://arxiv.org/pdf/2010.00702.pdf)] [[Project](https://yichengwu.github.io/flare-removal/)]
-  
-**Learned Dual-View Reflection Removal.**<br>
-*Simon Niklaus, Xuaner Cecilia Zhang, Jonathan T. Barron, Neal Wadhwa, Rahul Garg, Feng Liu, Tianfan Xue.*<br>
-WACV 2021. [[PDF](https://arxiv.org/pdf/2010.00702.pdf)] [[Project](https://sniklaus.com/dualref)]
 
 **Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data.**<br>
 *[Xintao Wang](https://xinntao.github.io/), Liangbin Xie, Chao Dong, [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en).*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2107.10833)] [[Github](https://github.com/xinntao/Real-ESRGAN)]
-
-**JIIF: Joint Implicit Image Function for Guided Depth Super-Resolution.**<br>
-*Jiaxiang Tang, Xiaokang Chen, Gang Zeng.*<br>
-ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.08717)] [[Github](https://github.com/ashawkey/jiif)]
-
-**JPGNet: Joint Predictive Filtering and Generative Network for Image Inpainting.**<br>
-*Xiaoguang Li, Qing Guo, Felix Juefei-Xu, Hongkai Yu, Yang Liu, Song Wang.*<br>
-ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.04281)]
 
 **T-Net: Deep Stacked Scale-Iteration Network for Image Dehazing.**<br> 
 *Lirong Zheng, Yanshan Li, Kaihao Zhang, Wenhan Luo.*<br> 
@@ -700,34 +690,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2106.02809)]
 **Uformer: A General U-Shaped Transformer for Image Restoration.**<br> 
 *Zhendong Wang, Xiaodong Cun, Jianmin Bao, Jianzhuang Liu.*<br> 
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.03106)]
-
-**Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes.**<br>
-*Zhihang Zhong, Yinqiang Zheng, Imari Sato.*<br>
-CVPR 2021. [[PDF](http://arxiv.org/abs/2104.01601)]
-
-**Explore Image Deblurring via Encoded Blur Kernel Space.**<br>
-*Phong Tran, Anh Tuan Tran, Quynh Phung, Minh Hoai.*<br>
-CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_Explore_Image_Deblurring_via_Encoded_Blur_Kernel_Space_CVPR_2021_paper.pdf)]
-
-**Learning Spatially-Variant MAP Models for Non-Blind Image Deblurring.**<br>
-*Jiangxin Dong, Stefan Roth, Bernt Schiele.*<br>
-CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Dong_Learning_Spatially-Variant_MAP_Models_for_Non-Blind_Image_Deblurring_CVPR_2021_paper.pdf)]
-
-**Learning Multi-Scale Photo Exposure Correction.**<br>
-*Mahmoud Afifi, Konstantinos G. Derpanis, Bjorn Ommer, Michael S. Brown.*<br>
-CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf)]
-
-**Pre-Trained Image Processing Transformer.**<br>
-*Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
-
-**Markpainting: Adversarial Machine Learning Meets Inpainting.**<br> 
-*David G Khachaturov, Ilia Shumailov, Yiren Zhao, Nicolas Papernot, Ross Anderson.*<br>
-ICML 2021. [[PDF](https://arxiv.org/pdf/2106.00660)]
-
-**MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution.**<br>
-*Liying Lu, Wenbo Li, Xin Tao, Jiangbo Lu, Jiaya Jia.*<br>
-CVPR 2021. [[PDF](https://arxiv.org/abs/2106.02299)]
 
 **Fourier Space Losses for Efficient Perceptual Image Super-Resolution.**<br>
 *Dario Fuoli, Luc Van Gool, Radu Timofte.*<br>
@@ -757,17 +719,85 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2104.06459)]
 *Chongyi Li, Chunle Guo, Linghao Han, Jun Jiang, Ming-Ming Cheng, Jinwei Gu, Chen Change Loy.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.10729)] [[Github](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open)]
 
-**Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation.**<br>
-*Chongyi Li, Chunle Guo, Chen Change Loy.*<br>
-TPAMI 2021. [[PDF](https://ieeexplore.ieee.org/document/9369102/)] [[Project](https://li-chongyi.github.io/Proj_Zero-DCE.html)] [[Github](https://github.com/Li-Chongyi/Zero-DCE_extension)]
+**GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior.**<br>
+*[Xintao Wang](https://xinntao.github.io/), [Yu Li](https://yu-li.github.io/), [Honglun Zhang](https://scholar.google.com/citations?hl=en&user=KjQLROoAAAAJ), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04061)] [[Project](https://xinntao.github.io/)]
 
-**Colorization Transformer.**<br>
-*Manoj Kumar, Dirk Weissenborn, Nal Kalchbrenner.*<br>
-ICLR 2021. [[PDF](https://openreview.net/forum?id=5NA1PinlGFu)] [[Github](https://github.com/google-research/google-research/tree/master/coltran)]
+**Best-Buddy GANs for Highly Detailed Image Super-Resolution.**<br>
+*Wenbo Li, Kun Zhou, Lu Qi, Liying Lu, Nianjuan Jiang, Jiangbo Lu, Jiaya Jia.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15295)] [[Github](https://github.com/Jia-Research-Lab/Simple-SR)]
 
-**Large Scale Image Completion via Co-Modulated Generative Adversarial Networks.**<br>
-*Shengyu Zhao, Jonathan Cui, Yilun Sheng, Yue Dong, Xiao Liang, Eric I Chang, Yan Xu.*<br>
-ICLR 2021 (Spotlight). [[PDF](https://arxiv.org/abs/2103.10428)] [[Github](https://github.com/zsyzzsoft/co-mod-gan)] [[Project](https://comodgan.ml/)]
+**Training a Better Loss Function for Image Restoration.**<br>
+*Aamir Mustafa, Aliaksei Mikhailiuk, Dan Andrei Iliescu, Varun Babbar, Rafal K. Mantiuk.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14616)]
+
+**ICT: High-Fidelity Pluralistic Image Completion with Transformers.**<br>
+*Ziyu Wan, Jingbo Zhang, Dongdong Chen, Jing Liao.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14031)] [[Project](http://raywzy.com/ICT)]
+
+**Degrade is Upgrade: Learning Degradation for Low-light Image Enhancement.**<br>
+*Kui Jiang, Zhongyuan Wang, Zheng Wang, Peng Yi, Xiao Wang, Yansheng Qiu, Chen Chen, Chia-Wen Lin.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10621)]
+
+**Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar.**<br>
+*[Peike Li](https://peikeli.com/), Xin Yu, [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.08863)]
+
+**Progressive Depth Learning for Single Image Dehazing.**<br>
+*Yudong Liang, Bin Wang, Jiaying Liu, Deyu Li, Sanping Zhou, Wenqi Ren.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10514.pdf)]
+
+**A Sub-band Approach to Deep Denoising Wavelet Networks and a Frequency-adaptive Loss for Perceptual Quality.**<br>
+*Caglar Aytekin, Sakari Alenius, Dmytro Paliy, Juuso Gren.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07973)]
+
+**VA-RED2: Video Adaptive Redundancy Reduction.**<br>
+*Bowen Pan, Rameswar Panda, Camilo Fosco, Chung-Ching Lin, Alex Andonian, Yue Meng, Kate Saenko, Aude Oliva, Rogerio Feris.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07887)]
+
+**Restore from Restored: Single-image Inpainting.**<br>
+*Eun Hye Lee, Jeong Mu Kim, Ji Su Kim, Tae Hyun Kim.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08078)]
+
+**Learned Dual-View Reflection Removal.**<br>
+*Simon Niklaus, Xuaner Cecilia Zhang, Jonathan T. Barron, Neal Wadhwa, Rahul Garg, Feng Liu, Tianfan Xue.*<br>
+WACV 2021. [[PDF](https://arxiv.org/pdf/2010.00702.pdf)] [[Project](https://sniklaus.com/dualref)]
+
+**JIIF: Joint Implicit Image Function for Guided Depth Super-Resolution.**<br>
+*Jiaxiang Tang, Xiaokang Chen, Gang Zeng.*<br>
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.08717)] [[Github](https://github.com/ashawkey/jiif)]
+
+**JPGNet: Joint Predictive Filtering and Generative Network for Image Inpainting.**<br>
+*Xiaoguang Li, Qing Guo, Felix Juefei-Xu, Hongkai Yu, Yang Liu, Song Wang.*<br>
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2107.04281)]
+
+**Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes.**<br>
+*Zhihang Zhong, Yinqiang Zheng, Imari Sato.*<br>
+CVPR 2021. [[PDF](http://arxiv.org/abs/2104.01601)]
+
+**Explore Image Deblurring via Encoded Blur Kernel Space.**<br>
+*Phong Tran, Anh Tuan Tran, Quynh Phung, Minh Hoai.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_Explore_Image_Deblurring_via_Encoded_Blur_Kernel_Space_CVPR_2021_paper.pdf)]
+
+**Learning Spatially-Variant MAP Models for Non-Blind Image Deblurring.**<br>
+*Jiangxin Dong, Stefan Roth, Bernt Schiele.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Dong_Learning_Spatially-Variant_MAP_Models_for_Non-Blind_Image_Deblurring_CVPR_2021_paper.pdf)]
+
+**Learning Multi-Scale Photo Exposure Correction.**<br>
+*Mahmoud Afifi, Konstantinos G. Derpanis, Bjorn Ommer, Michael S. Brown.*<br>
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf)]
+
+**Pre-Trained Image Processing Transformer.**<br>
+*Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00364)]
+
+**Markpainting: Adversarial Machine Learning Meets Inpainting.**<br> 
+*David G Khachaturov, Ilia Shumailov, Yiren Zhao, Nicolas Papernot, Ross Anderson.*<br>
+ICML 2021. [[PDF](https://arxiv.org/pdf/2106.00660)]
+
+**MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution.**<br>
+*Liying Lu, Wenbo Li, Xin Tao, Jiangbo Lu, Jiaya Jia.*<br>
+CVPR 2021. [[PDF](https://arxiv.org/abs/2106.02299)]
 
 **MPRNet: Multi-Stage Progressive Image Restoration.**<br>
 *Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang, Ling Shao.*<br>
@@ -833,61 +863,37 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2103.10022)]
 *[Kelvin C.K. Chan](https://ckkelvinchan.github.io/), Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy.*<br>
 CVPR 2021. [[PDF](https://arxiv.org/abs/2012.00739)] [[Project](https://ckkelvinchan.github.io/projects/GLEAN)] [[Github](https://github.com/ckkelvinchan/GLEAN)]
 
-**GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior.**<br>
-*[Xintao Wang](https://xinntao.github.io/), [Yu Li](https://yu-li.github.io/), [Honglun Zhang](https://scholar.google.com/citations?hl=en&user=KjQLROoAAAAJ), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.04061)] [[Project](https://xinntao.github.io/)]
+**Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation.**<br>
+*Chongyi Li, Chunle Guo, Chen Change Loy.*<br>
+TPAMI 2021. [[PDF](https://ieeexplore.ieee.org/document/9369102/)] [[Project](https://li-chongyi.github.io/Proj_Zero-DCE.html)] [[Github](https://github.com/Li-Chongyi/Zero-DCE_extension)]
 
-**Best-Buddy GANs for Highly Detailed Image Super-Resolution.**<br>
-*Wenbo Li, Kun Zhou, Lu Qi, Liying Lu, Nianjuan Jiang, Jiangbo Lu, Jiaya Jia.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.15295)] [[Github](https://github.com/Jia-Research-Lab/Simple-SR)]
+**Colorization Transformer.**<br>
+*Manoj Kumar, Dirk Weissenborn, Nal Kalchbrenner.*<br>
+ICLR 2021. [[PDF](https://openreview.net/forum?id=5NA1PinlGFu)] [[Github](https://github.com/google-research/google-research/tree/master/coltran)]
 
-**Training a Better Loss Function for Image Restoration.**<br>
-*Aamir Mustafa, Aliaksei Mikhailiuk, Dan Andrei Iliescu, Varun Babbar, Rafal K. Mantiuk.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14616)]
-
-**ICT: High-Fidelity Pluralistic Image Completion with Transformers.**<br>
-*Ziyu Wan, Jingbo Zhang, Dongdong Chen, Jing Liao.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14031)] [[Project](http://raywzy.com/ICT)]
-
-**Degrade is Upgrade: Learning Degradation for Low-light Image Enhancement.**<br>
-*Kui Jiang, Zhongyuan Wang, Zheng Wang, Peng Yi, Xiao Wang, Yansheng Qiu, Chen Chen, Chia-Wen Lin.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.10621)]
-
-**Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar.**<br>
-*[Peike Li](https://peikeli.com/), Xin Yu, [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en).*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.08863)]
+**Large Scale Image Completion via Co-Modulated Generative Adversarial Networks.**<br>
+*Shengyu Zhao, Jonathan Cui, Yilun Sheng, Yue Dong, Xiao Liang, Eric I Chang, Yan Xu.*<br>
+ICLR 2021 (Spotlight). [[PDF](https://arxiv.org/abs/2103.10428)] [[Github](https://github.com/zsyzzsoft/co-mod-gan)] [[Project](https://comodgan.ml/)]
 
 **AdderSR: Towards Energy Efficient Image Super-Resolution.**<br>
 *Dehua Song, Yunhe Wang, Hanting Chen, Chang Xu, Chunjing Xu, DaCheng Tao.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2009.08891)] [[PDF](https://github.com/huawei-noah/AdderNet)]
 
-**Progressive Depth Learning for Single Image Dehazing.**<br>
-*Yudong Liang, Bin Wang, Jiaying Liu, Deyu Li, Sanping Zhou, Wenqi Ren.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2102.10514.pdf)]
-
 **TDANet: Text-Guided Neural Image Inpainting.**<br>
 *Lisai Zhang, Qingcai Chen, Baotian Hu, Shuoran Jiang.*<br>
 ACM MM 2020. [[PDF](https://arxiv.org/abs/2004.03212)] [[Github](https://github.com/idealwhite/tdanet)]
 
-**A Sub-band Approach to Deep Denoising Wavelet Networks and a Frequency-adaptive Loss for Perceptual Quality.**<br>
-*Caglar Aytekin, Sakari Alenius, Dmytro Paliy, Juuso Gren.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07973)]
-
-**VA-RED2: Video Adaptive Redundancy Reduction.**<br>
-*Bowen Pan, Rameswar Panda, Camilo Fosco, Chung-Ching Lin, Alex Andonian, Yue Meng, Kate Saenko, Aude Oliva, Rogerio Feris.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.07887)]
-
-**Restore from Restored: Single-image Inpainting.**<br>
-*Eun Hye Lee, Jeong Mu Kim, Ji Su Kim, Tae Hyun Kim.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.08078)]
-
 **Intermediate Layer Optimization for Inverse Problems using Deep Generative Models.**<br>
 *Joseph Dean, [Giannis Daras](https://giannisdaras.github.io), Alexandros G. Dimakis.*<br>
-NeurIPS 2020 Deep Inverse Workshop. [[PDF](https://openreview.net/forum?id=232ut-SyVR)] [[Porject](https://giannisdaras.github.io/publication/plo)] [[Github](https://github.com/giannisdaras/ilo)]
+NeurIPS 2020 Workshop on Deep Inverse. [[PDF](https://openreview.net/forum?id=232ut-SyVR)] [[Porject](https://giannisdaras.github.io/publication/plo)] [[Github](https://github.com/giannisdaras/ilo)]
 
 **Segmentation-Renormalized Deep Feature Modulation for Unpaired Image Harmonization.**<br>
 *Mengwei Ren, Neel Dey, James Fishbaugh, Guido Gerig.*<br>
 IEEE Transactions on Medical Imaging 2021. [[PDF](https://arxiv.org/abs/2102.06315)]
+
+**Exploiting Raw Images for Real-Scene Super-Resolution.**<br>
+*Xiangyu Xu, Yongrui Ma, Wenxiu Sun, Ming-Hsuan Yang.*<br>
+TPAMI 2020. [[PDF](https://arxiv.org/abs/2102.01579)]
 
 **Progressive Neural Image Compression with Nested Quantization and Latent Ordering.**<br>
 *Yadong Lu, Yinhao Zhu, Yang Yang, Amir Said, Taco S Cohen.*<br>
@@ -900,10 +906,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01850)]
 **Test-Time Adaptation for Out-of-distributed Image Inpainting.**<br>
 *Chajin Shin, Taeoh Kim, Sangjin Lee, Sangyoun Lee.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2102.01360)]
-
-**Exploiting Raw Images for Real-Scene Super-Resolution.**<br>
-*Xiangyu Xu, Yongrui Ma, Wenxiu Sun, Ming-Hsuan Yang.*<br>
-TPAMI 2020. [[PDF](https://arxiv.org/abs/2102.01579)]
 
 **Deep Reformulated Laplacian Tone Mapping.**<br>
 *Jie Yang, Ziyi Liu, Mengchen Lin, Svetlana Yanushkevich, Orly Yadid-Pecht.*<br>
@@ -995,8 +997,7 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09904)]
 
 **Learning Continuous Image Representation with Local Implicit Image Function.**<br>
 *[Yinbo Chen](https://yinboc.github.io/), [Sifei Liu](https://www.sifeiliu.net/), [Xiaolong Wang](https://xiaolonw.github.io/).*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2012.09161)] [[Github](https://github.com/yinboc/liif)] [[Project](https://yinboc.github.io/liif/)]
-
+CVPR 2021 (oral). [[PDF](https://arxiv.org/abs/2012.09161)] [[Github](https://github.com/yinboc/liif)] [[Project](https://yinboc.github.io/liif/)]
 **DILIE: Deep Internal Learning for Image Enhancement.**<br>
 *Indra Deep Mastan, Shanmuganathan Raman.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2012.06469)]
