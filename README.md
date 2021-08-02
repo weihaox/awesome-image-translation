@@ -17,7 +17,8 @@ markdown format:
 Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
 ```
 
-## Table of Contents
+<details><summary>Table of Contents</summary><p>
+  
 - [2021](#year-2021)
 - [2020](#year-2020)
   * [ECCV 2020](#eccv-2020)
@@ -33,6 +34,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
   * [Journal 2019](#journal-2019)
   * [Others 2019](#others-2019)
 - [Before 2018](#before-2018)
+</p></details><p></p>
 
 ## 2021
 
