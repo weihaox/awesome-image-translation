@@ -43,6 +43,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Long-Term Temporally Consistent Unpaired Video Translation from Simulated Surgical 3D Data.**[[PDF](https://arxiv.org/abs/2103.17204)]<br>
 *Dominik Rivoir, Micha Pfeiffer, Reuben Docea, Fiona Kolbinger, Carina Riediger, Jürgen Weitz, Stefanie Speidel.*<br>
 
+**Instance-wise Hard Negative Example Generation for Contrastive Learning in Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2108.04547)]<br>
+*Weilun Wang, Wengang Zhou, Jianmin Bao, Dong Chen, Houqiang Li.*<br>
 
 ### ACM MM 2021
 
@@ -212,7 +214,7 @@ Springer Machine Vision and Applications 2021. [[PDF](https://arxiv.org/abs/2004
 **World-Consistent Video-to-Video Synthesis.**[[PDF](https://arxiv.org/abs/2007.08509)] [[Github](https://nvlabs.github.io/wc-vid2vid/)]<br> 
 *Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br>  
 
-**Contrastive Learning for Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2007.15651)] [[Project](https://taesungp.github.io/ContrastiveUnpairedTranslation/)] [[Github](https://github.com/taesungp/contrastive-unpaired-translation)]<br>
+**CUT: Contrastive Learning for Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2007.15651)] [[Project](https://taesungp.github.io/ContrastiveUnpairedTranslation/)] [[Github](https://github.com/taesungp/contrastive-unpaired-translation)]<br>
 *[Taesung Park](https://taesungp.github.io), Alexei A. Efros, Richard Zhang, Jun-Yan Zhu.*<br> 
 
 **Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild.**[[PDF](https://homes.esat.kuleuven.be/~liqianma/pdf/ECCV20_Unselfie.pdf)] <br>
