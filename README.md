@@ -40,6 +40,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### ICCV 2021
 
+**GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds.**[[PDF](https://arxiv.org/pdf/2104.07659.pdf)]<br>
+*Zekun Hao, Arun Mallya, Serge Belongie, Ming-Yu Liu.*<br>
+
+
 **Long-Term Temporally Consistent Unpaired Video Translation from Simulated Surgical 3D Data.**[[PDF](https://arxiv.org/abs/2103.17204)]<br>
 *Dominik Rivoir, Micha Pfeiffer, Reuben Docea, Fiona Kolbinger, Carina Riediger, Jürgen Weitz, Stefanie Speidel.*<br>
 
@@ -122,6 +126,11 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
 
 ### Others 2021
+
+**Graph2Pix: A Graph-Based Image to Image Translation Framework.**<br>
+*Dilara Gokay, Enis Simsar, Efehan Atici, Alper Ahmetoglu, Atif Emre Yuksel, Pinar Yanardag.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2108.09752)] [[Github](https://github.com/catlab-team/graph2pix)]
+
 
 **Image-to-Image Translation with Low Resolution Conditioning.**<br>
 *Mohamed Abderrahmen Abid, Ihsen Hedhli, Jean-François Lalonde, Christian Gagne.*<br>
@@ -238,8 +247,8 @@ Springer Machine Vision and Applications 2021. [[PDF](https://arxiv.org/abs/2004
 **Unpaired Image-to-Image Translation using Adversarial Consistency Loss.**[[PDF](https://arxiv.org/abs/2003.04858)]<br>
 *Yihao Zhao, Ruihai Wu, Hao Dong.*<br>
 
-**COCO-FUNIT: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder.**[[PDF](https://arxiv.org/abs/2007.07431)][[Github](https://nvlabs.github.io/COCO-FUNIT/)]<br>
-*Kuniaki Saito, Kate Saenko, Ming-Yu Liu.*<br>
+**COCO-FUNIT: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder.**[[PDF](https://arxiv.org/abs/2007.07431)][[Github](https://nvlabs.github.io/COCO-FUNIT/)][[Project](https://nvlabs.github.io/COCO-FUNIT/)]<br>
+*[Kuniaki Saito](http://cs-people.bu.edu/keisaito/), [Kate Saenko](http://ai.bu.edu/ksaenko.html), [Ming-Yu Liu](http://mingyuliu.net/).*<br>
 
 **XingGAN for Person Image Generation.**[[Github](https://github.com/Ha0Tang/XingGAN)]<br>
 *[Hao Tang](http://disi.unitn.it/~hao.tang/), Song Bai, Li Zhang, Philip H. S. Torr, Nicu Sebe.*<br>
@@ -338,7 +347,7 @@ Springer Machine Vision and Applications 2021. [[PDF](https://arxiv.org/abs/2004
 **Guided Variational Autoencoder for Disentanglement Learning.**[[PDF](https://arxiv.org/abs/2004.01255)]<br>
 *Zheng Ding, Yifan Xu, Weijian Xu, Gaurav Parmar, Yang Yang, Max Welling, Zhuowen Tu.*<br>
 
-**Semi-supervised Learning for Few-shot Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2003.13853)] [[Github](https://github.com/yaxingwang/SEMIT)]<br>
+**SEMIT: Semi-supervised Learning for Few-shot Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2003.13853)] [[Github](https://github.com/yaxingwang/SEMIT)]<br>
 *Yaxing Wang, Salman Khan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan.*<br>
 
 **Augmenting Colonoscopy using Extended and Directional CycleGAN for Lossy Image Translation.**[[PDF](https://arxiv.org/abs/2003.12473)]<br>
