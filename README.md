@@ -50,12 +50,6 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Instance-wise Hard Negative Example Generation for Contrastive Learning in Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2108.04547)]<br>
 *Weilun Wang, Wengang Zhou, Jianmin Bao, Dong Chen, Houqiang Li.*<br>
 
-### ACM MM 2021
-
-**I2V-GAN: Unpaired Infrared-to-Visible Video Translation。**[[PDF](https://arxiv.org/abs/2108.00913)]<br>
-*Shuang Li, Bingfeng Han, Zhenjie Yu, Chi Harold Liu, Kai Chen, Shuigen Wang.*<br>
-
-
 ### CVPR 2021
 
 **Saliency-Guided Image Translation.**[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Saliency-Guided_Image_Translation_CVPR_2021_paper.pdf)]<br>
@@ -70,8 +64,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Not Just Compete, but Collaborate: Local Image-to-Image Translation via Cooperative Mask Prediction.**[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Not_Just_Compete_but_Collaborate_Local_Image-to-Image_Translation_via_Cooperative_CVPR_2021_paper.pdf)]<br>
 *Daejin Kim, Mohammad Azam Khan, Jaegul Choo.*<br>
 
-**The Spatially-Correlative Loss for Various Image Translation Tasks.**[[PDF](http://arxiv.org/abs/2104.00854)]<br>
-*Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai.*<br>
+**The Spatially-Correlative Loss for Various Image Translation Tasks.**[[PDF](http://arxiv.org/abs/2104.00854)][[Github](https://github.com/lyndonzheng/F-LSeSim)][[Project](http://www.chuanxiaz.com/publication/flsesim/)]<br> 
+*[Chuanxia Zheng](http://www.chuanxiaz.com/), [Tat-Jen Cham](http://www.ntu.edu.sg/home/astjcham/), [Jianfei Cai](https://research.monash.edu/en/persons/jianfei-cai).*<br>
 
 **LPTN: High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network.**[[PDF](https://arxiv.org/abs/2105.09188)] [[Github](https://github.com/csjliang/LPTN)]<br>
 *Jie Liang, Hui Zeng, Lei Zhang.*<br>
@@ -112,7 +106,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **(oral) HiSD: Image-to-image Translation via Hierarchical Style Disentanglement.**[[PDF](https://arxiv.org/abs/2103.01456)] [[Github](https://github.com/imlixinyang/HiSD)]<br>
 *Xinyang Li, Shengchuan Zhang, Jie Hu, Liujuan Cao, Xiaopeng Hong, Xudong Mao, Feiyue Huang, Yongjian Wu, Rongrong Ji.*<br>
 
-**Teachers Do More Than Teach: Compressing Image-to-Image Models.**[[PDF](https://arxiv.org/abs/2103.03467)]<br>
+**Teachers Do More Than Teach: Compressing Image-to-Image Models.**[[PDF](https://arxiv.org/abs/2103.03467)][[Github](https://github.com/snap-research/CAT)]<br> 
 *Qing Jin, Jian Ren, Oliver J. Woodford, Jiazhuo Wang, Geng Yuan, Yanzhi Wang, Sergey Tulyakov.*<br>
 
 ### ICLR 2021
@@ -127,10 +121,21 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others 2021
 
+**Leveraging Local Domains for Image-to-Image Translation.**<br>
+*Anthony Dell'Eva, Fabio Pizzati, Massimo Bertozzi, Raoul de Charette.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2109.04468)]
+
+**AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation.**<br>
+*Bing Li, Yuanlue Zhu, Yitong Wang, Chia-Wen Lin, Bernard Ghanem, Linlin Shen.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12593)] [[Github](https://github.com/bing-li-ai/AniGAN)]
+
+**Single Image Texture Translation for Data Augmentation.**<br>
+*Boyi Li, Yin Cui, Tsung-Yi Lin, Serge Belongie.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13804)] [[Github](https://github.com/Boyiliee/SITT)]
+
 **Graph2Pix: A Graph-Based Image to Image Translation Framework.**<br>
 *Dilara Gokay, Enis Simsar, Efehan Atici, Alper Ahmetoglu, Atif Emre Yuksel, Pinar Yanardag.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2108.09752)] [[Github](https://github.com/catlab-team/graph2pix)]
-
 
 **Image-to-Image Translation with Low Resolution Conditioning.**<br>
 *Mohamed Abderrahmen Abid, Ihsen Hedhli, Jean-François Lalonde, Christian Gagne.*<br>
@@ -171,6 +176,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08629)]
 **Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
 *Yuki Endo, Yoshihiro Kanamori.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)]
+
+**I2V-GAN: Unpaired Infrared-to-Visible Video Translation。**<br>
+*Shuang Li, Bingfeng Han, Zhenjie Yu, Chi Harold Liu, Kai Chen, Shuigen Wang.*<br>
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.00913)]
 
 **BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
 *Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
