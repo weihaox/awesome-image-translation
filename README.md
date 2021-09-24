@@ -40,9 +40,20 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### ICCV 2021
 
+**SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2103.16219)] [[Github](https://github.com/NetEase-GameAI/SPatchGAN)]<br> 
+*Xuning Shao, Weidong Zhang.*<br> 
+
+**OverLORD: Scaling-up Disentanglement for Image Translation.**[[PDF](https://arxiv.org/abs/2103.14017)] [[Github](https://github.com/avivga/overlord)]<br> 
+*Aviv Gabbay, Yedid Hoshen.*<br> 
+
+**Diagonal Attention and Style-based GAN for Content-Style Disentanglement in Image Generation and Translation.**[[PDF](https://arxiv.org/abs/2103.16146)]<br>
+*Gihyun Kwon, Jong Chul Ye.*<br> 
+
 **GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds.**[[PDF](https://arxiv.org/pdf/2104.07659.pdf)]<br>
 *Zekun Hao, Arun Mallya, Serge Belongie, Ming-Yu Liu.*<br>
 
+**TUNIT: Rethinking the Truly Unsupervised Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2006.05734)] [[Github](https://github.com/clovaai/tunit)]<br>
+*Kyungjune Baek, Yunjey Choi, Youngjung Uh, Jaejun Yoo, Hyunjung Shim.*<br>
 
 **Long-Term Temporally Consistent Unpaired Video Translation from Simulated Surgical 3D Data.**[[PDF](https://arxiv.org/abs/2103.17204)]<br>
 *Dominik Rivoir, Micha Pfeiffer, Reuben Docea, Fiona Kolbinger, Carina Riediger, Jürgen Weitz, Stefanie Speidel.*<br>
@@ -159,7 +170,7 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14110)]
 
 **Conditional Invertible Neural Networks for Diverse Image-to-Image Translation.**<br>
 *Lynton Ardizzone, Jakob Kruse, Carsten Lüth, Niels Bracher, Carsten Rother, Ullrich Köthe.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/1907.02392)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/1907.02392)] 
 
 **Contrastive Learning for Unsupervised Image-to-Image Translation.**<br>
 *Hanbit Lee, Jinseok Seol, Sang-goo Lee.*<br>
@@ -175,11 +186,11 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08629)]
 
 **Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
 *Yuki Endo, Yoshihiro Kanamori.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)]
+arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
 
-**I2V-GAN: Unpaired Infrared-to-Visible Video Translation。**<br>
+**I2V-GAN: Unpaired Infrared-to-Visible Video Translation.**<br>
 *Shuang Li, Bingfeng Han, Zhenjie Yu, Chi Harold Liu, Kai Chen, Shuigen Wang.*<br>
-ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.00913)]
+ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.00913)] [[Github](https://github.com/BIT-DA/I2V-GAN)]
 
 **BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
 *Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
@@ -539,10 +550,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2007.04964)] [[Project](http://www.visi
 **MCMI: Multi-Cycle Image Translation with Mutual Information Constraints.**</br>
 *Xiang Xu, Megha Nawhal, Greg Mori, Manolis Savva.*</br>
 arixv 2020. [[PDF](https://arxiv.org/abs/2007.02919)]
-
-**TUNIT: Rethinking the Truly Unsupervised Image-to-Image Translation.**<br>
-*Kyungjune Baek, Yunjey Choi, Youngjung Uh, Jaejun Yoo, Hyunjung Shim.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2006.05734)] [[Github](https://github.com/clovaai/tunit)]
 
 **Recapture as You Want.**<br>
 *Chen Gao, Si Liu, Ran He, Shuicheng Yan, Bo Li.*<br>
