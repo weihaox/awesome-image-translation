@@ -40,6 +40,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### ICCV 2021
 
+**IrwGAN: Unaligned Image-to-Image Translation by Learning to Reweight.**[[PDF](https://arxiv.org/abs/2109.11736)][[Github](https://github.com/Mid-Push/IrwGAN)]<br> 
+*Shaoan Xie, Mingming Gong, Yanwu Xu, Kun Zhang.*<br> 
+
 **SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2103.16219)] [[Github](https://github.com/NetEase-GameAI/SPatchGAN)]<br> 
 *Xuning Shao, Weidong Zhang.*<br> 
 
@@ -132,9 +135,26 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others 2021
 
+
+**StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators.**<br>
+*[Rinon Gal](https://rinongal.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Haggai Maron](https://haggaim.github.io/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2108.00946)] [[Project](https://stylegan-nada.github.io/)] [[Github](https://github.com/rinongal/StyleGAN-nada)]
+
+**DiffusionCLIP: Text-guided Image Manipulation Using Diffusion Models.**<br>
+*Gwanghyun Kim, Jong Chul Ye.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.02711)]
+
+**Translating Images into Maps.**<br>
+*Avishkar Saha, Oscar Mendez Maldonado, Chris Russell, Richard Bowden.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.00966)] [[Github](https://github.com/avishkarsaha/translating-images-into-maps)]
+
 **Leveraging Local Domains for Image-to-Image Translation.**<br>
 *Anthony Dell'Eva, Fabio Pizzati, Massimo Bertozzi, Raoul de Charette.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2109.04468)]
+
+**ISF-GAN: An Implicit Style Function for High-Resolution Image-to-Image Translation.**<br>
+*Yahui Liu, Yajing Chen, Linchao Bao, Nicu Sebe, Bruno Lepri, Marco De Nadai.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2109.12492)] [[Github](https://github.com/yhlleo/stylegan-mmuit)]
 
 **AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation.**<br>
 *Bing Li, Yuanlue Zhu, Yitong Wang, Chia-Wen Lin, Bernard Ghanem, Linlin Shen.*<br>
@@ -188,9 +208,17 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08629)]
 *Yuki Endo, Yoshihiro Kanamori.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
 
+**Bridging the Gap Between Paired and Unpaired Medical Image Translation.**<br>
+*Pauliina Paavilainen, Saad Ullah Akram, Juho Kannala.*<br>
+MICCI Workshop 2021. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-88210-5_4)]
+
 **I2V-GAN: Unpaired Infrared-to-Visible Video Translation.**<br>
 *Shuang Li, Bingfeng Han, Zhenjie Yu, Chi Harold Liu, Kai Chen, Shuigen Wang.*<br>
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.00913)] [[Github](https://github.com/BIT-DA/I2V-GAN)]
+
+**Contrastive Feature Loss for Image Prediction.**<br>
+*[Alex Andonian](https://www.alexandonian.com/), Taesung Park, Bryan Russell, Phillip Isola, Jun-Yan Zhu, Richard Zhang.*<br>
+ICCV Workshop 2021. [[PDF](https://www.alexandonian.com/pdf/Contrastive_Feature_Loss.pdf)]
 
 **BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
 *Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
