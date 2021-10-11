@@ -39,6 +39,29 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 ## 2021
 
 ### ICCV 2021
+[[accepted paper list](https://openaccess.thecvf.com/ICCV2021)]
+
+**Bridging the Gap Between Label- and Reference-Based Synthesis in Multi-Attribute Image-to-Image Translation.**[[PDF](https://arxiv.org/pdf/2103.02264)] [[Github](https://github.com/huangqiusheng/BridgeGAN)]<br> 
+*Qiusheng Huang, Zhilin Zheng, Xueqi Hu, Li Sun, Qingli Li.*<br> 
+
+**Dual Transfer Learning for Event-Based End-Task Prediction via Pluggable Event to Image Translation.**[[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Dual_Transfer_Learning_for_Event-Based_End-Task_Prediction_via_Pluggable_Event_ICCV_2021_paper.html)]<br> 
+*Lin Wang, Yujeong Chae, Kuk-Jin Yoon.*<br> 
+
+**TransferI2I: Transfer Learning for Image-to-Image Translation From Small Datasets.**[[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_TransferI2I_Transfer_Learning_for_Image-to-Image_Translation_From_Small_Datasets_ICCV_2021_paper.html)]<br> 
+*Yaxing Wang, Hector Laria, Joost van de Weijer, Laura Lopez-Fuentes, Bogdan Raducanu.*<br> 
+
+**Harnessing the Conditioning Sensorium for Improved Image Translation
+.**[[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Nederhood_Harnessing_the_Conditioning_Sensorium_for_Improved_Image_Translation_ICCV_2021_paper.html)]<br>
+*Cooper Nederhood, Nicholas Kolkin, Deqing Fu, Jason Salavon.*<br>
+
+**Frequency Domain Image Translation: More Photo-Realistic, Better Identity-Preserving.**[[PDF](http://arxiv.org/abs/2011.13611)]<br>
+*Mu Cai, Hong Zhang, Huijuan Huang, Qichuan Geng, Yixuan Li, Gao Huang.*<br>
+
+**Attack As the Best Defense: Nullifying Image-to-Image Translation GANs via Limit-Aware Adversarial Attack.**[[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Yeh_Attack_As_the_Best_Defense_Nullifying_Image-to-Image_Translation_GANs_via_ICCV_2021_paper.html)]<br>
+*Chin-Yuan Yeh, Hsi-Wen Chen, Hong-Han Shuai, De-Nian Yang, Ming-Syan Chen.*<br>
+
+**Semantically Robust Unpaired Image Translation for Data With Unmatched Semantics Statistics.**[[PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Jia_Semantically_Robust_Unpaired_Image_Translation_for_Data_With_Unmatched_Semantics_ICCV_2021_paper.html)] [[Github](https://github.com/SeanJia/SRUNIT)]<br> 
+*Zhiwei Jia, Bodi Yuan, Kangkang Wang, Hong Wu, David Clifford, Zhiqiang Yuan, Hao Su.*<br> 
 
 **IrwGAN: Unaligned Image-to-Image Translation by Learning to Reweight.**[[PDF](https://arxiv.org/abs/2109.11736)][[Github](https://github.com/Mid-Push/IrwGAN)]<br> 
 *Shaoan Xie, Mingming Gong, Yanwu Xu, Kun Zhang.*<br> 
@@ -49,7 +72,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **OverLORD: Scaling-up Disentanglement for Image Translation.**[[PDF](https://arxiv.org/abs/2103.14017)] [[Github](https://github.com/avivga/overlord)]<br> 
 *Aviv Gabbay, Yedid Hoshen.*<br> 
 
-**Diagonal Attention and Style-based GAN for Content-Style Disentanglement in Image Generation and Translation.**[[PDF](https://arxiv.org/abs/2103.16146)]<br>
+**Diagonal Attention and Style-based GAN for Content-Style Disentanglement in Image Generation and Translation.**[[PDF](https://arxiv.org/abs/2103.16146)] [[Supplementary Materials](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kwon_Diagonal_Attention_and_ICCV_2021_supplemental.pdf)] <br>
 *Gihyun Kwon, Jong Chul Ye.*<br> 
 
 **GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds.**[[PDF](https://arxiv.org/pdf/2104.07659.pdf)]<br>
@@ -65,6 +88,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Weilun Wang, Wengang Zhou, Jianmin Bao, Dong Chen, Houqiang Li.*<br>
 
 ### CVPR 2021
+[[accepted paper list](http://openaccess.thecvf.com/CVPR2021.py)]
 
 **Saliency-Guided Image Translation.**[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Saliency-Guided_Image_Translation_CVPR_2021_paper.pdf)]<br>
 *Lai Jiang, Mai Xu, Xiaofei Wang, Leonid Sigal.*<br>
@@ -215,6 +239,11 @@ MICCI Workshop 2021. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-
 **I2V-GAN: Unpaired Infrared-to-Visible Video Translation.**<br>
 *Shuang Li, Bingfeng Han, Zhenjie Yu, Chi Harold Liu, Kai Chen, Shuigen Wang.*<br>
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.00913)] [[Github](https://github.com/BIT-DA/I2V-GAN)]
+
+**Unsupervised Generative Adversarial Networks With Cross-Model Weight Transfer Mechanism for Image-to-Image Translation.**<br>
+*Xuguang Lai, Xiuxiu Bai, Yongqiang Hao.*<br>
+ICCV Workshop 2021. [[PDF](https://www.alexandonian.com/pdf/Contrastive_Feature_Loss.pdf)]
+
 
 **Contrastive Feature Loss for Image Prediction.**<br>
 *[Alex Andonian](https://www.alexandonian.com/), Taesung Park, Bryan Russell, Phillip Isola, Jun-Yan Zhu, Richard Zhang.*<br>
