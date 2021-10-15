@@ -38,6 +38,12 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## 2021
 
+### NeurIPS 2021
+
+**Breaking the Dilemma of Medical Image-to-image Translation.**<br> [[PDF](https://arxiv.org/pdf/2110.06465.pdf)] [[Github](https://github.com/Kid-Liet/Reg-GAN)]
+*Lingke Kong, Chenyu Lian, Detian Huang, Zhenjiang Li, Yanle Hu, Qichao Zhou.*<br> 
+
+
 ### ICCV 2021
 [[accepted paper list](https://openaccess.thecvf.com/ICCV2021)]
 
@@ -159,6 +165,13 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others 2021
 
+**Harnessing the Conditioning Sensorium for Improved Image Translation.**<br>
+*Cooper Nederhood, Nicholas Kolkin, Deqing Fu, Jason Salavon.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.06443)]
+
+**LSC-GAN: Latent Style Code Modeling for Continuous Image-to-image Translation.**<br>
+*Qiusheng Huang, Xueqi Hu, Li Sun, Qingli Li.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.05052)]
 
 **StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators.**<br>
 *[Rinon Gal](https://rinongal.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Haggai Maron](https://haggaim.github.io/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
