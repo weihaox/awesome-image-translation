@@ -165,6 +165,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others 2021
 
+**BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation.**<br>
+*Mingcong Liu, Qiang Li, Zekui Qin, Guoxin Zhang, Pengfei Wan, Wen Zheng.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.11728)]
+
 **Harnessing the Conditioning Sensorium for Improved Image Translation.**<br>
 *Cooper Nederhood, Nicholas Kolkin, Deqing Fu, Jason Salavon.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2110.06443)]
@@ -200,10 +204,6 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12593)] [[Github](https://github.c
 **Single Image Texture Translation for Data Augmentation.**<br>
 *Boyi Li, Yin Cui, Tsung-Yi Lin, Serge Belongie.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2106.13804)] [[Github](https://github.com/Boyiliee/SITT)]
-
-**Graph2Pix: A Graph-Based Image to Image Translation Framework.**<br>
-*Dilara Gokay, Enis Simsar, Efehan Atici, Alper Ahmetoglu, Atif Emre Yuksel, Pinar Yanardag.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2108.09752)] [[Github](https://github.com/catlab-team/graph2pix)]
 
 **Image-to-Image Translation with Low Resolution Conditioning.**<br>
 *Mohamed Abderrahmen Abid, Ihsen Hedhli, Jean-François Lalonde, Christian Gagne.*<br>
@@ -245,6 +245,26 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08629)]
 *Yuki Endo, Yoshihiro Kanamori.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
 
+**Cascaded Cross MLP-Mixer GANs for Cross-View Image Translation.**<br>
+*Bin Ren, Hao Tang, Nicu Sebe.*<br>
+BMVC 2021 (Oral). [[PDF](https://arxiv.org/abs/2110.10183)] [[Github](https://github.com/Amazingren/CrossMLP)]
+
+**Separating Content and Style for Unsupervised Image-to-Image Translation.**<br>
+*Yunfei Liu, Haofei Wang, Yang Yue, Feng Lu.*<br>
+BMVC 2021 (Oral). [[PDF](https://arxiv.org/abs/2110.14404)]
+
+**Graph2Pix: A Graph-Based Image to Image Translation Framework.**<br>
+*Dilara Gokay, Enis Simsar, Efehan Atici, Alper Ahmetoglu, Atif Emre Yuksel, Pinar Yanardag.*<br>
+ICCV 2021 Workshop on AIM. [[PDF](http://arxiv.org/abs/2108.09752)]  [[Github](https://github.com/catlab-team/graph2pix)]
+
+**Unsupervised Generative Adversarial Networks With Cross-Model Weight Transfer Mechanism for Image-to-Image Translation.**<br>
+*Xuguang Lai, Xiuxiu Bai, Yongqiang Hao.*<br>
+ICCV Workshop 2021. [[PDF](https://www.alexandonian.com/pdf/Contrastive_Feature_Loss.pdf)]
+
+**Contrastive Feature Loss for Image Prediction.**<br>
+*[Alex Andonian](https://www.alexandonian.com/), Taesung Park, Bryan Russell, Phillip Isola, Jun-Yan Zhu, Richard Zhang.*<br>
+ICCV Workshop 2021. [[PDF](https://www.alexandonian.com/pdf/Contrastive_Feature_Loss.pdf)]
+
 **Bridging the Gap Between Paired and Unpaired Medical Image Translation.**<br>
 *Pauliina Paavilainen, Saad Ullah Akram, Juho Kannala.*<br>
 MICCI Workshop 2021. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-88210-5_4)]
@@ -252,15 +272,6 @@ MICCI Workshop 2021. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-
 **I2V-GAN: Unpaired Infrared-to-Visible Video Translation.**<br>
 *Shuang Li, Bingfeng Han, Zhenjie Yu, Chi Harold Liu, Kai Chen, Shuigen Wang.*<br>
 ACM MM 2021. [[PDF](https://arxiv.org/abs/2108.00913)] [[Github](https://github.com/BIT-DA/I2V-GAN)]
-
-**Unsupervised Generative Adversarial Networks With Cross-Model Weight Transfer Mechanism for Image-to-Image Translation.**<br>
-*Xuguang Lai, Xiuxiu Bai, Yongqiang Hao.*<br>
-ICCV Workshop 2021. [[PDF](https://www.alexandonian.com/pdf/Contrastive_Feature_Loss.pdf)]
-
-
-**Contrastive Feature Loss for Image Prediction.**<br>
-*[Alex Andonian](https://www.alexandonian.com/), Taesung Park, Bryan Russell, Phillip Isola, Jun-Yan Zhu, Richard Zhang.*<br>
-ICCV Workshop 2021. [[PDF](https://www.alexandonian.com/pdf/Contrastive_Feature_Loss.pdf)]
 
 **BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer.**<br>
 *Or Patashnik, Dov Danon, Hao Zhang, Daniel Cohen-Or.*<br>
