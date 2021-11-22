@@ -36,14 +36,6 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Before 2018](#before-2018)
 </p></details><p></p>
 
-## 2021
-
-### NeurIPS 2021
-
-**Breaking the Dilemma of Medical Image-to-image Translation.**<br> [[PDF](https://arxiv.org/pdf/2110.06465.pdf)] [[Github](https://github.com/Kid-Liet/Reg-GAN)]
-*Lingke Kong, Chenyu Lian, Detian Huang, Zhenjiang Li, Yanle Hu, Qichao Zhou.*<br> 
-
-
 ### ICCV 2021
 [[accepted paper list](https://openaccess.thecvf.com/ICCV2021)]
 
@@ -165,6 +157,15 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others 2021
 
+**Global and Local Alignment Networks for Unpaired Image-to-Image Translation.**<br>
+*Guanglei Yang, Hao Tang, Humphrey Shi, Mingli Ding, Nicu Sebe, Radu Timofte, Luc Van Gool, Elisa Ricci.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/pdf/2111.10346.pdf)] [[Github](https://github.com/ygjwd12345/GLANet)]
+
+
+**Palette: Image-to-Image Diffusion Models.**<br>
+*Chitwan Saharia, William Chan, Huiwen Chang, Chris A. Lee, Jonathan Ho, Tim Salimans, David J. Fleet, Mohammad Norouzi.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.05826)]
+
 **BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation.**<br>
 *Mingcong Liu, Qiang Li, Zekui Qin, Guoxin Zhang, Pengfei Wan, Wen Zheng.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2110.11728)]
@@ -244,6 +245,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08629)]
 **Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
 *Yuki Endo, Yoshihiro Kanamori.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
+
+**Breaking the Dilemma of Medical Image-to-image Translation.**<br>
+*Lingke Kong, Chenyu Lian, Detian Huang, Zhenjiang Li, Yanle Hu, Qichao Zhou.*<br> 
+NeurIPS 2021. [[PDF](https://arxiv.org/pdf/2110.06465.pdf)] [[Github](https://github.com/Kid-Liet/Reg-GAN)]
+
+**A Domain Gap Aware Generative AdversarialNetwork for Multi-domain Image Translation.**<br>
+*Wenju Xu, Guanghui Wang.*<br>
+TIP 2021. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9612090)] 
 
 **Cascaded Cross MLP-Mixer GANs for Cross-View Image Translation.**<br>
 *Bin Ren, Hao Tang, Nicu Sebe.*<br>
