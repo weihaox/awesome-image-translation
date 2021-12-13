@@ -70,7 +70,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **OverLORD: Scaling-up Disentanglement for Image Translation.**[[PDF](https://arxiv.org/abs/2103.14017)] [[Github](https://github.com/avivga/overlord)]<br> 
 *Aviv Gabbay, Yedid Hoshen.*<br> 
 
-**Diagonal Attention and Style-based GAN for Content-Style Disentanglement in Image Generation and Translation.**[[PDF](https://arxiv.org/abs/2103.16146)] [[Supplementary Materials](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kwon_Diagonal_Attention_and_ICCV_2021_supplemental.pdf)] <br>
+**Diagonal Attention and Style-based GAN for Content-Style Disentanglement in Image Generation and Translation.**[[PDF](https://arxiv.org/abs/2103.16146)] [[Supplementary Materials](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kwon_Diagonal_Attention_and_ICCV_2021_supplemental.pdf)] [[Github](https://github.com/KwonGihyun/DiagonalGAN)] <br>
 *Gihyun Kwon, Jong Chul Ye.*<br> 
 
 **GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds.**[[PDF](https://arxiv.org/pdf/2104.07659.pdf)]<br>
@@ -157,10 +157,22 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others 2021
 
+**UNIST: Unpaired Neural Implicit Shape Translation Network.**<br>
+*Qimin Chen, Johannes Merz, Aditya Sanghi, Hooman Shayani, Ali Mahdavi-Amiri, Hao Zhang.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2110.00966)] [[Project](https://qiminchen.github.io/unist/)]
+
+
+**ManiFest: Manifold Deformation for Few-shot Image Translation.**<br>
+*Fabio Pizzati, Jean-François Lalonde, Raoul de Charette.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.13681)] 
+
+**A Novel Framework for Image-to-image Translation and Image Compression.**<br>
+*Fei Yang, Yaxing Wang, Luis Herranz, Yongmei Cheng, Mikhail Mozerov.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2111.13105)] 
+
 **Global and Local Alignment Networks for Unpaired Image-to-Image Translation.**<br>
 *Guanglei Yang, Hao Tang, Humphrey Shi, Mingli Ding, Nicu Sebe, Radu Timofte, Luc Van Gool, Elisa Ricci.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/pdf/2111.10346.pdf)] [[Github](https://github.com/ygjwd12345/GLANet)]
-
 
 **Palette: Image-to-Image Diffusion Models.**<br>
 *Chitwan Saharia, William Chan, Huiwen Chang, Chris A. Lee, Jonathan Ho, Tim Salimans, David J. Fleet, Mohammad Norouzi.*<br>
@@ -245,6 +257,14 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08629)]
 **Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
 *Yuki Endo, Yoshihiro Kanamori.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
+
+**Semantic Map Injected GAN Training for Image-to-Image Translation.**<br> 
+*Balaram Singh Kshatriya, Shiv Ram Dubey, Himangshu Sarma, Kunal Chaudhary, Meva Ram Gurjar, Rahul Rai, Sunny Manchanda.*<br> 
+WCVA 2021 Workshop at ICVGIP. [[PDF](https://arxiv.org/abs/2112.01845)]
+
+**Gated SwitchGAN for multi-domain facial image translation.**<br> 
+*Xiaokang Zhang, Yuanlue Zhu, Wenting Chen, Wenshuang Liu, Linlin Shen.*<br> 
+TMM 2021. [[PDF](https://arxiv.org/abs/2111.14096)]
 
 **Breaking the Dilemma of Medical Image-to-image Translation.**<br>
 *Lingke Kong, Chenyu Lian, Detian Huang, Zhenjiang Li, Yanle Hu, Qichao Zhou.*<br> 
