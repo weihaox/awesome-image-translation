@@ -73,8 +73,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Diagonal Attention and Style-based GAN for Content-Style Disentanglement in Image Generation and Translation.**[[PDF](https://arxiv.org/abs/2103.16146)] [[Supplementary Materials](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kwon_Diagonal_Attention_and_ICCV_2021_supplemental.pdf)] [[Github](https://github.com/KwonGihyun/DiagonalGAN)] <br>
 *Gihyun Kwon, Jong Chul Ye.*<br> 
 
-**GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds.**[[PDF](https://arxiv.org/pdf/2104.07659.pdf)]<br>
-*Zekun Hao, Arun Mallya, Serge Belongie, Ming-Yu Liu.*<br>
+**GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds.**[[PDF](https://arxiv.org/pdf/2104.07659.pdf)][[Project](https://nvlabs.github.io/GANcraft/)] [[Github](https://github.com/NVlabs/imaginaire)]<br>
+*[Zekun Hao](https://www.cs.cornell.edu/~zekun/), [Arun Mallya](http://arunmallya.github.io/), [Serge Belongie](https://vision.cornell.edu/se3/people/serge-belongie/), [Ming-Yu Liu](http://mingyuliu.net/).*<br>
 
 **TUNIT: Rethinking the Truly Unsupervised Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2006.05734)] [[Github](https://github.com/clovaai/tunit)]<br>
 *Kyungjune Baek, Yunjey Choi, Youngjung Uh, Jaejun Yoo, Hyunjung Shim.*<br>
@@ -160,7 +160,6 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **UNIST: Unpaired Neural Implicit Shape Translation Network.**<br>
 *Qimin Chen, Johannes Merz, Aditya Sanghi, Hooman Shayani, Ali Mahdavi-Amiri, Hao Zhang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2110.00966)] [[Project](https://qiminchen.github.io/unist/)]
-
 
 **ManiFest: Manifold Deformation for Few-shot Image Translation.**<br>
 *Fabio Pizzati, Jean-François Lalonde, Raoul de Charette.*<br>
@@ -257,6 +256,10 @@ arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08629)]
 **Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
 *Yuki Endo, Yoshihiro Kanamori.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
+
+**Stochastic Actor-Executor-Critic for Image-to-Image Translation.**<br> 
+*Ziwei Luo, Jing Hu, Xin Wang, Siwei Lyu, Bin Kong, Youbing Yin, Qi Song, Xi Wu.*<br> 
+IJCAI 2021. [[PDF](https://arxiv.org/abs/2112.07403)]
 
 **Semantic Map Injected GAN Training for Image-to-Image Translation.**<br> 
 *Balaram Singh Kshatriya, Shiv Ram Dubey, Himangshu Sarma, Kunal Chaudhary, Meva Ram Gurjar, Rahul Rai, Sunny Manchanda.*<br> 
