@@ -19,23 +19,37 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 <details><summary>Table of Contents</summary><p>
 
-- [2021](#year-2021)
-- [2020](#year-2020)
+- [2022](#2022)
+  * [Others](#others)
+- [2021](#2021)
+  * [ICCV 2021](#iccv-2021)
+  * [CVPR 2021](#cvpr-2021)
+  * [ICLR 2021](#iclr-2021)
+  * [Others 2021](#others-2021)
+- [2020](#2020)
   * [ECCV 2020](#eccv-2020)
   * [CVPR 2020](#cvpr-2020)
   * [AAAI 2020](#aaai-2020)
+  * [ACM MM 2020](#acm-mm-2020)
+  * [Journal 2020](#journal-2020)
   * [Others 2020](#others-2020)
-- [2019](#year-2019)
+- [2019](#2019)
   * [NeurIPS 2019](#neurips-2019)
   * [ICCV 2019](#iccv-2019)
   * [CVPR 2019](#cvpr-2019)
   * [ICLR 2019](#iclr-2019)
-  * [AAAI 2019](#aaai-2019)
   * [Journal 2019](#journal-2019)
   * [Others 2019](#others-2019)
 - [Before 2018](#before-2018)
 </p></details><p></p>
 
+## 2022
+### Others
+**SAVI2I: Continuous and Diverse Image-to-Image Translation via Signed Attribute Vectors.**<br>
+*Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Jia-Bin Huang, Siwei Ma, Ming-Hsuan Yang.*<br>
+IJCV 2022. [[PDF](https://arxiv.org/abs/2011.01215)] [[Project](https://helenmao.github.io/SAVI2I/)] [[Github](https://github.com/HelenMao/SAVI2I)]
+
+## 2021
 ### ICCV 2021
 [[accepted paper list](https://openaccess.thecvf.com/ICCV2021)]
 
@@ -603,10 +617,6 @@ arxiv 2020. [[PDF](https://arxiv.org/abs/2011.08114)] [[Project](https://jiupinj
 **Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis.**<br>
 *Wen Liu, Zhixin Piao, Zhi Tu, Wenhan Luo, Lin Ma, Shenghua Gao.*<br>
 arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09055)] [[Github](https://github.com/iPERDance/iPERCore)]
-
-**SAVI2I: Continuous and Diverse Image-to-Image Translation via Signed Attribute Vectors.**<br>
-*Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Jia-Bin Huang, Siwei Ma, Ming-Hsuan Yang.*<br>
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.01215)] [[Project](https://helenmao.github.io/SAVI2I/)] [[Github](https://github.com/HelenMao/SAVI2I)]
 
 **Exploring Generative Adversarial Networks for Image-to-Image Translation in STEM Simulation.**<br>
 *Nick Lawrence, Mingren Shen, Ruiqi Yin, Cloris Feng, Dane Morgan.*<br>
