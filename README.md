@@ -44,6 +44,15 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 </p></details><p></p>
 
 ## 2022
+
+### AAAI 2022
+
+**OA-FSUI2IT: A Novel Few-Shot Cross Domain Object Detection Framework with Object-aware Few-shot Unsupervised Image-to-Image Translation.**<br> 
+*Lifan Zhao, Yunlong Meng, Lin Xu.*<br> 
+
+**Style-Guided and Disentangled Representation for Robust Image-to-Image Translation.**<br> 
+*Jaewoong Choi, Daeha Kim, Byung Cheol Song.*<br> 
+
 ### Others
 **SAVI2I: Continuous and Diverse Image-to-Image Translation via Signed Attribute Vectors.**<br>
 *Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Jia-Bin Huang, Siwei Ma, Ming-Hsuan Yang.*<br>
