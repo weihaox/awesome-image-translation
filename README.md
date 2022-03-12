@@ -45,6 +45,11 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## 2022
 
+### CVPR 2022
+
+**Unsupervised Image-to-Image Translation with Generative Prior.**<br> 
+*[Shuai Yang](https://williamyang1991.github.io/), [Liming Jiang](https://liming-jiang.com/), Ziwei Liu, Chen Change Loy.*<br> 
+
 ### AAAI 2022
 
 **OA-FSUI2IT: A Novel Few-Shot Cross Domain Object Detection Framework with Object-aware Few-shot Unsupervised Image-to-Image Translation.**<br> 
@@ -54,9 +59,18 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Jaewoong Choi, Daeha Kim, Byung Cheol Song.*<br> 
 
 ### Others
+
+**Quality Metric Guided Portrait Line Drawing Generation from Unpaired Training Data.**<br>
+*Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul Rosin.*<br>
+TPAMI 2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9699090)]
+
 **SAVI2I: Continuous and Diverse Image-to-Image Translation via Signed Attribute Vectors.**<br>
 *Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Jia-Bin Huang, Siwei Ma, Ming-Hsuan Yang.*<br>
 IJCV 2022. [[PDF](https://arxiv.org/abs/2011.01215)] [[Project](https://helenmao.github.io/SAVI2I/)] [[Github](https://github.com/HelenMao/SAVI2I)]
+
+**Distilling GANs with Style-Mixed Triplets for X2I Translation with Limited Data.**<br>
+*Yaxing Wang, Joost van de weijer, Lu Yu, Shangling Jui.*<br>
+ICLR 2022. [[PDF](https://openreview.net/forum?id=QjOQkpzKbNk)]
 
 ## 2021
 ### ICCV 2021
