@@ -47,8 +47,20 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2022
 
+**Modulated Contrast for Versatile Image Synthesis.**<br> [[PDF](https://arxiv.org/abs/2203.09333)] [[Github](https://github.com/fnzhan/MoNCE)]
+*[Fangneng Zhan](https://fnzhan.com), Jiahui Zhang, Yingchen Yu, Rongliang Wu, Shijian Lu.*<br> 
+
+**QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation**[[PDF](https://arxiv.org/abs/2203.08483)] [[Github](https://github.com/sapphire497/query-selected-attention)]<br> 
+*Xueqi Hu, Xinyue Zhou, Qiusheng Huang, Zhengyi Shi, Li Sun, Qingli Li.*<br> 
+
+**Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2203.06321)]<br>  
+*Linfeng Zhang, Xin Chen, Xiaobing Tu, Pengfei Wan, Ning Xu, Kaisheng Ma.*<br> 
+
 **Unsupervised Image-to-Image Translation with Generative Prior.**<br> 
 *[Shuai Yang](https://williamyang1991.github.io/), [Liming Jiang](https://liming-jiang.com/), Ziwei Liu, Chen Change Loy.*<br> 
+
+**FlexIT: Towards Flexible Semantic Image Translation.**[[PDF](https://arxiv.org/abs/2203.04705)]<br> 
+*Guillaume Couairon, Asya Grechka, Jakob Verbeek, Holger Schwenk, Matthieu Cord.*<br> 
 
 ### AAAI 2022
 
@@ -59,6 +71,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Jaewoong Choi, Daeha Kim, Byung Cheol Song.*<br> 
 
 ### Others
+
+**Dual Diffusion Implicit Bridges for Image-to-Image Translation.**<br>
+*Xuan Su, Jiaming Song, Chenlin Meng, Stefano Ermon.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.08382)]
 
 **Quality Metric Guided Portrait Line Drawing Generation from Unpaired Training Data.**<br>
 *Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul Rosin.*<br>
@@ -586,6 +602,10 @@ Springer Machine Vision and Applications 2021. [[PDF](https://arxiv.org/abs/2004
 *Yu Han, Shuai Yang, Wenjing Wang, Jiaying Liu.*<br>
 
 ### Journal 2020
+
+**Homomorphic Interpolation Network for Unpaired Image-to-image Translation.**<br>
+*Ying-Cong Chen, Jiaya Jia.*<br>
+TPAMI 2020. [[PDF](https://www.yingcong.me/publication/chen-2020-homomorphic/)]
 
 **Learning to Caricature via Semantic Shape Transform.**<br>
 *Wenqing Chu, Wei-Chih Hung, Yi-Hsuan Tsai, Yu-Ting Chang, Yijun Li, Deng Cai, Ming-Hsuan Yang.*<br>
