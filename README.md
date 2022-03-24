@@ -47,16 +47,16 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2022
 
-**Modulated Contrast for Versatile Image Synthesis.**<br> [[PDF](https://arxiv.org/abs/2203.09333)] [[Github](https://github.com/fnzhan/MoNCE)]
+**Modulated Contrast for Versatile Image Synthesis.**[[PDF](https://arxiv.org/abs/2203.09333)][[Github](https://github.com/fnzhan/MoNCE)]<br>
 *[Fangneng Zhan](https://fnzhan.com), Jiahui Zhang, Yingchen Yu, Rongliang Wu, Shijian Lu.*<br> 
 
-**QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation**[[PDF](https://arxiv.org/abs/2203.08483)] [[Github](https://github.com/sapphire497/query-selected-attention)]<br> 
+**QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation.**[[PDF](https://arxiv.org/abs/2203.08483)][[Github](https://github.com/sapphire497/query-selected-attention)]<br>
 *Xueqi Hu, Xinyue Zhou, Qiusheng Huang, Zhengyi Shi, Li Sun, Qingli Li.*<br> 
 
-**Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2203.06321)]<br>  
+**Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2203.06321)]<br>
 *Linfeng Zhang, Xin Chen, Xiaobing Tu, Pengfei Wan, Ning Xu, Kaisheng Ma.*<br> 
 
-**Unsupervised Image-to-Image Translation with Generative Prior.**<br> 
+**Unsupervised Image-to-Image Translation with Generative Prior.**[[PDF]()]<br> 
 *[Shuai Yang](https://williamyang1991.github.io/), [Liming Jiang](https://liming-jiang.com/), Ziwei Liu, Chen Change Loy.*<br> 
 
 **FlexIT: Towards Flexible Semantic Image Translation.**[[PDF](https://arxiv.org/abs/2203.04705)]<br> 
@@ -71,6 +71,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Jaewoong Choi, Daeha Kim, Byung Cheol Song.*<br> 
 
 ### Others
+
+**Beyond a Video Frame Interpolator: A Space Decoupled Learning Approach to Continuous Image Transition.**<br>
+*Tao Yang, Peiran Ren, Xuansong Xie, Xiansheng Hua, Lei Zhang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.09771)]
 
 **Dual Diffusion Implicit Bridges for Image-to-Image Translation.**<br>
 *Xuan Su, Jiaming Song, Chenlin Meng, Stefano Ermon.*<br>
@@ -212,7 +216,7 @@ ICLR 2022. [[PDF](https://openreview.net/forum?id=QjOQkpzKbNk)]
 
 **SuperStyleNet: Deep Image Synthesis with Superpixel Based Style Encoder.**<br>
 *Jonghuyn Kim, Gen Li, Cheolkon Jung, Joongkyu Kim.*<br>
-BMVC 2021. [[PDF](https://arxiv.org/abs/2112.09367)] [[Project](https://github.com/BenjaminJonghyun/SuperStyleNet)]
+BMVC 2021. [[PDF](https://arxiv.org/abs/2112.09367)] [[Github](https://github.com/BenjaminJonghyun/SuperStyleNet)]
 
 **UNIST: Unpaired Neural Implicit Shape Translation Network.**<br>
 *Qimin Chen, Johannes Merz, Aditya Sanghi, Hooman Shayani, Ali Mahdavi-Amiri, Hao Zhang.*<br>
