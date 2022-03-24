@@ -210,6 +210,10 @@ ICLR 2022. [[PDF](https://openreview.net/forum?id=QjOQkpzKbNk)]
 
 ### Others 2021
 
+**SuperStyleNet: Deep Image Synthesis with Superpixel Based Style Encoder.**<br>
+*Jonghuyn Kim, Gen Li, Cheolkon Jung, Joongkyu Kim.*<br>
+BMVC 2021. [[PDF](https://arxiv.org/abs/2112.09367)] [[Project](https://github.com/BenjaminJonghyun/SuperStyleNet)]
+
 **UNIST: Unpaired Neural Implicit Shape Translation Network.**<br>
 *Qimin Chen, Johannes Merz, Aditya Sanghi, Hooman Shayani, Ali Mahdavi-Amiri, Hao Zhang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2110.00966)] [[Project](https://qiminchen.github.io/unist/)]
