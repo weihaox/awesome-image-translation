@@ -47,6 +47,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2022
 
+**Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2203.12707)][[Github](https://github.com/batmanlab/MSPC)]<br> 
+*[Yanwu Xu](http://xuyanwu.github.io/), Shaoan Xie, Wenhao Wu, Kun Zhang, [Mingming Gong](https://mingming-gong.github.io/), [Kayhan Batmanghelich](https://kayhan.dbmi.pitt.edu/).*<br> 
+
 **Modulated Contrast for Versatile Image Synthesis.**[[PDF](https://arxiv.org/abs/2203.09333)][[Github](https://github.com/fnzhan/MoNCE)]<br>
 *[Fangneng Zhan](https://fnzhan.com), Jiahui Zhang, Yingchen Yu, Rongliang Wu, Shijian Lu.*<br> 
 
