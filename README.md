@@ -47,6 +47,12 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### CVPR 2022
 
+**InstaFormer: Instance-Aware Image-to-Image Translation with Transformer.**[[PDF](https://arxiv.org/abs/2203.16248)]<br> 
+*Soohyun Kim, Jongbeom Baek, Jihye Park, Gyeongnyeon Kim, Seungryong Kim.*<br> 
+
+**A Style-aware Discriminator for Controllable Image Translation.**[[PDF](https://arxiv.org/abs/2203.15375)][[Github](https://github.com/kunheek/style-aware-discriminator)]<br> 
+*Kunhee Kim, Sanghun Park, Eunyeong Jeon, Taehun Kim, Daijin Kim.*<br> 
+
 **Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2203.12707)][[Github](https://github.com/batmanlab/MSPC)]<br> 
 *[Yanwu Xu](http://xuyanwu.github.io/), Shaoan Xie, Wenhao Wu, Kun Zhang, [Mingming Gong](https://mingming-gong.github.io/), [Kayhan Batmanghelich](https://kayhan.dbmi.pitt.edu/).*<br> 
 
@@ -73,7 +79,18 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Style-Guided and Disentangled Representation for Robust Image-to-Image Translation.**<br> 
 *Jaewoong Choi, Daeha Kim, Byung Cheol Song.*<br> 
 
+**Learning Temporally and Semantically Consistent Unpaired Video-to-Video Translation through PseudoSupervision from Synthetic Optical Flow.**<br> 
+*Kaihong Wang, Kumar Akash, Teruhisa Misu.*<br> 
+
 ### Others
+
+**ITTR: Unpaired Image-to-Image Translation with Transformers.**<br>
+*Wanfeng Zheng, Qiang Li, Guoxin Zhang, Pengfei Wan, Zhongyuan Wang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.16015)]
+
+**Semi-Supervised Image-to-Image Translation using Latent Space Mapping.**<br>
+*Pan Zhang, Jianmin Bao, Ting Zhang, Dong Chen, Fang Wen.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.15241)]
 
 **Beyond a Video Frame Interpolator: A Space Decoupled Learning Approach to Continuous Image Transition.**<br>
 *Tao Yang, Peiran Ren, Xuansong Xie, Xiansheng Hua, Lei Zhang.*<br>
