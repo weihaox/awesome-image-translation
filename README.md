@@ -59,13 +59,16 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Modulated Contrast for Versatile Image Synthesis.**[[PDF](https://arxiv.org/abs/2203.09333)][[Github](https://github.com/fnzhan/MoNCE)]<br>
 *[Fangneng Zhan](https://fnzhan.com), Jiahui Zhang, Yingchen Yu, Rongliang Wu, Shijian Lu.*<br> 
 
+**Marginal Contrastive Correspondence for Guided Image Generation.**[[PDF](https://arxiv.org/abs/2204.00442)]<br>
+*Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Shijian Lu, Changgong Zhang.*<br>
+
 **QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation.**[[PDF](https://arxiv.org/abs/2203.08483)][[Github](https://github.com/sapphire497/query-selected-attention)]<br>
 *Xueqi Hu, Xinyue Zhou, Qiusheng Huang, Zhengyi Shi, Li Sun, Qingli Li.*<br> 
 
 **Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2203.06321)]<br>
 *Linfeng Zhang, Xin Chen, Xiaobing Tu, Pengfei Wan, Ning Xu, Kaisheng Ma.*<br> 
 
-**Unsupervised Image-to-Image Translation with Generative Prior.**[[PDF]()]<br> 
+**Unsupervised Image-to-Image Translation with Generative Prior.**[[PDF](https://arxiv.org/abs/2204.03641)] [[Project](https://www.mmlab-ntu.com/project/gpunit/)] [[Github](https://github.com/williamyang1991/GP-UNIT)] <br> 
 *[Shuai Yang](https://williamyang1991.github.io/), [Liming Jiang](https://liming-jiang.com/), Ziwei Liu, Chen Change Loy.*<br> 
 
 **FlexIT: Towards Flexible Semantic Image Translation.**[[PDF](https://arxiv.org/abs/2203.04705)]<br> 
@@ -82,7 +85,11 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Learning Temporally and Semantically Consistent Unpaired Video-to-Video Translation through PseudoSupervision from Synthetic Optical Flow.**<br> 
 *Kaihong Wang, Kumar Akash, Teruhisa Misu.*<br> 
 
-### Others
+### Others 2022
+
+**The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models.**<br>
+*Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe C. Cattin.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.02641)]
 
 **ITTR: Unpaired Image-to-Image Translation with Transformers.**<br>
 *Wanfeng Zheng, Qiang Li, Guoxin Zhang, Pengfei Wan, Zhongyuan Wang.*<br>
@@ -113,6 +120,7 @@ IJCV 2022. [[PDF](https://arxiv.org/abs/2011.01215)] [[Project](https://helenmao
 ICLR 2022. [[PDF](https://openreview.net/forum?id=QjOQkpzKbNk)]
 
 ## 2021
+
 ### ICCV 2021
 [[accepted paper list](https://openaccess.thecvf.com/ICCV2021)]
 
@@ -233,6 +241,10 @@ ICLR 2022. [[PDF](https://openreview.net/forum?id=QjOQkpzKbNk)]
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
 
 ### Others 2021
+
+**UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models.**<br>
+*Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon.*<br>
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05358)] 
 
 **SuperStyleNet: Deep Image Synthesis with Superpixel Based Style Encoder.**<br>
 *Jonghuyn Kim, Gen Li, Cheolkon Jung, Joongkyu Kim.*<br>
