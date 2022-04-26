@@ -171,7 +171,7 @@ ICLR 2022. [[PDF](https://openreview.net/forum?id=QjOQkpzKbNk)]
 *Weilun Wang, Wengang Zhou, Jianmin Bao, Dong Chen, Houqiang Li.*<br>
 
 ### CVPR 2021
-[[accepted paper list](http://openaccess.thecvf.com/CVPR2021.py)]
+[[accepted paper list](https://openaccess.thecvf.com/CVPR2021)]
 
 **Saliency-Guided Image Translation.**[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Saliency-Guided_Image_Translation_CVPR_2021_paper.pdf)]<br>
 *Lai Jiang, Mai Xu, Xiaofei Wang, Leonid Sigal.*<br>
@@ -501,7 +501,7 @@ Springer Machine Vision and Applications 2021. [[PDF](https://arxiv.org/abs/2004
 *Ziqiang Zheng, Yang Wu, Xinran Han, Jianbo Shi.*<br> 
 
 ### CVPR 2020
-[[accepted paper list](http://openaccess.thecvf.com/CVPR2020.py)]
+[[accepted paper list](https://openaccess.thecvf.com/CVPR2020)]
 
 **Learning to Cartoonize Using White-box Cartoon Representations.**[[PDF](https://systemerrorwang.github.io/White-box-Cartoonization/paper/06791.pdf)][[Github](https://github.com/SystemErrorWang/White-box-Cartoonization)][[Project](https://systemerrorwang.github.io/White-box-Cartoonization/)]<br>
 *Xinrui Wang and Jinze Yu.*<br>  
@@ -888,10 +888,13 @@ Tristan Bepler, Ellen Zhong, Kotaro Kelley, Edward Brignole, Bonnie Berger.*
 *Wen Liu, Zhixin Piao, Jie Min, Wenhan Luo, Lin Ma, Shenghua Gao.*
 
 ### CVPR 2019 
-[[accepted paper list](http://openaccess.thecvf.com/CVPR2019.py)]
+[[accepted paper list](https://openaccess.thecvf.com/CVPR2019)]
 
 **CollaGAN : Collaborative GAN for Missing Image Data Imputation.**[[PDF](https://arxiv.org/abs/1901.09764)]<br>
 *Dongwook Lee, Junyoung Kim, Won-Jin Moon, Jong Chul Ye.*<br>
+
+**Reversible GANs for Memory-efficient Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/1902.02729)] [[Project](https://tychovdo.github.io/RevGAN/)] [[Github](https://github.com/tychovdo/RevGAN)]<br> 
+*[Tycho F.A. van der Ouderaa](https://tychovdo.github.io/), [Daniel E. Worrall](https://deworrall92.github.io/).*<br>
 
 **Latent Filter Scaling for Multimodal Unsupervised Image-To-Image Translation.** [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Alharbi_Latent_Filter_Scaling_for_Multimodal_Unsupervised_Image-To-Image_Translation_CVPR_2019_paper.html)]<br>
 *Yazeed Alharbi, Neil Smith, Peter Wonka.*<br>
