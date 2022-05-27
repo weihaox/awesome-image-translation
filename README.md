@@ -87,6 +87,14 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others 2022
 
+**Region-aware Knowledge Distillation for Efficient Image-to-Image Translation.**<br>
+*Linfeng Zhang, Xin Chen, Runpei Dong, Kaisheng Ma.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.12451)]
+
+**Pretraining is All You Need for Image-to-Image Translation.**<br>
+*Tengfei Wang, Ting Zhang, Bo Zhang, Hao Ouyang, Dong Chen, Qifeng Chen, Fang Wen.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.12952)] [[Project](https://tengfei-wang.github.io/PITI/index.html)]
+
 **The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models.**<br>
 *Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe C. Cattin.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2204.02641)]
@@ -106,6 +114,14 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2203.09771)]
 **Dual Diffusion Implicit Bridges for Image-to-Image Translation.**<br>
 *Xuan Su, Jiaming Song, Chenlin Meng, Stefano Ermon.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.08382)]
+
+**Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN.**<br>
+*Dongyeun Lee, Jae Young Lee, Doyeon Kim, Jaehyun Choi, Junmo Kim.*<br>
+CVPR 2022 Workshop on AI for Content Creation (AICC 2022). [[PDF](https://arxiv.org/abs/2204.14079)]
+
+**Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation.**<br>
+*Zekang Chen, Jia Wei, Rui Li.*<br>
+IJCAI 2022. [[PDF](https://arxiv.org/abs/2204.13656)]
 
 **Quality Metric Guided Portrait Line Drawing Generation from Unpaired Training Data.**<br>
 *Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul Rosin.*<br>
