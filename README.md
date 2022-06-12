@@ -3,6 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](http://makeapullrequest.com) 
 ![GitHub contributors](https://img.shields.io/github/contributors/weihaox/awesome-image-translation?color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox) 
 
 A collection of resources on image-to-image translation. 
 
@@ -46,6 +47,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 ## 2022
 
 ### CVPR 2022
+
+**Exploring Patch-Wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks.**[[PDF](http://arxiv.org/abs/2203.01532)]<br> 
+*Chanyong Jung, Gihyun Kwon, Jong Chul Ye.*<br> 
 
 **InstaFormer: Instance-Aware Image-to-Image Translation with Transformer.**[[PDF](https://arxiv.org/abs/2203.16248)]<br> 
 *Soohyun Kim, Jongbeom Baek, Jihye Park, Gyeongnyeon Kim, Seungryong Kim.*<br> 
