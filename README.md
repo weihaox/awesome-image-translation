@@ -46,6 +46,11 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## 2022
 
+### ECCV 2022
+
+**Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis.**[[PDF](https://arxiv.org/abs/2207.05049)] [[Project](https://fast-vid2vid.github.io/)] [[Github](https://github.com/fast-vid2vid/fast-vid2vid)]<br> 
+*Long Zhuo, Guangcong Wang, Shikai Li, Wayne Wu, Ziwei Liu.*<br> 
+
 ### CVPR 2022
 
 **Exploring Patch-Wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks.**[[PDF](http://arxiv.org/abs/2203.01532)]<br> 
@@ -72,7 +77,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2203.06321)]<br>
 *Linfeng Zhang, Xin Chen, Xiaobing Tu, Pengfei Wan, Ning Xu, Kaisheng Ma.*<br> 
 
-**Unsupervised Image-to-Image Translation with Generative Prior.**[[PDF](https://arxiv.org/abs/2204.03641)] [[Project](https://www.mmlab-ntu.com/project/gpunit/)] [[Github](https://github.com/williamyang1991/GP-UNIT)] <br> 
+**Unsupervised Image-to-Image Translation with Generative Prior.**[[PDF](https://arxiv.org/abs/2204.03641)] [[Project](https://www.mmlab-ntu.com/project/gpunit/)] [[Github](https://github.com/williamyang1991/GP-UNIT)]<br> 
 *[Shuai Yang](https://williamyang1991.github.io/), [Liming Jiang](https://liming-jiang.com/), Ziwei Liu, Chen Change Loy.*<br> 
 
 **FlexIT: Towards Flexible Semantic Image Translation.**[[PDF](https://arxiv.org/abs/2203.04705)]<br> 
@@ -90,6 +95,18 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Kaihong Wang, Kumar Akash, Teruhisa Misu.*<br> 
 
 ### Others 2022
+
+**StyleFlow For Content-Fixed Image to Image Translation.**<br>
+*Weichen Fan, Jinghuan Chen, Jiabin Ma, Jun Hou, Shuai Yi.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.01909)]
+
+**EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations.**<br>
+*Min Zhao, Fan Bao, Chongxuan Li, Jun Zhu.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.06635)]
+
+**PI-Trans: Parallel-ConvMLP and Implicit-Transformation Based GAN for Cross-View Image Translation.**<br>
+*Bin Ren, Hao Tang, Yiming Wang, Xia Li, Wei Wang, Nicu Sebe.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.04242)] [[Github](https://github.com/Amazingren/PI-Trans)]
 
 **Region-aware Knowledge Distillation for Efficient Image-to-Image Translation.**<br>
 *Linfeng Zhang, Xin Chen, Runpei Dong, Kaisheng Ma.*<br>
