@@ -51,6 +51,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis.**[[PDF](https://arxiv.org/abs/2207.05049)] [[Project](https://fast-vid2vid.github.io/)] [[Github](https://github.com/fast-vid2vid/fast-vid2vid)]<br> 
 *Long Zhuo, Guangcong Wang, Shikai Li, Wayne Wu, Ziwei Liu.*<br> 
 
+**ManiFest: Manifold Deformation for Few-shot Image Translation.**[[PDF](https://arxiv.org/abs/2111.13681)] [[GitHub](https://github.com/cv-rits/Manifest)]<br>
+*[Fabio Pizzati](https://fabvio.github.io), [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/), [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
+
 ### CVPR 2022
 
 **Exploring Patch-Wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks.**[[PDF](http://arxiv.org/abs/2203.01532)]<br> 
@@ -290,10 +293,6 @@ BMVC 2021. [[PDF](https://arxiv.org/abs/2112.09367)] [[Github](https://github.co
 **UNIST: Unpaired Neural Implicit Shape Translation Network.**<br>
 *Qimin Chen, Johannes Merz, Aditya Sanghi, Hooman Shayani, Ali Mahdavi-Amiri, Hao Zhang.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2110.00966)] [[Project](https://qiminchen.github.io/unist/)]
-
-**ManiFest: Manifold Deformation for Few-shot Image Translation.**<br>
-*Fabio Pizzati, Jean-François Lalonde, Raoul de Charette.*<br>
-arxiv 2021. [[PDF](https://arxiv.org/abs/2111.13681)] 
 
 **A Novel Framework for Image-to-image Translation and Image Compression.**<br>
 *Fei Yang, Yaxing Wang, Luis Herranz, Yongmei Cheng, Mikhail Mozerov.*<br>
