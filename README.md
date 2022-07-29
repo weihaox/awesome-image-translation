@@ -54,6 +54,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **ManiFest: Manifold Deformation for Few-shot Image Translation.**[[PDF](https://arxiv.org/abs/2111.13681)] [[GitHub](https://github.com/cv-rits/Manifest)]<br>
 *[Fabio Pizzati](https://fabvio.github.io), [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/), [Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/).*<br>
 
+**Vector Quantized Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2207.13286)] [[Project](https://cyj407.github.io/VQ-I2I/)] [[Github](https://github.com/cyj407/VQ-I2I)]<br>
+*[Yu-Jie Chen](cyj407.cs09g@nctu.edu.tw), [Shin-I Cheng](shinicheng.cs09g@nctu.edu.tw), [Wei-Chen Chiu](https://walonchiu.github.io/#publications), [Hung-Yu Tseng](https://hytseng0509.github.io/), [Hsin-Ying Lee](http://hsinyinglee.com/).*<br>
+
+
 ### CVPR 2022
 
 **Exploring Patch-Wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks.**[[PDF](http://arxiv.org/abs/2203.01532)]<br> 
