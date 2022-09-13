@@ -57,6 +57,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **Vector Quantized Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2207.13286)] [[Project](https://cyj407.github.io/VQ-I2I/)] [[Github](https://github.com/cyj407/VQ-I2I)]<br>
 *[Yu-Jie Chen](cyj407.cs09g@nctu.edu.tw), [Shin-I Cheng](shinicheng.cs09g@nctu.edu.tw), [Wei-Chen Chiu](https://walonchiu.github.io/#publications), [Hung-Yu Tseng](https://hytseng0509.github.io/), [Hsin-Ying Lee](http://hsinyinglee.com/).*<br>
 
+**Unpaired Image Translation via Vector Symbolic Architectures.**[[PDF](https://arxiv.org/abs/2209.02686)] [[Project](https://github.com/facebookresearch/vsait)]<br>
+*Justin Theiss, Jay Leverett, Daeil Kim, Aayush Prakash.*
 
 ### CVPR 2022
 
