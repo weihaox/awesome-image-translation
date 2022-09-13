@@ -278,7 +278,7 @@ ICLR 2022. [[PDF](https://openreview.net/forum?id=QjOQkpzKbNk)]
 
 [[accepted paper list](https://openreview.net/group?id=ICLR.cc/2021/Conference)]
 
-**DINO: A Conditional Energy-Based GAN for Domain Translation.**[[PDF](https://arxiv.org/abs/2102.09281)]<br>
+**DINO: A Conditional Energy-Based GAN for Domain Translation.**[[PDF](https://arxiv.org/abs/2102.09281)] [[GitHub](https://github.com/DinoMan/DINO)]<br>
 *Konstantinos Vougioukas, Stavros Petridis, Maja Pantic.*<br>
 
 **Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**[[PDF](https://arxiv.org/abs/2102.01187)]<br>
