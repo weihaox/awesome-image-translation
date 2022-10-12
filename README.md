@@ -296,6 +296,10 @@ ICLR 2022. [[PDF](https://openreview.net/forum?id=QjOQkpzKbNk)]
 
 ### Others 2021
 
+**Neural Photometry-guided Visual Attribute Transfer.**<br>
+*[Carlos Rodriguez-Pardo](https://carlosrodriguezpardo.es/), Elena Garces*<br>
+Transactions on Visualizations and Computer Graphics. [[PDF](https://arxiv.org/abs/2112.02520)] [[Project](https://carlosrodriguezpardo.es/projects/NeuralPhotometricTransfer/)] [[Video](https://youtu.be/9Cfi9DDenGc)] 
+
 **UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models.**<br>
 *Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon.*<br>
 arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05358)] 
