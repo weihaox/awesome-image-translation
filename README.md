@@ -3,7 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](http://makeapullrequest.com) 
 ![GitHub contributors](https://img.shields.io/github/contributors/weihaox/awesome-image-translation?color=blue)
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox) 
+![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox/awesome-image-translation) 
 
 A collection of resources on image-to-image translation. 
 
@@ -104,6 +104,14 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Kaihong Wang, Kumar Akash, Teruhisa Misu.*<br> 
 
 ### Others 2022
+
+**Diffusion-based Image Translation using Disentangled Style and Content Representation.**<br>
+*Gihyun Kwon, Jong Chul Ye.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.15264)]
+
+**MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation.**<br>
+*Junyoung Seo, Gyuseong Lee, Seokju Cho, Jiyoung Lee, Seungryong Kim.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.11047)]
 
 **StyleFlow For Content-Fixed Image to Image Translation.**<br>
 *Weichen Fan, Jinghuan Chen, Jiabin Ma, Jun Hou, Shuai Yi.*<br>
