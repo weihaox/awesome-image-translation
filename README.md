@@ -21,6 +21,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 <details><summary>Table of Contents</summary><p>
 
 - [2022](#2022)
+  * [NeurIPS 2022](#neurips-2022)
+  * [ECCV 2022](#eccv-2022)
+  * [CVPR 2022](#cvpr-2022)
   * [Others](#others)
 - [2021](#2021)
   * [ICCV 2021](#iccv-2021)
@@ -46,7 +49,20 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## 2022
 
+### NeurIPS 2022
+[[accepted paper list](https://neurips.cc/virtual/2022/papers.html)]
+
+**EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations.**[[PDF](https://arxiv.org/abs/2207.06635)] [[Github](https://github.com/ML-GSAI/EGSDE)]<br>
+*Min Zhao, Fan Bao, Chongxuan Li, Jun Zhu.*<br>
+
+**Unsupervised Image-to-Image Translation with Density Changing Regularization.**[[PDF](https://openreview.net/pdf?id=RNZ8JOmNaV4)] [[Github](https://github.com/Mid-Push/Decent)]<br>
+*Shaoan Xie, Qirong Ho, Kun Zhang.*<br>
+
 ### ECCV 2022
+[[accepted paper list](https://www.ecva.net/papers.php)]
+
+**Multi-Curve Translator for High-Resolution Photorealistic Image Translation.**[[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750124.pdf)]<br>
+*Yuda Song, Hui Qian, Xin Du.*<br>
 
 **Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis.**[[PDF](https://arxiv.org/abs/2207.05049)] [[Project](https://fast-vid2vid.github.io/)] [[Github](https://github.com/fast-vid2vid/fast-vid2vid)]<br> 
 *Long Zhuo, Guangcong Wang, Shikai Li, Wayne Wu, Ziwei Liu.*<br> 
@@ -105,9 +121,13 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ### Others 2022
 
+**DiffGAR: Model-Agnostic Restoration from Generative Artifacts Using Image-to-Image Diffusion Models.**<br>
+*Yueqin Yin, Lianghua Huang, Yu Liu, Kaiqi Huang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2210.08573)]
+
 **Diffusion-based Image Translation using Disentangled Style and Content Representation.**<br>
 *Gihyun Kwon, Jong Chul Ye.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2209.15264)]
+arxiv 2022. [[PDF](https://arxiv.org/abs/2209.15264)] [[Github](https://github.com/anon294384/DiffuseIT)]
 
 **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation.**<br>
 *Junyoung Seo, Gyuseong Lee, Seokju Cho, Jiyoung Lee, Seungryong Kim.*<br>
@@ -116,10 +136,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2209.11047)]
 **StyleFlow For Content-Fixed Image to Image Translation.**<br>
 *Weichen Fan, Jinghuan Chen, Jiabin Ma, Jun Hou, Shuai Yi.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2207.01909)]
-
-**EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations.**<br>
-*Min Zhao, Fan Bao, Chongxuan Li, Jun Zhu.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2207.06635)]
 
 **PI-Trans: Parallel-ConvMLP and Implicit-Transformation Based GAN for Cross-View Image Translation.**<br>
 *Bin Ren, Hao Tang, Yiming Wang, Xia Li, Wei Wang, Nicu Sebe.*<br>
