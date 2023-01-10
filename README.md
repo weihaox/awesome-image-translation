@@ -20,6 +20,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 <details><summary>Table of Contents</summary><p>
 
+- [2023](#2023)
 - [2022](#2022)
   * [NeurIPS 2022](#neurips-2022)
   * [ECCV 2022](#eccv-2022)
@@ -46,6 +47,20 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
   * [Others 2019](#others-2019)
 - [Before 2018](#before-2018)
 </p></details><p></p>
+
+
+## 2023
+
+### WACV 2022
+
+**Panoptic-Aware Image-to-Image Translation.**[[PDF](https://openaccess.thecvf.com/content/WACV2023/html/Zhang_Panoptic-Aware_Image-to-Image_Translation_WACV_2023_paper.html)]<br>
+*Liyun Zhang, Photchara Ratsamee, Bowen Wang, Zhaojie Luo, Yuki Uranishi, Manabu Higashida, Haruo Takemura.*<br>
+
+**RIFT: Disentangled Unsupervised Image Translation via Restricted Information Flow.**[[PDF](https://openaccess.thecvf.com/content/WACV2023/html/Usman_RIFT_Disentangled_Unsupervised_Image_Translation_via_Restricted_Information_Flow_WACV_2023_paper.html)]<br>
+*Ben Usman, Dina Bashkirova, Kate Saenko.*<br>
+
+**WHFL: Wavelet-Domain High Frequency Loss for Sketch-to-Image Translation.**[[PDF](https://openaccess.thecvf.com/content/WACV2023/html/Kim_WHFL_Wavelet-Domain_High_Frequency_Loss_for_Sketch-to-Image_Translation_WACV_2023_paper.html)]<br>
+*Min Woo Kim, Nam Ik Cho.*<br>
 
 ## 2022
 
@@ -84,8 +99,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 **InstaFormer: Instance-Aware Image-to-Image Translation with Transformer.**[[PDF](https://arxiv.org/abs/2203.16248)]<br> 
 *Soohyun Kim, Jongbeom Baek, Jihye Park, Gyeongnyeon Kim, Seungryong Kim.*<br> 
 
-**A Style-aware Discriminator for Controllable Image Translation.**[[PDF](https://arxiv.org/abs/2203.15375)][[Github](https://github.com/kunheek/style-aware-discriminator)]<br> 
-*Kunhee Kim, Sanghun Park, Eunyeong Jeon, Taehun Kim, Daijin Kim.*<br> 
+**A Style-aware Discriminator for Controllable Image Translation.**[[PDF](https://arxiv.org/abs/2203.15375)] [[Github](https://github.com/kunheek/style-aware-discriminator)]<br> 
+*[Kunhee Kim](https://www.kunheekim.xyz/), Sanghun Park, Eunyeong Jeon, Taehun Kim, Daijin Kim.*<br> 
 
 **Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2203.12707)][[Github](https://github.com/batmanlab/MSPC)]<br> 
 *[Yanwu Xu](http://xuyanwu.github.io/), Shaoan Xie, Wenhao Wu, Kun Zhang, [Mingming Gong](https://mingming-gong.github.io/), [Kayhan Batmanghelich](https://kayhan.dbmi.pitt.edu/).*<br> 
@@ -120,6 +135,10 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Kaihong Wang, Kumar Akash, Teruhisa Misu.*<br> 
 
 ### Others 2022
+
+**DSI2I: Dense Style for Unpaired Image-to-Image Translation.**<br>
+*Baran Ozaydin, Tong Zhang, Sabine Susstrunk, Mathieu Salzmann.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2212.13253)]
 
 **DiffGAR: Model-Agnostic Restoration from Generative Artifacts Using Image-to-Image Diffusion Models.**<br>
 *Yueqin Yin, Lianghua Huang, Yu Liu, Kaiqi Huang.*<br>
