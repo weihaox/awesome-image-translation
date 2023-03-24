@@ -52,7 +52,6 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 ## 2023
 
 ### AAAI 2023
-
 **SHUNIT: Style Harmonization for Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2301.04685)]<br>
 *Seokbeom Song, Suhyeon Lee, Hongje Seong, Kyoungwon Min, Euntai Kim.*<br>
 
@@ -73,11 +72,12 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *[Guan-Horng Liu](https://ghliu.github.io/), Arash Vahdat, De-An Huang, Evangelos A. Theodorou, Weili Nie, Anima Anandkumar.*<br>
 arxiv 2023. [[PDF](https://arxiv.org/abs/2302.05872)] [[Project](https://i2sb.github.io/)]
 
+**Diffusion-based Image Translation using Disentangled Style and Content Representation.**<br>
+*[Gihyun Kwon](https://sites.google.com/view/gihyunkwon), [Jong Chul Ye](https://bispl.weebly.com/professor.html).*<br>
+ICLR 2023. [[PDF](https://arxiv.org/abs/2209.15264)] [[Github](https://github.com/anon294384/DiffuseIT)]
+
 **Dual Diffusion Implicit Bridges for Image-to-Image Translation.**<br>
-*[Xuan Su](https://github.com/suxuann/ddib),
-[Jiaming Song](https://tsong.me/),
-[Chenlin Meng](https://cs.stanford.edu/~chenlin/),
-[Stefano Ermon](https://cs.stanford.edu/~ermon/).*<br>
+*[Xuan Su](https://github.com/suxuann/ddib), [Jiaming Song](https://tsong.me/), [Chenlin Meng](https://cs.stanford.edu/~chenlin/), [Stefano Ermon](https://cs.stanford.edu/~ermon/).*<br>
 ICLR 2023. [[PDF](https://arxiv.org/abs/2203.08382)] [[Github](https://github.com/suxuann/ddib)]
 
 ## 2022
@@ -163,6 +163,10 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2203.08382)] [[Github](https://github.co
 
 ### Others 2022
 
+**VQBB: Image-to-image Translation with Vector Quantized Brownian Bridge.**<br>
+*Bo Li, Kaitao Xue, Bin Liu, Yu-Kun Lai.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.07680)]
+
 **DSI2I: Dense Style for Unpaired Image-to-Image Translation.**<br>
 *Baran Ozaydin, Tong Zhang, Sabine Susstrunk, Mathieu Salzmann.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2212.13253)]
@@ -170,10 +174,6 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2212.13253)]
 **DiffGAR: Model-Agnostic Restoration from Generative Artifacts Using Image-to-Image Diffusion Models.**<br>
 *Yueqin Yin, Lianghua Huang, Yu Liu, Kaiqi Huang.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.08573)]
-
-**Diffusion-based Image Translation using Disentangled Style and Content Representation.**<br>
-*Gihyun Kwon, Jong Chul Ye.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2209.15264)] [[Github](https://github.com/anon294384/DiffuseIT)]
 
 **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation.**<br>
 *[Junyoung Seo](https://github.com/Seokju-Cho), Gyuseong Lee, Seokju Cho, Jiyoung Lee, Seungryong Kim.*<br>
