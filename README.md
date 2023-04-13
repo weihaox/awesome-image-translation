@@ -9,7 +9,7 @@ A collection of resources on image-to-image translation.
 
 ## Contributing
 
-Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls). You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) to produce them in the markdown format.
+Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-image-translation/pulls). You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) to produce them in the markdown format.
 
 ``` markdown
 **Here is the Paper Name.**<br>
@@ -50,7 +50,29 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## 2023
 
+### CVPR 2023
+[[accepted paper list](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)]
+
+**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data.**[[PDF](https://arxiv.org/abs/2208.14889)]<br>
+Jihye Park, Sunwoo Kim, Soohyun Kim, Jaejun Yoo, Seokju Cho, Youngjung Uh, Seungryong Kim
+
+**BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models.**[[PDF](https://arxiv.org/abs/2205.07680)]<br>
+*Bo Li, Kaitao Xue, Bin Liu, Yu-Kun Lai.*<br>
+
+**Unpaired Image-to-Image Translation with Shortest Path Regularization.**[[PDF]()]<br>
+*Shaoan Xie, Yanwu Xu,  Mingming Gong, Kun Zhang.*<br>    
+
+**Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2211.12572)] [[Github](https://github.com/MichalGeyer/plug-and-play)]<br>
+*Narek Tumanyan, Michal Geyer, Shai Bagon, Tali Dekel.*<br>
+
+**3D-Aware Multi-Class Image-to-Image Translation with NeRFs.**[[PDF](https://arxiv.org/abs/2303.15012)] [[Github](https://github.com/sen-mao/3di2i-translation)]<br>
+Senmao Li, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang
+
+**Masked and Adaptive Transformer for Exemplar Based Image Translation.**[[PDF](https://arxiv.org/abs/2303.17123)] [[Github](https://github.com/AiArt-HDU/MATEBIT)]<br>
+*Chang Jiang, Fei Gao, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu.*<br>
+
 ### AAAI 2023
+
 **SHUNIT: Style Harmonization for Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2301.04685)]<br>
 *Seokbeom Song, Suhyeon Lee, Hongje Seong, Kyoungwon Min, Euntai Kim.*<br>
 
@@ -161,10 +183,6 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2203.08382)] [[Github](https://github.co
 *Kaihong Wang, Kumar Akash, Teruhisa Misu.*<br> 
 
 ### Others 2022
-
-**BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models.**<br>
-*Bo Li, Kaitao Xue, Bin Liu, Yu-Kun Lai.*<br>                
-arxiv 2022. [[PDF](https://arxiv.org/abs/2205.07680)]
 
 **DSI2I: Dense Style for Unpaired Image-to-Image Translation.**<br>
 *Baran Ozaydin, Tong Zhang, Sabine Susstrunk, Mathieu Salzmann.*<br>
