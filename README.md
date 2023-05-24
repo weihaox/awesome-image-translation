@@ -53,6 +53,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 ### CVPR 2023
 [[accepted paper list](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)]
 
+**ReDirTrans: Latent-to-Latent Translation for Gaze and Head Redirection.**[[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_ReDirTrans_Latent-to-Latent_Translation_for_Gaze_and_Head_Redirection_CVPR_2023_paper.pdf)]<br>
+Shiwei Jin, Zhen Wang, Lei Wang, Ning Bi, Truong Nguyen
+
 **LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data.**[[PDF](https://arxiv.org/abs/2208.14889)]<br>
 Jihye Park, Sunwoo Kim, Soohyun Kim, Jaejun Yoo, Seokju Cho, Youngjung Uh, Seungryong Kim
 
@@ -88,6 +91,10 @@ Senmao Li, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jia
 *Min Woo Kim, Nam Ik Cho.*<br>
 
 ### Others 2023
+
+**ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation.**<br>
+*Yupei Lin, Sen Zhang, Xiaojun Yang, Xiao Wang, Yukai Shi.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.04651v1)] [[Project](https://yupeilin2388.github.io/publication/ReDiffuser)]
 
 **I2SB: Image-to-Image Schrödinger Bridge.**<br>
 *[Guan-Horng Liu](https://ghliu.github.io/), Arash Vahdat, De-An Huang, Evangelos A. Theodorou, Weili Nie, Anima Anandkumar.*<br>
