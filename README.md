@@ -50,14 +50,19 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## 2023
 
+### ICCV 2023
+
+**Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2308.12968)] [[Project](https://yuxinn-j.github.io/projects/Scenimefy.html)] [[Github](https://github.com/Yuxinn-J/Scenimefy)] <br>
+*Yuxin Jiang, Liming Jiang, Shuai Yang, Chen Change Loy.*<br>
+
 ### CVPR 2023
 [[accepted paper list](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)]
 
 **ReDirTrans: Latent-to-Latent Translation for Gaze and Head Redirection.**[[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_ReDirTrans_Latent-to-Latent_Translation_for_Gaze_and_Head_Redirection_CVPR_2023_paper.pdf)]<br>
-Shiwei Jin, Zhen Wang, Lei Wang, Ning Bi, Truong Nguyen
+*Shiwei Jin, Zhen Wang, Lei Wang, Ning Bi, Truong Nguyen.*<br>
 
 **LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data.**[[PDF](https://arxiv.org/abs/2208.14889)]<br>
-Jihye Park, Sunwoo Kim, Soohyun Kim, Jaejun Yoo, Seokju Cho, Youngjung Uh, Seungryong Kim
+*Jihye Park, Sunwoo Kim, Soohyun Kim, Jaejun Yoo, Seokju Cho, Youngjung Uh, Seungryong Kim.*<br>
 
 **BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models.**[[PDF](https://arxiv.org/abs/2205.07680)]<br>
 *Bo Li, Kaitao Xue, Bin Liu, Yu-Kun Lai.*<br>
@@ -92,13 +97,13 @@ Senmao Li, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jia
 
 ### Others 2023
 
-**ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation.**<br>
-*Yupei Lin, Sen Zhang, Xiaojun Yang, Xiao Wang, Yukai Shi.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.04651v1)] [[Project](https://yupeilin2388.github.io/publication/ReDiffuser)]
+**Image-to-Image Translation with Disentangled Latent Vectors for Face Editing.**<br>
+*Yusuf Dalva, Hamza Pehlivan, Oyku Irmak Hatipoglu, Cansu Moran, Aysegul Dundar.*<br>
+TPAMI 2023. [[PDF](https://ieeexplore.ieee.org/abstract/document/10229229)]
 
-**I2SB: Image-to-Image Schrödinger Bridge.**<br>
-*[Guan-Horng Liu](https://ghliu.github.io/), Arash Vahdat, De-An Huang, Evangelos A. Theodorou, Weili Nie, Anima Anandkumar.*<br>
-arxiv 2023. [[PDF](https://arxiv.org/abs/2302.05872)] [[Project](https://i2sb.github.io/)]
+**GP-UNIT: Generative Prior for Versatile Unsupervised Image-to-Image Translation.**<br>
+*Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy.*<br>
+TPAMI 2023. [[PDF](https://arxiv.org/abs/2306.04636)]
 
 **Diffusion-based Image Translation using Disentangled Style and Content Representation.**<br>
 *[Gihyun Kwon](https://sites.google.com/view/gihyunkwon), [Jong Chul Ye](https://bispl.weebly.com/professor.html).*<br>
@@ -107,6 +112,18 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2209.15264)] [[Github](https://github.co
 **Dual Diffusion Implicit Bridges for Image-to-Image Translation.**<br>
 *[Xuan Su](https://github.com/suxuann/ddib), [Jiaming Song](https://tsong.me/), [Chenlin Meng](https://cs.stanford.edu/~chenlin/), [Stefano Ermon](https://cs.stanford.edu/~ermon/).*<br>
 ICLR 2023. [[PDF](https://arxiv.org/abs/2203.08382)] [[Github](https://github.com/suxuann/ddib)]
+
+**DiffI2I: Efficient Diffusion Model for Image-to-Image Translation.**<br>
+*Bin Xia, Yulun Zhang, Shiyin Wang, Yitong Wang, Xinglong Wu, Yapeng Tian, Wenming Yang, Radu Timotfe, Luc Van Gool.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2308.13767v1)]
+
+**ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation.**<br>
+*Yupei Lin, Sen Zhang, Xiaojun Yang, Xiao Wang, Yukai Shi.*<br> 
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.04651v1)] [[Project](https://yupeilin2388.github.io/publication/ReDiffuser)]
+
+**I2SB: Image-to-Image Schrödinger Bridge.**<br>
+*[Guan-Horng Liu](https://ghliu.github.io/), Arash Vahdat, De-An Huang, Evangelos A. Theodorou, Weili Nie, Anima Anandkumar.*<br>
+arxiv 2023. [[PDF](https://arxiv.org/abs/2302.05872)] [[Project](https://i2sb.github.io/)]
 
 ## 2022
 
@@ -231,13 +248,13 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2203.16015)] [[Github](https://github.c
 *Pan Zhang, Jianmin Bao, Ting Zhang, Dong Chen, Fang Wen.*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2203.15241)]
 
-**Beyond a Video Frame Interpolator: A Space Decoupled Learning Approach to Continuous Image Transition.**<br>
-*[Tao Yang](https://cg.cs.tsinghua.edu.cn/people/~tyang), Peiran Ren, Xuansong Xie, Xiansheng Hua, Lei Zhang.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.09771)] [[Github](https://github.com/yangxy/SDL)]
-
 **Image-to-Image Translation with Text Guidance.**<br>
 *Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>                
 BMVC 2022. [[PDF](https://arxiv.org/abs/2002.05235)]
+
+**Beyond a Video Frame Interpolator: A Space Decoupled Learning Approach to Continuous Image Transition.**<br>
+*[Tao Yang](https://cg.cs.tsinghua.edu.cn/people/~tyang), Peiran Ren, Xuansong Xie, Xiansheng Hua, Lei Zhang.*<br>
+ECCV 2022 Workshop. [[PDF](https://arxiv.org/abs/2203.09771)] [[Github](https://github.com/yangxy/SDL)]
 
 **Single Image Texture Translation for Data Augmentation.**<br>
 *Boyi Li, Yin Cui, Tsung-Yi Lin, Serge Belongie.*<br>
@@ -271,11 +288,14 @@ IJCV 2022. [[PDF](https://arxiv.org/abs/2011.01215)] [[Project](https://helenmao
 *Yaxing Wang, Joost van de weijer, Lu Yu, Shangling Jui.*<br>
 ICLR 2022. [[PDF](https://openreview.net/forum?id=QjOQkpzKbNk)]
 
+**Exploring Negatives in Contrastive Learning for Unpaired Image-to-Image Translation.**<br>
+*Yupei Lin, Sen Zhang, Tianshui Chen, Yongyi Lu, Guangping Li, Yukai Shi.*<br>
+ACM MM 2022. [[PDF](https://arxiv.org/abs/2204.11018)] [[Github](https://github.com/YupeiLin2388/Exploring-Negatives-in-Contrastive-Learning-for-Unpaired-Image-to-Image-Translation)]
+
 ## 2021
 
 ### ICCV 2021
 [[accepted paper list](https://openaccess.thecvf.com/ICCV2021)]
-
 
 **Image Shape Manipulation from A Single Augmented Training Sample.**[PDF](https://arxiv.org/abs/2007.01289)] [[Project](http://www.vision.huji.ac.il/deepsim/)] [[Github](https://github.com/eliahuhorwitz/DeepSIM)]<br>
 *[Yael Vinker](https://www.linkedin.com/in/yael-vinker-a91a00157/), [Eliahu Horwitz](https://www.linkedin.com/in/eliahu-horwitz), Nir Zabari, [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
