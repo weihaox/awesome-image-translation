@@ -19,6 +19,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 <details><summary>Table of Contents</summary><p>
 
+- [Open Source Frameworks](#open-source-frameworks)
 - [2023](#2023)
 - [2022](#2022)
   * [NeurIPS 2022](#neurips-2022)
@@ -47,6 +48,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Before 2018](#before-2018)
 </p></details><p></p>
 
+## Open Source Frameworks
+* [joliGEN - An integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN)
 
 ## 2023
 
