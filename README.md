@@ -21,6 +21,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 - [Open Source Frameworks](#open-source-frameworks)
 - [2023](#2023)
+  * [ICCV 2023](#iccv-2023)
+  * [CVPR 2023](#cvpr-2023)
+  * [WACV 2023](#wacv-2023)
 - [2022](#2022)
   * [NeurIPS 2022](#neurips-2022)
   * [ECCV 2022](#eccv-2022)
@@ -54,9 +57,19 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 ## 2023
 
 ### ICCV 2023
+[[accepted paper list](https://openaccess.thecvf.com/ICCV2023)]
 
-**Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2308.12968)] [[Project](https://yuxinn-j.github.io/projects/Scenimefy.html)] [[Github](https://github.com/Yuxinn-J/Scenimefy)] <br>
+**Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2308.12968)] [[Project](https://yuxinn-j.github.io/projects/Scenimefy.html)] [[Github](https://github.com/Yuxinn-J/Scenimefy)]<br>
 *Yuxin Jiang, Liming Jiang, Shuai Yang, Chen Change Loy.*<br>
+
+**General Image-to-Image Translation with One-Shot Image Guidance.**[[PDF](https://arxiv.org/abs/2307.14352)] <br>
+*Bin Cheng, Zuhao Liu, Yunbo Peng, Yue Lin.*<br>
+
+**Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation.**[[PDF](http://arxiv.org/abs/2308.12350)]<br>
+*Duo Peng, [Ping Hu](https://feinanshan.github.io/), Qiuhong Ke, Jun Liu.*<br>
+
+**UGC: Unified GAN Compression for Efficient Image-to-Image Translation.**[[PDF](http://arxiv.org/abs/2309.09310)]<br>
+*Yuxi Ren, Jie Wu, Peng Zhang, Manlin Zhang, Xuefeng Xiao, Qian He, Rui Wang, Min Zheng, Xin Pan.*<br>
 
 ### CVPR 2023
 [[accepted paper list](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)]
@@ -81,11 +94,6 @@ Senmao Li, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jia
 
 **Masked and Adaptive Transformer for Exemplar Based Image Translation.**[[PDF](https://arxiv.org/abs/2303.17123)] [[Github](https://github.com/AiArt-HDU/MATEBIT)]<br>
 *Chang Jiang, Fei Gao, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu.*<br>
-
-### AAAI 2023
-
-**SHUNIT: Style Harmonization for Unpaired Image-to-Image Translation.**[[PDF](https://arxiv.org/abs/2301.04685)]<br>
-*Seokbeom Song, Suhyeon Lee, Hongje Seong, Kyoungwon Min, Euntai Kim.*<br>
 
 ### WACV 2023
 
@@ -115,6 +123,14 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2209.15264)] [[Github](https://github.co
 **Dual Diffusion Implicit Bridges for Image-to-Image Translation.**<br>
 *[Xuan Su](https://github.com/suxuann/ddib), [Jiaming Song](https://tsong.me/), [Chenlin Meng](https://cs.stanford.edu/~chenlin/), [Stefano Ermon](https://cs.stanford.edu/~ermon/).*<br>
 ICLR 2023. [[PDF](https://arxiv.org/abs/2203.08382)] [[Github](https://github.com/suxuann/ddib)]
+
+**MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation.**<br>
+*[Junyoung Seo](https://github.com/Seokju-Cho), Gyuseong Lee, Seokju Cho, Jiyoung Lee, Seungryong Kim.*<br>
+AAAI 2023. [[PDF](https://arxiv.org/abs/2209.11047)] [[Project](https://ku-cvlab.github.io/MIDMs/)] [[Code](https://github.com/KU-CVLAB/MIDMs#official-pytorch-implementation-of-the-aaai-2023-paper)]
+
+**SHUNIT: Style Harmonization for Unpaired Image-to-Image Translation.**<br>
+*Seokbeom Song, Suhyeon Lee, Hongje Seong, Kyoungwon Min, Euntai Kim.*<br>
+AAAI 2023. [[PDF](https://arxiv.org/abs/2301.04685)]
 
 **DiffI2I: Efficient Diffusion Model for Image-to-Image Translation.**<br>
 *Bin Xia, Yulun Zhang, Shiyin Wang, Yitong Wang, Xinglong Wu, Yapeng Tian, Wenming Yang, Radu Timotfe, Luc Van Gool.*<br> 
@@ -211,49 +227,13 @@ arxiv 2023. [[PDF](https://arxiv.org/abs/2302.05872)] [[Project](https://i2sb.gi
 
 ### Others 2022
 
-**DSI2I: Dense Style for Unpaired Image-to-Image Translation.**<br>
-*Baran Ozaydin, Tong Zhang, Sabine Susstrunk, Mathieu Salzmann.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2212.13253)]
-
-**DiffGAR: Model-Agnostic Restoration from Generative Artifacts Using Image-to-Image Diffusion Models.**<br>
-*Yueqin Yin, Lianghua Huang, Yu Liu, Kaiqi Huang.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2210.08573)]
-
-**MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation.**<br>
-*[Junyoung Seo](https://github.com/Seokju-Cho), Gyuseong Lee, Seokju Cho, Jiyoung Lee, Seungryong Kim.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2209.11047)] [[Project](https://ku-cvlab.github.io/MIDMs/)]
-
-**StyleFlow For Content-Fixed Image to Image Translation.**<br>
-*Weichen Fan, Jinghuan Chen, Jiabin Ma, Jun Hou, Shuai Yi.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2207.01909)] [[Github](https://github.com/weepiess/StyleFlow-Content-Fixed-I2I)]
-
-**PI-Trans: Parallel-ConvMLP and Implicit-Transformation Based GAN for Cross-View Image Translation.**<br>
-*Bin Ren, Hao Tang, Yiming Wang, Xia Li, Wei Wang, Nicu Sebe.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2207.04242)] [[Github](https://github.com/Amazingren/PI-Trans)]
-
-**Region-aware Knowledge Distillation for Efficient Image-to-Image Translation.**<br>
-*Linfeng Zhang, Xin Chen, Runpei Dong, Kaisheng Ma.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2205.12451)]
-
-**Pretraining is All You Need for Image-to-Image Translation.**<br>
-*Tengfei Wang, Ting Zhang, Bo Zhang, Hao Ouyang, Dong Chen, Qifeng Chen, Fang Wen.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2205.12952)] [[Project](https://tengfei-wang.github.io/PITI/index.html)]
-
-**The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models.**<br>
-*Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe C. Cattin.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2204.02641)]
-
-**ITTR: Unpaired Image-to-Image Translation with Transformers.**<br>
-*Wanfeng Zheng, Qiang Li, Guoxin Zhang, Pengfei Wan, Zhongyuan Wang.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.16015)] [[Github](https://github.com/lucidrains/ITTR-pytorch)]
-
-**Semi-Supervised Image-to-Image Translation using Latent Space Mapping.**<br>
-*Pan Zhang, Jianmin Bao, Ting Zhang, Dong Chen, Fang Wen.*<br>
-arxiv 2022. [[PDF](https://arxiv.org/abs/2203.15241)]
-
 **Image-to-Image Translation with Text Guidance.**<br>
 *Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz.*<br>                
 BMVC 2022. [[PDF](https://arxiv.org/abs/2002.05235)]
+
+**MixerGAN: An MLP-Based Architecture for Unpaired Image-to-Image Translation.**<br>
+*George Cazenavette, Manuel Ladron De Guevara.*<br>                
+WACV 2022. [[PDF](https://arxiv.org/abs/2105.14110)]
 
 **Beyond a Video Frame Interpolator: A Space Decoupled Learning Approach to Continuous Image Transition.**<br>
 *[Tao Yang](https://cg.cs.tsinghua.edu.cn/people/~tyang), Peiran Ren, Xuansong Xie, Xiansheng Hua, Lei Zhang.*<br>
@@ -275,6 +255,14 @@ SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2111.05826)]
 *Dongyeun Lee, Jae Young Lee, Doyeon Kim, Jaehyun Choi, Junmo Kim.*<br>
 CVPR 2022 Workshop on AI for Content Creation (AICC 2022). [[PDF](https://arxiv.org/abs/2204.14079)]
 
+**Translating Images Into Maps.**<br>
+*Avishkar Saha, Oscar Mendez Maldonado, Chris Russell, Richard Bowden.*<br>                
+ICRA 2022. [[PDF](https://arxiv.org/abs/2110.00966)] [[Github](https://github.com/avishkarsaha/translating-images-into-maps)]
+
+**Leveraging Local Domains for Image-to-Image Translation.**<br>
+*Anthony Dell'Eva, Fabio Pizzati, Massimo Bertozzi, Raoul de Charette.*<br>                
+VISAPP 2022 (Best Paper Award). [[PDF](https://arxiv.org/abs/2109.04468)]
+
 **Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation.**<br>
 *Zekang Chen, Jia Wei, Rui Li.*<br>
 IJCAI 2022. [[PDF](https://arxiv.org/abs/2204.13656)]
@@ -282,6 +270,10 @@ IJCAI 2022. [[PDF](https://arxiv.org/abs/2204.13656)]
 **Quality Metric Guided Portrait Line Drawing Generation from Unpaired Training Data.**<br>
 *Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul Rosin.*<br>
 TPAMI 2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9699090)]
+
+**ISF-GAN: An Implicit Style Function for High-Resolution Image-to-Image Translation.**<br>
+*Yahui Liu, Yajing Chen, Linchao Bao, Nicu Sebe, Bruno Lepri, Marco De Nadai.*<br>                
+TMM 2022. [[PDF](https://arxiv.org/abs/2109.12492)] [[Github](https://github.com/yhlleo/stylegan-mmuit)]
 
 **SAVI2I: Continuous and Diverse Image-to-Image Translation via Signed Attribute Vectors.**<br>
 *Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Jia-Bin Huang, Siwei Ma, Ming-Hsuan Yang.*<br>
@@ -294,6 +286,30 @@ ICLR 2022. [[PDF](https://openreview.net/forum?id=QjOQkpzKbNk)]
 **Exploring Negatives in Contrastive Learning for Unpaired Image-to-Image Translation.**<br>
 *Yupei Lin, Sen Zhang, Tianshui Chen, Yongyi Lu, Guangping Li, Yukai Shi.*<br>
 ACM MM 2022. [[PDF](https://arxiv.org/abs/2204.11018)] [[Github](https://github.com/YupeiLin2388/Exploring-Negatives-in-Contrastive-Learning-for-Unpaired-Image-to-Image-Translation)]
+
+**DSI2I: Dense Style for Unpaired Image-to-Image Translation.**<br>
+*Baran Ozaydin, Tong Zhang, Sabine Susstrunk, Mathieu Salzmann.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2212.13253)]
+
+**PI-Trans: Parallel-ConvMLP and Implicit-Transformation Based GAN for Cross-View Image Translation.**<br>
+*Bin Ren, Hao Tang, Yiming Wang, Xia Li, Wei Wang, Nicu Sebe.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2207.04242)] [[Github](https://github.com/Amazingren/PI-Trans)]
+
+**Pretraining is All You Need for Image-to-Image Translation.**<br>
+*Tengfei Wang, Ting Zhang, Bo Zhang, Hao Ouyang, Dong Chen, Qifeng Chen, Fang Wen.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2205.12952)] [[Project](https://tengfei-wang.github.io/PITI/index.html)]
+
+**The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models.**<br>
+*Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe C. Cattin.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2204.02641)]
+
+**ITTR: Unpaired Image-to-Image Translation with Transformers.**<br>
+*Wanfeng Zheng, Qiang Li, Guoxin Zhang, Pengfei Wan, Zhongyuan Wang.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.16015)] [[Github](https://github.com/lucidrains/ITTR-pytorch)]
+
+**Semi-Supervised Image-to-Image Translation using Latent Space Mapping.**<br>
+*Pan Zhang, Jianmin Bao, Ting Zhang, Dong Chen, Fang Wen.*<br>
+arxiv 2022. [[PDF](https://arxiv.org/abs/2203.15241)]
 
 ## 2021
 
@@ -442,74 +458,6 @@ ACM MM 2022. [[PDF](https://arxiv.org/abs/2204.11018)] [[Github](https://github.
 
 ### Others 2021
 
-**UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models.**<br>
-*Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05358)]
-
-**A Novel Framework for Image-to-image Translation and Image Compression.**<br>
-*Fei Yang, Yaxing Wang, Luis Herranz, Yongmei Cheng, Mikhail Mozerov.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2111.13105)]
-
-**Global and Local Alignment Networks for Unpaired Image-to-Image Translation.**<br>
-*Guanglei Yang, Hao Tang, Humphrey Shi, Mingli Ding, Nicu Sebe, Radu Timofte, Luc Van Gool, Elisa Ricci.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/pdf/2111.10346.pdf)] [[Github](https://github.com/ygjwd12345/GLANet)]
-
-**LSC-GAN: Latent Style Code Modeling for Continuous Image-to-image Translation.**<br>
-*Qiusheng Huang, Xueqi Hu, Li Sun, Qingli Li.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2110.05052)]
-
-**Translating Images Into Maps.**<br>
-*Avishkar Saha, Oscar Mendez Maldonado, Chris Russell, Richard Bowden.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2110.00966)] [[Github](https://github.com/avishkarsaha/translating-images-into-maps)]
-
-**Leveraging Local Domains for Image-to-Image Translation.**<br>
-*Anthony Dell'Eva, Fabio Pizzati, Massimo Bertozzi, Raoul de Charette.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2109.04468)]
-
-**ISF-GAN: An Implicit Style Function for High-Resolution Image-to-Image Translation.**<br>
-*Yahui Liu, Yajing Chen, Linchao Bao, Nicu Sebe, Bruno Lepri, Marco De Nadai.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2109.12492)] [[Github](https://github.com/yhlleo/stylegan-mmuit)]
-
-**AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation.**<br>
-*Bing Li, Yuanlue Zhu, Yitong Wang, Chia-Wen Lin, Bernard Ghanem, Linlin Shen.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2102.12593)] [[Github](https://github.com/bing-li-ai/AniGAN)]
-
-**Image-to-Image Translation with Low Resolution Conditioning.**<br>
-*Mohamed Abderrahmen Abid, Ihsen Hedhli, Jean-François Lalonde, Christian Gagne.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.11262)]
-
-**Independent Encoder for Deep Hierarchical Unsupervised Image-to-Image Translation.**<br>
-*Kai Ye, Yinru Ye, Minqiang Yang, Bin Hu.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2107.02494)] [[Github](https://github.com/Elvinky/IEGAN)]
-
-**Federated CycleGAN for Privacy-Preserving Image-to-Image Translation.**<br>
-*Joonyoung Song, Jong Chul Ye.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2106.09246)]
-
-**MixerGAN: An MLP-Based Architecture for Unpaired Image-to-Image Translation.**<br>
-*George Cazenavette, Manuel Ladron De Guevara.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2105.14110)]
-
-**Guided Image Generation with Conditional Invertible Neural Networks.**<br>
-*Lynton Ardizzone, Carsten Lüth, Jakob Kruse, Carsten Rother, Ullrich Köthe.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/1907.02392)]
-
-**Contrastive Learning for Unsupervised Image-to-Image Translation.**<br>
-*Hanbit Lee, Jinseok Seol, Sang-goo Lee.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2105.03117)]
-
-**A Novel Application of Image-to-Image Translation: Chromosome Straightening Framework by Learning from A Single Image.**<br>
-*Sifan Song, Daiyun Huang, Yalun Hu, Chunxiao Yang, Jia Meng, Fei Ma, Frans Coenen, Jiaming Zhang, Jionglong Su.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.02835)]
-
-**Image-to-Image Translation: Methods and Applications.**<br>
-*Yingxue Pang, Jianxin Lin, Tao Qin, Zhibo Chen.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2101.08629)]
-
-**Few-shot Semantic Image Synthesis Using StyleGAN Prior.**<br>
-*Yuki Endo, Yoshihiro Kanamori.*<br>                
-arxiv 2021. [[PDF](https://arxiv.org/abs/2103.14877)] [[Github](https://github.com/endo-yuki-t/Fewshot-SMIS)]
-
 **Deep Sketch-guided Cartoon Video Inbetweening.**<br>
 *Xiaoyu Li, Bo Zhang, Jing Liao, Pedro V. Sander.*<br>                
 TVCG 2021. [[PDF](https://arxiv.org/abs/2008.04149)] [[Github](https://github.com/xiaoyu258/Inbetweening)]
@@ -517,6 +465,10 @@ TVCG 2021. [[PDF](https://arxiv.org/abs/2008.04149)] [[Github](https://github.co
 **Neural Photometry-guided Visual Attribute Transfer.**<br>
 *[Carlos Rodriguez-Pardo](https://carlosrodriguezpardo.es/), Elena Garces*<br>
 TVCG 2021. [[PDF](https://arxiv.org/abs/2112.02520)] [[Project](https://carlosrodriguezpardo.es/projects/NeuralPhotometricTransfer/)] [[Video](https://youtu.be/9Cfi9DDenGc)] 
+
+**AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation.**<br>
+*Bing Li, Yuanlue Zhu, Yitong Wang, Chia-Wen Lin, Bernard Ghanem, Linlin Shen.*<br>                
+TMM 2021. [[PDF](https://arxiv.org/abs/2102.12593)] [[Github](https://github.com/bing-li-ai/AniGAN)]
 
 **MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing.**<br>
 *Hao Su, Jianwei Niu, Xuefeng Liu, Qingfeng Li, Jiahe Cui, Ji Wan.*<br>                
@@ -594,6 +546,10 @@ TOG 2021. [[PDF](https://arxiv.org/abs/2102.02754)] [[Github](https://github.com
 *[Longquan Dai](https://dailongquan.github.io/), [Jinhui Tang](https://imag-njust.net/jinhui-tang/).*<br>
 TPAMI 2021. [[PDF](https://www.computer.org/csdl/journal/tp/5555/01/09367012/1rDQXw8mKnC)]
 
+**Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis.**<br>
+*Wen Liu, Zhixin Piao, Zhi Tu, Wenhan Luo, Lin Ma, Shenghua Gao.*<br>                
+TPAMI 2021. [[PDF](https://arxiv.org/abs/2011.09055)] [[Github](https://github.com/iPERDance/iPERCore)]
+
 **Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation.**<br>
 *[Fei Gao](http://aiart.live/), Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao.*<br>
 TIP 2021. [[PDF](https://ieeexplore.ieee.org/document/9366371)] [[Project](https://fei-hdu.github.io/chan/)]
@@ -616,7 +572,11 @@ AAAI 2021. [[PDF](https://arxiv.org/abs/2006.15618)]
 
 **TriGAN: Image-to-Image Translation for Multi-Source Domain Adaptation.**<br>
 *Subhankar Roy, Aliaksandr Siarohin, Enver Sangineto, Nicu Sebe, Elisa Ricci.*<br>
-Springer Machine Vision and Applications 2021. [[PDF](https://arxiv.org/abs/2004.08769)]
+Machine Vision and Applications 2021. [[PDF](https://arxiv.org/abs/2004.08769)]
+
+**UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models.**<br>
+*Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon.*<br>                
+arxiv 2021. [[PDF](https://arxiv.org/abs/2104.05358)]
 
 ## 2020
 
@@ -849,14 +809,6 @@ Image and Vision Computing 2020. [[PDF](https://arxiv.org/abs/2002.05638)] [[Git
 
 ### Others 2020
 
-**Online Exemplar Fine-Tuning for Image-to-Image Translation.**<br>
-*Taewon Kang, Soohyun Kim, Sunwoo Kim, Seungryong Kim.*<br>                
-arxiv 2020. [[PDF](https://arxiv.org/abs/2011.09330)]
-
-**Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis.**<br>
-*Wen Liu, Zhixin Piao, Zhi Tu, Wenhan Luo, Lin Ma, Shenghua Gao.*<br>                
-TPAMI 2021. [[PDF](https://arxiv.org/abs/2011.09055)] [[Github](https://github.com/iPERDance/iPERCore)]
-
 **Unsupervised Image-to-Image Translation Via Pre-trained StyleGAN2 Network.**<br>
 *Jialu Huang, Jing Liao, Sam Kwong.*<br>                
 arxiv 2020. [[PDF](https://arxiv.org/abs/2010.05713)] [[Github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2)]
@@ -1084,6 +1036,10 @@ TOG 2019. [[PDF](https://research.fb.com/publications/vr-facial-animation-via-mu
 *[Jianxin Lin](http://home.ustc.edu.cn/~linjx/), [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/), Yingce Xia, Sen Liu, Tao Qin, Jiebo Luo.*<br>
 TPAMI 2019. [[PDF](https://arxiv.org/abs/1902.03782)] [[Github](https://github.com/linjx-ustc1106/DosGAN-PyTorch)]
 
+**Toward Learning a Unified Many-to-Many Mapping for Diverse Image Translation.**<br>
+*Wenju Xu, Shawn Keshmiri, Guanghui Wang.*<br>
+Pattern Recognition 2019. [[PDF](https://arxiv.org/abs/1905.08766)]
+
 **DRIT++: Diverse Image-to-Image Translation via Disentangled Representations.**<br>
 *Hsin-Ying Lee, Hung-Yu Tseng, Qi Mao, Jia-Bin Huang, Yu-Ding Lu, Maneesh Singh, Ming-Hsuan Yang.*<br>
 IJCV 2019. [[PDF](https://arxiv.org/abs/1905.01270)] [[Project](http://vllab.ucmerced.edu/hylee/DRIT_pp/)] [[Github](https://github.com/HsinYingLee/MDMM)]
@@ -1150,41 +1106,9 @@ IJCAI 2019. [[PDF](https://arxiv.org/abs/1905.12498)]
 *Shani Gamrian, Yoav Goldberg.*<br>
 ICML 2019. [[accepted paper list](http://proceedings.mlr.press/v97/)] [[PDF](https://arxiv.org/abs/1806.07377)] [[Supplementary PDF](http://proceedings.mlr.press/v97/fujimoto19a/fujimoto19a-supp.pdf)] [[Github](https://github.com/ShaniGam/RL-GAN)]
 
-**CartoonRenderer: An Instance-based Multi-Style Cartoon Image Translator.**<br>
-*Yugang Chen, Muchun Chen, Chaoyue Song, Bingbing Ni.*<br>
-International Conference on Multimedia Modeling (MMM2020). [[PDF](https://arxiv.org/abs/1911.06102)] 
-
 **AttentionGAN: Attention-Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation.**<br>
 *Hao Tang, Dan Xu, Nicu Sebe, Yan Yan.*<br>
 IJCNN 2019. [[Github](https://github.com/Ha0Tang/AttentionGAN)]
-
-**CrossNet: Latent Cross-Consistency for Unpaired Image Translation.**<br>
-*Omry Sendik, Dani Lischinski, [Daniel Cohen-Or](https://danielcohenor.com/).*<br>
-WACV 2020. [[PDF](https://arxiv.org/abs/1901.04530)]
-
-**DeepHist: Differentiable Joint and Color Histogram Layers for Image-to-Image Translation.**<br>
-*Mor Avi-Aharon, Assaf Arbelle, Tammy Riklin Raviv.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/2005.03995)] [[GIthub](https://github.com/winfried-loetzsch/deep-hist)]
-
-**Cross-Domain Cascaded Deep Feature Translation.**<br>
-*Oren Katzir, Dani Lischinski, Daniel Cohen-Or.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/1906.01526)]
-
-**Implicit Pairs for Boosting Unpaired Image-to-Image Translation.**<br>
-*Yiftach Ginger, Dov Danon, Hadar Averbuch-Elor, Daniel Cohen-Or.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/1904.06913)]
-
-**Unpaired Image Translation via Adaptive Convolution-based Normalization.**<br>
-*Wonwoong Cho, Kangyeol Kim, Eungyeup Kim, Hyunwoo J. Kim, Jaegul Choo.*<br>
-arxiv 2019. [[PDF]( https://arxiv.org/abs/1911.13271)]
-
-**EDIT: Exemplar-Domain Aware Image-to-Image Translation.**<br>
-*Yuanbin Fu, Jiayi Ma, Lin Ma, Xiaojie Guo.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/1911.10520)] [[GitHub](http://t.cn/AigvDwW3)]
-
-**injectionGAN: Toward Learning a Unified Many-to-Many Mapping for Diverse Image Translation.**<br>
-*Wenju Xu, Shawn Keshmiri, Guanghui Wang.*<br>
-arxiv 2019. [[PDF](https://arxiv.org/abs/1905.08766)]
 
 ## Before 2018
 
@@ -1202,7 +1126,7 @@ NeurIPS 2017. [[PDF](https://arxiv.org/abs/1703.00848)] [[Github](https://github
 
 **Fader Networks: Manipulating Images by Sliding Attributes.**<br>
 *Guillaume Lample, Neil Zeghidour, Nicolas Usunier, Antoine Bordes, Ludovic Denoyer, Marc'Aurelio Ranzato.*<br>
-NeurIPS 2017.  [[Github](https://github.com/facebookresearch/FaderNetworks)] [[PDF](https://arxiv.org/abs/1706.00409)]
+NeurIPS 2017. [[Github](https://github.com/facebookresearch/FaderNetworks)] [[PDF](https://arxiv.org/abs/1706.00409)]
 
 **DTN: Unsupervised Cross-Domain Image Generation.**<br>
 *Yaniv Taigman, Adam Polyak, Lior Wolf.*<br>
