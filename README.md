@@ -9,15 +9,13 @@
 > A curated collection of awesome image-to-image translation. 
 
 ## Table of Contents
+- [2024](./docs/2024.md)
 - [2023](./docs/2023.md)
 - [2022](./docs/2022.md)
 - [2021](./docs/2021.md)
 - [2020](./docs/2020.md)
 - [2019](./docs/2019.md)
 - [Before 2018](./docs/BEFORE-2018.md)
-
-## Open Source Frameworks
-* [joliGEN - An integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN)
 
 ## Contributing
 
