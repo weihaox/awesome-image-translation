@@ -17,6 +17,9 @@
 - [2019](./docs/2019.md)
 - [Before 2018](./docs/BEFORE-2018.md)
 
+## Open Source Frameworks
+* [joliGEN - An integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN)
+
 ## Contributing
 
 Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-image-translation/pulls). You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) to produce them in the markdown format.
